@@ -17,3 +17,5 @@ Where are we at:
 - We have created a data base using Python, and will use SQL to further do edits and other analysis with the data we have gotten
 - Created another notebook to do analysis using SQL as well as a test of MadLibs (whether we will use more of MadLibs in the future or not we will find out)
 - Created a Visualizations notebook to test out madlibs and create graphs that answer some of or NBA stat queries
+- Added advanced statistics
+- Added functionality to have multiple seasons as well as data for multiple seasons

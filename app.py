@@ -121,7 +121,10 @@ TEAM_COLORS = {
     "CHA": "#008CA8",
     "NJN": "#C8102E",
     "SEA": "#00653A",
-    "NOH": "#008CA8"
+    "NOH": "#008CA8",
+    "VAN": "#00B2A9",
+    "CHH": "#008CA8",
+    "NOK": "#008CA8",
 }
 
 SEC_TEAM_COLORS = {
@@ -157,7 +160,10 @@ SEC_TEAM_COLORS = {
     "CHA": "#1D1160",
     "NJN": "#003DA5",
     "SEA": "#FFC200",
-    "NOH": "#1D1160"
+    "NOH": "#1D1160",
+    "VAN": "#E43C40",
+    "CHH": "#1D1160",
+    "NOK": "#1D1160",
 }
 
 # -----------------------------
@@ -637,7 +643,7 @@ elif page == "About":
     st.header("ℹ️ About This Project")
 
     st.write("""
-    This NBA Analytics Dashboard was built to explore the 2025-26 season using real SQL queries, Python, and Streamlit.
+    This NBA Analytics Dashboard was built to explore multiple seasons using real SQL queries, Python, and Streamlit.
              
     **Technologies Used**
     - SQLite
@@ -646,10 +652,10 @@ elif page == "About":
     - Streamlit
              
     **Future Ideas**
-    - Images of players to implement as a part of Player Analysis
-    - Extension to be ALL past seasons
-    - Player projections
-    - Fantasy Basketball Analysis
-    - Interactive shot charts
-    - Advanced metrics (TS%, eFG%, RAPM)
+    - Player Images
+    - Player Projections
+    - Fantasy Basketball
+    - Interactive Shot Charts
+    - Player Comparison
+    - Team Comparison & Filters
     """)
