@@ -34,6 +34,18 @@ conn = sqlite3.connect("nba.db")
 def run_query(sql):
     return pd.read_sql_query(sql, conn)
 
+def add_advanced_metrics(df):
+    if {"PTS", "FGA", "FTA"}.issubset(df.columns):
+        df["TS_PCT"] = df["PTS"] / (2 * (df["FGA"] + 0.44 * df["FTA"]))
+
+    if {"FGM", "FG3M", "FGA"}.issubset(df.columns):
+        df["EFG_PCT"] = (df["FGM"] + 0.5 * df["FG3M"]) / df["FGA"]
+
+    if {"AST", "TOV"}.issubset(df.columns):
+        df["AST_TOV"] = df["AST"] / df["TOV"].replace(0, pd.NA)
+
+    return df
+
 def color_team_table(df, primary, secondary):
     return df.style.set_properties(
         **{
@@ -423,6 +435,38 @@ if page == "League Leaders":
     ax.set_xticklabels(df_min["PLAYER_NAME"], rotation=45)
     st.pyplot(fig)
 
+    # Advanced metrics
+    adv_metric = st.radio(
+        "Advanced metric",
+        ["TS%", "eFG%", "AST/TOV"],
+        horizontal=True
+    )
+
+    df_adv = run_query("""
+        SELECT PLAYER_NAME, TEAM_ABBREVIATION, 
+            PTS, FGA, FTA, FGM, FG3M, AST, TOV
+        FROM season_stats
+        WHERE MIN >= 15
+    """)
+    df_adv = add_advanced_metrics(df_adv)
+
+    metric_map = {
+        "TS%": ("TS_PCT", "🔥 True Shooting % Leaders"),
+        "eFG%": ("EFG_PCT", "🔥 Effective FG % Leaders"),
+        "AST/TOV": ("AST_TOV", "🔥 Assist-to-Turnover Ratio Leaders"),
+    }
+
+    y_col, title = metric_map[adv_metric]
+    df_plot = df_adv.sort_values(y_col, ascending=False).head(10)
+    colors = [TEAM_COLORS.get(t, "#888888") for t in df_plot["TEAM_ABBREVIATION"]]
+    st.subheader(title)
+    fig, ax = plt.subplots(figsize=(10,6))
+    ax.bar(df_plot["PLAYER_NAME"], df_plot[y_col], color=colors,
+           edgecolor=[SEC_TEAM_COLORS.get(t, "#000000") for t in df_plot["TEAM_ABBREVIATION"]],
+           linewidth=2.5)
+    ax.set_xticklabels(df_plot["PLAYER_NAME"], rotation=45)
+    st.pyplot(fig)
+
 # ============================================================
 # ⭐ PLAYER ANALYSIS PAGE
 # ============================================================
@@ -437,11 +481,12 @@ elif page == "Player Analysis":
         df_player = run_query(f"""
             SELECT PLAYER_NAME, TEAM_ABBREVIATION, AGE, GP, MIN,
                 PTS, REB, AST, STL, BLK, TOV, FG_PCT, FG3_PCT,
-                NBA_FANTASY_PTS
+                NBA_FANTASY_PTS,
+                FGA, FGM, FG3M, FTA
             FROM season_stats
             WHERE PLAYER_NAME = '{player}'
         """)
-
+        df_player = add_advanced_metrics(df_player)
         team = df_player["TEAM_ABBREVIATION"].iloc[0]
         primary = TEAM_COLORS.get(team, "#888888")
         secondary = SEC_TEAM_COLORS.get(team, "#AAAAAA")
@@ -450,13 +495,35 @@ elif page == "Player Analysis":
         styled_player = color_team_table(df_player, primary, secondary)
         st.dataframe(styled_player)
 
+        view = st.radio(
+            "View type",
+            ["Basic Stats", "Advanced Metrics"],
+            horizontal=True
+        )
+
         if not df_player.empty:
-            st.subheader("Key Stats (Per Game)")
-            fig, ax = plt.subplots(figsize=(10,6))
-            stats = ["PTS", "REB", "AST", "STL", "BLK"]
-            values = [df_player[s].iloc[0] for s in stats]
-            ax.bar(stats, values, color=primary, edgecolor=secondary, linewidth=3)
-            st.pyplot(fig)
+            if view == "Basic Stats":
+                stats = ["PTS", "REB", "AST", "STL", "BLK"]
+                values = [df_player[s].iloc[0] for s in stats]
+                st.subheader("Key Stats (Per Game)")
+                fig, ax = plt.subplots(figsize=(10,6))
+                ax.bar(stats, values, color=primary, edgecolor=secondary, linewidth=3)
+                st.pyplot(fig)
+            else:
+                adv_stats = ["TS_PCT", "EFG_PCT", "AST_TOV"]
+                available = [s for s in adv_stats if s in df_player.columns]
+                values = [df_player[s].iloc[0] for s in available]
+
+                st.subheader("Advanced Metrics")
+                fig, ax = plt.subplots(figsize=(10,6))
+                ax.bar(available, values, color=primary, edgecolor=secondary, linewidth=3)
+                st.pyplot(fig)
+
+                st.markdown("""
+                **TS%**: True Shooting % - scoring efficiency including threes and free throws.
+                **eFG%**: Effective FG % - adjusts FG% for the extra value of 3s.
+                **AST/TOV**: How often assists come relative to turnovers.
+                """)
 
 # ============================================================
 # ⭐ TEAM ANALYSIS PAGE
