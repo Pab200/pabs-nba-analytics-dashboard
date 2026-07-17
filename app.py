@@ -521,6 +521,7 @@ elif page == "About":
     - Streamlit
              
     **Future Ideas**
+    - Images of players to implement as a part of Player Analysis
     - Extension to be ALL past seasons
     - Player projections
     - Fantasy Basketball Analysis
