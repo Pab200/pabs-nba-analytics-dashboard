@@ -7,23 +7,47 @@ import matplotlib.pyplot as plt
 # GLOBAL STYLING (CSS)
 # -----------------------------
 st.markdown("""
-    <style>
-        /* Sidebar background */
-        [data-testid="stSidebar"] {
-            background-color: #1E1E1E;
-        }
-        [data-testid="stSidebar"] * {
-            color: white !important;
-        }
+<style>
 
-        /* Page title */
-        .main-title {
-            text-align: center;
-            font-size: 42px;
-            font-weight: bold;
-            margin-bottom: 20px;
-        }
-    </style>
+    /* Sidebar background */
+    [data-testid="stSidebar"] {
+        background-color: #1E1E1E;
+    }
+
+    /* Sidebar title ("Navigation") */
+    [data-testid="stSidebarContent"] h2 {
+        color: white !important;
+    }
+
+    /* Make radio label ("Go to") white */
+    [data-testid="stSidebar"] .stRadio > label {
+        color: white !important;
+    }
+
+    /* Make radio options white */
+    [data-testid="stSidebar"] .stRadio div {
+        color: white !important;
+    }
+
+    /* Make season label white */
+    [data-testid="stSidebar"] label {
+        color: white !important;
+    }
+
+    /* Restore selectbox VALUE (the actual selected text) */
+    div[data-testid="stSelectbox"] > div > div > div {
+        color: black !important;
+    }
+
+    /* Page title */
+    .main-title {
+        text-align: center;
+        font-size: 42px;
+        font-weight: bold;
+        margin-bottom: 20px;
+    }
+
+</style>
 """, unsafe_allow_html=True)
 
 # -----------------------------
@@ -94,7 +118,10 @@ TEAM_COLORS = {
     "MEM": "#5D76A9",
     "WAS": "#002B5C",
     "DET": "#C8102E",
-    "CHA": "#008CA8"
+    "CHA": "#008CA8",
+    "NJN": "#C8102E",
+    "SEA": "#00653A",
+    "NOH": "#008CA8"
 }
 
 SEC_TEAM_COLORS = {
@@ -127,17 +154,33 @@ SEC_TEAM_COLORS = {
     "MEM": "#121F32",
     "WAS": "#E31837",
     "DET": "#1D42BA",
-    "CHA": "#1D1160"
+    "CHA": "#1D1160",
+    "NJN": "#003DA5",
+    "SEA": "#FFC200",
+    "NOH": "#1D1160"
 }
 
 # -----------------------------
 # SIDEBAR NAVIGATION
 # -----------------------------
-st.sidebar.title("Navigation")
+st.sidebar.markdown(
+    "<h2 style='color: white; margin-bottom: 0.5rem;'>Navigation</h2>",
+    unsafe_allow_html=True
+)
 page = st.sidebar.radio(
     "Go to",
     ["League Leaders", "Player Analysis", "Team Analysis", "About"]
 )
+
+# -----------------------------
+# SEASON SELECTOR
+# -----------------------------
+seasons = run_query("""
+    SELECT DISTINCT SEASON
+    FROM season_stats
+    ORDER BY SEASON DESC
+""")
+selected_season = st.sidebar.selectbox("Season", seasons["SEASON"])
 
 # -----------------------------
 # PAGE TITLE
@@ -160,18 +203,20 @@ if page == "League Leaders":
     )
 
     if pts_metric == "Total Points":
-        df_points = run_query("""
+        df_points = run_query(f"""
             SELECT PLAYER_NAME, PTS * GP AS TOTAL_POINTS, TEAM_ABBREVIATION
             FROM season_stats
+            WHERE SEASON = '{selected_season}'
             ORDER BY TOTAL_POINTS DESC
             LIMIT 10;
         """)
         y_col = "TOTAL_POINTS"
         title = "🔥 Top Scorers (Total Points)"
     else:
-        df_points = run_query("""
+        df_points = run_query(f"""
             SELECT PLAYER_NAME, PTS AS PPG, PTS * GP AS TOTAL_POINTS, TEAM_ABBREVIATION
             FROM season_stats
+            WHERE SEASON = '{selected_season}'
             ORDER BY TOTAL_POINTS DESC
             LIMIT 10;
         """)
@@ -197,13 +242,14 @@ if page == "League Leaders":
         horizontal=True
     )
 
-    df_reb = run_query("""
+    df_reb = run_query(f"""
         SELECT PLAYER_NAME,
             REB * GP AS TOTAL_REBOUNDS,
             REB AS REB_PG,
             OREB AS OREB_PG,
             DREB AS DREB_PG, TEAM_ABBREVIATION
         FROM season_stats
+        WHERE SEASON = '{selected_season}'
         ORDER BY TOTAL_REBOUNDS DESC
         LIMIT 10;
     """)
@@ -236,11 +282,12 @@ if page == "League Leaders":
         horizontal=True
     )
 
-    df_ast = run_query("""
+    df_ast = run_query(f"""
         SELECT PLAYER_NAME,
             AST * GP AS TOTAL_ASSISTS,
             AST AS AST_PG, TEAM_ABBREVIATION
         FROM season_stats
+        WHERE SEASON = '{selected_season}'
         ORDER BY TOTAL_ASSISTS DESC
         LIMIT 10;
     """)
@@ -269,10 +316,10 @@ if page == "League Leaders":
         horizontal=True
     )
 
-    df_fg = run_query("""
+    df_fg = run_query(f"""
         SELECT PLAYER_NAME, FG_PCT, FG3_PCT, FGA, FGM, TEAM_ABBREVIATION
             FROM season_stats
-            WHERE MIN >= 15
+            WHERE SEASON = '{selected_season}' AND MIN >= 15
             ORDER BY FG_PCT DESC
             LIMIT 10;
     """)
@@ -307,11 +354,12 @@ if page == "League Leaders":
         horizontal=True
     )
 
-    df_fantasy = run_query("""
+    df_fantasy = run_query(f"""
         SELECT PLAYER_NAME,
             NBA_FANTASY_PTS * GP AS TOTAL_FANTASY,
             NBA_FANTASY_PTS AS FANTASY_PG, TEAM_ABBREVIATION
         FROM season_stats
+        WHERE SEASON = '{selected_season}'
         ORDER BY TOTAL_FANTASY DESC
         LIMIT 10;
     """)
@@ -334,11 +382,12 @@ if page == "League Leaders":
         horizontal=True
     )
 
-    df_stl = run_query("""
+    df_stl = run_query(f"""
         SELECT PLAYER_NAME,
             STL * GP AS TOTAL_STEALS,
             STL AS STL_PG, TEAM_ABBREVIATION
         FROM season_stats
+        WHERE SEASON = '{selected_season}'
         ORDER BY TOTAL_STEALS DESC
         LIMIT 10;
     """)
@@ -361,11 +410,12 @@ if page == "League Leaders":
         horizontal=True
     )
 
-    df_blk = run_query("""
+    df_blk = run_query(f"""
         SELECT PLAYER_NAME,
             BLK * GP AS TOTAL_BLOCKS,
             BLK AS BLK_PG, TEAM_ABBREVIATION
         FROM season_stats
+        WHERE SEASON = '{selected_season}'
         ORDER BY TOTAL_BLOCKS DESC
         LIMIT 10;
     """)
@@ -388,11 +438,12 @@ if page == "League Leaders":
         horizontal=True
     )
 
-    df_tov = run_query("""
+    df_tov = run_query(f"""
         SELECT PLAYER_NAME,
             TOV * GP AS TOTAL_TOV,
             TOV AS TOV_PG, TEAM_ABBREVIATION
         FROM season_stats
+        WHERE SEASON = '{selected_season}'
         ORDER BY TOTAL_TOV DESC
         LIMIT 10;
     """)
@@ -415,11 +466,12 @@ if page == "League Leaders":
         horizontal=True
     )
 
-    df_min = run_query("""
+    df_min = run_query(f"""
         SELECT PLAYER_NAME,
             MIN * GP AS TOTAL_MIN,
             MIN AS MIN_PG, TEAM_ABBREVIATION
         FROM season_stats
+        WHERE SEASON = '{selected_season}'
         ORDER BY TOTAL_MIN DESC
         LIMIT 10;
     """)
@@ -442,11 +494,11 @@ if page == "League Leaders":
         horizontal=True
     )
 
-    df_adv = run_query("""
+    df_adv = run_query(f"""
         SELECT PLAYER_NAME, TEAM_ABBREVIATION, 
             PTS, FGA, FTA, FGM, FG3M, AST, TOV
         FROM season_stats
-        WHERE MIN >= 15
+        WHERE SEASON = '{selected_season}' AND MIN >= 15
     """)
     df_adv = add_advanced_metrics(df_adv)
 
@@ -485,45 +537,49 @@ elif page == "Player Analysis":
                 FGA, FGM, FG3M, FTA
             FROM season_stats
             WHERE PLAYER_NAME = '{player}'
+            AND SEASON = '{selected_season}'
         """)
-        df_player = add_advanced_metrics(df_player)
-        team = df_player["TEAM_ABBREVIATION"].iloc[0]
-        primary = TEAM_COLORS.get(team, "#888888")
-        secondary = SEC_TEAM_COLORS.get(team, "#AAAAAA")
+        if df_player.empty:
+            st.error(f"{player} has no stats in {selected_season}. Try a different season or player.")
+        else:
+            df_player = add_advanced_metrics(df_player)
+            team = df_player["TEAM_ABBREVIATION"].iloc[0]
+            primary = TEAM_COLORS.get(team, "#888888")
+            secondary = SEC_TEAM_COLORS.get(team, "#AAAAAA")
 
-        st.subheader("Player Summary")
-        styled_player = color_team_table(df_player, primary, secondary)
-        st.dataframe(styled_player)
+            st.subheader("Player Summary")
+            styled_player = color_team_table(df_player, primary, secondary)
+            st.dataframe(styled_player)
 
-        view = st.radio(
-            "View type",
-            ["Basic Stats", "Advanced Metrics"],
-            horizontal=True
-        )
+            view = st.radio(
+                "View type",
+                ["Basic Stats", "Advanced Metrics"],
+                horizontal=True
+            )
 
-        if not df_player.empty:
-            if view == "Basic Stats":
-                stats = ["PTS", "REB", "AST", "STL", "BLK"]
-                values = [df_player[s].iloc[0] for s in stats]
-                st.subheader("Key Stats (Per Game)")
-                fig, ax = plt.subplots(figsize=(10,6))
-                ax.bar(stats, values, color=primary, edgecolor=secondary, linewidth=3)
-                st.pyplot(fig)
-            else:
-                adv_stats = ["TS_PCT", "EFG_PCT", "AST_TOV"]
-                available = [s for s in adv_stats if s in df_player.columns]
-                values = [df_player[s].iloc[0] for s in available]
+            if not df_player.empty:
+                if view == "Basic Stats":
+                    stats = ["PTS", "REB", "AST", "STL", "BLK"]
+                    values = [df_player[s].iloc[0] for s in stats]
+                    st.subheader("Key Stats (Per Game)")
+                    fig, ax = plt.subplots(figsize=(10,6))
+                    ax.bar(stats, values, color=primary, edgecolor=secondary, linewidth=3)
+                    st.pyplot(fig)
+                else:
+                    adv_stats = ["TS_PCT", "EFG_PCT", "AST_TOV"]
+                    available = [s for s in adv_stats if s in df_player.columns]
+                    values = [df_player[s].iloc[0] for s in available]
 
-                st.subheader("Advanced Metrics")
-                fig, ax = plt.subplots(figsize=(10,6))
-                ax.bar(available, values, color=primary, edgecolor=secondary, linewidth=3)
-                st.pyplot(fig)
+                    st.subheader("Advanced Metrics")
+                    fig, ax = plt.subplots(figsize=(10,6))
+                    ax.bar(available, values, color=primary, edgecolor=secondary, linewidth=3)
+                    st.pyplot(fig)
 
-                st.markdown("""
-                **TS%**: True Shooting % - scoring efficiency including threes and free throws.
-                **eFG%**: Effective FG % - adjusts FG% for the extra value of 3s.
-                **AST/TOV**: How often assists come relative to turnovers.
-                """)
+                    st.markdown("""
+                    **TS%**: True Shooting % - scoring efficiency including threes and free throws.
+                    **eFG%**: Effective FG % - adjusts FG% for the extra value of 3s.
+                    **AST/TOV**: How often assists come relative to turnovers.
+                    """)
 
 # ============================================================
 # ⭐ TEAM ANALYSIS PAGE
@@ -536,7 +592,7 @@ elif page == "Team Analysis":
     team = st.selectbox("Choose a team", teams["TEAM_ABBREVIATION"])
 
     team_info = run_query(f"""
-        SELECT full_name, city, state, nickname, year_founded
+        SELECT full_name, city, state, nickname, year_founded, year_closed
         FROM teams
         WHERE abbreviation = '{team}'
     """).iloc[0]
@@ -554,6 +610,7 @@ elif page == "Team Analysis":
     with col2:
         st.write(f"**Nickname:** {team_info['nickname']}")
         st.write(f"**Year Founded:** {team_info['year_founded']}")
+        st.write(f"**Year Closed:** {team_info['year_closed'] if team_info['year_closed'] else 'Active'}")
 
     st.markdown("<br><br>", unsafe_allow_html=True)
 
@@ -563,6 +620,7 @@ elif page == "Team Analysis":
         SELECT PLAYER_NAME, PTS, REB, AST, FG_PCT
         FROM season_stats
         WHERE TEAM_ABBREVIATION = '{team}'
+        AND SEASON = '{selected_season}'
     """)
     styled_df = color_team_table(df_team, primary, secondary)
     st.dataframe(styled_df)

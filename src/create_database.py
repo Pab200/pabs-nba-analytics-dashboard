@@ -7,6 +7,8 @@ DATA_DIR = "data/raw"
 
 players = pd.read_csv(f"{DATA_DIR}/players.csv")
 teams = pd.read_csv(f"{DATA_DIR}/teams.csv")
+teams["year_founded"] = teams["year_founded"].astype("Int64")
+teams["year_closed"] = teams["year_closed"].replace("NULL", pd.NA).astype("Int64")
 rookies = pd.read_csv(f"{DATA_DIR}/rookies.csv")
 season_stats = pd.read_csv(f"{DATA_DIR}/season_stats_2025-26.csv")
 
