@@ -87,6 +87,11 @@ def color_team_table(df, primary, secondary):
         }
     ])
 
+def is_modern_season(season_str):
+    """Return True if season is 1996-97 or later"""
+    start_year = int(season_str.split("-")[0])
+    return start_year >= 1996
+
 # Simple team color mapping
 TEAM_COLORS = {
     "ATL": "#E13A3E",
@@ -360,26 +365,29 @@ if page == "League Leaders":
         horizontal=True
     )
 
-    df_fantasy = run_query(f"""
-        SELECT PLAYER_NAME,
-            NBA_FANTASY_PTS * GP AS TOTAL_FANTASY,
-            NBA_FANTASY_PTS AS FANTASY_PG, TEAM_ABBREVIATION
-        FROM season_stats
-        WHERE SEASON = '{selected_season}'
-        ORDER BY TOTAL_FANTASY DESC
-        LIMIT 10;
-    """)
+    if is_modern_season(selected_season):
+        df_fantasy = run_query(f"""
+            SELECT PLAYER_NAME,
+                NBA_FANTASY_PTS * GP AS TOTAL_FANTASY,
+                NBA_FANTASY_PTS AS FANTASY_PG, TEAM_ABBREVIATION
+            FROM season_stats
+            WHERE SEASON = '{selected_season}'
+            ORDER BY TOTAL_FANTASY DESC
+            LIMIT 10;
+        """)
 
-    colors = [
-        TEAM_COLORS.get(team, "#888888")
-        for team in df_fantasy["TEAM_ABBREVIATION"]
-    ]
+        colors = [
+            TEAM_COLORS.get(team, "#888888")
+            for team in df_fantasy["TEAM_ABBREVIATION"]
+        ]
 
-    y_col = "TOTAL_FANTASY" if fantasy_metric == "Total Fantasy Points" else "FANTASY_PG"
-    fig, ax = plt.subplots(figsize=(19,6))
-    ax.bar(df_fantasy["PLAYER_NAME"], df_fantasy[y_col], color=colors, edgecolor=[SEC_TEAM_COLORS.get(t, "#000000") for t in df_points["TEAM_ABBREVIATION"]], linewidth=2.5)
-    ax.set_xticklabels(df_fantasy["PLAYER_NAME"], rotation=45)
-    st.pyplot(fig)
+        y_col = "TOTAL_FANTASY" if fantasy_metric == "Total Fantasy Points" else "FANTASY_PG"
+        fig, ax = plt.subplots(figsize=(19,6))
+        ax.bar(df_fantasy["PLAYER_NAME"], df_fantasy[y_col], color=colors, edgecolor=[SEC_TEAM_COLORS.get(t, "#000000") for t in df_points["TEAM_ABBREVIATION"]], linewidth=2.5)
+        ax.set_xticklabels(df_fantasy["PLAYER_NAME"], rotation=45)
+        st.pyplot(fig)
+    else:
+        st.warning("Fantasy points are unavailable before the 1996-97 season.")
 
     # Steals
     steals_metric = st.radio(
