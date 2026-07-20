@@ -2,6 +2,7 @@ import streamlit as st
 import sqlite3
 import pandas as pd
 import matplotlib.pyplot as plt
+import numpy as np
 
 # -----------------------------
 # GLOBAL STYLING (CSS)
@@ -182,7 +183,7 @@ st.sidebar.markdown(
 )
 page = st.sidebar.radio(
     "Go to",
-    ["League Leaders", "Player Analysis", "Team Analysis", "About"]
+    ["League Leaders", "Player Analysis", "Team Analysis", "Compare Players", "About"]
 )
 
 # -----------------------------
@@ -332,16 +333,16 @@ if page == "League Leaders":
     df_fg = run_query(f"""
         SELECT PLAYER_NAME, FG_PCT, FG3_PCT, FGA, FGM, TEAM_ABBREVIATION
             FROM season_stats
-            WHERE SEASON = '{selected_season}' AND MIN >= 15
+            WHERE SEASON = '{selected_season}' AND MIN >= 30
             ORDER BY FG_PCT DESC
             LIMIT 10;
     """)
 
     metric_map = {
-        "FG%": ("FG_PCT", "🎯 Field Goal Percentage (min 15 MPG)"),
-        "3P%": ("FG3_PCT", "🎯 Three-Point Percentage (min 15 MPG)"),
-        "FGA": ("FGA", "🎯 Field Goal Attempts (min 15 MPG)"),
-        "FGM": ("FGM", "🎯 Field Goals Made (min 15 MPG)"),
+        "FG%": ("FG_PCT", "🎯 Field Goal Percentage (min 30 MPG)"),
+        "3P%": ("FG3_PCT", "🎯 Three-Point Percentage (min 30 MPG)"),
+        "FGA": ("FGA", "🎯 Field Goal Attempts (min 30 MPG)"),
+        "FGM": ("FGM", "🎯 Field Goals Made (min 30 MPG)"),
     }
 
     colors = [
@@ -514,7 +515,7 @@ if page == "League Leaders":
         SELECT PLAYER_NAME, TEAM_ABBREVIATION, 
             PTS, FGA, FTA, FGM, FG3M, AST, TOV
         FROM season_stats
-        WHERE SEASON = '{selected_season}' AND MIN >= 15
+        WHERE SEASON = '{selected_season}' AND MIN >= 30
     """)
     df_adv = add_advanced_metrics(df_adv)
 
@@ -650,6 +651,169 @@ elif page == "Team Analysis":
     ax.bar(df_team["PLAYER_NAME"], df_team["PTS"], edgecolor=secondary, linewidth=3)
     ax.set_xticklabels(df_team["PLAYER_NAME"], rotation=45)
     st.pyplot(fig)
+
+# ============================================================
+# ⭐ COMPARE PLAYERS PAGE
+# ============================================================
+elif page == "Compare Players":
+    st.header("🤝 Compare Players")
+    st.markdown("<br>", unsafe_allow_html=True)
+
+    cross_year = st.checkbox("Compare players from different years")
+
+    if "compare_players" not in st.session_state:
+        st.session_state.compare_players = [
+            {"player": None, "season": selected_season},
+            {"player": None, "season": selected_season}
+        ]
+
+    players = run_query("SELECT DISTINCT PLAYER_NAME FROM season_stats ORDER BY PLAYER_NAME")
+
+    if st.button("➕ Add Player"):
+        st.session_state.compare_players.append(
+            {"player": None, "season": selected_season}
+        )
+    
+    st.subheader("Select Players to Compare")
+
+    for idx, entry in enumerate(st.session_state.compare_players):
+        st.markdown(f"### Player {idx+1}")
+
+        colA, colB = st.columns(2)
+
+        with colA:
+            if cross_year:
+                entry["season"] = st.selectbox(
+                    f"Season (Player {idx+1})",
+                    seasons["SEASON"],
+                    key=f"season_{idx}"
+                )
+            else:
+                entry["season"] = selected_season
+            
+            with colB:
+                entry["player"] = st.selectbox(
+                    f"Player {idx+1}",
+                    players["PLAYER_NAME"],
+                    key=f"player_{idx}"
+                )
+    
+    def get_player_season_stats(player_name, season):
+        df =run_query(f"""
+            SELECT PLAYER_NAME, TEAM_ABBREVIATION, AGE, GP, MIN,
+                      PTS, REB, AST, STL, BLK, TOV,
+                      FGM, FGA, FG_PCT,
+                      FG3M, FG3A, FG3_PCT,
+                      FTM, FTA, FT_PCT,
+                      NBA_FANTASY_PTS
+            FROM season_stats
+            WHERE PLAYER_NAME = '{player_name}'
+            AND SEASON = '{season}'
+        """)
+        if not df.empty:
+            df = add_advanced_metrics(df)
+        return df
+    
+    player_dfs = []
+    valid_players = []
+
+    for entry in st.session_state.compare_players:
+        player = entry["player"]
+        season= entry["season"]
+
+        if player:
+            df = get_player_season_stats(player, season)
+            if df.empty:
+                st.error(f"{player} has no stats in {season}.")
+            else:
+                player_dfs.append(df)
+                valid_players.append(player)
+    
+    if len(player_dfs) == 0:
+        st.warning("Please select at least one valid player.")
+        st.stop()
+
+    st.subheader("Player Summaries")
+    for df in player_dfs:
+        team = df["TEAM_ABBREVIATION"].iloc[0]
+        primary = TEAM_COLORS.get(team, "#888888")
+        secondary = SEC_TEAM_COLORS.get(team, "#AAAAAA")
+
+        styled = color_team_table(df, primary, secondary)
+        st.dataframe(styled)
+
+    metrics = {
+        "Points (PTS)": "PTS",
+        "Assists (AST)": "AST",
+        "Rebounds (REB)": "REB",
+        "Steals (STL)": "STL",
+        "Blocks (BLK)": "BLK",
+        "True Shooting % (TS%)": "TS_PCT",
+        "Effective FG % (eFG%)": "EFG_PCT",
+        "FG%": "FG_PCT",
+        "3P%": "FG3_PCT",
+        "FT%": "FT_PCT",
+    }
+
+    data = []
+    for label, col in metrics.items():
+        row = {"Metric": label}
+        for df in player_dfs:
+            name = df["PLAYER_NAME"].iloc[0]
+            row[name] = df[col].iloc[0] if col in df.columns else None
+        data.append(row)
+    
+    df_compare = pd.DataFrame(data)
+
+    st.subheader("📊 Stat Comparison Table")
+    st.dataframe(df_compare)
+
+    per_game_metrics = ["PTS", "REB", "AST", "STL", "BLK"]
+    per_game_labels = ["PTS", "REB", "AST", "STL", "BLK"]
+
+    names = [df["PLAYER_NAME"].iloc[0] for df in player_dfs]
+    colors = [TEAM_COLORS.get(df["TEAM_ABBREVIATION"].iloc[0], "#888888") for df in player_dfs]
+    edges = [SEC_TEAM_COLORS.get(df["TEAM_ABBREVIATION"].iloc[0], "#AAAAAA") for df in player_dfs]
+
+    x = np.arange(len(per_game_labels))
+    width = 0.8 / len(player_dfs)
+
+    st.subheader("📈 Per-Game Stats Comparison")
+    fig, ax = plt.subplots(figsize=(12,6))
+
+    for i, df in enumerate(player_dfs):
+        vals = [df[m].iloc[0] for m in per_game_metrics]
+        ax.bar(x + (i - len(player_dfs)/2)*width, vals, width,
+               label=names[i], color=colors[i], edgecolor=edges[i], linewidth=3)
+        
+    ax.set_xticks(x)
+    ax.set_xticklabels(per_game_labels)
+    ax.legend()
+    st.pyplot(fig)
+
+    pct_metrics = ["TS_PCT", "EFG_PCT", "FG_PCT", "FG3_PCT", "FT_PCT"]
+    pct_labels = ["TS%", "eFG%", "FG%", "3P%", "FT%"]
+
+    x = np.arange(len(pct_labels))
+
+    st.subheader("📉 Shooting & Efficiency Comparison")
+    fig, ax = plt.subplots(figsize=(12,6))
+
+    for i, df in enumerate(player_dfs):
+        vals = [df[m].iloc[0] if m in df.columns else 0 for m in pct_metrics]
+        ax.bar(x + (i - len(player_dfs)/2)*width, vals, width,
+                label=names[i], color=colors[i], edgecolor=edges[i], linewidth=3)
+            
+    ax.set_xticks(x)
+    ax.set_xticklabels(pct_labels)
+    ax.legend()
+    st.pyplot(fig)
+
+    st.markdown("""
+    **TS%**: Scoring efficiency including threes and free throws.
+    **eFG%**: FG% adjusted for the extra value of 3s
+    **FG% / 3P% / FT%**: Shooting splits showing overall, 3-point, and free-throw accuracy.
+    """)
 
 # ============================================================
 # ⭐ ABOUT PAGE
