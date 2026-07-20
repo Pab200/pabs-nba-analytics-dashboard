@@ -130,6 +130,7 @@ TEAM_COLORS = {
     "VAN": "#00B2A9",
     "CHH": "#008CA8",
     "NOK": "#008CA8",
+    "WSB": "#002B5C",
 }
 
 SEC_TEAM_COLORS = {
@@ -169,6 +170,7 @@ SEC_TEAM_COLORS = {
     "VAN": "#E43C40",
     "CHH": "#1D1160",
     "NOK": "#1D1160",
+    "WSB": "#E31837",
 }
 
 # -----------------------------
@@ -602,7 +604,12 @@ elif page == "Team Analysis":
     st.header("🏙️ Team Analysis")
     st.markdown("<br>", unsafe_allow_html=True)
 
-    teams = run_query("SELECT DISTINCT TEAM_ABBREVIATION FROM season_stats")
+    teams = run_query("""
+                      SELECT DISTINCT TEAM_ABBREVIATION 
+                      FROM season_stats
+                      WHERE TEAM_ABBREVIATION NOT IN ('2TM', '3TM', '4TM')
+                      ORDER BY TEAM_ABBREVIATION
+                      """)
     team = st.selectbox("Choose a team", teams["TEAM_ABBREVIATION"])
 
     team_info = run_query(f"""

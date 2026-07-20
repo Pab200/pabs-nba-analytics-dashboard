@@ -20,5 +20,4 @@ Where are we at:
 - Added advanced statistics
 - Added functionality to have multiple seasons as well as data for multiple seasons
 
-HOMEWORK: 
-BEFORE MOVING ON TO ADDING THE NEXT FUNCTION, WORK ON GETTING EVEN MORE SEASONS AND SPECIFICALLY OLDER SEASONS
+-NOTE: WE WILL ADD ALL SEASONS AT THE END, BUT FUNCTIONALITY TO ADD THEM HAS BEEN SET UP

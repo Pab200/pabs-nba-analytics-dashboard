@@ -89,6 +89,6 @@ def normalize_br_csv(input_path: str, output_path: str, season: str):
 
 normalize_br_csv(
     input_path="data/raw/br_1995_per_game.csv",
-    output_path="data/raw/season_stats_1989-90.csv",
-    season="1989-90"
+    output_path="data/raw/season_stats_1988-89.csv",
+    season="1988-89"
 )
