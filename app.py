@@ -835,6 +835,5 @@ elif page == "About":
     - Player Projections
     - Fantasy Basketball
     - Interactive Shot Charts
-    - Player Comparison
     - Team Comparison & Filters
     """)

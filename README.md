@@ -19,5 +19,14 @@ Where are we at:
 - Created a Visualizations notebook to test out madlibs and create graphs that answer some of or NBA stat queries
 - Added advanced statistics
 - Added functionality to have multiple seasons as well as data for multiple seasons
+- Added a compare players play which will allow users to compare the stats of different players from the same or different seasons.
 
 -NOTE: WE WILL ADD ALL SEASONS AT THE END, BUT FUNCTIONALITY TO ADD THEM HAS BEEN SET UP
+
+When we are ready to publicize...
+
+SET-UP INSTRUCTIONS:
+...
+
+USAGE INSTRUCTIONS:
+...
