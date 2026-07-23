@@ -183,7 +183,7 @@ st.sidebar.markdown(
 )
 page = st.sidebar.radio(
     "Go to",
-    ["League Leaders", "Player Analysis", "Team Analysis", "Compare Players", "About"]
+    ["League Leaders", "Player Analysis", "Team Analysis", "Compare Players", "Team Comparison", "About"]
 )
 
 # -----------------------------
@@ -814,6 +814,219 @@ elif page == "Compare Players":
     **eFG%**: FG% adjusted for the extra value of 3s
     **FG% / 3P% / FT%**: Shooting splits showing overall, 3-point, and free-throw accuracy.
     """)
+
+# ============================================================
+# ⭐ TEAM COMPARISON PAGE
+# ============================================================
+elif page == "Team Comparison":
+    st.header("🏆 Team Comparison")
+    st.markdown("<br>", unsafe_allow_html=True)
+
+    # Toggle for cross-season comparison
+    cross_year = st.checkbox("Compare teams from different years")
+
+    # Initialize session state
+    if "compare_teams" not in st.session_state:
+        st.session_state.compare_teams = [
+            {"team": None, "season": selected_season},
+            {"team": None, "season": selected_season}
+        ]
+
+    # Team list
+    teams = run_query("""
+        SELECT DISTINCT TEAM_ABBREVIATION
+        FROM season_stats
+        WHERE TEAM_ABBREVIATION NOT IN ('2TM', '3TM', '4TM')
+        ORDER BY TEAM_ABBREVIATION
+    """)
+
+    # Add team button
+    if st.button("➕ Add Team"):
+        st.session_state.compare_teams.append(
+            {"team": None, "season": selected_season}
+        )
+
+    st.subheader("Select Teams to Compare")
+
+    # Team selectors
+    for idx, entry in enumerate(st.session_state.compare_teams):
+        st.markdown(f"### Team {idx+1}")
+
+        colA, colB = st.columns(2)
+
+        with colA:
+            if cross_year:
+                entry["season"] = st.selectbox(
+                    f"Season (Team {idx+1})",
+                    seasons["SEASON"],
+                    key=f"team_season_{idx}"
+                )
+            else:
+                entry["season"] = selected_season
+
+        with colB:
+            entry["team"] = st.selectbox(
+                f"Team {idx+1}",
+                teams["TEAM_ABBREVIATION"],
+                key=f"team_{idx}"
+            )
+
+    # ------------------------------------------------------------
+    # TEAM METRICS HELPER (team-only formulas)
+    # ------------------------------------------------------------
+    def get_team_season_stats(team, season):
+        df = run_query(f"""
+            SELECT 
+                TEAM_ABBREVIATION,
+                SUM(PTS) AS TEAM_PTS,
+                SUM(FGM) AS TEAM_FGM,
+                SUM(FGA) AS TEAM_FGA,
+                SUM(FTM) AS TEAM_FTM,
+                SUM(FTA) AS TEAM_FTA,
+                SUM(OREB) AS TEAM_OREB,
+                SUM(DREB) AS TEAM_DREB,
+                SUM(REB) AS TEAM_REB,
+                SUM(AST) AS TEAM_AST,
+                SUM(TOV) AS TEAM_TOV,
+                SUM(FG3A) AS TEAM_FG3A,
+                SUM(PLUS_MINUS) AS TEAM_PLUS_MINUS,
+                SUM(MIN) AS TEAM_MIN
+            FROM season_stats
+            WHERE TEAM_ABBREVIATION = '{team}'
+            AND SEASON = '{season}'
+        """)
+
+        if df.empty:
+            return df
+
+        # Team-only possessions
+        df["TEAM_POSS"] = (
+            df["TEAM_FGA"]
+            - df["TEAM_OREB"]
+            + df["TEAM_TOV"]
+            + 0.44 * df["TEAM_FTA"]
+        )
+
+        # Offensive Rating
+        df["OFF_RATING"] = 100 * df["TEAM_PTS"] / df["TEAM_POSS"]
+
+        # Defensive Rating (using plus-minus)
+        if is_modern_season(season):
+            df["TEAM_PTS_ALLOWED"] = df["TEAM_PTS"] - df["TEAM_PLUS_MINUS"]
+            df["DEF_RATING"] = 100 * df["TEAM_PTS_ALLOWED"] / df["TEAM_POSS"]
+        else:
+            df["DEF_RATING"] = np.nan
+
+        # Pace
+        df["PACE"] = 48 * (df["TEAM_POSS"] / (df["TEAM_MIN"] / 5))
+
+        return df
+
+    # ------------------------------------------------------------
+    # Load team stats
+    # ------------------------------------------------------------
+    team_dfs = []
+    if any(not is_modern_season(entry["season"]) for entry in st.session_state.compare_teams):
+        st.warning("Defensive Rating is unavailable for seasons before 1996-97. These teams will show DEF_RATING as blank.")
+    valid_teams = []
+
+    for entry in st.session_state.compare_teams:
+        team = entry["team"]
+        season = entry["season"]
+
+        if team:
+            df = get_team_season_stats(team, season)
+            if df.empty:
+                st.error(f"{team} has no stats in {season}.")
+            else:
+                team_dfs.append(df)
+                valid_teams.append(team)
+
+    if len(team_dfs) == 0:
+        st.warning("Please select at least one valid team.")
+        st.stop()
+
+    # ------------------------------------------------------------
+    # Team Summaries
+    # ------------------------------------------------------------
+    st.subheader("Team Summaries")
+
+    for df in team_dfs:
+        team = df["TEAM_ABBREVIATION"].iloc[0]
+        primary = TEAM_COLORS.get(team, "#888888")
+        secondary = SEC_TEAM_COLORS.get(team, "#AAAAAA")
+
+        styled = color_team_table(df, primary, secondary)
+        st.dataframe(styled, use_container_width=True)
+
+    # ------------------------------------------------------------
+    # Comparison Table
+    # ------------------------------------------------------------
+    st.subheader("📊 Team Comparison Table")
+
+    metrics = {
+        "Offensive Rating": "OFF_RATING",
+        "Defensive Rating": "DEF_RATING",
+        "Pace": "PACE",
+        "Rebounds": "TEAM_REB",
+        "Assists": "TEAM_AST",
+        "3PA": "TEAM_FG3A"
+    }
+
+    data = []
+    for label, col in metrics.items():
+        row = {"Metric": label}
+        for df in team_dfs:
+            team_name = df["TEAM_ABBREVIATION"].iloc[0]
+            val = df[col].iloc[0]
+            row[team_name] = round(val, 2) if pd.notna(val) else None
+
+        data.append(row)
+
+    df_compare = pd.DataFrame(data)
+    st.dataframe(df_compare, use_container_width=True)
+
+    # ------------------------------------------------------------
+    # Grouped Bar Charts
+    # ------------------------------------------------------------
+    names = [df["TEAM_ABBREVIATION"].iloc[0] for df in team_dfs]
+    colors = [TEAM_COLORS.get(name, "#888888") for name in names]
+    edges = [SEC_TEAM_COLORS.get(name, "#AAAAAA") for name in names]
+
+    # Core Metrics Chart
+    st.subheader("📈 Core Metrics (ORtg, DRtg, Pace)")
+
+    core_labels = ["OFF_RATING", "DEF_RATING", "PACE"]
+    x = np.arange(len(core_labels))
+    width = 0.8 / len(team_dfs)
+
+    fig, ax = plt.subplots(figsize=(14,6))
+    for i, df in enumerate(team_dfs):
+        vals = [df[label].iloc[0] for label in core_labels]
+        ax.bar(x + (i - len(team_dfs)/2)*width, vals, width,
+               label=names[i], color=colors[i], edgecolor=edges[i], linewidth=3)
+
+    ax.set_xticks(x)
+    ax.set_xticklabels(["ORtg", "DRtg", "Pace"])
+    ax.legend()
+    st.pyplot(fig, use_container_width=True)
+
+    # Counting Stats Chart
+    st.subheader("📉 Counting Stats (REB, AST, 3PA)")
+
+    count_labels = ["TEAM_REB", "TEAM_AST", "TEAM_FG3A"]
+    x = np.arange(len(count_labels))
+
+    fig, ax = plt.subplots(figsize=(14,6))
+    for i, df in enumerate(team_dfs):
+        vals = [df[label].iloc[0] for label in count_labels]
+        ax.bar(x + (i - len(team_dfs)/2)*width, vals, width,
+               label=names[i], color=colors[i], edgecolor=edges[i], linewidth=3)
+
+    ax.set_xticks(x)
+    ax.set_xticklabels(["REB", "AST", "3PA"])
+    ax.legend()
+    st.pyplot(fig, use_container_width=True)
 
 # ============================================================
 # ⭐ ABOUT PAGE
