@@ -1,8 +1,13 @@
 import sqlite3
 import pandas as pd
 from contextlib import contextmanager
+import os
 
-DB_PATH = "nba.db"
+# Absolute path to project root
+PROJECT_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+
+# Correct database path
+DB_PATH = os.path.join(PROJECT_ROOT, "nba.db")
 
 @contextmanager
 def get_connection():
