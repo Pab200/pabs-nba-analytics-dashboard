@@ -132,6 +132,68 @@ Used for:
 - `team_game_stats_*.csv`
 - `br_*.csv` (Basketball Reference)
 
+## 📂 Data Folder Structure
+
+The `data/` directory contains all raw and processed data used to build the `nba.db` SQLite database.
+
+data/
+│
+├── raw/               # Raw CSVs (never edited)
+│   ├── season_stats_YYYY-YY.csv
+│   ├── team_game_stats_YYYY-YY.csv
+│   ├── players.csv
+│   ├── rookies.csv
+│   ├── teams.csv
+│   └── br_YYYY_per_game.csv        # Basketball Reference data
+│
+└── processed/         # Cleaned, normalized, or transformed data
+
+
+### Raw Data (`data/raw/`)
+This folder contains **all original CSVs**, including:
+
+- **NBA Stats API seasons**  
+  `season_stats_1988-89.csv` → `season_stats_2025-26.csv`
+
+- **Team game logs (2010–present)**  
+  `team_game_stats_2010-11.csv` → `team_game_stats_2025-26.csv`
+
+- **Basketball Reference per-game data**  
+  `br_1995_per_game.csv`
+
+- **Static tables**  
+  - `players.csv`
+  - `rookies.csv`
+  - `teams.csv`
+
+These files are intentionally kept **raw and untouched** so the database can be rebuilt at any time.
+
+### Processed Data (`data/processed/`)
+This folder is currently empty, but reserved for:
+
+- normalized BR tables  
+- merged datasets  
+- intermediate transformations  
+- cleaned versions of raw files  
+- exports for notebooks or reports  
+
+The dashboard does **not** read from `processed/`.  
+It is optional and used only for development or analysis.
+
+### Database Pipeline
+The raw CSVs are loaded into SQLite using:
+
+python src/data_pipeline/create_database.py
+python src/data_pipeline/data_loader.py
+python src/data_pipeline/normalize_br.py
+
+This pipeline ensures:
+
+- reproducibility  
+- consistent schema  
+- safe reloading  
+- support for both modern and historical seasons  
+
 ---
 
 ## 🚀 Running the Dashboard
