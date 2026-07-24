@@ -16,8 +16,13 @@ GLOBAL_CSS = """
         color: white !important;
     }
 
-    /* Keep selectbox VALUE readable */
-    [data-testid="stSidebar"] .stSelectbox div[data-baseweb="select"] * {
+    /* UNIVERSAL OVERRIDE: selectbox VALUE inside sidebar */
+    [data-testid="stSidebar"] div[data-testid="stSelectbox"] *:not(div[data-baseweb="select"] ul li) {
+        color: black !important;
+    }
+
+    /* Dropdown OPTIONS (the floating menu items) */
+    div[data-baseweb="select"] ul li {
         color: black !important;
     }
 
@@ -36,11 +41,11 @@ GLOBAL_CSS = """
         font-size: 42px;
         font-weight: bold;
         margin-bottom: 20px;
+        color: white !important;
     }
 
 </style>
 """
-
 
 def load_css():
     """Inject global CSS into the Streamlit app."""
