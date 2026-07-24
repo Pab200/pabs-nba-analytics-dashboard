@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+nba_api
+sqlalchemy
+python-dotenv
+jupyter
+notebook
+altair
+plotly
+scikit-learn
+pyarrow

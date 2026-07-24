@@ -1,32 +1,132 @@
-# pabs-nba-analytics-dashboard
+# **pabs-nba-analytics-dashboard**
+*A modern NBA analytics platform built with Python, SQL, and Streamlit.*
 
+## 📌 Overview
+This project is a full end-to-end NBA analytics system designed to explore player performance, team trends, and season-level insights using:
 
+- Python for data ingestion and cleaning  
+- SQLite for structured storage and SQL analysis  
+- Pandas for transformation  
+- Matplotlib / Seaborn for visualizations  
+- Streamlit for an interactive dashboard  
 
+The goal is to build a reproducible, scalable analytics pipeline that can support multiple NBA seasons and advanced statistical comparisons.
 
+---
 
-Super Duper cool NBA Analytics Dashboard -
+## 🏗️ Architecture
 
-A personal project analyzing NBA data using Python, Pandas, SQL, and interactive visualizations for learning
+### Data Pipeline
+1. **Data Acquisition**  
+   - Pull raw NBA data using `nba_api`  
+   - Save CSVs into `data/raw/`
 
-Where are we at:
-- We have created our first Notebooks for getting the given Nba data of which we have
-    - players.csv: a very vague list of all players in the history of the NBA
-    - rookies.csv: a list of the 2025 NBA Draft Class among other details
-    - season_stats_2025-26.csv: this is an extensive table of statistics of all players in the 2025-26 season
-    - teams.csv: another vague list of NBA teams
-- We have created a data base using Python, and will use SQL to further do edits and other analysis with the data we have gotten
-- Created another notebook to do analysis using SQL as well as a test of MadLibs (whether we will use more of MadLibs in the future or not we will find out)
-- Created a Visualizations notebook to test out madlibs and create graphs that answer some of or NBA stat queries
-- Added advanced statistics
-- Added functionality to have multiple seasons as well as data for multiple seasons
-- Added a compare players play which will allow users to compare the stats of different players from the same or different seasons.
+2. **Database Construction**  
+   - Build `nba.db` using Python + SQLite  
+   - Normalize tables (players, teams, season_stats, rookies)
 
--NOTE: WE WILL ADD ALL SEASONS AT THE END, BUT FUNCTIONALITY TO ADD THEM HAS BEEN SET UP
+3. **Analysis Notebooks**  
+   - SQL exploration  
+   - Pandas transformations  
+   - Visualizations and advanced metrics
 
-When we are ready to publicize...
+4. **Interactive Dashboard**  
+   - Player comparison  
+   - Team insights  
+   - Season-level summaries  
+   - Multi-season support
 
-SET-UP INSTRUCTIONS:
-...
+---
 
-USAGE INSTRUCTIONS:
-...
+## ✨ Features
+- Multi-season support  
+- Player comparison tool  
+- Team insights and roster analysis  
+- Advanced statistics (PER, TS%, usage rate, etc.)  
+- SQL + Pandas hybrid analysis  
+- Reproducible data pipeline  
+- Visualizations for scoring, efficiency, shooting, and more  
+
+---
+
+## 📁 Project Structure
+pabs-nba-analytics-dashboard/
+│
+├── dashboard/           # Streamlit app + pages
+├── data/
+│   ├── raw/             # Raw CSVs from nba_api
+│   ├── processed/       # Cleaned tables + database
+│
+├── notebooks/           # Jupyter notebooks for analysis
+│   ├── 01_data_ingestion.ipynb
+│   ├── 02_sql_analysis.ipynb
+│   ├── 03_visualizations.ipynb
+│   └── 04_advanced_stats.ipynb
+│
+├── src/                 # Python modules for logic
+│   ├── data_loader.py
+│   ├── metrics.py
+│   ├── utils.py
+│   └── comparison.py
+│
+├── reports/             # Generated charts + summaries
+├── images/              # Dashboard screenshots
+│
+├── app.py               # Streamlit entry point
+├── nba.db               # SQLite database
+├── requirements.txt     # Project dependencies
+└── README.md
+
+---
+
+## 📊 Data Sources
+This project uses data from:
+
+- `nba_api` (official NBA stats API wrapper)  
+- Custom CSVs generated from API calls  
+- SQLite database built from raw data  
+
+Raw data includes:
+
+- `players.csv` — full NBA player list  
+- `teams.csv` — NBA team metadata  
+- `season_stats_2025-26.csv` — full season stats  
+- `rookies.csv` — 2025 draft class  
+
+---
+
+## 🚀 Running the Project Locally
+
+### 1. Clone the repository
+git clone https://github.com/pabs-nba-analytics-dashboard.git (github.com in Bing)
+cd pabs-nba-analytics-dashboard
+
+### 2. Create virtual environment
+python -m venv .venv
+source .venv/bin/activate   # Mac/Linux
+.venv\Scripts\activate      # Windows
+
+### 3. Install dependencies
+pip install -r requirements.txt
+
+### 4. Run the dashboard
+streamlit run app.py
+
+---
+
+## 🛣️ Roadmap
+- Add all NBA seasons (full historical dataset)  
+- Add game logs for deeper analysis  
+- Add team comparison page  
+- Add player similarity model (cosine similarity)  
+- Add predictive analytics (simple models)  
+- Add API mode for external apps  
+- Add dark mode UI  
+
+---
+
+## 👤 Author
+**Pablo**  
+Chicago IL, USA  
+NBA Analytics Enthusiast & Data Engineer  
+GitHub: https://github.com/pabs-nba-analytics-dashboard
