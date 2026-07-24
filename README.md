@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="images/readme/overview.png" alt="NBA Analytics Dashboard" width="100%">
+</p>
+<h1 align="center">NBA Analytics Dashboard</h1>
+
 # 🏀 NBA Analytics Dashboard
 A fully modular, multi‑page NBA analytics platform built with Python, SQLite, and Streamlit.  
 This project provides deep statistical insights into players, teams, seasons, and league trends using a clean, professional architecture.
