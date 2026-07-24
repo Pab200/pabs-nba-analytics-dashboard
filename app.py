@@ -93,6 +93,99 @@ def is_modern_season(season_str):
     start_year = int(season_str.split("-")[0])
     return start_year >= 1996
 
+def is_accurate_data_season(season_str):
+    """Return True if season is 2010-11 or later for opponent data"""
+    start_year = int(season_str.split("-")[0])
+    return start_year >= 2010
+
+def get_team_season_stats(team, season):
+    if is_accurate_data_season(season):
+        df = run_query(f"""
+            SELECT 
+                t1.TEAM_ABBREVIATION,
+                SUM(t1.PTS) AS TEAM_PTS,
+                SUM(t1.FGM) AS TEAM_FGM,
+                SUM(t1.FGA) AS TEAM_FGA,
+                SUM(t1.FTM) AS TEAM_FTM,
+                SUM(t1.FTA) AS TEAM_FTA,
+                SUM(t1.OREB) AS TEAM_OREB,
+                SUM(t1.DREB) AS TEAM_DREB,
+                SUM(t1.REB) AS TEAM_REB,
+                SUM(t1.AST) AS TEAM_AST,
+                SUM(t1.TOV) AS TEAM_TOV,
+                SUM(t1.FG3A) AS TEAM_FG3A,
+                SUM(t1.PLUS_MINUS) AS TEAM_PLUS_MINUS,
+                SUM(t1.MIN) AS TEAM_MIN,
+                SUM(t2.PTS) AS OPP_PTS,
+                SUM(t2.FGA) AS OPP_FGA,
+                SUM(t2.FTA) AS OPP_FTA,
+                SUM(t2.OREB) AS OPP_OREB,
+                SUM(t2.TOV) AS OPP_TOV
+            FROM team_game_stats t1
+            JOIN team_game_stats t2
+                ON t1.GAME_ID = t2.GAME_ID
+                AND t1.TEAM_ID != t2.TEAM_ID
+            WHERE t1.TEAM_ABBREVIATION = '{team}'
+            AND t1.SEASON = '{season}'
+            GROUP BY t1.TEAM_ABBREVIATION
+        """)
+
+        if df.empty:
+            return df
+
+        tm_poss = df["TEAM_FGA"] + 0.44 * df["TEAM_FTA"] - df["TEAM_OREB"] + df["TEAM_TOV"]
+        opp_poss = df["OPP_FGA"] + 0.44 * df["OPP_FTA"] - df["OPP_OREB"] + df["OPP_TOV"]
+        df["TEAM_POSS"] = 0.5 * (tm_poss + opp_poss)
+
+        df["OFF_RATING"] = 100 * df["TEAM_PTS"] / df["TEAM_POSS"]
+        df["DEF_RATING"] = 100 * df["OPP_PTS"] / df["TEAM_POSS"]
+        df["PACE"] = 48 * (df["TEAM_POSS"] / (df["TEAM_MIN"] / 5))
+
+        return df
+
+    else:
+        df = run_query(f"""
+            SELECT 
+                TEAM_ABBREVIATION,
+                SUM(PTS) AS TEAM_PTS,
+                SUM(FGM) AS TEAM_FGM,
+                SUM(FGA) AS TEAM_FGA,
+                SUM(FTM) AS TEAM_FTM,
+                SUM(FTA) AS TEAM_FTA,
+                SUM(OREB) AS TEAM_OREB,
+                SUM(DREB) AS TEAM_DREB,
+                SUM(REB) AS TEAM_REB,
+                SUM(AST) AS TEAM_AST,
+                SUM(TOV) AS TEAM_TOV,
+                SUM(FG3A) AS TEAM_FG3A,
+                SUM(PLUS_MINUS) AS TEAM_PLUS_MINUS,
+                SUM(MIN) AS TEAM_MIN
+            FROM season_stats
+            WHERE TEAM_ABBREVIATION = '{team}'
+            AND SEASON = '{season}'
+        """)
+
+        if df.empty:
+            return df
+
+        df["TEAM_POSS"] = (
+            df["TEAM_FGA"]
+            - df["TEAM_OREB"]
+            + df["TEAM_TOV"]
+            + 0.44 * df["TEAM_FTA"]
+        )
+
+        df["OFF_RATING"] = 100 * df["TEAM_PTS"] / df["TEAM_POSS"]
+
+    if is_modern_season(season):
+        df["TEAM_PTS_ALLOWED"] = df["TEAM_PTS"] - df["TEAM_PLUS_MINUS"]
+        df["DEF_RATING"] = 100 * df["TEAM_PTS_ALLOWED"] / df["TEAM_POSS"]
+    else:
+        df["DEF_RATING"] = np.nan
+
+    df["PACE"] = 48 * (df["TEAM_POSS"] / (df["TEAM_MIN"] / 5))
+
+    return df
 # Simple team color mapping
 TEAM_COLORS = {
     "ATL": "#E13A3E",
@@ -634,7 +727,41 @@ elif page == "Team Analysis":
         st.write(f"**Year Founded:** {team_info['year_founded']}")
         st.write(f"**Year Closed:** {team_info['year_closed'] if team_info['year_closed'] else 'Active'}")
 
-    st.markdown("<br><br>", unsafe_allow_html=True)
+    st.markdown("<br>", unsafe_allow_html=True)
+
+    # ------------------------------------------------------------
+    # Advanced Team Season Performance Summary
+    # ------------------------------------------------------------
+    st.subheader(f"Team Performance Summary ({selected_season})")
+
+    if not is_accurate_data_season(selected_season):
+        st.warning(
+            f"⚠️ Game-by-game opponent stats are available starting from 2010-11. "
+            f"Defensive Rating and Pace for {selected_season} are estimated using team totals."
+        )
+
+    df_team_metrics = get_team_season_stats(team, selected_season)
+
+    if not df_team_metrics.empty:
+        metrics = df_team_metrics.iloc[0]
+
+        m_col1, m_col2, m_col3, m_col4 = st.columns(4)
+
+        ortg_val = f"{metrics['OFF_RATING']:.1f}" if pd.notnull(metrics['OFF_RATING']) else "N/A"
+        drtg_val = f"{metrics['DEF_RATING']:.1f}" if pd.notnull(metrics['DEF_RATING']) else "N/A"
+        pace_val = f"{metrics['PACE']:.1f}" if pd.notnull(metrics['PACE']) else "N/A"
+        poss_val = f"{int(metrics['TEAM_POSS']):,}" if pd.notnull(metrics['TEAM_POSS']) else "N/A"
+
+        with m_col1:
+            st.metric("Offensive Rating", ortg_val)
+        with m_col2:
+            st.metric("Defensive Rating", drtg_val)
+        with m_col3:
+            st.metric("Pace", pace_val)
+        with m_col4:
+            st.metric("Est. Possessions", poss_val)
+
+        st.markdown("<br><br>", unsafe_allow_html=True)
 
     st.subheader("Team Season Statistics")
 
@@ -872,62 +999,13 @@ elif page == "Team Comparison":
             )
 
     # ------------------------------------------------------------
-    # TEAM METRICS HELPER (team-only formulas)
-    # ------------------------------------------------------------
-    def get_team_season_stats(team, season):
-        df = run_query(f"""
-            SELECT 
-                TEAM_ABBREVIATION,
-                SUM(PTS) AS TEAM_PTS,
-                SUM(FGM) AS TEAM_FGM,
-                SUM(FGA) AS TEAM_FGA,
-                SUM(FTM) AS TEAM_FTM,
-                SUM(FTA) AS TEAM_FTA,
-                SUM(OREB) AS TEAM_OREB,
-                SUM(DREB) AS TEAM_DREB,
-                SUM(REB) AS TEAM_REB,
-                SUM(AST) AS TEAM_AST,
-                SUM(TOV) AS TEAM_TOV,
-                SUM(FG3A) AS TEAM_FG3A,
-                SUM(PLUS_MINUS) AS TEAM_PLUS_MINUS,
-                SUM(MIN) AS TEAM_MIN
-            FROM season_stats
-            WHERE TEAM_ABBREVIATION = '{team}'
-            AND SEASON = '{season}'
-        """)
-
-        if df.empty:
-            return df
-
-        # Team-only possessions
-        df["TEAM_POSS"] = (
-            df["TEAM_FGA"]
-            - df["TEAM_OREB"]
-            + df["TEAM_TOV"]
-            + 0.44 * df["TEAM_FTA"]
-        )
-
-        # Offensive Rating
-        df["OFF_RATING"] = 100 * df["TEAM_PTS"] / df["TEAM_POSS"]
-
-        # Defensive Rating (using plus-minus)
-        if is_modern_season(season):
-            df["TEAM_PTS_ALLOWED"] = df["TEAM_PTS"] - df["TEAM_PLUS_MINUS"]
-            df["DEF_RATING"] = 100 * df["TEAM_PTS_ALLOWED"] / df["TEAM_POSS"]
-        else:
-            df["DEF_RATING"] = np.nan
-
-        # Pace
-        df["PACE"] = 48 * (df["TEAM_POSS"] / (df["TEAM_MIN"] / 5))
-
-        return df
-
-    # ------------------------------------------------------------
     # Load team stats
     # ------------------------------------------------------------
     team_dfs = []
     if any(not is_modern_season(entry["season"]) for entry in st.session_state.compare_teams):
         st.warning("Defensive Rating is unavailable for seasons before 1996-97. These teams will show DEF_RATING as blank.")
+    if any(not is_accurate_data_season(entry["season"]) for entry in st.session_state.compare_teams):
+        st.warning("⚠️ Note: Seasons before 2010-11 use estimated formulas for possessions lacking opponent data, resulting in less accurate ORtg, DRtg, and Pace calculations.")
     valid_teams = []
 
     for entry in st.session_state.compare_teams:
