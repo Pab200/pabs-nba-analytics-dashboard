@@ -12,6 +12,20 @@ def normalize_br_csv(input_path: str, output_path: str, season: str):
     # Remove ranking column if present
     df = df.drop(columns=["Rk"], errors="ignore")
 
+    three_point_cols = {
+        "3P": 0.0,
+        "3PA": 0.0,
+        "3P%": None,
+        "OREB": 0.0,
+        "DREB": 0.0,
+        "TOV": 0.0,
+        "STL": 0.0,
+        "BLK": 0.0,
+    }
+    for col, default in three_point_cols.items():
+        if col not in df.columns:
+            df[col] = default
+
     # Create synthetic PLAYER_ID using a stable hash
     def make_player_id(name):
         return int(hashlib.sha256(name.encode()).hexdigest(), 16) % (10**9)
@@ -89,6 +103,6 @@ def normalize_br_csv(input_path: str, output_path: str, season: str):
 
 normalize_br_csv(
     input_path="data/raw/br_1995_per_game.csv",
-    output_path="data/raw/season_stats_1988-89.csv",
-    season="1988-89"
+    output_path="data/raw/season_stats_1951-52.csv",
+    season="1951-52"
 )
