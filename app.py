@@ -29,6 +29,7 @@ page = st.sidebar.radio("Go to", [
     "Team Analysis",
     "Compare Players",
     "Team Comparison",
+    "Shot Charts",
     "About"
 ])
 
@@ -53,6 +54,10 @@ elif page == "Compare Players":
 
 elif page == "Team Comparison":
     import dashboard.pages.team_comparison as page_mod
+    page_mod.render(selected_season, seasons)
+
+elif page == "Shot Charts":
+    import dashboard.pages.shot_charts as page_mod
     page_mod.render(selected_season, seasons)
 
 elif page == "About":
