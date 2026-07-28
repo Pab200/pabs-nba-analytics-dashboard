@@ -1,12 +1,13 @@
 import plotly.graph_objects as go
 from src.shot_charts.court import draw_court
 
-def plot_heatmap(df):
+def plot_heatmap(df, team_abbr: str | None = None):
     """
-    Creates a shot density heatmap using LOC_X and LOC_Y.
+    Creates a shot density heatmap using LOC_X and LOC_Y,
+    using contour-style 'geographic' heatmap.
     """
 
-    fig = draw_court()
+    fig = draw_court(team_abbr)
 
     fig.add_trace(go.Histogram2dContour(
         x=df["LOC_X"],
@@ -32,5 +33,14 @@ def plot_heatmap(df):
         ),
         hoverinfo="skip"
     ))
+
+    fig.update_layout(
+        hoverlabel=dict(
+            bgcolor="rgba(30,30,30,0.9)",
+            font_size=14,
+            font_color="white",
+            align="left"
+        )
+    )
 
     return fig

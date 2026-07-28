@@ -1,30 +1,60 @@
 import plotly.graph_objects as go
-import numpy as np
+import pandas as pd
 from src.shot_charts.court import draw_court
 
-def plot_hexbin(df, gridsize=30):
+def plot_hexbin(df, team_abbr: str | None = None):
     """
-    Creates a hexbin shot chart using numpy histogram2d.
+    Hex-style visualization: hexagon markers on a fixed grid, size by frequency.
+    Medium size (Hex Option 2).
     """
 
-    x = df["LOC_X"].values
-    y = df["LOC_Y"].values
+    fig = draw_court(team_abbr)
 
-    counts, xedges, yedges = np.histogram2d(x, y, bins=gridsize)
+    bin_size = 30  # grid spacing
+    df["x_bin"] = (df["LOC_X"] / bin_size).round() * bin_size
+    df["y_bin"] = (df["LOC_Y"] / bin_size).round() * bin_size
 
-    xcenters = (xedges[:-1] + xedges[1:]) / 2
-    ycenters = (yedges[:-1] + yedges[1:]) / 2
+    grouped = (
+        df.groupby(["x_bin", "y_bin"])
+        .size()
+        .reset_index(name="count")
+    )
 
-    fig = draw_court()
+    max_count = grouped["count"].max()
 
-    fig.add_trace(go.Histogram2d(
-        x=x,
-        y=y,
-        colorscale="Viridis",
-        nbinsx=gridsize,
-        nbinsy=gridsize,
-        showscale=True,
-        opacity=0.85
+    # Size scaling: medium range to avoid crazy overlap
+    grouped["size"] = grouped["count"] / max_count * 24 + 8  # 8–32
+
+    colorscale = [
+        [0.0, "#deebf7"],
+        [0.3, "#9ecae1"],
+        [0.6, "#3182bd"],
+        [1.0, "#08519c"],
+    ]
+
+    fig.add_trace(go.Scatter(
+        x=grouped["x_bin"],
+        y=grouped["y_bin"],
+        mode="markers",
+        marker=dict(
+            symbol="hexagon",
+            size=grouped["size"],
+            color=grouped["count"],
+            colorscale=colorscale,
+            showscale=True,
+            line=dict(width=1, color="#ffffff"),
+            opacity=0.9
+        ),
+        hovertemplate="Attempts: %{marker.color}<extra></extra>"
     ))
+
+    fig.update_layout(
+        hoverlabel=dict(
+            bgcolor="rgba(30,30,30,0.9)",
+            font_size=14,
+            font_color="white",
+            align="left"
+        )
+    )
 
     return fig
