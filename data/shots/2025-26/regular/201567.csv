@@ -1,0 +1,200 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0022500055,89,201567,Kevin Love,1610612762,Utah Jazz,1,6,23,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-165,206,1,1,20251121,UTA,OKC
+Shot Chart Detail,0022500055,93,201567,Kevin Love,1610612762,Utah Jazz,1,5,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-185,174,1,1,20251121,UTA,OKC
+Shot Chart Detail,0022500055,110,201567,Kevin Love,1610612762,Utah Jazz,1,4,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,37,264,1,1,20251121,UTA,OKC
+Shot Chart Detail,0022500055,141,201567,Kevin Love,1610612762,Utah Jazz,1,1,51,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-157,220,1,0,20251121,UTA,OKC
+Shot Chart Detail,0022500055,158,201567,Kevin Love,1610612762,Utah Jazz,1,0,4,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-229,83,1,1,20251121,UTA,OKC
+Shot Chart Detail,0022500055,448,201567,Kevin Love,1610612762,Utah Jazz,3,4,47,Missed Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-2,58,1,0,20251121,UTA,OKC
+Shot Chart Detail,0022500077,138,201567,Kevin Love,1610612762,Utah Jazz,1,3,34,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-200,169,1,0,20251128,UTA,SAC
+Shot Chart Detail,0022500077,268,201567,Kevin Love,1610612762,Utah Jazz,2,6,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,92,228,1,1,20251128,UTA,SAC
+Shot Chart Detail,0022500077,289,201567,Kevin Love,1610612762,Utah Jazz,2,5,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-228,104,1,1,20251128,UTA,SAC
+Shot Chart Detail,0022500077,484,201567,Kevin Love,1610612762,Utah Jazz,3,3,15,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,9,27,1,0,20251128,UTA,SAC
+Shot Chart Detail,0022500077,473,201567,Kevin Love,1610612762,Utah Jazz,3,3,11,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-51,46,1,1,20251128,UTA,SAC
+Shot Chart Detail,0022500150,105,201567,Kevin Love,1610612762,Utah Jazz,1,5,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-110,247,1,0,20251102,CHA,UTA
+Shot Chart Detail,0022500150,659,201567,Kevin Love,1610612762,Utah Jazz,4,5,55,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-146,211,1,0,20251102,CHA,UTA
+Shot Chart Detail,0022500158,64,201567,Kevin Love,1610612762,Utah Jazz,1,6,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,105,231,1,1,20251103,BOS,UTA
+Shot Chart Detail,0022500158,98,201567,Kevin Love,1610612762,Utah Jazz,1,3,28,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,124,232,1,0,20251103,BOS,UTA
+Shot Chart Detail,0022500158,615,201567,Kevin Love,1610612762,Utah Jazz,4,7,17,Made Shot,Reverse Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-42,4,1,1,20251103,BOS,UTA
+Shot Chart Detail,0022500172,157,201567,Kevin Love,1610612762,Utah Jazz,1,0,47,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,55,277,1,0,20251105,DET,UTA
+Shot Chart Detail,0022500172,464,201567,Kevin Love,1610612762,Utah Jazz,3,4,8,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,22,1,0,20251105,DET,UTA
+Shot Chart Detail,0022500172,484,201567,Kevin Love,1610612762,Utah Jazz,3,2,5,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-126,236,1,0,20251105,DET,UTA
+Shot Chart Detail,0022500205,111,201567,Kevin Love,1610612762,Utah Jazz,1,3,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,86,250,1,1,20251110,UTA,MIN
+Shot Chart Detail,0022500205,117,201567,Kevin Love,1610612762,Utah Jazz,1,2,52,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-130,225,1,0,20251110,UTA,MIN
+Shot Chart Detail,0022500205,297,201567,Kevin Love,1610612762,Utah Jazz,2,3,11,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-141,201,1,0,20251110,UTA,MIN
+Shot Chart Detail,0022500205,444,201567,Kevin Love,1610612762,Utah Jazz,3,5,53,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,183,174,1,0,20251110,UTA,MIN
+Shot Chart Detail,0022500205,446,201567,Kevin Love,1610612762,Utah Jazz,3,5,41,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,11,1,1,20251110,UTA,MIN
+Shot Chart Detail,0022500205,483,201567,Kevin Love,1610612762,Utah Jazz,3,3,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,22,-216,65,1,1,20251110,UTA,MIN
+Shot Chart Detail,0022500227,455,201567,Kevin Love,1610612762,Utah Jazz,3,6,2,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-115,224,1,0,20251113,UTA,ATL
+Shot Chart Detail,0022500227,491,201567,Kevin Love,1610612762,Utah Jazz,3,4,23,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-225,74,1,1,20251113,UTA,ATL
+Shot Chart Detail,0022500227,502,201567,Kevin Love,1610612762,Utah Jazz,3,3,40,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-140,197,1,0,20251113,UTA,ATL
+Shot Chart Detail,0022500240,105,201567,Kevin Love,1610612762,Utah Jazz,1,4,49,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-200,200,1,0,20251116,UTA,CHI
+Shot Chart Detail,0022500240,145,201567,Kevin Love,1610612762,Utah Jazz,1,2,32,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,11,256,1,0,20251116,UTA,CHI
+Shot Chart Detail,0022500240,162,201567,Kevin Love,1610612762,Utah Jazz,1,0,58,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-15,263,1,0,20251116,UTA,CHI
+Shot Chart Detail,0022500240,307,201567,Kevin Love,1610612762,Utah Jazz,2,4,41,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-7,255,1,0,20251116,UTA,CHI
+Shot Chart Detail,0022500240,315,201567,Kevin Love,1610612762,Utah Jazz,2,4,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-103,230,1,1,20251116,UTA,CHI
+Shot Chart Detail,0022500240,491,201567,Kevin Love,1610612762,Utah Jazz,3,5,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,67,246,1,1,20251116,UTA,CHI
+Shot Chart Detail,0022500240,513,201567,Kevin Love,1610612762,Utah Jazz,3,3,22,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20251116,UTA,CHI
+Shot Chart Detail,0022500240,646,201567,Kevin Love,1610612762,Utah Jazz,4,7,58,Missed Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-29,17,1,0,20251116,UTA,CHI
+Shot Chart Detail,0022500253,84,201567,Kevin Love,1610612762,Utah Jazz,1,5,6,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,2,276,1,0,20251118,LAL,UTA
+Shot Chart Detail,0022500253,466,201567,Kevin Love,1610612762,Utah Jazz,3,4,22,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,17,1,0,20251118,LAL,UTA
+Shot Chart Detail,0022500282,82,201567,Kevin Love,1610612762,Utah Jazz,1,5,51,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-170,180,1,0,20251123,UTA,LAL
+Shot Chart Detail,0022500282,99,201567,Kevin Love,1610612762,Utah Jazz,1,4,38,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-235,112,1,0,20251123,UTA,LAL
+Shot Chart Detail,0022500282,298,201567,Kevin Love,1610612762,Utah Jazz,2,2,36,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20251123,UTA,LAL
+Shot Chart Detail,0022500282,404,201567,Kevin Love,1610612762,Utah Jazz,3,6,23,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20251123,UTA,LAL
+Shot Chart Detail,0022500282,458,201567,Kevin Love,1610612762,Utah Jazz,3,2,38,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,33,20,1,0,20251123,UTA,LAL
+Shot Chart Detail,0022500316,84,201567,Kevin Love,1610612762,Utah Jazz,1,6,23,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,229,108,1,0,20251201,UTA,HOU
+Shot Chart Detail,0022500316,86,201567,Kevin Love,1610612762,Utah Jazz,1,6,19,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,94,92,1,1,20251201,UTA,HOU
+Shot Chart Detail,0022500316,113,201567,Kevin Love,1610612762,Utah Jazz,1,4,25,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,42,251,1,0,20251201,UTA,HOU
+Shot Chart Detail,0022500316,161,201567,Kevin Love,1610612762,Utah Jazz,1,0,56,Made Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-48,11,1,1,20251201,UTA,HOU
+Shot Chart Detail,0022500316,469,201567,Kevin Love,1610612762,Utah Jazz,3,4,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-164,194,1,1,20251201,UTA,HOU
+Shot Chart Detail,0022500316,475,201567,Kevin Love,1610612762,Utah Jazz,3,3,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-183,183,1,0,20251201,UTA,HOU
+Shot Chart Detail,0022500316,574,201567,Kevin Love,1610612762,Utah Jazz,4,10,11,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,11,1,1,20251201,UTA,HOU
+Shot Chart Detail,0022500343,295,201567,Kevin Love,1610612762,Utah Jazz,2,3,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,81,248,1,1,20251205,NYK,UTA
+Shot Chart Detail,0022500343,299,201567,Kevin Love,1610612762,Utah Jazz,2,3,18,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-216,138,1,0,20251205,NYK,UTA
+Shot Chart Detail,0022500343,484,201567,Kevin Love,1610612762,Utah Jazz,3,3,13,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,9,247,1,0,20251205,NYK,UTA
+Shot Chart Detail,0022500343,488,201567,Kevin Love,1610612762,Utah Jazz,3,2,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-212,184,1,1,20251205,NYK,UTA
+Shot Chart Detail,0022500343,493,201567,Kevin Love,1610612762,Utah Jazz,3,2,13,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20251205,NYK,UTA
+Shot Chart Detail,0022500363,135,201567,Kevin Love,1610612762,Utah Jazz,1,1,34,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-1,262,1,0,20251207,UTA,OKC
+Shot Chart Detail,0022500363,453,201567,Kevin Love,1610612762,Utah Jazz,3,3,47,Missed Shot,Driving Bank Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,59,35,1,0,20251207,UTA,OKC
+Shot Chart Detail,0022500363,466,201567,Kevin Love,1610612762,Utah Jazz,3,3,6,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,-13,1,0,20251207,UTA,OKC
+Shot Chart Detail,0022500379,152,201567,Kevin Love,1610612762,Utah Jazz,1,1,28,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,25,-240,78,1,1,20251218,UTA,LAL
+Shot Chart Detail,0022500379,167,201567,Kevin Love,1610612762,Utah Jazz,1,0,46,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,224,32,1,0,20251218,UTA,LAL
+Shot Chart Detail,0022500379,171,201567,Kevin Love,1610612762,Utah Jazz,1,0,10,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-20,257,1,0,20251218,UTA,LAL
+Shot Chart Detail,0022500379,517,201567,Kevin Love,1610612762,Utah Jazz,3,2,45,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-224,22,1,0,20251218,UTA,LAL
+Shot Chart Detail,0022500379,597,201567,Kevin Love,1610612762,Utah Jazz,4,9,53,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,125,229,1,0,20251218,UTA,LAL
+Shot Chart Detail,0022500393,114,201567,Kevin Love,1610612762,Utah Jazz,1,4,32,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,25,-237,81,1,1,20251220,UTA,ORL
+Shot Chart Detail,0022500393,127,201567,Kevin Love,1610612762,Utah Jazz,1,3,30,Made Shot,Floating Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20251220,UTA,ORL
+Shot Chart Detail,0022500393,139,201567,Kevin Love,1610612762,Utah Jazz,1,2,42,Missed Shot,Floating Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20251220,UTA,ORL
+Shot Chart Detail,0022500393,147,201567,Kevin Love,1610612762,Utah Jazz,1,1,56,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,78,243,1,1,20251220,UTA,ORL
+Shot Chart Detail,0022500393,327,201567,Kevin Love,1610612762,Utah Jazz,2,3,50,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,-5,1,1,20251220,UTA,ORL
+Shot Chart Detail,0022500393,356,201567,Kevin Love,1610612762,Utah Jazz,2,0,55,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,13,257,1,0,20251220,UTA,ORL
+Shot Chart Detail,0022500393,473,201567,Kevin Love,1610612762,Utah Jazz,3,5,3,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,93,235,1,0,20251220,UTA,ORL
+Shot Chart Detail,0022500393,542,201567,Kevin Love,1610612762,Utah Jazz,3,0,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-217,132,1,1,20251220,UTA,ORL
+Shot Chart Detail,0022500393,583,201567,Kevin Love,1610612762,Utah Jazz,4,9,5,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20251220,UTA,ORL
+Shot Chart Detail,0022500393,656,201567,Kevin Love,1610612762,Utah Jazz,4,4,3,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20251220,UTA,ORL
+Shot Chart Detail,0022500393,756,201567,Kevin Love,1610612762,Utah Jazz,5,2,27,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-224,-16,1,0,20251220,UTA,ORL
+Shot Chart Detail,0022500393,769,201567,Kevin Love,1610612762,Utah Jazz,5,1,22,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-17,10,1,1,20251220,UTA,ORL
+Shot Chart Detail,0022500419,13,201567,Kevin Love,1610612762,Utah Jazz,1,11,6,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,103,232,1,0,20251223,UTA,MEM
+Shot Chart Detail,0022500419,21,201567,Kevin Love,1610612762,Utah Jazz,1,10,1,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-235,52,1,1,20251223,UTA,MEM
+Shot Chart Detail,0022500419,45,201567,Kevin Love,1610612762,Utah Jazz,1,7,52,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-112,228,1,0,20251223,UTA,MEM
+Shot Chart Detail,0022500419,201,201567,Kevin Love,1610612762,Utah Jazz,2,11,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-39,258,1,1,20251223,UTA,MEM
+Shot Chart Detail,0022500419,245,201567,Kevin Love,1610612762,Utah Jazz,2,8,4,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-2,252,1,0,20251223,UTA,MEM
+Shot Chart Detail,0022500419,335,201567,Kevin Love,1610612762,Utah Jazz,2,2,18,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,29,-227,183,1,0,20251223,UTA,MEM
+Shot Chart Detail,0022500419,410,201567,Kevin Love,1610612762,Utah Jazz,3,7,37,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,40,247,1,0,20251223,UTA,MEM
+Shot Chart Detail,0022500419,567,201567,Kevin Love,1610612762,Utah Jazz,4,9,50,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,87,242,1,0,20251223,UTA,MEM
+Shot Chart Detail,0022500419,593,201567,Kevin Love,1610612762,Utah Jazz,4,8,20,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-114,220,1,0,20251223,UTA,MEM
+Shot Chart Detail,0022500430,114,201567,Kevin Love,1610612762,Utah Jazz,1,4,6,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-76,274,1,0,20251226,UTA,DET
+Shot Chart Detail,0022500430,118,201567,Kevin Love,1610612762,Utah Jazz,1,3,33,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-47,262,1,0,20251226,UTA,DET
+Shot Chart Detail,0022500430,127,201567,Kevin Love,1610612762,Utah Jazz,1,2,40,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20251226,UTA,DET
+Shot Chart Detail,0022500430,129,201567,Kevin Love,1610612762,Utah Jazz,1,2,39,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20251226,UTA,DET
+Shot Chart Detail,0022500430,291,201567,Kevin Love,1610612762,Utah Jazz,2,4,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,30,-176,247,1,1,20251226,UTA,DET
+Shot Chart Detail,0022500430,474,201567,Kevin Love,1610612762,Utah Jazz,3,5,42,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,-15,1,1,20251226,UTA,DET
+Shot Chart Detail,0022500430,561,201567,Kevin Love,1610612762,Utah Jazz,3,0,34,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-224,75,1,1,20251226,UTA,DET
+Shot Chart Detail,0022500492,26,201567,Kevin Love,1610612762,Utah Jazz,1,9,39,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,54,259,1,0,20260103,GSW,UTA
+Shot Chart Detail,0022500492,206,201567,Kevin Love,1610612762,Utah Jazz,2,9,41,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-26,60,1,1,20260103,GSW,UTA
+Shot Chart Detail,0022500492,238,201567,Kevin Love,1610612762,Utah Jazz,2,7,13,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-16,20,1,0,20260103,GSW,UTA
+Shot Chart Detail,0022500492,258,201567,Kevin Love,1610612762,Utah Jazz,2,6,3,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,5,1,0,20260103,GSW,UTA
+Shot Chart Detail,0022500492,364,201567,Kevin Love,1610612762,Utah Jazz,3,11,42,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,152,231,1,0,20260103,GSW,UTA
+Shot Chart Detail,0022500492,562,201567,Kevin Love,1610612762,Utah Jazz,4,11,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-61,246,1,1,20260103,GSW,UTA
+Shot Chart Detail,0022500531,9,201567,Kevin Love,1610612762,Utah Jazz,1,11,19,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,127,217,1,0,20260108,UTA,DAL
+Shot Chart Detail,0022500531,24,201567,Kevin Love,1610612762,Utah Jazz,1,9,55,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-109,247,1,0,20260108,UTA,DAL
+Shot Chart Detail,0022500531,28,201567,Kevin Love,1610612762,Utah Jazz,1,9,6,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,11,-65,90,1,1,20260108,UTA,DAL
+Shot Chart Detail,0022500531,150,201567,Kevin Love,1610612762,Utah Jazz,2,11,31,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20260108,UTA,DAL
+Shot Chart Detail,0022500531,177,201567,Kevin Love,1610612762,Utah Jazz,2,9,19,Missed Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-104,231,1,0,20260108,UTA,DAL
+Shot Chart Detail,0022500531,252,201567,Kevin Love,1610612762,Utah Jazz,2,5,43,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-92,110,1,0,20260108,UTA,DAL
+Shot Chart Detail,0022500531,356,201567,Kevin Love,1610612762,Utah Jazz,3,10,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,23,-197,137,1,1,20260108,UTA,DAL
+Shot Chart Detail,0022500531,385,201567,Kevin Love,1610612762,Utah Jazz,3,7,43,Missed Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-16,120,1,0,20260108,UTA,DAL
+Shot Chart Detail,0022500531,393,201567,Kevin Love,1610612762,Utah Jazz,3,6,32,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-100,230,1,0,20260108,UTA,DAL
+Shot Chart Detail,0022500531,503,201567,Kevin Love,1610612762,Utah Jazz,4,10,13,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,141,204,1,0,20260108,UTA,DAL
+Shot Chart Detail,0022500531,506,201567,Kevin Love,1610612762,Utah Jazz,4,9,43,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,66,31,1,1,20260108,UTA,DAL
+Shot Chart Detail,0022500547,28,201567,Kevin Love,1610612762,Utah Jazz,1,10,5,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,217,146,1,0,20260110,UTA,CHA
+Shot Chart Detail,0022500547,184,201567,Kevin Love,1610612762,Utah Jazz,2,11,18,Made Shot,Putback Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-45,59,1,1,20260110,UTA,CHA
+Shot Chart Detail,0022500547,194,201567,Kevin Love,1610612762,Utah Jazz,2,9,40,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,29,134,260,1,0,20260110,UTA,CHA
+Shot Chart Detail,0022500547,293,201567,Kevin Love,1610612762,Utah Jazz,2,8,0,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,9,25,1,0,20260110,UTA,CHA
+Shot Chart Detail,0022500547,217,201567,Kevin Love,1610612762,Utah Jazz,2,7,56,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20260110,UTA,CHA
+Shot Chart Detail,0022500558,160,201567,Kevin Love,1610612762,Utah Jazz,1,0,42,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,-6,1,1,20260112,CLE,UTA
+Shot Chart Detail,0022500558,171,201567,Kevin Love,1610612762,Utah Jazz,1,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,32,-16,328,1,0,20260112,CLE,UTA
+Shot Chart Detail,0022500558,465,201567,Kevin Love,1610612762,Utah Jazz,3,3,7,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-135,208,1,0,20260112,CLE,UTA
+Shot Chart Detail,0022500558,491,201567,Kevin Love,1610612762,Utah Jazz,3,0,14,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-229,87,1,1,20260112,CLE,UTA
+Shot Chart Detail,0022500558,525,201567,Kevin Love,1610612762,Utah Jazz,4,9,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-207,158,1,1,20260112,CLE,UTA
+Shot Chart Detail,0022500558,545,201567,Kevin Love,1610612762,Utah Jazz,4,8,39,Made Shot,Hook Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-38,31,1,1,20260112,CLE,UTA
+Shot Chart Detail,0022500611,177,201567,Kevin Love,1610612762,Utah Jazz,2,10,35,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,6,1,1,20260119,SAS,UTA
+Shot Chart Detail,0022500611,443,201567,Kevin Love,1610612762,Utah Jazz,3,5,4,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-70,242,1,0,20260119,SAS,UTA
+Shot Chart Detail,0022500611,460,201567,Kevin Love,1610612762,Utah Jazz,3,3,30,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,24,1,0,20260119,SAS,UTA
+Shot Chart Detail,0022500611,478,201567,Kevin Love,1610612762,Utah Jazz,3,2,4,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,238,26,1,0,20260119,SAS,UTA
+Shot Chart Detail,0022500611,501,201567,Kevin Love,1610612762,Utah Jazz,3,0,27,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,3,1,0,20260119,SAS,UTA
+Shot Chart Detail,0022500611,503,201567,Kevin Love,1610612762,Utah Jazz,3,0,23,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,92,71,1,0,20260119,SAS,UTA
+Shot Chart Detail,0022500632,99,201567,Kevin Love,1610612762,Utah Jazz,1,3,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,25,257,1,1,20260122,UTA,SAS
+Shot Chart Detail,0022500632,108,201567,Kevin Love,1610612762,Utah Jazz,1,3,26,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,-216,15,1,1,20260122,UTA,SAS
+Shot Chart Detail,0022500632,261,201567,Kevin Love,1610612762,Utah Jazz,2,6,28,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-119,132,1,0,20260122,UTA,SAS
+Shot Chart Detail,0022500670,7,201567,Kevin Love,1610612762,Utah Jazz,1,11,36,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,-21,1,0,20260127,UTA,LAC
+Shot Chart Detail,0022500670,17,201567,Kevin Love,1610612762,Utah Jazz,1,10,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-140,206,1,1,20260127,UTA,LAC
+Shot Chart Detail,0022500670,46,201567,Kevin Love,1610612762,Utah Jazz,1,7,19,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,-25,1,0,20260127,UTA,LAC
+Shot Chart Detail,0022500670,57,201567,Kevin Love,1610612762,Utah Jazz,1,6,19,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,105,247,1,0,20260127,UTA,LAC
+Shot Chart Detail,0022500670,507,201567,Kevin Love,1610612762,Utah Jazz,4,11,9,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20260127,UTA,LAC
+Shot Chart Detail,0022500706,125,201567,Kevin Love,1610612762,Utah Jazz,1,2,16,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-223,152,1,0,20260201,TOR,UTA
+Shot Chart Detail,0022500706,130,201567,Kevin Love,1610612762,Utah Jazz,1,2,10,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,1,70,1,1,20260201,TOR,UTA
+Shot Chart Detail,0022500706,560,201567,Kevin Love,1610612762,Utah Jazz,4,11,42,Missed Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,50,56,1,0,20260201,TOR,UTA
+Shot Chart Detail,0022500706,564,201567,Kevin Love,1610612762,Utah Jazz,4,11,7,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,-1,1,1,20260201,TOR,UTA
+Shot Chart Detail,0022500706,579,201567,Kevin Love,1610612762,Utah Jazz,4,10,7,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,162,220,1,0,20260201,TOR,UTA
+Shot Chart Detail,0022500706,592,201567,Kevin Love,1610612762,Utah Jazz,4,9,15,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20260201,TOR,UTA
+Shot Chart Detail,0022500706,602,201567,Kevin Love,1610612762,Utah Jazz,4,8,57,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,66,248,1,0,20260201,TOR,UTA
+Shot Chart Detail,0022500750,201,201567,Kevin Love,1610612762,Utah Jazz,2,9,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-184,182,1,1,20260207,ORL,UTA
+Shot Chart Detail,0022500750,241,201567,Kevin Love,1610612762,Utah Jazz,2,7,22,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-16,263,1,1,20260207,ORL,UTA
+Shot Chart Detail,0022500750,510,201567,Kevin Love,1610612762,Utah Jazz,3,2,51,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-121,221,1,1,20260207,ORL,UTA
+Shot Chart Detail,0022500786,140,201567,Kevin Love,1610612762,Utah Jazz,1,2,26,Missed Shot,Running Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,-5,1,0,20260211,UTA,SAC
+Shot Chart Detail,0022500786,143,201567,Kevin Love,1610612762,Utah Jazz,1,2,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-179,215,1,1,20260211,UTA,SAC
+Shot Chart Detail,0022500786,154,201567,Kevin Love,1610612762,Utah Jazz,1,1,45,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-188,174,1,0,20260211,UTA,SAC
+Shot Chart Detail,0022500786,238,201567,Kevin Love,1610612762,Utah Jazz,2,7,6,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,15,15,1,1,20260211,UTA,SAC
+Shot Chart Detail,0022500786,493,201567,Kevin Love,1610612762,Utah Jazz,3,1,14,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-44,13,1,0,20260211,UTA,SAC
+Shot Chart Detail,0022500804,232,201567,Kevin Love,1610612762,Utah Jazz,2,8,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-89,231,1,1,20260220,MEM,UTA
+Shot Chart Detail,0022500804,236,201567,Kevin Love,1610612762,Utah Jazz,2,7,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,174,187,1,1,20260220,MEM,UTA
+Shot Chart Detail,0022500830,115,201567,Kevin Love,1610612762,Utah Jazz,1,3,29,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-31,254,1,0,20260223,HOU,UTA
+Shot Chart Detail,0022500830,171,201567,Kevin Love,1610612762,Utah Jazz,1,0,27,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-157,194,1,0,20260223,HOU,UTA
+Shot Chart Detail,0022500830,208,201567,Kevin Love,1610612762,Utah Jazz,2,9,42,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,28,259,1,1,20260223,HOU,UTA
+Shot Chart Detail,0022500830,237,201567,Kevin Love,1610612762,Utah Jazz,2,8,15,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-178,190,1,0,20260223,HOU,UTA
+Shot Chart Detail,0022500830,457,201567,Kevin Love,1610612762,Utah Jazz,3,4,0,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,173,171,1,0,20260223,HOU,UTA
+Shot Chart Detail,0022500830,553,201567,Kevin Love,1610612762,Utah Jazz,4,9,2,Made Shot,Turnaround Bank shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,98,38,1,1,20260223,HOU,UTA
+Shot Chart Detail,0022500830,576,201567,Kevin Love,1610612762,Utah Jazz,4,6,25,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-173,187,1,0,20260223,HOU,UTA
+Shot Chart Detail,0022500830,600,201567,Kevin Love,1610612762,Utah Jazz,4,5,27,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20260223,HOU,UTA
+Shot Chart Detail,0022500856,150,201567,Kevin Love,1610612762,Utah Jazz,1,2,18,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,59,252,1,0,20260226,UTA,NOP
+Shot Chart Detail,0022500856,181,201567,Kevin Love,1610612762,Utah Jazz,1,0,4,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,7,1,1,20260226,UTA,NOP
+Shot Chart Detail,0022500856,194,201567,Kevin Love,1610612762,Utah Jazz,2,11,17,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,124,231,1,0,20260226,UTA,NOP
+Shot Chart Detail,0022500856,228,201567,Kevin Love,1610612762,Utah Jazz,2,9,1,Missed Shot,Turnaround Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-6,31,1,0,20260226,UTA,NOP
+Shot Chart Detail,0022500856,548,201567,Kevin Love,1610612762,Utah Jazz,3,2,16,Made Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,40,41,1,1,20260226,UTA,NOP
+Shot Chart Detail,0022500867,148,201567,Kevin Love,1610612762,Utah Jazz,1,2,41,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,41,1,0,20260228,UTA,NOP
+Shot Chart Detail,0022500867,166,201567,Kevin Love,1610612762,Utah Jazz,1,1,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-89,247,1,1,20260228,UTA,NOP
+Shot Chart Detail,0022500867,211,201567,Kevin Love,1610612762,Utah Jazz,2,9,53,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-17,275,1,0,20260228,UTA,NOP
+Shot Chart Detail,0022500867,249,201567,Kevin Love,1610612762,Utah Jazz,2,8,6,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-134,215,1,0,20260228,UTA,NOP
+Shot Chart Detail,0022500919,127,201567,Kevin Love,1610612762,Utah Jazz,1,2,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,199,167,1,1,20260307,MIL,UTA
+Shot Chart Detail,0022500919,148,201567,Kevin Love,1610612762,Utah Jazz,1,1,33,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,64,271,1,0,20260307,MIL,UTA
+Shot Chart Detail,0022500919,466,201567,Kevin Love,1610612762,Utah Jazz,3,3,55,Missed Shot,Running Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,-6,1,0,20260307,MIL,UTA
+Shot Chart Detail,0022500934,178,201567,Kevin Love,1610612762,Utah Jazz,2,11,33,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20260309,UTA,GSW
+Shot Chart Detail,0022500934,198,201567,Kevin Love,1610612762,Utah Jazz,2,9,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-70,252,1,1,20260309,UTA,GSW
+Shot Chart Detail,0022500934,454,201567,Kevin Love,1610612762,Utah Jazz,3,3,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,124,223,1,1,20260309,UTA,GSW
+Shot Chart Detail,0022500934,476,201567,Kevin Love,1610612762,Utah Jazz,3,2,44,Made Shot,Jump Bank Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-229,80,1,1,20260309,UTA,GSW
+Shot Chart Detail,0022500949,130,201567,Kevin Love,1610612762,Utah Jazz,1,3,22,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,46,1,1,20260311,UTA,NYK
+Shot Chart Detail,0022500949,141,201567,Kevin Love,1610612762,Utah Jazz,1,1,26,Missed Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,25,16,1,0,20260311,UTA,NYK
+Shot Chart Detail,0022500949,190,201567,Kevin Love,1610612762,Utah Jazz,2,10,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-217,130,1,1,20260311,UTA,NYK
+Shot Chart Detail,0022500949,331,201567,Kevin Love,1610612762,Utah Jazz,2,1,26,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-233,88,1,0,20260311,UTA,NYK
+Shot Chart Detail,0022501004,77,201567,Kevin Love,1610612762,Utah Jazz,1,6,0,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,229,83,1,1,20260318,MIN,UTA
+Shot Chart Detail,0022501004,100,201567,Kevin Love,1610612762,Utah Jazz,1,4,42,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-222,98,1,0,20260318,MIN,UTA
+Shot Chart Detail,0022501004,107,201567,Kevin Love,1610612762,Utah Jazz,1,4,4,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-6,11,1,0,20260318,MIN,UTA
+Shot Chart Detail,0022501004,148,201567,Kevin Love,1610612762,Utah Jazz,1,1,41,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-156,192,1,0,20260318,MIN,UTA
+Shot Chart Detail,0022501004,161,201567,Kevin Love,1610612762,Utah Jazz,1,1,5,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-67,252,1,0,20260318,MIN,UTA
+Shot Chart Detail,0022501004,440,201567,Kevin Love,1610612762,Utah Jazz,3,6,14,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,158,181,1,0,20260318,MIN,UTA
+Shot Chart Detail,0022501213,124,201567,Kevin Love,1610612762,Utah Jazz,1,4,29,Made Shot,Cutting Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,10,1,1,20251212,MEM,UTA
+Shot Chart Detail,0022501213,143,201567,Kevin Love,1610612762,Utah Jazz,1,3,29,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,131,227,1,0,20251212,MEM,UTA
+Shot Chart Detail,0022501213,150,201567,Kevin Love,1610612762,Utah Jazz,1,2,52,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-56,258,1,0,20251212,MEM,UTA
+Shot Chart Detail,0022501213,174,201567,Kevin Love,1610612762,Utah Jazz,1,1,15,Missed Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,16,75,1,0,20251212,MEM,UTA
+Shot Chart Detail,0022501213,184,201567,Kevin Love,1610612762,Utah Jazz,1,0,50,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20251212,MEM,UTA
+Shot Chart Detail,0022501213,466,201567,Kevin Love,1610612762,Utah Jazz,3,7,11,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,12,-67,110,1,1,20251212,MEM,UTA
+Shot Chart Detail,0022501213,473,201567,Kevin Love,1610612762,Utah Jazz,3,6,8,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-158,201,1,0,20251212,MEM,UTA
+Shot Chart Detail,0022501213,523,201567,Kevin Love,1610612762,Utah Jazz,3,2,51,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20251212,MEM,UTA
+Shot Chart Detail,0022501213,544,201567,Kevin Love,1610612762,Utah Jazz,3,1,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,96,252,1,1,20251212,MEM,UTA
+Shot Chart Detail,0022501213,551,201567,Kevin Love,1610612762,Utah Jazz,3,1,0,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,28,1,1,20251212,MEM,UTA
+Shot Chart Detail,0022501213,555,201567,Kevin Love,1610612762,Utah Jazz,3,0,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-192,172,1,1,20251212,MEM,UTA
+Shot Chart Detail,0022501213,559,201567,Kevin Love,1610612762,Utah Jazz,3,0,3,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-224,115,1,0,20251212,MEM,UTA
+Shot Chart Detail,0022501213,687,201567,Kevin Love,1610612762,Utah Jazz,4,3,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,153,210,1,1,20251212,MEM,UTA
+Shot Chart Detail,0022501213,698,201567,Kevin Love,1610612762,Utah Jazz,4,2,18,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,145,236,1,0,20251212,MEM,UTA
+Shot Chart Detail,0022501213,707,201567,Kevin Love,1610612762,Utah Jazz,4,1,23,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-202,159,1,0,20251212,MEM,UTA

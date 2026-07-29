@@ -1,0 +1,14 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0042500143,122,1628960,Grayson Allen,1610612756,Phoenix Suns,1,2,36,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,156,229,1,0,20260425,PHX,OKC
+Shot Chart Detail,0042500143,125,1628960,Grayson Allen,1610612756,Phoenix Suns,1,2,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,140,248,1,1,20260425,PHX,OKC
+Shot Chart Detail,0042500143,130,1628960,Grayson Allen,1610612756,Phoenix Suns,1,1,35,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-113,226,1,0,20260425,PHX,OKC
+Shot Chart Detail,0042500143,170,1628960,Grayson Allen,1610612756,Phoenix Suns,2,11,43,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,161,225,1,0,20260425,PHX,OKC
+Shot Chart Detail,0042500143,188,1628960,Grayson Allen,1610612756,Phoenix Suns,2,9,50,Made Shot,Step Back Jump shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,-7,1,1,20260425,PHX,OKC
+Shot Chart Detail,0042500143,280,1628960,Grayson Allen,1610612756,Phoenix Suns,2,3,20,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,91,250,1,0,20260425,PHX,OKC
+Shot Chart Detail,0042500143,292,1628960,Grayson Allen,1610612756,Phoenix Suns,2,2,32,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,186,195,1,0,20260425,PHX,OKC
+Shot Chart Detail,0042500143,511,1628960,Grayson Allen,1610612756,Phoenix Suns,4,10,16,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,18,1,0,20260425,PHX,OKC
+Shot Chart Detail,0042500144,158,1628960,Grayson Allen,1610612756,Phoenix Suns,1,0,4,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,20,252,1,1,20260427,PHX,OKC
+Shot Chart Detail,0042500144,183,1628960,Grayson Allen,1610612756,Phoenix Suns,2,11,0,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,36,58,1,1,20260427,PHX,OKC
+Shot Chart Detail,0042500144,203,1628960,Grayson Allen,1610612756,Phoenix Suns,2,8,22,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,8,1,1,20260427,PHX,OKC
+Shot Chart Detail,0042500144,222,1628960,Grayson Allen,1610612756,Phoenix Suns,2,6,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,203,177,1,1,20260427,PHX,OKC
+Shot Chart Detail,0042500144,568,1628960,Grayson Allen,1610612756,Phoenix Suns,4,7,31,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-176,196,1,0,20260427,PHX,OKC

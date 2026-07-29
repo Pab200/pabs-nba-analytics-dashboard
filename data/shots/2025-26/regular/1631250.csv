@@ -1,0 +1,195 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0022500014,128,1631250,Pete Nance,1610612749,Milwaukee Bucks,1,1,1,Missed Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,10,1,0,20260119,ATL,MIL
+Shot Chart Detail,0022500014,503,1631250,Pete Nance,1610612749,Milwaukee Bucks,4,10,39,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,17,1,1,20260119,ATL,MIL
+Shot Chart Detail,0022500014,528,1631250,Pete Nance,1610612749,Milwaukee Bucks,4,9,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,107,239,1,1,20260119,ATL,MIL
+Shot Chart Detail,0022500213,615,1631250,Pete Nance,1610612749,Milwaukee Bucks,4,3,26,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,11,1,1,20251112,CHA,MIL
+Shot Chart Detail,0022500213,629,1631250,Pete Nance,1610612749,Milwaukee Bucks,4,2,22,Made Shot,Driving Bank Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,70,29,1,1,20251112,CHA,MIL
+Shot Chart Detail,0022500213,636,1631250,Pete Nance,1610612749,Milwaukee Bucks,4,1,56,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,88,246,1,0,20251112,CHA,MIL
+Shot Chart Detail,0022500213,652,1631250,Pete Nance,1610612749,Milwaukee Bucks,4,0,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-44,241,1,1,20251112,CHA,MIL
+Shot Chart Detail,0022500213,657,1631250,Pete Nance,1610612749,Milwaukee Bucks,4,0,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,158,192,1,1,20251112,CHA,MIL
+Shot Chart Detail,0022500272,644,1631250,Pete Nance,1610612749,Milwaukee Bucks,4,1,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,194,153,1,1,20251122,MIL,DET
+Shot Chart Detail,0022500353,648,1631250,Pete Nance,1610612749,Milwaukee Bucks,4,4,14,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-131,246,1,0,20251206,DET,MIL
+Shot Chart Detail,0022500353,701,1631250,Pete Nance,1610612749,Milwaukee Bucks,4,1,9,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-157,209,1,0,20251206,DET,MIL
+Shot Chart Detail,0022500353,703,1631250,Pete Nance,1610612749,Milwaukee Bucks,4,1,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-168,193,1,1,20251206,DET,MIL
+Shot Chart Detail,0022500566,588,1631250,Pete Nance,1610612749,Milwaukee Bucks,4,3,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-21,264,1,1,20260113,MIL,MIN
+Shot Chart Detail,0022500566,614,1631250,Pete Nance,1610612749,Milwaukee Bucks,4,1,42,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-105,232,1,0,20260113,MIL,MIN
+Shot Chart Detail,0022500566,626,1631250,Pete Nance,1610612749,Milwaukee Bucks,4,1,11,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,16,83,1,1,20260113,MIL,MIN
+Shot Chart Detail,0022500582,555,1631250,Pete Nance,1610612749,Milwaukee Bucks,4,7,57,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,61,27,1,1,20260115,SAS,MIL
+Shot Chart Detail,0022500625,96,1631250,Pete Nance,1610612749,Milwaukee Bucks,1,3,9,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,30,1,1,20260121,MIL,OKC
+Shot Chart Detail,0022500625,121,1631250,Pete Nance,1610612749,Milwaukee Bucks,1,1,4,Missed Shot,Turnaround Bank Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,78,46,1,0,20260121,MIL,OKC
+Shot Chart Detail,0022500625,124,1631250,Pete Nance,1610612749,Milwaukee Bucks,1,0,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-222,163,1,1,20260121,MIL,OKC
+Shot Chart Detail,0022500625,146,1631250,Pete Nance,1610612749,Milwaukee Bucks,2,11,25,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260121,MIL,OKC
+Shot Chart Detail,0022500625,220,1631250,Pete Nance,1610612749,Milwaukee Bucks,2,4,33,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-227,40,1,0,20260121,MIL,OKC
+Shot Chart Detail,0022500625,396,1631250,Pete Nance,1610612749,Milwaukee Bucks,3,5,12,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,240,23,1,0,20260121,MIL,OKC
+Shot Chart Detail,0022500625,486,1631250,Pete Nance,1610612749,Milwaukee Bucks,4,11,44,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,27,1,1,20260121,MIL,OKC
+Shot Chart Detail,0022500640,136,1631250,Pete Nance,1610612749,Milwaukee Bucks,1,1,11,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-238,100,1,0,20260123,MIL,DEN
+Shot Chart Detail,0022500652,170,1631250,Pete Nance,1610612749,Milwaukee Bucks,1,0,4,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260331,MIL,DAL
+Shot Chart Detail,0022500652,552,1631250,Pete Nance,1610612749,Milwaukee Bucks,4,10,5,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,51,258,1,0,20260331,MIL,DAL
+Shot Chart Detail,0022500652,560,1631250,Pete Nance,1610612749,Milwaukee Bucks,4,9,36,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-100,249,1,0,20260331,MIL,DAL
+Shot Chart Detail,0022500652,582,1631250,Pete Nance,1610612749,Milwaukee Bucks,4,8,27,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-232,66,1,1,20260331,MIL,DAL
+Shot Chart Detail,0022500652,600,1631250,Pete Nance,1610612749,Milwaukee Bucks,4,7,18,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-228,86,1,1,20260331,MIL,DAL
+Shot Chart Detail,0022500652,604,1631250,Pete Nance,1610612749,Milwaukee Bucks,4,6,50,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-9,22,1,1,20260331,MIL,DAL
+Shot Chart Detail,0022500652,624,1631250,Pete Nance,1610612749,Milwaukee Bucks,4,5,26,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,4,257,1,0,20260331,MIL,DAL
+Shot Chart Detail,0022500666,672,1631250,Pete Nance,1610612749,Milwaukee Bucks,4,0,45,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,0,1,1,20260127,PHI,MIL
+Shot Chart Detail,0022500666,676,1631250,Pete Nance,1610612749,Milwaukee Bucks,4,0,16,Missed Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-103,-2,1,0,20260127,PHI,MIL
+Shot Chart Detail,0022500681,132,1631250,Pete Nance,1610612749,Milwaukee Bucks,1,3,0,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,26,1,1,20260129,WAS,MIL
+Shot Chart Detail,0022500681,162,1631250,Pete Nance,1610612749,Milwaukee Bucks,1,0,44,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260129,WAS,MIL
+Shot Chart Detail,0022500681,204,1631250,Pete Nance,1610612749,Milwaukee Bucks,2,10,43,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,238,9,1,0,20260129,WAS,MIL
+Shot Chart Detail,0022500681,286,1631250,Pete Nance,1610612749,Milwaukee Bucks,2,4,33,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,245,5,1,0,20260129,WAS,MIL
+Shot Chart Detail,0022500681,290,1631250,Pete Nance,1610612749,Milwaukee Bucks,2,4,26,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,34,0,1,0,20260129,WAS,MIL
+Shot Chart Detail,0022500681,334,1631250,Pete Nance,1610612749,Milwaukee Bucks,2,0,38,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,6,1,1,20260129,WAS,MIL
+Shot Chart Detail,0022500681,446,1631250,Pete Nance,1610612749,Milwaukee Bucks,3,5,19,Made Shot,Floating Jump shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,21,22,1,1,20260129,WAS,MIL
+Shot Chart Detail,0022500681,472,1631250,Pete Nance,1610612749,Milwaukee Bucks,3,3,42,Missed Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-25,28,1,0,20260129,WAS,MIL
+Shot Chart Detail,0022500681,500,1631250,Pete Nance,1610612749,Milwaukee Bucks,3,1,45,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,7,1,1,20260129,WAS,MIL
+Shot Chart Detail,0022500681,507,1631250,Pete Nance,1610612749,Milwaukee Bucks,3,1,10,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,27,-6,1,1,20260129,WAS,MIL
+Shot Chart Detail,0022500702,119,1631250,Pete Nance,1610612749,Milwaukee Bucks,1,1,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-123,236,1,1,20260201,BOS,MIL
+Shot Chart Detail,0022500702,139,1631250,Pete Nance,1610612749,Milwaukee Bucks,2,11,19,Missed Shot,Cutting Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,40,8,1,0,20260201,BOS,MIL
+Shot Chart Detail,0022500702,157,1631250,Pete Nance,1610612749,Milwaukee Bucks,2,10,11,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,49,246,1,0,20260201,BOS,MIL
+Shot Chart Detail,0022500702,169,1631250,Pete Nance,1610612749,Milwaukee Bucks,2,8,8,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-77,-4,1,1,20260201,BOS,MIL
+Shot Chart Detail,0022500702,239,1631250,Pete Nance,1610612749,Milwaukee Bucks,2,2,37,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,47,46,1,1,20260201,BOS,MIL
+Shot Chart Detail,0022500702,259,1631250,Pete Nance,1610612749,Milwaukee Bucks,2,0,38,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-161,209,1,0,20260201,BOS,MIL
+Shot Chart Detail,0022500722,93,1631250,Pete Nance,1610612749,Milwaukee Bucks,1,5,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-24,257,1,1,20260203,MIL,CHI
+Shot Chart Detail,0022500722,446,1631250,Pete Nance,1610612749,Milwaukee Bucks,3,3,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,211,166,1,1,20260203,MIL,CHI
+Shot Chart Detail,0022500722,470,1631250,Pete Nance,1610612749,Milwaukee Bucks,3,2,41,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-229,105,1,0,20260203,MIL,CHI
+Shot Chart Detail,0022500722,498,1631250,Pete Nance,1610612749,Milwaukee Bucks,3,0,52,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,0,1,1,20260203,MIL,CHI
+Shot Chart Detail,0022500722,504,1631250,Pete Nance,1610612749,Milwaukee Bucks,3,0,33,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,3,1,1,20260203,MIL,CHI
+Shot Chart Detail,0022500722,535,1631250,Pete Nance,1610612749,Milwaukee Bucks,4,10,8,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-221,10,1,0,20260203,MIL,CHI
+Shot Chart Detail,0022500722,554,1631250,Pete Nance,1610612749,Milwaukee Bucks,4,8,52,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,13,1,1,20260203,MIL,CHI
+Shot Chart Detail,0022500722,581,1631250,Pete Nance,1610612749,Milwaukee Bucks,4,6,47,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-224,64,1,1,20260203,MIL,CHI
+Shot Chart Detail,0022500729,84,1631250,Pete Nance,1610612749,Milwaukee Bucks,1,4,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,118,237,1,1,20260204,MIL,NOP
+Shot Chart Detail,0022500729,127,1631250,Pete Nance,1610612749,Milwaukee Bucks,1,0,15,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,249,15,1,1,20260204,MIL,NOP
+Shot Chart Detail,0022500729,147,1631250,Pete Nance,1610612749,Milwaukee Bucks,2,10,45,Made Shot,Running Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,10,1,1,20260204,MIL,NOP
+Shot Chart Detail,0022500729,155,1631250,Pete Nance,1610612749,Milwaukee Bucks,2,9,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,141,220,1,1,20260204,MIL,NOP
+Shot Chart Detail,0022500729,158,1631250,Pete Nance,1610612749,Milwaukee Bucks,2,9,13,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-62,267,1,0,20260204,MIL,NOP
+Shot Chart Detail,0022500729,480,1631250,Pete Nance,1610612749,Milwaukee Bucks,4,8,35,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,107,235,1,0,20260204,MIL,NOP
+Shot Chart Detail,0022500729,497,1631250,Pete Nance,1610612749,Milwaukee Bucks,4,7,58,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,94,247,1,0,20260204,MIL,NOP
+Shot Chart Detail,0022500729,510,1631250,Pete Nance,1610612749,Milwaukee Bucks,4,7,8,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260204,MIL,NOP
+Shot Chart Detail,0022500729,521,1631250,Pete Nance,1610612749,Milwaukee Bucks,4,5,51,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,-4,1,1,20260204,MIL,NOP
+Shot Chart Detail,0022500743,232,1631250,Pete Nance,1610612749,Milwaukee Bucks,2,5,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,235,113,1,1,20260206,MIL,IND
+Shot Chart Detail,0022500743,474,1631250,Pete Nance,1610612749,Milwaukee Bucks,4,9,30,Missed Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,5,43,1,0,20260206,MIL,IND
+Shot Chart Detail,0022500743,465,1631250,Pete Nance,1610612749,Milwaukee Bucks,4,9,2,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,-5,1,1,20260206,MIL,IND
+Shot Chart Detail,0022500764,642,1631250,Pete Nance,1610612749,Milwaukee Bucks,4,2,25,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,9,1,1,20260209,ORL,MIL
+Shot Chart Detail,0022500764,674,1631250,Pete Nance,1610612749,Milwaukee Bucks,4,0,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-136,214,1,1,20260209,ORL,MIL
+Shot Chart Detail,0022500789,149,1631250,Pete Nance,1610612749,Milwaukee Bucks,1,0,46,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-34,283,1,1,20260212,OKC,MIL
+Shot Chart Detail,0022500789,211,1631250,Pete Nance,1610612749,Milwaukee Bucks,2,8,6,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,165,190,1,0,20260212,OKC,MIL
+Shot Chart Detail,0022500789,392,1631250,Pete Nance,1610612749,Milwaukee Bucks,3,6,32,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,-4,1,1,20260212,OKC,MIL
+Shot Chart Detail,0022500789,410,1631250,Pete Nance,1610612749,Milwaukee Bucks,3,5,29,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,217,140,1,0,20260212,OKC,MIL
+Shot Chart Detail,0022500789,473,1631250,Pete Nance,1610612749,Milwaukee Bucks,3,0,30,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,-2,1,1,20260212,OKC,MIL
+Shot Chart Detail,0022500789,498,1631250,Pete Nance,1610612749,Milwaukee Bucks,4,10,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-27,264,1,1,20260212,OKC,MIL
+Shot Chart Detail,0022500807,118,1631250,Pete Nance,1610612749,Milwaukee Bucks,1,3,9,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,56,1,0,20260220,NOP,MIL
+Shot Chart Detail,0022500807,143,1631250,Pete Nance,1610612749,Milwaukee Bucks,1,0,58,Missed Shot,Turnaround Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,6,29,1,0,20260220,NOP,MIL
+Shot Chart Detail,0022500807,267,1631250,Pete Nance,1610612749,Milwaukee Bucks,2,5,32,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,6,1,1,20260220,NOP,MIL
+Shot Chart Detail,0022500807,454,1631250,Pete Nance,1610612749,Milwaukee Bucks,3,4,12,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,37,-170,333,1,0,20260220,NOP,MIL
+Shot Chart Detail,0022500807,512,1631250,Pete Nance,1610612749,Milwaukee Bucks,4,11,14,Missed Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,12,1,0,20260220,NOP,MIL
+Shot Chart Detail,0022500807,544,1631250,Pete Nance,1610612749,Milwaukee Bucks,4,8,34,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,13,1,1,20260220,NOP,MIL
+Shot Chart Detail,0022500807,555,1631250,Pete Nance,1610612749,Milwaukee Bucks,4,7,57,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,13,1,1,20260220,NOP,MIL
+Shot Chart Detail,0022500807,565,1631250,Pete Nance,1610612749,Milwaukee Bucks,4,6,58,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,-24,1,1,20260220,NOP,MIL
+Shot Chart Detail,0022500819,456,1631250,Pete Nance,1610612749,Milwaukee Bucks,3,2,16,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,219,140,1,0,20260222,MIL,TOR
+Shot Chart Detail,0022500819,478,1631250,Pete Nance,1610612749,Milwaukee Bucks,3,1,40,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,173,199,1,0,20260222,MIL,TOR
+Shot Chart Detail,0022500860,566,1631250,Pete Nance,1610612749,Milwaukee Bucks,4,5,57,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-239,36,1,0,20260227,MIL,NYK
+Shot Chart Detail,0022500860,614,1631250,Pete Nance,1610612749,Milwaukee Bucks,4,2,14,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,29,-206,205,1,0,20260227,MIL,NYK
+Shot Chart Detail,0022500870,659,1631250,Pete Nance,1610612749,Milwaukee Bucks,4,2,48,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-176,189,1,0,20260301,CHI,MIL
+Shot Chart Detail,0022500880,449,1631250,Pete Nance,1610612749,Milwaukee Bucks,3,3,41,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,54,1,1,20260302,MIL,BOS
+Shot Chart Detail,0022500880,454,1631250,Pete Nance,1610612749,Milwaukee Bucks,3,2,54,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-233,79,1,1,20260302,MIL,BOS
+Shot Chart Detail,0022500897,162,1631250,Pete Nance,1610612749,Milwaukee Bucks,2,10,8,Missed Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,16,59,1,0,20260304,MIL,ATL
+Shot Chart Detail,0022500897,442,1631250,Pete Nance,1610612749,Milwaukee Bucks,3,0,11,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,2,1,1,20260304,MIL,ATL
+Shot Chart Detail,0022500919,298,1631250,Pete Nance,1610612749,Milwaukee Bucks,2,1,38,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,37,1,1,20260307,MIL,UTA
+Shot Chart Detail,0022500919,304,1631250,Pete Nance,1610612749,Milwaukee Bucks,2,1,10,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,48,1,0,20260307,MIL,UTA
+Shot Chart Detail,0022500919,474,1631250,Pete Nance,1610612749,Milwaukee Bucks,3,3,2,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-48,266,1,0,20260307,MIL,UTA
+Shot Chart Detail,0022500919,487,1631250,Pete Nance,1610612749,Milwaukee Bucks,3,2,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,96,239,1,0,20260307,MIL,UTA
+Shot Chart Detail,0022500919,514,1631250,Pete Nance,1610612749,Milwaukee Bucks,4,11,6,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,10,40,1,1,20260307,MIL,UTA
+Shot Chart Detail,0022500926,103,1631250,Pete Nance,1610612749,Milwaukee Bucks,1,3,25,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-17,21,1,1,20260308,MIL,ORL
+Shot Chart Detail,0022500926,560,1631250,Pete Nance,1610612749,Milwaukee Bucks,4,7,37,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,16,1,1,20260308,MIL,ORL
+Shot Chart Detail,0022500926,575,1631250,Pete Nance,1610612749,Milwaukee Bucks,4,6,29,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260308,MIL,ORL
+Shot Chart Detail,0022500926,581,1631250,Pete Nance,1610612749,Milwaukee Bucks,4,5,46,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-16,270,1,0,20260308,MIL,ORL
+Shot Chart Detail,0022500926,623,1631250,Pete Nance,1610612749,Milwaukee Bucks,4,1,46,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,137,221,1,0,20260308,MIL,ORL
+Shot Chart Detail,0022500941,281,1631250,Pete Nance,1610612749,Milwaukee Bucks,2,4,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-186,163,1,0,20260310,MIL,PHX
+Shot Chart Detail,0022500941,299,1631250,Pete Nance,1610612749,Milwaukee Bucks,2,2,39,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,192,189,1,0,20260310,MIL,PHX
+Shot Chart Detail,0022500970,469,1631250,Pete Nance,1610612749,Milwaukee Bucks,3,0,31,Made Shot,Jump Bank Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,103,246,1,1,20260314,ATL,MIL
+Shot Chart Detail,0022500970,639,1631250,Pete Nance,1610612749,Milwaukee Bucks,4,2,10,Missed Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-67,256,1,0,20260314,ATL,MIL
+Shot Chart Detail,0022500995,173,1631250,Pete Nance,1610612749,Milwaukee Bucks,2,10,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-180,221,1,1,20260317,MIL,CLE
+Shot Chart Detail,0022500995,460,1631250,Pete Nance,1610612749,Milwaukee Bucks,4,11,39,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260317,MIL,CLE
+Shot Chart Detail,0022500995,500,1631250,Pete Nance,1610612749,Milwaukee Bucks,4,8,33,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,48,1,0,20260317,MIL,CLE
+Shot Chart Detail,0022500995,514,1631250,Pete Nance,1610612749,Milwaukee Bucks,4,7,43,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-16,26,1,1,20260317,MIL,CLE
+Shot Chart Detail,0022500995,525,1631250,Pete Nance,1610612749,Milwaukee Bucks,4,7,6,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,13,1,1,20260317,MIL,CLE
+Shot Chart Detail,0022500995,553,1631250,Pete Nance,1610612749,Milwaukee Bucks,4,5,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,230,90,1,1,20260317,MIL,CLE
+Shot Chart Detail,0022501014,520,1631250,Pete Nance,1610612749,Milwaukee Bucks,4,10,50,Missed Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,15,1,0,20260319,UTA,MIL
+Shot Chart Detail,0022501014,584,1631250,Pete Nance,1610612749,Milwaukee Bucks,4,5,18,Missed Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,28,25,1,0,20260319,UTA,MIL
+Shot Chart Detail,0022501031,176,1631250,Pete Nance,1610612749,Milwaukee Bucks,2,10,59,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,10,1,1,20260321,PHX,MIL
+Shot Chart Detail,0022501031,210,1631250,Pete Nance,1610612749,Milwaukee Bucks,2,8,20,Missed Shot,Driving Bank Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,116,71,1,0,20260321,PHX,MIL
+Shot Chart Detail,0022501031,456,1631250,Pete Nance,1610612749,Milwaukee Bucks,3,0,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-59,272,1,1,20260321,PHX,MIL
+Shot Chart Detail,0022501046,142,1631250,Pete Nance,1610612749,Milwaukee Bucks,1,1,34,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,-2,1,1,20260323,LAC,MIL
+Shot Chart Detail,0022501046,187,1631250,Pete Nance,1610612749,Milwaukee Bucks,2,9,52,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20260323,LAC,MIL
+Shot Chart Detail,0022501046,209,1631250,Pete Nance,1610612749,Milwaukee Bucks,2,8,32,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,-10,1,1,20260323,LAC,MIL
+Shot Chart Detail,0022501046,258,1631250,Pete Nance,1610612749,Milwaukee Bucks,2,3,53,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,244,0,1,0,20260323,LAC,MIL
+Shot Chart Detail,0022501046,446,1631250,Pete Nance,1610612749,Milwaukee Bucks,3,2,51,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,7,22,1,1,20260323,LAC,MIL
+Shot Chart Detail,0022501046,449,1631250,Pete Nance,1610612749,Milwaukee Bucks,3,2,20,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,125,239,1,0,20260323,LAC,MIL
+Shot Chart Detail,0022501046,453,1631250,Pete Nance,1610612749,Milwaukee Bucks,3,1,38,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,229,80,1,1,20260323,LAC,MIL
+Shot Chart Detail,0022501046,491,1631250,Pete Nance,1610612749,Milwaukee Bucks,4,10,28,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,228,58,1,0,20260323,LAC,MIL
+Shot Chart Detail,0022501046,518,1631250,Pete Nance,1610612749,Milwaukee Bucks,4,8,9,Missed Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-10,84,1,0,20260323,LAC,MIL
+Shot Chart Detail,0022501046,524,1631250,Pete Nance,1610612749,Milwaukee Bucks,4,7,39,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260323,LAC,MIL
+Shot Chart Detail,0022501046,536,1631250,Pete Nance,1610612749,Milwaukee Bucks,4,6,29,Missed Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-17,54,1,0,20260323,LAC,MIL
+Shot Chart Detail,0022501046,546,1631250,Pete Nance,1610612749,Milwaukee Bucks,4,5,13,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-74,165,1,0,20260323,LAC,MIL
+Shot Chart Detail,0022501061,204,1631250,Pete Nance,1610612749,Milwaukee Bucks,2,11,41,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-72,255,1,0,20260325,POR,MIL
+Shot Chart Detail,0022501061,323,1631250,Pete Nance,1610612749,Milwaukee Bucks,2,2,45,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,36,10,1,1,20260325,POR,MIL
+Shot Chart Detail,0022501061,414,1631250,Pete Nance,1610612749,Milwaukee Bucks,3,9,19,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-173,184,1,0,20260325,POR,MIL
+Shot Chart Detail,0022501061,468,1631250,Pete Nance,1610612749,Milwaukee Bucks,3,4,45,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-109,248,1,0,20260325,POR,MIL
+Shot Chart Detail,0022501061,484,1631250,Pete Nance,1610612749,Milwaukee Bucks,3,3,59,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,229,28,1,1,20260325,POR,MIL
+Shot Chart Detail,0022501061,529,1631250,Pete Nance,1610612749,Milwaukee Bucks,3,0,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-69,256,1,0,20260325,POR,MIL
+Shot Chart Detail,0022501076,25,1631250,Pete Nance,1610612749,Milwaukee Bucks,1,10,12,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,8,62,1,1,20260328,MIL,SAS
+Shot Chart Detail,0022501076,228,1631250,Pete Nance,1610612749,Milwaukee Bucks,2,6,27,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,6,1,0,20260328,MIL,SAS
+Shot Chart Detail,0022501076,346,1631250,Pete Nance,1610612749,Milwaukee Bucks,3,9,3,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,-16,1,1,20260328,MIL,SAS
+Shot Chart Detail,0022501082,10,1631250,Pete Nance,1610612749,Milwaukee Bucks,1,11,42,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,34,1,0,20260329,MIL,LAC
+Shot Chart Detail,0022501082,28,1631250,Pete Nance,1610612749,Milwaukee Bucks,1,9,47,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,-6,1,0,20260329,MIL,LAC
+Shot Chart Detail,0022501082,97,1631250,Pete Nance,1610612749,Milwaukee Bucks,1,3,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,225,139,1,0,20260329,MIL,LAC
+Shot Chart Detail,0022501082,102,1631250,Pete Nance,1610612749,Milwaukee Bucks,1,3,8,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,16,1,1,20260329,MIL,LAC
+Shot Chart Detail,0022501082,158,1631250,Pete Nance,1610612749,Milwaukee Bucks,2,10,37,Missed Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,7,38,1,0,20260329,MIL,LAC
+Shot Chart Detail,0022501082,248,1631250,Pete Nance,1610612749,Milwaukee Bucks,2,3,4,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,229,-10,1,0,20260329,MIL,LAC
+Shot Chart Detail,0022501082,314,1631250,Pete Nance,1610612749,Milwaukee Bucks,3,11,14,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-7,157,1,0,20260329,MIL,LAC
+Shot Chart Detail,0022501082,324,1631250,Pete Nance,1610612749,Milwaukee Bucks,3,10,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,111,226,1,1,20260329,MIL,LAC
+Shot Chart Detail,0022501082,432,1631250,Pete Nance,1610612749,Milwaukee Bucks,3,2,41,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,-8,1,0,20260329,MIL,LAC
+Shot Chart Detail,0022501110,41,1631250,Pete Nance,1610612749,Milwaukee Bucks,1,9,4,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,55,252,1,0,20260401,HOU,MIL
+Shot Chart Detail,0022501110,47,1631250,Pete Nance,1610612749,Milwaukee Bucks,1,8,43,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-5,71,1,1,20260401,HOU,MIL
+Shot Chart Detail,0022501110,56,1631250,Pete Nance,1610612749,Milwaukee Bucks,1,8,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,163,182,1,1,20260401,HOU,MIL
+Shot Chart Detail,0022501110,125,1631250,Pete Nance,1610612749,Milwaukee Bucks,1,3,19,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-36,264,1,0,20260401,HOU,MIL
+Shot Chart Detail,0022501110,160,1631250,Pete Nance,1610612749,Milwaukee Bucks,1,0,24,Made Shot,Cutting Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,1,1,1,20260401,HOU,MIL
+Shot Chart Detail,0022501110,245,1631250,Pete Nance,1610612749,Milwaukee Bucks,2,5,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,163,200,1,1,20260401,HOU,MIL
+Shot Chart Detail,0022501110,293,1631250,Pete Nance,1610612749,Milwaukee Bucks,2,0,59,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,5,1,1,20260401,HOU,MIL
+Shot Chart Detail,0022501110,310,1631250,Pete Nance,1610612749,Milwaukee Bucks,3,11,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,191,218,1,0,20260401,HOU,MIL
+Shot Chart Detail,0022501110,341,1631250,Pete Nance,1610612749,Milwaukee Bucks,3,8,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,29,-89,277,1,1,20260401,HOU,MIL
+Shot Chart Detail,0022501110,345,1631250,Pete Nance,1610612749,Milwaukee Bucks,3,7,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-100,262,1,1,20260401,HOU,MIL
+Shot Chart Detail,0022501110,412,1631250,Pete Nance,1610612749,Milwaukee Bucks,3,1,37,Missed Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-104,264,1,0,20260401,HOU,MIL
+Shot Chart Detail,0022501110,417,1631250,Pete Nance,1610612749,Milwaukee Bucks,3,0,55,Made Shot,Hook Bank Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,20,23,1,1,20260401,HOU,MIL
+Shot Chart Detail,0022501110,537,1631250,Pete Nance,1610612749,Milwaukee Bucks,4,3,22,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,240,26,1,1,20260401,HOU,MIL
+Shot Chart Detail,0022501126,192,1631250,Pete Nance,1610612749,Milwaukee Bucks,2,10,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-108,218,1,1,20260403,MIL,BOS
+Shot Chart Detail,0022501126,270,1631250,Pete Nance,1610612749,Milwaukee Bucks,2,4,41,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,171,187,1,0,20260403,MIL,BOS
+Shot Chart Detail,0022501126,273,1631250,Pete Nance,1610612749,Milwaukee Bucks,2,4,15,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,6,1,1,20260403,MIL,BOS
+Shot Chart Detail,0022501126,281,1631250,Pete Nance,1610612749,Milwaukee Bucks,2,3,45,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-64,253,1,0,20260403,MIL,BOS
+Shot Chart Detail,0022501126,291,1631250,Pete Nance,1610612749,Milwaukee Bucks,2,2,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,50,267,1,1,20260403,MIL,BOS
+Shot Chart Detail,0022501126,428,1631250,Pete Nance,1610612749,Milwaukee Bucks,3,3,49,Missed Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,4,97,1,0,20260403,MIL,BOS
+Shot Chart Detail,0022501126,438,1631250,Pete Nance,1610612749,Milwaukee Bucks,3,2,43,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,121,244,1,0,20260403,MIL,BOS
+Shot Chart Detail,0022501126,442,1631250,Pete Nance,1610612749,Milwaukee Bucks,3,2,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-200,185,1,1,20260403,MIL,BOS
+Shot Chart Detail,0022501126,480,1631250,Pete Nance,1610612749,Milwaukee Bucks,4,10,46,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,183,188,1,0,20260403,MIL,BOS
+Shot Chart Detail,0022501126,559,1631250,Pete Nance,1610612749,Milwaukee Bucks,4,3,53,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,193,151,1,0,20260403,MIL,BOS
+Shot Chart Detail,0022501126,563,1631250,Pete Nance,1610612749,Milwaukee Bucks,4,3,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-159,195,1,1,20260403,MIL,BOS
+Shot Chart Detail,0022501135,206,1631250,Pete Nance,1610612749,Milwaukee Bucks,2,8,32,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,74,27,1,1,20260405,MIL,MEM
+Shot Chart Detail,0022501135,583,1631250,Pete Nance,1610612749,Milwaukee Bucks,4,6,8,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-202,174,1,0,20260405,MIL,MEM
+Shot Chart Detail,0022501135,606,1631250,Pete Nance,1610612749,Milwaukee Bucks,4,4,52,Missed Shot,Running Alley Oop Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,4,21,1,0,20260405,MIL,MEM
+Shot Chart Detail,0022501135,653,1631250,Pete Nance,1610612749,Milwaukee Bucks,4,1,10,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,12,1,1,20260405,MIL,MEM
+Shot Chart Detail,0022501150,9,1631250,Pete Nance,1610612749,Milwaukee Bucks,1,11,31,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,-16,1,1,20260407,BKN,MIL
+Shot Chart Detail,0022501150,232,1631250,Pete Nance,1610612749,Milwaukee Bucks,2,5,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-145,197,1,0,20260407,BKN,MIL
+Shot Chart Detail,0022501150,240,1631250,Pete Nance,1610612749,Milwaukee Bucks,2,3,56,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,20,1,0,20260407,BKN,MIL
+Shot Chart Detail,0022501150,279,1631250,Pete Nance,1610612749,Milwaukee Bucks,2,0,59,Missed Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,12,58,1,0,20260407,BKN,MIL
+Shot Chart Detail,0022501150,316,1631250,Pete Nance,1610612749,Milwaukee Bucks,3,10,20,Made Shot,Turnaround Bank shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,77,42,1,1,20260407,BKN,MIL
+Shot Chart Detail,0022501150,328,1631250,Pete Nance,1610612749,Milwaukee Bucks,3,9,21,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,-9,1,0,20260407,BKN,MIL
+Shot Chart Detail,0022501150,346,1631250,Pete Nance,1610612749,Milwaukee Bucks,3,6,58,Missed Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,39,65,1,0,20260407,BKN,MIL
+Shot Chart Detail,0022501150,493,1631250,Pete Nance,1610612749,Milwaukee Bucks,4,8,17,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,2,1,1,20260407,BKN,MIL
+Shot Chart Detail,0022501160,101,1631250,Pete Nance,1610612749,Milwaukee Bucks,1,4,42,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,211,143,1,0,20260408,DET,MIL
+Shot Chart Detail,0022501160,507,1631250,Pete Nance,1610612749,Milwaukee Bucks,3,1,17,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-28,29,1,0,20260408,DET,MIL
+Shot Chart Detail,0022501160,515,1631250,Pete Nance,1610612749,Milwaukee Bucks,3,1,8,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,29,37,289,1,0,20260408,DET,MIL
+Shot Chart Detail,0022501160,711,1631250,Pete Nance,1610612749,Milwaukee Bucks,4,1,22,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,27,1,0,20260408,DET,MIL
+Shot Chart Detail,0022501206,622,1631250,Pete Nance,1610612749,Milwaukee Bucks,4,1,20,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-73,247,1,0,20251211,MIL,BOS
+Shot Chart Detail,0022501206,626,1631250,Pete Nance,1610612749,Milwaukee Bucks,4,1,2,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-1,20,1,1,20251211,MIL,BOS
+Shot Chart Detail,0022501219,543,1631250,Pete Nance,1610612749,Milwaukee Bucks,4,7,37,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-29,80,1,0,20251214,BKN,MIL
+Shot Chart Detail,0022501219,577,1631250,Pete Nance,1610612749,Milwaukee Bucks,4,4,27,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-49,46,1,0,20251214,BKN,MIL
+Shot Chart Detail,0022501219,598,1631250,Pete Nance,1610612749,Milwaukee Bucks,4,2,24,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,-15,1,0,20251214,BKN,MIL

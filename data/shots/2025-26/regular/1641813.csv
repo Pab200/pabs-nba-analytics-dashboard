@@ -1,0 +1,14 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0022500107,607,1641813,Mark Sears,1610612749,Milwaukee Bucks,4,8,39,Missed Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-4,53,1,0,20251026,CLE,MIL
+Shot Chart Detail,0022500165,668,1641813,Mark Sears,1610612749,Milwaukee Bucks,4,3,51,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-114,76,1,0,20251104,TOR,MIL
+Shot Chart Detail,0022500165,689,1641813,Mark Sears,1610612749,Milwaukee Bucks,4,2,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,152,207,1,1,20251104,TOR,MIL
+Shot Chart Detail,0022500165,693,1641813,Mark Sears,1610612749,Milwaukee Bucks,4,1,48,Missed Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,239,109,1,0,20251104,TOR,MIL
+Shot Chart Detail,0022500213,588,1641813,Mark Sears,1610612749,Milwaukee Bucks,4,5,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-40,250,1,1,20251112,CHA,MIL
+Shot Chart Detail,0022500213,592,1641813,Mark Sears,1610612749,Milwaukee Bucks,4,4,40,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-21,276,1,0,20251112,CHA,MIL
+Shot Chart Detail,0022500213,641,1641813,Mark Sears,1610612749,Milwaukee Bucks,4,1,23,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-50,246,1,1,20251112,CHA,MIL
+Shot Chart Detail,0022500231,639,1641813,Mark Sears,1610612749,Milwaukee Bucks,4,2,41,Made Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,4,134,1,1,20251115,MIL,LAL
+Shot Chart Detail,0022500231,670,1641813,Mark Sears,1610612749,Milwaukee Bucks,4,0,25,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,12,1,1,20251115,MIL,LAL
+Shot Chart Detail,0022500272,648,1641813,Mark Sears,1610612749,Milwaukee Bucks,4,0,50,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,31,256,1,0,20251122,MIL,DET
+Shot Chart Detail,0022500288,636,1641813,Mark Sears,1610612749,Milwaukee Bucks,4,2,45,Missed Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,42,20,1,0,20251124,MIL,POR
+Shot Chart Detail,0022500288,649,1641813,Mark Sears,1610612749,Milwaukee Bucks,4,1,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-228,131,1,1,20251124,MIL,POR
+Shot Chart Detail,0022500288,665,1641813,Mark Sears,1610612749,Milwaukee Bucks,4,0,6,Missed Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,29,-183,235,1,0,20251124,MIL,POR

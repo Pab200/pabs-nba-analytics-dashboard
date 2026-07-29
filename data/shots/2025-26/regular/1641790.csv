@@ -1,0 +1,60 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0022500094,83,1641790,PJ Hall,1610612763,Memphis Grizzlies,1,7,15,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,19,1,1,20251024,MEM,MIA
+Shot Chart Detail,0022500094,696,1641790,PJ Hall,1610612763,Memphis Grizzlies,4,4,7,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-1,267,1,0,20251024,MEM,MIA
+Shot Chart Detail,0022500094,746,1641790,PJ Hall,1610612763,Memphis Grizzlies,4,1,31,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,15,20,1,1,20251024,MEM,MIA
+Shot Chart Detail,0022500094,750,1641790,PJ Hall,1610612763,Memphis Grizzlies,4,1,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,32,259,1,1,20251024,MEM,MIA
+Shot Chart Detail,0022500176,760,1641790,PJ Hall,1610612763,Memphis Grizzlies,4,0,37,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,75,15,1,0,20251105,MEM,HOU
+Shot Chart Detail,0022500216,640,1641790,PJ Hall,1610612763,Memphis Grizzlies,4,5,41,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,7,1,1,20251112,BOS,MEM
+Shot Chart Detail,0022500216,679,1641790,PJ Hall,1610612763,Memphis Grizzlies,4,2,17,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,34,15,1,0,20251112,BOS,MEM
+Shot Chart Detail,0022500216,683,1641790,PJ Hall,1610612763,Memphis Grizzlies,4,2,11,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-230,69,1,0,20251112,BOS,MEM
+Shot Chart Detail,0022500216,709,1641790,PJ Hall,1610612763,Memphis Grizzlies,4,0,15,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,5,67,1,1,20251112,BOS,MEM
+Shot Chart Detail,0022500424,446,1641790,PJ Hall,1610612766,Charlotte Hornets,3,4,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,17,1,1,20251226,ORL,CHA
+Shot Chart Detail,0022500424,620,1641790,PJ Hall,1610612766,Charlotte Hornets,4,5,32,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20251226,ORL,CHA
+Shot Chart Detail,0022500424,704,1641790,PJ Hall,1610612766,Charlotte Hornets,4,1,23,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,13,1,1,20251226,ORL,CHA
+Shot Chart Detail,0022500447,116,1641790,PJ Hall,1610612766,Charlotte Hornets,1,4,1,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,2,20,1,1,20251229,CHA,MIL
+Shot Chart Detail,0022500447,463,1641790,PJ Hall,1610612766,Charlotte Hornets,3,4,10,Missed Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20251229,CHA,MIL
+Shot Chart Detail,0022500462,133,1641790,PJ Hall,1610612766,Charlotte Hornets,1,2,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,16,1,1,20251231,CHA,GSW
+Shot Chart Detail,0022500462,156,1641790,PJ Hall,1610612766,Charlotte Hornets,1,1,1,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,13,1,1,20251231,CHA,GSW
+Shot Chart Detail,0022500462,216,1641790,PJ Hall,1610612766,Charlotte Hornets,1,0,33,Missed Shot,Tip Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-26,39,1,0,20251231,CHA,GSW
+Shot Chart Detail,0022500462,191,1641790,PJ Hall,1610612766,Charlotte Hornets,2,11,46,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,10,27,1,1,20251231,CHA,GSW
+Shot Chart Detail,0022500462,482,1641790,PJ Hall,1610612766,Charlotte Hornets,3,5,56,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,21,1,1,20251231,CHA,GSW
+Shot Chart Detail,0022500462,541,1641790,PJ Hall,1610612766,Charlotte Hornets,3,1,28,Missed Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20251231,CHA,GSW
+Shot Chart Detail,0022500481,26,1641790,PJ Hall,1610612766,Charlotte Hornets,1,10,19,Missed Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,4,163,1,0,20260102,MIL,CHA
+Shot Chart Detail,0022500481,372,1641790,PJ Hall,1610612766,Charlotte Hornets,3,9,41,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-12,27,1,0,20260102,MIL,CHA
+Shot Chart Detail,0022500481,404,1641790,PJ Hall,1610612766,Charlotte Hornets,3,7,56,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,20,1,0,20260102,MIL,CHA
+Shot Chart Detail,0022500481,509,1641790,PJ Hall,1610612766,Charlotte Hornets,4,11,37,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260102,MIL,CHA
+Shot Chart Detail,0022500489,13,1641790,PJ Hall,1610612766,Charlotte Hornets,1,11,5,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,0,1,1,20260103,CHI,CHA
+Shot Chart Detail,0022500489,36,1641790,PJ Hall,1610612766,Charlotte Hornets,1,8,35,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,9,1,1,20260103,CHI,CHA
+Shot Chart Detail,0022500489,48,1641790,PJ Hall,1610612766,Charlotte Hornets,1,6,59,Missed Shot,Cutting Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-9,27,1,0,20260103,CHI,CHA
+Shot Chart Detail,0022500489,140,1641790,PJ Hall,1610612766,Charlotte Hornets,1,1,16,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,36,14,1,0,20260103,CHI,CHA
+Shot Chart Detail,0022500489,144,1641790,PJ Hall,1610612766,Charlotte Hornets,1,0,54,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,11,1,1,20260103,CHI,CHA
+Shot Chart Detail,0022500489,345,1641790,PJ Hall,1610612766,Charlotte Hornets,3,11,28,Missed Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-20,32,1,0,20260103,CHI,CHA
+Shot Chart Detail,0022500489,523,1641790,PJ Hall,1610612766,Charlotte Hornets,4,11,6,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,5,1,1,20260103,CHI,CHA
+Shot Chart Detail,0022500506,129,1641790,PJ Hall,1610612766,Charlotte Hornets,1,1,31,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260105,OKC,CHA
+Shot Chart Detail,0022500506,178,1641790,PJ Hall,1610612766,Charlotte Hornets,2,11,3,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,6,1,1,20260105,OKC,CHA
+Shot Chart Detail,0022500506,231,1641790,PJ Hall,1610612766,Charlotte Hornets,2,7,36,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,-12,1,1,20260105,OKC,CHA
+Shot Chart Detail,0022500506,472,1641790,PJ Hall,1610612766,Charlotte Hornets,3,4,16,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-150,106,1,0,20260105,OKC,CHA
+Shot Chart Detail,0022500506,670,1641790,PJ Hall,1610612766,Charlotte Hornets,4,3,3,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,8,1,1,20260105,OKC,CHA
+Shot Chart Detail,0022500506,690,1641790,PJ Hall,1610612766,Charlotte Hornets,4,1,32,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,10,1,1,20260105,OKC,CHA
+Shot Chart Detail,0022500516,121,1641790,PJ Hall,1610612766,Charlotte Hornets,1,3,42,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20260107,CHA,TOR
+Shot Chart Detail,0022500516,285,1641790,PJ Hall,1610612766,Charlotte Hornets,2,4,38,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,6,1,1,20260107,CHA,TOR
+Shot Chart Detail,0022500516,509,1641790,PJ Hall,1610612766,Charlotte Hornets,3,1,27,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260107,CHA,TOR
+Shot Chart Detail,0022500516,524,1641790,PJ Hall,1610612766,Charlotte Hornets,3,0,0,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20260107,CHA,TOR
+Shot Chart Detail,0022500516,635,1641790,PJ Hall,1610612766,Charlotte Hornets,4,4,10,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,2,22,1,1,20260107,CHA,TOR
+Shot Chart Detail,0022500528,170,1641790,PJ Hall,1610612766,Charlotte Hornets,1,0,43,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260108,CHA,IND
+Shot Chart Detail,0022500528,532,1641790,PJ Hall,1610612766,Charlotte Hornets,3,2,30,Missed Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-53,54,1,0,20260108,CHA,IND
+Shot Chart Detail,0022500775,90,1641790,PJ Hall,1610612766,Charlotte Hornets,1,5,50,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260211,CHA,ATL
+Shot Chart Detail,0022500775,152,1641790,PJ Hall,1610612766,Charlotte Hornets,1,1,44,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-64,27,1,1,20260211,CHA,ATL
+Shot Chart Detail,0022500775,280,1641790,PJ Hall,1610612766,Charlotte Hornets,2,5,50,Missed Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20260211,CHA,ATL
+Shot Chart Detail,0022500775,303,1641790,PJ Hall,1610612766,Charlotte Hornets,2,4,29,Missed Shot,Cutting Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,0,43,1,0,20260211,CHA,ATL
+Shot Chart Detail,0022500775,329,1641790,PJ Hall,1610612766,Charlotte Hornets,2,2,14,Missed Shot,Cutting Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-18,38,1,0,20260211,CHA,ATL
+Shot Chart Detail,0022500775,496,1641790,PJ Hall,1610612766,Charlotte Hornets,3,4,57,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260211,CHA,ATL
+Shot Chart Detail,0022500775,543,1641790,PJ Hall,1610612766,Charlotte Hornets,3,2,14,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-7,25,1,0,20260211,CHA,ATL
+Shot Chart Detail,0022500792,165,1641790,PJ Hall,1610612766,Charlotte Hornets,2,11,26,Missed Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-4,22,1,0,20260219,CHA,HOU
+Shot Chart Detail,0022500802,85,1641790,PJ Hall,1610612766,Charlotte Hornets,1,5,33,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,7,40,1,1,20260220,CHA,CLE
+Shot Chart Detail,0022500802,238,1641790,PJ Hall,1610612766,Charlotte Hornets,1,0,0,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,18,1,0,20260220,CHA,CLE
+Shot Chart Detail,0022500802,495,1641790,PJ Hall,1610612766,Charlotte Hornets,3,0,45,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-1,27,1,0,20260220,CHA,CLE
+Shot Chart Detail,0022500822,122,1641790,PJ Hall,1610612766,Charlotte Hornets,1,3,16,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-61,89,1,0,20260222,WAS,CHA
+Shot Chart Detail,0022500822,151,1641790,PJ Hall,1610612766,Charlotte Hornets,1,1,27,Missed Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,33,13,1,0,20260222,WAS,CHA
+Shot Chart Detail,0022500822,155,1641790,PJ Hall,1610612766,Charlotte Hornets,1,0,57,Missed Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-17,44,1,0,20260222,WAS,CHA
+Shot Chart Detail,0022500822,424,1641790,PJ Hall,1610612766,Charlotte Hornets,3,7,31,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,5,1,0,20260222,WAS,CHA

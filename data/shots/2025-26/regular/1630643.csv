@@ -1,0 +1,612 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0022500005,173,1630643,Jay Huff,1610612754,Indiana Pacers,2,11,19,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,-2,1,1,20251023,IND,OKC
+Shot Chart Detail,0022500005,179,1630643,Jay Huff,1610612754,Indiana Pacers,2,10,38,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-65,235,1,0,20251023,IND,OKC
+Shot Chart Detail,0022500005,454,1630643,Jay Huff,1610612754,Indiana Pacers,3,6,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-201,190,1,1,20251023,IND,OKC
+Shot Chart Detail,0022500005,497,1630643,Jay Huff,1610612754,Indiana Pacers,3,4,8,Missed Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,32,31,1,0,20251023,IND,OKC
+Shot Chart Detail,0022500020,151,1630643,Jay Huff,1610612754,Indiana Pacers,1,2,13,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-31,284,1,0,20251031,IND,ATL
+Shot Chart Detail,0022500020,463,1630643,Jay Huff,1610612754,Indiana Pacers,3,5,11,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,105,246,1,0,20251031,IND,ATL
+Shot Chart Detail,0022500020,623,1630643,Jay Huff,1610612754,Indiana Pacers,4,6,9,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-66,-17,1,0,20251031,IND,ATL
+Shot Chart Detail,0022500020,627,1630643,Jay Huff,1610612754,Indiana Pacers,4,5,56,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,29,257,1,0,20251031,IND,ATL
+Shot Chart Detail,0022500020,648,1630643,Jay Huff,1610612754,Indiana Pacers,4,4,48,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,40,278,1,0,20251031,IND,ATL
+Shot Chart Detail,0022500020,657,1630643,Jay Huff,1610612754,Indiana Pacers,4,4,8,Made Shot,Turnaround Bank shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,80,26,1,1,20251031,IND,ATL
+Shot Chart Detail,0022500020,682,1630643,Jay Huff,1610612754,Indiana Pacers,4,2,25,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-6,58,1,0,20251031,IND,ATL
+Shot Chart Detail,0022500020,694,1630643,Jay Huff,1610612754,Indiana Pacers,4,1,25,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,-6,1,1,20251031,IND,ATL
+Shot Chart Detail,0022500048,163,1630643,Jay Huff,1610612754,Indiana Pacers,1,0,41,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,162,197,1,0,20251121,CLE,IND
+Shot Chart Detail,0022500048,236,1630643,Jay Huff,1610612754,Indiana Pacers,2,7,35,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-13,88,1,0,20251121,CLE,IND
+Shot Chart Detail,0022500048,240,1630643,Jay Huff,1610612754,Indiana Pacers,2,7,8,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,136,254,1,0,20251121,CLE,IND
+Shot Chart Detail,0022500048,274,1630643,Jay Huff,1610612754,Indiana Pacers,2,5,26,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,29,0,294,1,0,20251121,CLE,IND
+Shot Chart Detail,0022500048,534,1630643,Jay Huff,1610612754,Indiana Pacers,3,2,19,Made Shot,Running Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,3,1,1,20251121,CLE,IND
+Shot Chart Detail,0022500048,540,1630643,Jay Huff,1610612754,Indiana Pacers,3,1,46,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,-13,1,0,20251121,CLE,IND
+Shot Chart Detail,0022500048,591,1630643,Jay Huff,1610612754,Indiana Pacers,4,10,55,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-161,194,1,0,20251121,CLE,IND
+Shot Chart Detail,0022500048,704,1630643,Jay Huff,1610612754,Indiana Pacers,4,3,23,Missed Shot,Step Back Jump shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,241,11,1,0,20251121,CLE,IND
+Shot Chart Detail,0022500048,718,1630643,Jay Huff,1610612754,Indiana Pacers,4,1,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,157,201,1,1,20251121,CLE,IND
+Shot Chart Detail,0022500063,88,1630643,Jay Huff,1610612754,Indiana Pacers,1,5,26,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-48,246,1,0,20251126,TOR,IND
+Shot Chart Detail,0022500063,177,1630643,Jay Huff,1610612754,Indiana Pacers,2,11,44,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,2,21,1,1,20251126,TOR,IND
+Shot Chart Detail,0022500063,352,1630643,Jay Huff,1610612754,Indiana Pacers,2,0,31,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,6,262,1,0,20251126,TOR,IND
+Shot Chart Detail,0022500063,618,1630643,Jay Huff,1610612754,Indiana Pacers,4,6,4,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,5,1,1,20251126,TOR,IND
+Shot Chart Detail,0022500063,628,1630643,Jay Huff,1610612754,Indiana Pacers,4,5,25,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,45,252,1,0,20251126,TOR,IND
+Shot Chart Detail,0022500063,665,1630643,Jay Huff,1610612754,Indiana Pacers,4,2,40,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,5,1,1,20251126,TOR,IND
+Shot Chart Detail,0022500073,52,1630643,Jay Huff,1610612754,Indiana Pacers,1,8,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-34,280,1,1,20251128,IND,WAS
+Shot Chart Detail,0022500073,56,1630643,Jay Huff,1610612754,Indiana Pacers,1,7,50,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-12,280,1,0,20251128,IND,WAS
+Shot Chart Detail,0022500073,231,1630643,Jay Huff,1610612754,Indiana Pacers,2,8,53,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20251128,IND,WAS
+Shot Chart Detail,0022500073,301,1630643,Jay Huff,1610612754,Indiana Pacers,2,4,37,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,6,26,1,1,20251128,IND,WAS
+Shot Chart Detail,0022500073,429,1630643,Jay Huff,1610612754,Indiana Pacers,3,6,17,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-229,-41,1,1,20251128,IND,WAS
+Shot Chart Detail,0022500073,466,1630643,Jay Huff,1610612754,Indiana Pacers,3,4,11,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,-4,1,1,20251128,IND,WAS
+Shot Chart Detail,0022500103,193,1630643,Jay Huff,1610612754,Indiana Pacers,2,11,23,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20251025,MEM,IND
+Shot Chart Detail,0022500103,680,1630643,Jay Huff,1610612754,Indiana Pacers,4,4,42,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,15,1,0,20251025,MEM,IND
+Shot Chart Detail,0022500110,9,1630643,Jay Huff,1610612754,Indiana Pacers,1,11,20,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,5,1,1,20251026,MIN,IND
+Shot Chart Detail,0022500110,22,1630643,Jay Huff,1610612754,Indiana Pacers,1,10,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,87,231,1,0,20251026,MIN,IND
+Shot Chart Detail,0022500110,381,1630643,Jay Huff,1610612754,Indiana Pacers,3,10,46,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,5,1,1,20251026,MIN,IND
+Shot Chart Detail,0022500110,399,1630643,Jay Huff,1610612754,Indiana Pacers,3,8,43,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,156,193,1,0,20251026,MIN,IND
+Shot Chart Detail,0022500110,503,1630643,Jay Huff,1610612754,Indiana Pacers,3,2,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-102,242,1,0,20251026,MIN,IND
+Shot Chart Detail,0022500133,186,1630643,Jay Huff,1610612754,Indiana Pacers,2,11,21,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-11,269,1,0,20251029,DAL,IND
+Shot Chart Detail,0022500133,216,1630643,Jay Huff,1610612754,Indiana Pacers,2,10,12,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-178,190,1,0,20251029,DAL,IND
+Shot Chart Detail,0022500133,226,1630643,Jay Huff,1610612754,Indiana Pacers,2,9,35,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,12,1,1,20251029,DAL,IND
+Shot Chart Detail,0022500133,429,1630643,Jay Huff,1610612754,Indiana Pacers,3,9,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,21,251,1,1,20251029,DAL,IND
+Shot Chart Detail,0022500133,477,1630643,Jay Huff,1610612754,Indiana Pacers,3,6,13,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,7,262,1,0,20251029,DAL,IND
+Shot Chart Detail,0022500133,491,1630643,Jay Huff,1610612754,Indiana Pacers,3,4,56,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-197,150,1,0,20251029,DAL,IND
+Shot Chart Detail,0022500157,209,1630643,Jay Huff,1610612754,Indiana Pacers,2,11,36,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,-13,1,0,20251103,IND,MIL
+Shot Chart Detail,0022500173,188,1630643,Jay Huff,1610612754,Indiana Pacers,2,11,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-135,256,1,1,20251105,IND,BKN
+Shot Chart Detail,0022500173,260,1630643,Jay Huff,1610612754,Indiana Pacers,2,7,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,88,247,1,1,20251105,IND,BKN
+Shot Chart Detail,0022500173,295,1630643,Jay Huff,1610612754,Indiana Pacers,2,6,12,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,51,252,1,0,20251105,IND,BKN
+Shot Chart Detail,0022500173,302,1630643,Jay Huff,1610612754,Indiana Pacers,2,5,13,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,107,243,1,0,20251105,IND,BKN
+Shot Chart Detail,0022500173,511,1630643,Jay Huff,1610612754,Indiana Pacers,3,3,10,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,131,246,1,0,20251105,IND,BKN
+Shot Chart Detail,0022500173,517,1630643,Jay Huff,1610612754,Indiana Pacers,3,2,35,Made Shot,Driving Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,-2,1,1,20251105,IND,BKN
+Shot Chart Detail,0022500173,528,1630643,Jay Huff,1610612754,Indiana Pacers,3,2,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-45,245,1,1,20251105,IND,BKN
+Shot Chart Detail,0022500173,554,1630643,Jay Huff,1610612754,Indiana Pacers,3,1,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-5,261,1,1,20251105,IND,BKN
+Shot Chart Detail,0022500173,749,1630643,Jay Huff,1610612754,Indiana Pacers,4,0,18,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-78,276,1,0,20251105,IND,BKN
+Shot Chart Detail,0022500173,753,1630643,Jay Huff,1610612754,Indiana Pacers,4,0,4,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,29,113,272,1,0,20251105,IND,BKN
+Shot Chart Detail,0022500189,182,1630643,Jay Huff,1610612754,Indiana Pacers,2,11,48,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,240,37,1,0,20251108,DEN,IND
+Shot Chart Detail,0022500189,540,1630643,Jay Huff,1610612754,Indiana Pacers,3,2,20,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-102,218,1,0,20251108,DEN,IND
+Shot Chart Detail,0022500189,692,1630643,Jay Huff,1610612754,Indiana Pacers,4,5,16,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-107,220,1,0,20251108,DEN,IND
+Shot Chart Detail,0022500189,703,1630643,Jay Huff,1610612754,Indiana Pacers,4,4,46,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20251108,DEN,IND
+Shot Chart Detail,0022500189,737,1630643,Jay Huff,1610612754,Indiana Pacers,4,2,58,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20251108,DEN,IND
+Shot Chart Detail,0022500196,42,1630643,Jay Huff,1610612754,Indiana Pacers,1,8,20,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,-1,1,0,20251109,GSW,IND
+Shot Chart Detail,0022500196,220,1630643,Jay Huff,1610612754,Indiana Pacers,2,8,54,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,38,37,1,1,20251109,GSW,IND
+Shot Chart Detail,0022500196,234,1630643,Jay Huff,1610612754,Indiana Pacers,2,7,57,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,20,1,1,20251109,GSW,IND
+Shot Chart Detail,0022500196,375,1630643,Jay Huff,1610612754,Indiana Pacers,3,11,48,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,43,255,1,0,20251109,GSW,IND
+Shot Chart Detail,0022500196,395,1630643,Jay Huff,1610612754,Indiana Pacers,3,9,49,Missed Shot,Driving Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,29,34,1,0,20251109,GSW,IND
+Shot Chart Detail,0022500196,407,1630643,Jay Huff,1610612754,Indiana Pacers,3,8,48,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,54,268,1,0,20251109,GSW,IND
+Shot Chart Detail,0022500196,417,1630643,Jay Huff,1610612754,Indiana Pacers,3,8,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,196,166,1,1,20251109,GSW,IND
+Shot Chart Detail,0022500196,449,1630643,Jay Huff,1610612754,Indiana Pacers,3,5,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,58,278,1,1,20251109,GSW,IND
+Shot Chart Detail,0022500196,546,1630643,Jay Huff,1610612754,Indiana Pacers,3,0,53,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-26,37,1,0,20251109,GSW,IND
+Shot Chart Detail,0022500196,677,1630643,Jay Huff,1610612754,Indiana Pacers,4,6,11,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20251109,GSW,IND
+Shot Chart Detail,0022500196,744,1630643,Jay Huff,1610612754,Indiana Pacers,4,1,43,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,25,269,1,0,20251109,GSW,IND
+Shot Chart Detail,0022500211,187,1630643,Jay Huff,1610612754,Indiana Pacers,1,0,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-2,259,1,0,20251111,UTA,IND
+Shot Chart Detail,0022500211,251,1630643,Jay Huff,1610612754,Indiana Pacers,2,8,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,221,97,1,0,20251111,UTA,IND
+Shot Chart Detail,0022500211,269,1630643,Jay Huff,1610612754,Indiana Pacers,2,6,55,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,-3,1,0,20251111,UTA,IND
+Shot Chart Detail,0022500211,576,1630643,Jay Huff,1610612754,Indiana Pacers,3,0,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-4,255,1,1,20251111,UTA,IND
+Shot Chart Detail,0022500211,727,1630643,Jay Huff,1610612754,Indiana Pacers,4,3,15,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,152,205,1,0,20251111,UTA,IND
+Shot Chart Detail,0022500226,646,1630643,Jay Huff,1610612754,Indiana Pacers,4,3,51,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,49,253,1,0,20251113,PHX,IND
+Shot Chart Detail,0022500226,677,1630643,Jay Huff,1610612754,Indiana Pacers,4,1,24,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,0,1,1,20251113,PHX,IND
+Shot Chart Detail,0022500230,277,1630643,Jay Huff,1610612754,Indiana Pacers,2,4,50,Missed Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,5,30,1,0,20251115,IND,TOR
+Shot Chart Detail,0022500230,280,1630643,Jay Huff,1610612754,Indiana Pacers,2,4,48,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,2,26,1,0,20251115,IND,TOR
+Shot Chart Detail,0022500230,297,1630643,Jay Huff,1610612754,Indiana Pacers,2,4,8,Missed Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,17,1,0,20251115,IND,TOR
+Shot Chart Detail,0022500230,500,1630643,Jay Huff,1610612754,Indiana Pacers,3,3,25,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-11,272,1,1,20251115,IND,TOR
+Shot Chart Detail,0022500230,565,1630643,Jay Huff,1610612754,Indiana Pacers,4,11,39,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,227,65,1,0,20251115,IND,TOR
+Shot Chart Detail,0022500230,581,1630643,Jay Huff,1610612754,Indiana Pacers,4,10,7,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-2,264,1,0,20251115,IND,TOR
+Shot Chart Detail,0022500230,716,1630643,Jay Huff,1610612754,Indiana Pacers,4,3,8,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,45,251,1,1,20251115,IND,TOR
+Shot Chart Detail,0022500230,741,1630643,Jay Huff,1610612754,Indiana Pacers,4,1,0,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,15,21,1,1,20251115,IND,TOR
+Shot Chart Detail,0022500230,755,1630643,Jay Huff,1610612754,Indiana Pacers,4,0,5,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,76,272,1,0,20251115,IND,TOR
+Shot Chart Detail,0022500242,106,1630643,Jay Huff,1610612754,Indiana Pacers,1,4,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-15,268,1,1,20251117,DET,IND
+Shot Chart Detail,0022500242,137,1630643,Jay Huff,1610612754,Indiana Pacers,1,2,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-216,159,1,0,20251117,DET,IND
+Shot Chart Detail,0022500242,189,1630643,Jay Huff,1610612754,Indiana Pacers,2,10,46,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-162,221,1,0,20251117,DET,IND
+Shot Chart Detail,0022500242,780,1630643,Jay Huff,1610612754,Indiana Pacers,4,1,31,Made Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-55,20,1,1,20251117,DET,IND
+Shot Chart Detail,0022500256,152,1630643,Jay Huff,1610612754,Indiana Pacers,1,2,15,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,6,1,1,20251119,IND,CHA
+Shot Chart Detail,0022500256,163,1630643,Jay Huff,1610612754,Indiana Pacers,1,1,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,1,281,1,1,20251119,IND,CHA
+Shot Chart Detail,0022500256,249,1630643,Jay Huff,1610612754,Indiana Pacers,2,8,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,30,85,288,1,1,20251119,IND,CHA
+Shot Chart Detail,0022500256,265,1630643,Jay Huff,1610612754,Indiana Pacers,2,7,7,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,135,250,1,0,20251119,IND,CHA
+Shot Chart Detail,0022500256,280,1630643,Jay Huff,1610612754,Indiana Pacers,2,6,19,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-105,241,1,0,20251119,IND,CHA
+Shot Chart Detail,0022500256,387,1630643,Jay Huff,1610612754,Indiana Pacers,3,10,8,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-31,283,1,0,20251119,IND,CHA
+Shot Chart Detail,0022500256,401,1630643,Jay Huff,1610612754,Indiana Pacers,3,8,49,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,1,23,1,1,20251119,IND,CHA
+Shot Chart Detail,0022500256,405,1630643,Jay Huff,1610612754,Indiana Pacers,3,8,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,114,260,1,1,20251119,IND,CHA
+Shot Chart Detail,0022500256,434,1630643,Jay Huff,1610612754,Indiana Pacers,3,6,33,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,13,1,1,20251119,IND,CHA
+Shot Chart Detail,0022500256,438,1630643,Jay Huff,1610612754,Indiana Pacers,3,6,16,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,31,-146,279,1,1,20251119,IND,CHA
+Shot Chart Detail,0022500256,441,1630643,Jay Huff,1610612754,Indiana Pacers,3,5,38,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,28,-1,1,0,20251119,IND,CHA
+Shot Chart Detail,0022500256,549,1630643,Jay Huff,1610612754,Indiana Pacers,4,11,41,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-96,269,1,0,20251119,IND,CHA
+Shot Chart Detail,0022500256,590,1630643,Jay Huff,1610612754,Indiana Pacers,4,8,15,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,23,265,1,0,20251119,IND,CHA
+Shot Chart Detail,0022500283,71,1630643,Jay Huff,1610612754,Indiana Pacers,1,4,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-16,265,1,1,20251124,IND,DET
+Shot Chart Detail,0022500283,85,1630643,Jay Huff,1610612754,Indiana Pacers,1,4,24,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20251124,IND,DET
+Shot Chart Detail,0022500283,111,1630643,Jay Huff,1610612754,Indiana Pacers,1,2,59,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-151,222,1,0,20251124,IND,DET
+Shot Chart Detail,0022500283,129,1630643,Jay Huff,1610612754,Indiana Pacers,1,1,46,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-44,277,1,1,20251124,IND,DET
+Shot Chart Detail,0022500283,145,1630643,Jay Huff,1610612754,Indiana Pacers,1,0,33,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-22,8,1,0,20251124,IND,DET
+Shot Chart Detail,0022500283,599,1630643,Jay Huff,1610612754,Indiana Pacers,4,9,37,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,176,204,1,0,20251124,IND,DET
+Shot Chart Detail,0022500283,628,1630643,Jay Huff,1610612754,Indiana Pacers,4,6,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-74,241,1,1,20251124,IND,DET
+Shot Chart Detail,0022500283,639,1630643,Jay Huff,1610612754,Indiana Pacers,4,5,57,Missed Shot,Cutting Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,15,1,0,20251124,IND,DET
+Shot Chart Detail,0022500295,13,1630643,Jay Huff,1610612754,Indiana Pacers,1,11,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-154,200,1,1,20251129,IND,CHI
+Shot Chart Detail,0022500295,19,1630643,Jay Huff,1610612754,Indiana Pacers,1,10,46,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,-12,1,1,20251129,IND,CHI
+Shot Chart Detail,0022500295,24,1630643,Jay Huff,1610612754,Indiana Pacers,1,10,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-16,242,1,1,20251129,IND,CHI
+Shot Chart Detail,0022500295,28,1630643,Jay Huff,1610612754,Indiana Pacers,1,9,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,142,218,1,1,20251129,IND,CHI
+Shot Chart Detail,0022500295,38,1630643,Jay Huff,1610612754,Indiana Pacers,1,8,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-37,260,1,1,20251129,IND,CHI
+Shot Chart Detail,0022500295,55,1630643,Jay Huff,1610612754,Indiana Pacers,1,6,34,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,-16,1,0,20251129,IND,CHI
+Shot Chart Detail,0022500295,210,1630643,Jay Huff,1610612754,Indiana Pacers,2,7,32,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,69,260,1,0,20251129,IND,CHI
+Shot Chart Detail,0022500295,257,1630643,Jay Huff,1610612754,Indiana Pacers,2,3,53,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-2,269,1,0,20251129,IND,CHI
+Shot Chart Detail,0022500295,518,1630643,Jay Huff,1610612754,Indiana Pacers,4,9,54,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,53,280,1,0,20251129,IND,CHI
+Shot Chart Detail,0022500310,66,1630643,Jay Huff,1610612754,Indiana Pacers,1,6,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,7,261,1,1,20251201,IND,CLE
+Shot Chart Detail,0022500310,70,1630643,Jay Huff,1610612754,Indiana Pacers,1,6,5,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,107,232,1,1,20251201,IND,CLE
+Shot Chart Detail,0022500310,79,1630643,Jay Huff,1610612754,Indiana Pacers,1,5,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,34,273,1,0,20251201,IND,CLE
+Shot Chart Detail,0022500310,87,1630643,Jay Huff,1610612754,Indiana Pacers,1,4,54,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-28,240,1,1,20251201,IND,CLE
+Shot Chart Detail,0022500310,302,1630643,Jay Huff,1610612754,Indiana Pacers,2,4,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,11,1,1,20251201,IND,CLE
+Shot Chart Detail,0022500310,341,1630643,Jay Huff,1610612754,Indiana Pacers,2,1,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-173,195,1,0,20251201,IND,CLE
+Shot Chart Detail,0022500310,370,1630643,Jay Huff,1610612754,Indiana Pacers,3,11,41,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1,16,1,0,20251201,IND,CLE
+Shot Chart Detail,0022500310,373,1630643,Jay Huff,1610612754,Indiana Pacers,3,11,38,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,7,1,1,20251201,IND,CLE
+Shot Chart Detail,0022500310,381,1630643,Jay Huff,1610612754,Indiana Pacers,3,10,48,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,11,258,1,0,20251201,IND,CLE
+Shot Chart Detail,0022500310,427,1630643,Jay Huff,1610612754,Indiana Pacers,3,7,38,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20251201,IND,CLE
+Shot Chart Detail,0022500325,27,1630643,Jay Huff,1610612754,Indiana Pacers,1,9,17,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,120,250,1,0,20251203,IND,DEN
+Shot Chart Detail,0022500325,52,1630643,Jay Huff,1610612754,Indiana Pacers,1,6,41,Missed Shot,Running Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,238,1,1,0,20251203,IND,DEN
+Shot Chart Detail,0022500325,278,1630643,Jay Huff,1610612754,Indiana Pacers,2,0,51,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-99,231,1,0,20251203,IND,DEN
+Shot Chart Detail,0022500325,304,1630643,Jay Huff,1610612754,Indiana Pacers,3,10,25,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-12,264,1,0,20251203,IND,DEN
+Shot Chart Detail,0022500325,337,1630643,Jay Huff,1610612754,Indiana Pacers,3,7,37,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-58,274,1,0,20251203,IND,DEN
+Shot Chart Detail,0022500325,376,1630643,Jay Huff,1610612754,Indiana Pacers,3,4,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-161,205,1,1,20251203,IND,DEN
+Shot Chart Detail,0022500345,18,1630643,Jay Huff,1610612754,Indiana Pacers,1,10,33,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,0,1,1,20251205,CHI,IND
+Shot Chart Detail,0022500345,307,1630643,Jay Huff,1610612754,Indiana Pacers,2,1,43,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20251205,CHI,IND
+Shot Chart Detail,0022500345,342,1630643,Jay Huff,1610612754,Indiana Pacers,3,10,25,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-16,259,1,0,20251205,CHI,IND
+Shot Chart Detail,0022500345,357,1630643,Jay Huff,1610612754,Indiana Pacers,3,8,40,Made Shot,Running Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,6,1,1,20251205,CHI,IND
+Shot Chart Detail,0022500345,368,1630643,Jay Huff,1610612754,Indiana Pacers,3,7,35,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-16,262,1,1,20251205,CHI,IND
+Shot Chart Detail,0022500364,40,1630643,Jay Huff,1610612754,Indiana Pacers,1,8,51,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,230,160,1,0,20251208,IND,SAC
+Shot Chart Detail,0022500364,206,1630643,Jay Huff,1610612754,Indiana Pacers,2,10,44,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-150,246,1,0,20251208,IND,SAC
+Shot Chart Detail,0022500364,343,1630643,Jay Huff,1610612754,Indiana Pacers,2,2,6,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-9,25,1,1,20251208,IND,SAC
+Shot Chart Detail,0022500364,388,1630643,Jay Huff,1610612754,Indiana Pacers,3,10,46,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,200,171,1,0,20251208,IND,SAC
+Shot Chart Detail,0022500364,411,1630643,Jay Huff,1610612754,Indiana Pacers,3,9,3,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,14,1,0,20251208,IND,SAC
+Shot Chart Detail,0022500372,59,1630643,Jay Huff,1610612754,Indiana Pacers,1,8,42,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-29,252,1,0,20251218,IND,NYK
+Shot Chart Detail,0022500372,68,1630643,Jay Huff,1610612754,Indiana Pacers,1,7,46,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-5,33,1,1,20251218,IND,NYK
+Shot Chart Detail,0022500372,197,1630643,Jay Huff,1610612754,Indiana Pacers,2,11,37,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-10,264,1,0,20251218,IND,NYK
+Shot Chart Detail,0022500372,204,1630643,Jay Huff,1610612754,Indiana Pacers,2,10,49,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,29,34,289,1,0,20251218,IND,NYK
+Shot Chart Detail,0022500372,415,1630643,Jay Huff,1610612754,Indiana Pacers,3,8,15,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-23,251,1,0,20251218,IND,NYK
+Shot Chart Detail,0022500372,426,1630643,Jay Huff,1610612754,Indiana Pacers,3,7,50,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,22,0,1,1,20251218,IND,NYK
+Shot Chart Detail,0022500372,598,1630643,Jay Huff,1610612754,Indiana Pacers,4,8,58,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,67,251,1,0,20251218,IND,NYK
+Shot Chart Detail,0022500389,19,1630643,Jay Huff,1610612754,Indiana Pacers,1,10,45,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,11,1,1,20251220,NOP,IND
+Shot Chart Detail,0022500389,23,1630643,Jay Huff,1610612754,Indiana Pacers,1,10,11,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-17,256,1,0,20251220,NOP,IND
+Shot Chart Detail,0022500389,130,1630643,Jay Huff,1610612754,Indiana Pacers,1,3,27,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,-19,1,0,20251220,NOP,IND
+Shot Chart Detail,0022500389,281,1630643,Jay Huff,1610612754,Indiana Pacers,2,5,16,Missed Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,9,26,1,0,20251220,NOP,IND
+Shot Chart Detail,0022500389,389,1630643,Jay Huff,1610612754,Indiana Pacers,3,10,49,Made Shot,Driving Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-13,35,1,1,20251220,NOP,IND
+Shot Chart Detail,0022500389,407,1630643,Jay Huff,1610612754,Indiana Pacers,3,8,54,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-121,231,1,0,20251220,NOP,IND
+Shot Chart Detail,0022500389,421,1630643,Jay Huff,1610612754,Indiana Pacers,3,7,55,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,33,34,1,1,20251220,NOP,IND
+Shot Chart Detail,0022500389,680,1630643,Jay Huff,1610612754,Indiana Pacers,4,5,35,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,221,13,1,0,20251220,NOP,IND
+Shot Chart Detail,0022500403,55,1630643,Jay Huff,1610612754,Indiana Pacers,1,7,38,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,115,232,1,1,20251222,BOS,IND
+Shot Chart Detail,0022500403,319,1630643,Jay Huff,1610612754,Indiana Pacers,3,11,48,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,38,274,1,0,20251222,BOS,IND
+Shot Chart Detail,0022500403,330,1630643,Jay Huff,1610612754,Indiana Pacers,3,10,48,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,21,271,1,0,20251222,BOS,IND
+Shot Chart Detail,0022500403,360,1630643,Jay Huff,1610612754,Indiana Pacers,3,8,52,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,54,261,1,0,20251222,BOS,IND
+Shot Chart Detail,0022500403,379,1630643,Jay Huff,1610612754,Indiana Pacers,3,6,51,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-197,163,1,0,20251222,BOS,IND
+Shot Chart Detail,0022500403,531,1630643,Jay Huff,1610612754,Indiana Pacers,4,9,12,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,49,51,1,0,20251222,BOS,IND
+Shot Chart Detail,0022500413,16,1630643,Jay Huff,1610612754,Indiana Pacers,1,10,46,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,6,277,1,0,20251223,IND,MIL
+Shot Chart Detail,0022500413,33,1630643,Jay Huff,1610612754,Indiana Pacers,1,9,11,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,40,278,1,0,20251223,IND,MIL
+Shot Chart Detail,0022500413,39,1630643,Jay Huff,1610612754,Indiana Pacers,1,8,23,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,1,273,1,0,20251223,IND,MIL
+Shot Chart Detail,0022500413,222,1630643,Jay Huff,1610612754,Indiana Pacers,2,9,5,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,6,269,1,0,20251223,IND,MIL
+Shot Chart Detail,0022500413,347,1630643,Jay Huff,1610612754,Indiana Pacers,2,0,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-123,253,1,1,20251223,IND,MIL
+Shot Chart Detail,0022500413,377,1630643,Jay Huff,1610612754,Indiana Pacers,3,10,36,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,21,1,1,20251223,IND,MIL
+Shot Chart Detail,0022500413,399,1630643,Jay Huff,1610612754,Indiana Pacers,3,8,21,Made Shot,Turnaround Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,13,32,1,1,20251223,IND,MIL
+Shot Chart Detail,0022500426,40,1630643,Jay Huff,1610612754,Indiana Pacers,1,9,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-154,238,1,1,20251226,IND,BOS
+Shot Chart Detail,0022500426,75,1630643,Jay Huff,1610612754,Indiana Pacers,1,7,13,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,7,34,1,1,20251226,IND,BOS
+Shot Chart Detail,0022500426,286,1630643,Jay Huff,1610612754,Indiana Pacers,2,6,12,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,12,272,1,0,20251226,IND,BOS
+Shot Chart Detail,0022500426,297,1630643,Jay Huff,1610612754,Indiana Pacers,2,5,35,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,40,39,1,1,20251226,IND,BOS
+Shot Chart Detail,0022500426,314,1630643,Jay Huff,1610612754,Indiana Pacers,2,3,57,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,50,272,1,0,20251226,IND,BOS
+Shot Chart Detail,0022500426,332,1630643,Jay Huff,1610612754,Indiana Pacers,2,2,36,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-47,262,1,0,20251226,IND,BOS
+Shot Chart Detail,0022500426,594,1630643,Jay Huff,1610612754,Indiana Pacers,4,8,3,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,33,266,1,0,20251226,IND,BOS
+Shot Chart Detail,0022500426,606,1630643,Jay Huff,1610612754,Indiana Pacers,4,7,17,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-78,252,1,0,20251226,IND,BOS
+Shot Chart Detail,0022500436,16,1630643,Jay Huff,1610612754,Indiana Pacers,1,10,36,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,15,1,0,20251227,MIA,IND
+Shot Chart Detail,0022500436,27,1630643,Jay Huff,1610612754,Indiana Pacers,1,9,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,9,1,1,20251227,MIA,IND
+Shot Chart Detail,0022500436,31,1630643,Jay Huff,1610612754,Indiana Pacers,1,9,1,Made Shot,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,9,1,1,20251227,MIA,IND
+Shot Chart Detail,0022500436,201,1630643,Jay Huff,1610612754,Indiana Pacers,2,9,48,Made Shot,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-6,10,1,1,20251227,MIA,IND
+Shot Chart Detail,0022500436,210,1630643,Jay Huff,1610612754,Indiana Pacers,2,8,49,Made Shot,Driving Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,17,55,1,1,20251227,MIA,IND
+Shot Chart Detail,0022500436,319,1630643,Jay Huff,1610612754,Indiana Pacers,2,2,30,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,11,1,1,20251227,MIA,IND
+Shot Chart Detail,0022500436,359,1630643,Jay Huff,1610612754,Indiana Pacers,3,11,30,Missed Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,7,84,1,0,20251227,MIA,IND
+Shot Chart Detail,0022500436,408,1630643,Jay Huff,1610612754,Indiana Pacers,3,7,38,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-233,59,1,0,20251227,MIA,IND
+Shot Chart Detail,0022500453,9,1630643,Jay Huff,1610612754,Indiana Pacers,1,11,36,Made Shot,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,1,36,1,1,20251229,HOU,IND
+Shot Chart Detail,0022500453,80,1630643,Jay Huff,1610612754,Indiana Pacers,1,5,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,33,273,1,1,20251229,HOU,IND
+Shot Chart Detail,0022500453,222,1630643,Jay Huff,1610612754,Indiana Pacers,2,7,55,Missed Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-16,22,1,0,20251229,HOU,IND
+Shot Chart Detail,0022500453,250,1630643,Jay Huff,1610612754,Indiana Pacers,2,5,41,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-131,232,1,0,20251229,HOU,IND
+Shot Chart Detail,0022500453,346,1630643,Jay Huff,1610612754,Indiana Pacers,3,11,24,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20251229,HOU,IND
+Shot Chart Detail,0022500453,352,1630643,Jay Huff,1610612754,Indiana Pacers,3,11,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,54,254,1,1,20251229,HOU,IND
+Shot Chart Detail,0022500453,355,1630643,Jay Huff,1610612754,Indiana Pacers,3,10,29,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,15,1,0,20251229,HOU,IND
+Shot Chart Detail,0022500453,498,1630643,Jay Huff,1610612754,Indiana Pacers,3,0,43,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,135,213,1,0,20251229,HOU,IND
+Shot Chart Detail,0022500464,330,1630643,Jay Huff,1610612754,Indiana Pacers,2,3,44,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-9,274,1,0,20251231,IND,ORL
+Shot Chart Detail,0022500464,621,1630643,Jay Huff,1610612754,Indiana Pacers,4,7,54,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-192,185,1,0,20251231,IND,ORL
+Shot Chart Detail,0022500464,664,1630643,Jay Huff,1610612754,Indiana Pacers,4,4,9,Missed Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,18,32,1,0,20251231,IND,ORL
+Shot Chart Detail,0022500476,212,1630643,Jay Huff,1610612754,Indiana Pacers,2,10,25,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-134,232,1,0,20260102,IND,SAS
+Shot Chart Detail,0022500476,617,1630643,Jay Huff,1610612754,Indiana Pacers,4,7,40,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-78,253,1,0,20260102,IND,SAS
+Shot Chart Detail,0022500495,91,1630643,Jay Huff,1610612754,Indiana Pacers,1,5,38,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-1,31,1,1,20260104,ORL,IND
+Shot Chart Detail,0022500495,95,1630643,Jay Huff,1610612754,Indiana Pacers,1,5,4,Made Shot,Cutting Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-26,50,1,1,20260104,ORL,IND
+Shot Chart Detail,0022500495,129,1630643,Jay Huff,1610612754,Indiana Pacers,1,3,15,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-10,267,1,0,20260104,ORL,IND
+Shot Chart Detail,0022500495,167,1630643,Jay Huff,1610612754,Indiana Pacers,1,0,38,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,14,1,1,20260104,ORL,IND
+Shot Chart Detail,0022500495,179,1630643,Jay Huff,1610612754,Indiana Pacers,1,0,1,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,10,1,1,20260104,ORL,IND
+Shot Chart Detail,0022500495,191,1630643,Jay Huff,1610612754,Indiana Pacers,2,11,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-210,162,1,1,20260104,ORL,IND
+Shot Chart Detail,0022500510,16,1630643,Jay Huff,1610612754,Indiana Pacers,1,10,28,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,240,11,1,1,20260106,IND,CLE
+Shot Chart Detail,0022500510,37,1630643,Jay Huff,1610612754,Indiana Pacers,1,8,2,Missed Shot,Running Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,238,22,1,0,20260106,IND,CLE
+Shot Chart Detail,0022500510,240,1630643,Jay Huff,1610612754,Indiana Pacers,2,6,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-72,261,1,1,20260106,IND,CLE
+Shot Chart Detail,0022500510,245,1630643,Jay Huff,1610612754,Indiana Pacers,2,6,6,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,11,1,0,20260106,IND,CLE
+Shot Chart Detail,0022500510,304,1630643,Jay Huff,1610612754,Indiana Pacers,2,2,11,Made Shot,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,9,1,1,20260106,IND,CLE
+Shot Chart Detail,0022500510,307,1630643,Jay Huff,1610612754,Indiana Pacers,2,1,38,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-5,20,1,1,20260106,IND,CLE
+Shot Chart Detail,0022500510,320,1630643,Jay Huff,1610612754,Indiana Pacers,2,0,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-25,266,1,1,20260106,IND,CLE
+Shot Chart Detail,0022500510,337,1630643,Jay Huff,1610612754,Indiana Pacers,3,10,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,172,199,1,1,20260106,IND,CLE
+Shot Chart Detail,0022500510,351,1630643,Jay Huff,1610612754,Indiana Pacers,3,10,12,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-32,44,1,1,20260106,IND,CLE
+Shot Chart Detail,0022500510,530,1630643,Jay Huff,1610612754,Indiana Pacers,4,9,53,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,28,259,1,0,20260106,IND,CLE
+Shot Chart Detail,0022500528,401,1630643,Jay Huff,1610612754,Indiana Pacers,3,10,0,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1,19,1,1,20260108,CHA,IND
+Shot Chart Detail,0022500528,601,1630643,Jay Huff,1610612754,Indiana Pacers,4,8,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,2,260,1,1,20260108,CHA,IND
+Shot Chart Detail,0022500528,634,1630643,Jay Huff,1610612754,Indiana Pacers,4,6,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,49,253,1,1,20260108,CHA,IND
+Shot Chart Detail,0022500528,646,1630643,Jay Huff,1610612754,Indiana Pacers,4,5,35,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,14,1,1,20260108,CHA,IND
+Shot Chart Detail,0022500543,148,1630643,Jay Huff,1610612754,Indiana Pacers,1,3,10,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,16,1,0,20260110,IND,MIA
+Shot Chart Detail,0022500543,172,1630643,Jay Huff,1610612754,Indiana Pacers,1,1,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,18,258,1,0,20260110,IND,MIA
+Shot Chart Detail,0022500543,222,1630643,Jay Huff,1610612754,Indiana Pacers,2,8,54,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,5,263,1,0,20260110,IND,MIA
+Shot Chart Detail,0022500543,266,1630643,Jay Huff,1610612754,Indiana Pacers,2,6,21,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-81,258,1,0,20260110,IND,MIA
+Shot Chart Detail,0022500543,530,1630643,Jay Huff,1610612754,Indiana Pacers,3,0,32,Made Shot,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,11,1,1,20260110,IND,MIA
+Shot Chart Detail,0022500543,567,1630643,Jay Huff,1610612754,Indiana Pacers,4,10,12,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,15,1,1,20260110,IND,MIA
+Shot Chart Detail,0022500543,622,1630643,Jay Huff,1610612754,Indiana Pacers,4,7,14,Missed Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,4,31,1,0,20260110,IND,MIA
+Shot Chart Detail,0022500543,627,1630643,Jay Huff,1610612754,Indiana Pacers,4,6,48,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-25,16,1,1,20260110,IND,MIA
+Shot Chart Detail,0022500543,654,1630643,Jay Huff,1610612754,Indiana Pacers,4,4,22,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-29,9,1,1,20260110,IND,MIA
+Shot Chart Detail,0022500559,40,1630643,Jay Huff,1610612754,Indiana Pacers,1,8,16,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,87,244,1,0,20260112,IND,BOS
+Shot Chart Detail,0022500559,44,1630643,Jay Huff,1610612754,Indiana Pacers,1,7,43,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,5,1,1,20260112,IND,BOS
+Shot Chart Detail,0022500559,82,1630643,Jay Huff,1610612754,Indiana Pacers,1,4,21,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-113,57,1,1,20260112,IND,BOS
+Shot Chart Detail,0022500559,196,1630643,Jay Huff,1610612754,Indiana Pacers,2,8,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-164,222,1,1,20260112,IND,BOS
+Shot Chart Detail,0022500559,205,1630643,Jay Huff,1610612754,Indiana Pacers,2,6,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,6,258,1,1,20260112,IND,BOS
+Shot Chart Detail,0022500559,208,1630643,Jay Huff,1610612754,Indiana Pacers,2,6,28,Missed Shot,Driving Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,29,18,1,0,20260112,IND,BOS
+Shot Chart Detail,0022500559,228,1630643,Jay Huff,1610612754,Indiana Pacers,2,5,35,Made Shot,Driving Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,7,1,1,20260112,IND,BOS
+Shot Chart Detail,0022500559,240,1630643,Jay Huff,1610612754,Indiana Pacers,2,4,56,Made Shot,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-7,23,1,1,20260112,IND,BOS
+Shot Chart Detail,0022500559,307,1630643,Jay Huff,1610612754,Indiana Pacers,3,10,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-130,232,1,1,20260112,IND,BOS
+Shot Chart Detail,0022500559,311,1630643,Jay Huff,1610612754,Indiana Pacers,3,9,53,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-137,215,1,0,20260112,IND,BOS
+Shot Chart Detail,0022500559,323,1630643,Jay Huff,1610612754,Indiana Pacers,3,8,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-33,248,1,1,20260112,IND,BOS
+Shot Chart Detail,0022500559,332,1630643,Jay Huff,1610612754,Indiana Pacers,3,7,58,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,-5,1,0,20260112,IND,BOS
+Shot Chart Detail,0022500571,27,1630643,Jay Huff,1610612754,Indiana Pacers,1,9,51,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-88,246,1,0,20260114,IND,TOR
+Shot Chart Detail,0022500571,210,1630643,Jay Huff,1610612754,Indiana Pacers,2,8,25,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-243,-18,1,0,20260114,IND,TOR
+Shot Chart Detail,0022500571,401,1630643,Jay Huff,1610612754,Indiana Pacers,3,10,48,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,2,1,1,20260114,IND,TOR
+Shot Chart Detail,0022500571,418,1630643,Jay Huff,1610612754,Indiana Pacers,3,9,15,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,4,1,1,20260114,IND,TOR
+Shot Chart Detail,0022500571,481,1630643,Jay Huff,1610612754,Indiana Pacers,3,5,37,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-11,280,1,0,20260114,IND,TOR
+Shot Chart Detail,0022500571,494,1630643,Jay Huff,1610612754,Indiana Pacers,3,4,16,Made Shot,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,10,1,1,20260114,IND,TOR
+Shot Chart Detail,0022500588,22,1630643,Jay Huff,1610612754,Indiana Pacers,1,10,14,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-6,21,1,1,20260116,IND,NOP
+Shot Chart Detail,0022500588,38,1630643,Jay Huff,1610612754,Indiana Pacers,1,8,23,Made Shot,Running Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,6,1,1,20260116,IND,NOP
+Shot Chart Detail,0022500588,54,1630643,Jay Huff,1610612754,Indiana Pacers,1,6,43,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-78,62,1,1,20260116,IND,NOP
+Shot Chart Detail,0022500588,60,1630643,Jay Huff,1610612754,Indiana Pacers,1,6,12,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,56,274,1,0,20260116,IND,NOP
+Shot Chart Detail,0022500588,176,1630643,Jay Huff,1610612754,Indiana Pacers,2,11,11,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,2,1,1,20260116,IND,NOP
+Shot Chart Detail,0022500588,217,1630643,Jay Huff,1610612754,Indiana Pacers,2,7,28,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-18,20,1,1,20260116,IND,NOP
+Shot Chart Detail,0022500588,226,1630643,Jay Huff,1610612754,Indiana Pacers,2,7,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,114,256,1,1,20260116,IND,NOP
+Shot Chart Detail,0022500588,260,1630643,Jay Huff,1610612754,Indiana Pacers,2,4,57,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,13,274,1,0,20260116,IND,NOP
+Shot Chart Detail,0022500588,268,1630643,Jay Huff,1610612754,Indiana Pacers,2,4,31,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,54,259,1,1,20260116,IND,NOP
+Shot Chart Detail,0022500588,274,1630643,Jay Huff,1610612754,Indiana Pacers,2,4,5,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260116,IND,NOP
+Shot Chart Detail,0022500588,341,1630643,Jay Huff,1610612754,Indiana Pacers,3,10,41,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-22,21,1,1,20260116,IND,NOP
+Shot Chart Detail,0022500588,353,1630643,Jay Huff,1610612754,Indiana Pacers,3,9,39,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260116,IND,NOP
+Shot Chart Detail,0022500588,359,1630643,Jay Huff,1610612754,Indiana Pacers,3,9,10,Missed Shot,Driving Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,-1,1,0,20260116,IND,NOP
+Shot Chart Detail,0022500588,366,1630643,Jay Huff,1610612754,Indiana Pacers,3,8,19,Made Shot,Running Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,14,1,1,20260116,IND,NOP
+Shot Chart Detail,0022500588,505,1630643,Jay Huff,1610612754,Indiana Pacers,4,11,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-221,129,1,1,20260116,IND,NOP
+Shot Chart Detail,0022500588,519,1630643,Jay Huff,1610612754,Indiana Pacers,4,9,54,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-229,150,1,0,20260116,IND,NOP
+Shot Chart Detail,0022500588,526,1630643,Jay Huff,1610612754,Indiana Pacers,4,8,49,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,25,-12,1,1,20260116,IND,NOP
+Shot Chart Detail,0022500595,13,1630643,Jay Huff,1610612754,Indiana Pacers,1,11,31,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-208,139,1,0,20260117,DET,IND
+Shot Chart Detail,0022500595,52,1630643,Jay Huff,1610612754,Indiana Pacers,1,8,48,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,39,273,1,0,20260117,DET,IND
+Shot Chart Detail,0022500595,438,1630643,Jay Huff,1610612754,Indiana Pacers,3,10,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,86,250,1,1,20260117,DET,IND
+Shot Chart Detail,0022500609,21,1630643,Jay Huff,1610612754,Indiana Pacers,1,9,50,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,123,234,1,0,20260119,PHI,IND
+Shot Chart Detail,0022500609,32,1630643,Jay Huff,1610612754,Indiana Pacers,1,9,8,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,-1,1,1,20260119,PHI,IND
+Shot Chart Detail,0022500609,338,1630643,Jay Huff,1610612754,Indiana Pacers,3,10,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-119,246,1,1,20260119,PHI,IND
+Shot Chart Detail,0022500609,443,1630643,Jay Huff,1610612754,Indiana Pacers,3,2,42,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,91,244,1,0,20260119,PHI,IND
+Shot Chart Detail,0022500609,463,1630643,Jay Huff,1610612754,Indiana Pacers,3,1,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,18,253,1,1,20260119,PHI,IND
+Shot Chart Detail,0022500609,512,1630643,Jay Huff,1610612754,Indiana Pacers,4,10,20,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,1,73,1,0,20260119,PHI,IND
+Shot Chart Detail,0022500609,518,1630643,Jay Huff,1610612754,Indiana Pacers,4,9,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-31,7,1,1,20260119,PHI,IND
+Shot Chart Detail,0022500621,13,1630643,Jay Huff,1610612754,Indiana Pacers,1,11,5,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,96,242,1,0,20260121,BOS,IND
+Shot Chart Detail,0022500621,368,1630643,Jay Huff,1610612754,Indiana Pacers,3,11,30,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,39,67,1,1,20260121,BOS,IND
+Shot Chart Detail,0022500621,380,1630643,Jay Huff,1610612754,Indiana Pacers,3,10,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-169,197,1,0,20260121,BOS,IND
+Shot Chart Detail,0022500621,435,1630643,Jay Huff,1610612754,Indiana Pacers,3,6,45,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-39,245,1,0,20260121,BOS,IND
+Shot Chart Detail,0022500659,704,1630643,Jay Huff,1610612754,Indiana Pacers,4,2,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-134,213,1,1,20260126,ATL,IND
+Shot Chart Detail,0022500672,64,1630643,Jay Huff,1610612754,Indiana Pacers,1,6,23,Missed Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,25,29,1,0,20260128,IND,CHI
+Shot Chart Detail,0022500672,68,1630643,Jay Huff,1610612754,Indiana Pacers,1,6,8,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,40,274,1,0,20260128,IND,CHI
+Shot Chart Detail,0022500672,81,1630643,Jay Huff,1610612754,Indiana Pacers,1,5,17,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-222,-8,1,0,20260128,IND,CHI
+Shot Chart Detail,0022500672,107,1630643,Jay Huff,1610612754,Indiana Pacers,1,3,40,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,5,1,0,20260128,IND,CHI
+Shot Chart Detail,0022500672,303,1630643,Jay Huff,1610612754,Indiana Pacers,2,2,30,Made Shot,Running Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,0,1,1,20260128,IND,CHI
+Shot Chart Detail,0022500672,362,1630643,Jay Huff,1610612754,Indiana Pacers,3,10,12,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,32,-67,317,1,0,20260128,IND,CHI
+Shot Chart Detail,0022500672,383,1630643,Jay Huff,1610612754,Indiana Pacers,3,8,37,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,7,1,1,20260128,IND,CHI
+Shot Chart Detail,0022500672,400,1630643,Jay Huff,1610612754,Indiana Pacers,3,6,41,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,31,-103,294,1,0,20260128,IND,CHI
+Shot Chart Detail,0022500672,597,1630643,Jay Huff,1610612754,Indiana Pacers,4,4,34,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,2,1,1,20260128,IND,CHI
+Shot Chart Detail,0022500672,630,1630643,Jay Huff,1610612754,Indiana Pacers,4,2,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-93,273,1,1,20260128,IND,CHI
+Shot Chart Detail,0022500698,123,1630643,Jay Huff,1610612754,Indiana Pacers,1,3,4,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,135,214,1,0,20260131,IND,ATL
+Shot Chart Detail,0022500698,147,1630643,Jay Huff,1610612754,Indiana Pacers,1,1,22,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,13,1,1,20260131,IND,ATL
+Shot Chart Detail,0022500698,172,1630643,Jay Huff,1610612754,Indiana Pacers,2,11,25,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,21,277,1,0,20260131,IND,ATL
+Shot Chart Detail,0022500698,186,1630643,Jay Huff,1610612754,Indiana Pacers,2,9,47,Made Shot,Cutting Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,25,32,1,1,20260131,IND,ATL
+Shot Chart Detail,0022500698,231,1630643,Jay Huff,1610612754,Indiana Pacers,2,7,41,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-238,-9,1,1,20260131,IND,ATL
+Shot Chart Detail,0022500698,235,1630643,Jay Huff,1610612754,Indiana Pacers,2,7,16,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-9,25,1,1,20260131,IND,ATL
+Shot Chart Detail,0022500698,248,1630643,Jay Huff,1610612754,Indiana Pacers,2,6,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,62,257,1,1,20260131,IND,ATL
+Shot Chart Detail,0022500698,256,1630643,Jay Huff,1610612754,Indiana Pacers,2,5,49,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,86,257,1,0,20260131,IND,ATL
+Shot Chart Detail,0022500698,480,1630643,Jay Huff,1610612754,Indiana Pacers,3,1,41,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,72,263,1,0,20260131,IND,ATL
+Shot Chart Detail,0022500698,500,1630643,Jay Huff,1610612754,Indiana Pacers,3,0,43,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-87,229,1,0,20260131,IND,ATL
+Shot Chart Detail,0022500698,634,1630643,Jay Huff,1610612754,Indiana Pacers,4,3,31,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,4,1,1,20260131,IND,ATL
+Shot Chart Detail,0022500713,22,1630643,Jay Huff,1610612754,Indiana Pacers,1,10,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-6,247,1,1,20260202,IND,HOU
+Shot Chart Detail,0022500713,348,1630643,Jay Huff,1610612754,Indiana Pacers,3,11,37,Missed Shot,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-18,31,1,0,20260202,IND,HOU
+Shot Chart Detail,0022500713,353,1630643,Jay Huff,1610612754,Indiana Pacers,3,11,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,145,221,1,1,20260202,IND,HOU
+Shot Chart Detail,0022500713,356,1630643,Jay Huff,1610612754,Indiana Pacers,3,10,47,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,28,277,1,0,20260202,IND,HOU
+Shot Chart Detail,0022500713,371,1630643,Jay Huff,1610612754,Indiana Pacers,3,9,29,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,2,251,1,0,20260202,IND,HOU
+Shot Chart Detail,0022500713,581,1630643,Jay Huff,1610612754,Indiana Pacers,4,9,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-4,264,1,0,20260202,IND,HOU
+Shot Chart Detail,0022500713,729,1630643,Jay Huff,1610612754,Indiana Pacers,4,0,2,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,30,96,286,1,0,20260202,IND,HOU
+Shot Chart Detail,0022500717,9,1630643,Jay Huff,1610612754,Indiana Pacers,1,11,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-75,243,1,1,20260203,IND,UTA
+Shot Chart Detail,0022500717,16,1630643,Jay Huff,1610612754,Indiana Pacers,1,10,19,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-120,226,1,0,20260203,IND,UTA
+Shot Chart Detail,0022500717,186,1630643,Jay Huff,1610612754,Indiana Pacers,2,9,4,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,1,21,1,1,20260203,IND,UTA
+Shot Chart Detail,0022500717,189,1630643,Jay Huff,1610612754,Indiana Pacers,2,8,33,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,100,226,1,0,20260203,IND,UTA
+Shot Chart Detail,0022500717,198,1630643,Jay Huff,1610612754,Indiana Pacers,2,8,1,Missed Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-4,22,1,0,20260203,IND,UTA
+Shot Chart Detail,0022500717,203,1630643,Jay Huff,1610612754,Indiana Pacers,2,7,32,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,17,26,1,1,20260203,IND,UTA
+Shot Chart Detail,0022500717,210,1630643,Jay Huff,1610612754,Indiana Pacers,2,6,48,Missed Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,-4,1,0,20260203,IND,UTA
+Shot Chart Detail,0022500717,320,1630643,Jay Huff,1610612754,Indiana Pacers,3,11,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-77,251,1,1,20260203,IND,UTA
+Shot Chart Detail,0022500717,516,1630643,Jay Huff,1610612754,Indiana Pacers,4,8,37,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,11,1,1,20260203,IND,UTA
+Shot Chart Detail,0022500743,15,1630643,Jay Huff,1610612754,Indiana Pacers,1,10,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-12,252,1,1,20260206,MIL,IND
+Shot Chart Detail,0022500743,215,1630643,Jay Huff,1610612754,Indiana Pacers,2,6,21,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,115,243,1,0,20260206,MIL,IND
+Shot Chart Detail,0022500743,308,1630643,Jay Huff,1610612754,Indiana Pacers,3,10,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,103,238,1,0,20260206,MIL,IND
+Shot Chart Detail,0022500743,362,1630643,Jay Huff,1610612754,Indiana Pacers,3,6,23,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-93,267,1,0,20260206,MIL,IND
+Shot Chart Detail,0022500759,21,1630643,Jay Huff,1610612754,Indiana Pacers,1,10,4,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,11,267,1,0,20260208,TOR,IND
+Shot Chart Detail,0022500759,29,1630643,Jay Huff,1610612754,Indiana Pacers,1,9,10,Missed Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,10,1,0,20260208,TOR,IND
+Shot Chart Detail,0022500759,259,1630643,Jay Huff,1610612754,Indiana Pacers,2,6,50,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,60,248,1,0,20260208,TOR,IND
+Shot Chart Detail,0022500759,325,1630643,Jay Huff,1610612754,Indiana Pacers,2,3,35,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-148,212,1,0,20260208,TOR,IND
+Shot Chart Detail,0022500759,329,1630643,Jay Huff,1610612754,Indiana Pacers,2,3,14,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,-9,1,1,20260208,TOR,IND
+Shot Chart Detail,0022500759,355,1630643,Jay Huff,1610612754,Indiana Pacers,2,0,16,Made Shot,Cutting Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,17,1,1,20260208,TOR,IND
+Shot Chart Detail,0022500759,570,1630643,Jay Huff,1610612754,Indiana Pacers,4,11,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-51,250,1,1,20260208,TOR,IND
+Shot Chart Detail,0022500759,602,1630643,Jay Huff,1610612754,Indiana Pacers,4,9,12,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,20,64,1,1,20260208,TOR,IND
+Shot Chart Detail,0022500759,639,1630643,Jay Huff,1610612754,Indiana Pacers,4,6,29,Missed Shot,Cutting Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,25,3,1,0,20260208,TOR,IND
+Shot Chart Detail,0022500759,696,1630643,Jay Huff,1610612754,Indiana Pacers,4,2,59,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260208,TOR,IND
+Shot Chart Detail,0022500771,78,1630643,Jay Huff,1610612754,Indiana Pacers,1,4,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,38,262,1,1,20260210,NYK,IND
+Shot Chart Detail,0022500771,85,1630643,Jay Huff,1610612754,Indiana Pacers,1,4,22,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-33,256,1,0,20260210,NYK,IND
+Shot Chart Detail,0022500771,269,1630643,Jay Huff,1610612754,Indiana Pacers,2,4,33,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,98,242,1,0,20260210,NYK,IND
+Shot Chart Detail,0022500771,297,1630643,Jay Huff,1610612754,Indiana Pacers,2,2,13,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,6,1,1,20260210,NYK,IND
+Shot Chart Detail,0022500771,413,1630643,Jay Huff,1610612754,Indiana Pacers,3,6,36,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,0,1,0,20260210,NYK,IND
+Shot Chart Detail,0022500771,510,1630643,Jay Huff,1610612754,Indiana Pacers,4,11,26,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,0,1,0,20260210,NYK,IND
+Shot Chart Detail,0022500771,513,1630643,Jay Huff,1610612754,Indiana Pacers,4,10,50,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-47,245,1,0,20260210,NYK,IND
+Shot Chart Detail,0022500771,522,1630643,Jay Huff,1610612754,Indiana Pacers,4,10,4,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,0,51,1,1,20260210,NYK,IND
+Shot Chart Detail,0022500771,572,1630643,Jay Huff,1610612754,Indiana Pacers,4,7,24,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-9,19,1,1,20260210,NYK,IND
+Shot Chart Detail,0022500779,43,1630643,Jay Huff,1610612754,Indiana Pacers,1,8,47,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-92,244,1,0,20260211,BKN,IND
+Shot Chart Detail,0022500779,52,1630643,Jay Huff,1610612754,Indiana Pacers,1,7,35,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,8,1,1,20260211,BKN,IND
+Shot Chart Detail,0022500779,142,1630643,Jay Huff,1610612754,Indiana Pacers,1,1,16,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,17,1,1,20260211,BKN,IND
+Shot Chart Detail,0022500779,164,1630643,Jay Huff,1610612754,Indiana Pacers,2,11,33,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,13,1,1,20260211,BKN,IND
+Shot Chart Detail,0022500779,365,1630643,Jay Huff,1610612754,Indiana Pacers,3,10,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,15,21,1,1,20260211,BKN,IND
+Shot Chart Detail,0022500779,377,1630643,Jay Huff,1610612754,Indiana Pacers,3,8,40,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,59,242,1,0,20260211,BKN,IND
+Shot Chart Detail,0022500779,507,1630643,Jay Huff,1610612754,Indiana Pacers,3,0,49,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,44,103,1,0,20260211,BKN,IND
+Shot Chart Detail,0022500779,528,1630643,Jay Huff,1610612754,Indiana Pacers,4,10,52,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,11,72,1,1,20260211,BKN,IND
+Shot Chart Detail,0022500779,607,1630643,Jay Huff,1610612754,Indiana Pacers,4,5,13,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,-18,1,0,20260211,BKN,IND
+Shot Chart Detail,0022500795,7,1630643,Jay Huff,1610612754,Indiana Pacers,1,12,0,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,-1,1,1,20260219,WAS,IND
+Shot Chart Detail,0022500795,65,1630643,Jay Huff,1610612754,Indiana Pacers,1,7,9,Missed Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,0,92,1,0,20260219,WAS,IND
+Shot Chart Detail,0022500795,76,1630643,Jay Huff,1610612754,Indiana Pacers,1,6,47,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-77,254,1,0,20260219,WAS,IND
+Shot Chart Detail,0022500795,202,1630643,Jay Huff,1610612754,Indiana Pacers,2,10,11,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,1,1,1,20260219,WAS,IND
+Shot Chart Detail,0022500795,206,1630643,Jay Huff,1610612754,Indiana Pacers,2,9,45,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-10,274,1,0,20260219,WAS,IND
+Shot Chart Detail,0022500795,358,1630643,Jay Huff,1610612754,Indiana Pacers,3,11,26,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-81,256,1,0,20260219,WAS,IND
+Shot Chart Detail,0022500795,412,1630643,Jay Huff,1610612754,Indiana Pacers,3,7,4,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,55,177,1,1,20260219,WAS,IND
+Shot Chart Detail,0022500795,551,1630643,Jay Huff,1610612754,Indiana Pacers,4,10,44,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,0,269,1,0,20260219,WAS,IND
+Shot Chart Detail,0022500803,11,1630643,Jay Huff,1610612754,Indiana Pacers,1,11,15,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,21,256,1,1,20260220,WAS,IND
+Shot Chart Detail,0022500803,18,1630643,Jay Huff,1610612754,Indiana Pacers,1,10,20,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,9,280,1,0,20260220,WAS,IND
+Shot Chart Detail,0022500803,39,1630643,Jay Huff,1610612754,Indiana Pacers,1,8,56,Made Shot,Running Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,6,1,1,20260220,WAS,IND
+Shot Chart Detail,0022500803,66,1630643,Jay Huff,1610612754,Indiana Pacers,1,6,49,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,8,1,1,20260220,WAS,IND
+Shot Chart Detail,0022500803,209,1630643,Jay Huff,1610612754,Indiana Pacers,2,10,22,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,27,1,1,20260220,WAS,IND
+Shot Chart Detail,0022500803,240,1630643,Jay Huff,1610612754,Indiana Pacers,2,8,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-9,274,1,1,20260220,WAS,IND
+Shot Chart Detail,0022500803,244,1630643,Jay Huff,1610612754,Indiana Pacers,2,7,48,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,30,-12,306,1,1,20260220,WAS,IND
+Shot Chart Detail,0022500803,391,1630643,Jay Huff,1610612754,Indiana Pacers,3,10,18,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,7,269,1,0,20260220,WAS,IND
+Shot Chart Detail,0022500803,395,1630643,Jay Huff,1610612754,Indiana Pacers,3,9,47,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,58,276,1,0,20260220,WAS,IND
+Shot Chart Detail,0022500803,435,1630643,Jay Huff,1610612754,Indiana Pacers,3,6,26,Made Shot,Driving Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-11,17,1,1,20260220,WAS,IND
+Shot Chart Detail,0022500803,446,1630643,Jay Huff,1610612754,Indiana Pacers,3,6,4,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,10,1,1,20260220,WAS,IND
+Shot Chart Detail,0022500821,17,1630643,Jay Huff,1610612754,Indiana Pacers,1,10,23,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-13,251,1,0,20260222,IND,DAL
+Shot Chart Detail,0022500821,138,1630643,Jay Huff,1610612754,Indiana Pacers,1,3,11,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,82,246,1,0,20260222,IND,DAL
+Shot Chart Detail,0022500821,168,1630643,Jay Huff,1610612754,Indiana Pacers,1,1,39,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,10,254,1,0,20260222,IND,DAL
+Shot Chart Detail,0022500821,171,1630643,Jay Huff,1610612754,Indiana Pacers,1,1,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-221,134,1,0,20260222,IND,DAL
+Shot Chart Detail,0022500821,309,1630643,Jay Huff,1610612754,Indiana Pacers,2,5,0,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1,12,1,1,20260222,IND,DAL
+Shot Chart Detail,0022500821,420,1630643,Jay Huff,1610612754,Indiana Pacers,3,8,32,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-6,15,1,1,20260222,IND,DAL
+Shot Chart Detail,0022500821,430,1630643,Jay Huff,1610612754,Indiana Pacers,3,7,50,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,4,1,1,20260222,IND,DAL
+Shot Chart Detail,0022500821,463,1630643,Jay Huff,1610612754,Indiana Pacers,3,5,27,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,-6,1,0,20260222,IND,DAL
+Shot Chart Detail,0022500821,652,1630643,Jay Huff,1610612754,Indiana Pacers,4,3,21,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-82,236,1,0,20260222,IND,DAL
+Shot Chart Detail,0022500821,693,1630643,Jay Huff,1610612754,Indiana Pacers,4,0,43,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-28,-1,1,1,20260222,IND,DAL
+Shot Chart Detail,0022500831,29,1630643,Jay Huff,1610612754,Indiana Pacers,1,9,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,5,1,1,20260224,IND,PHI
+Shot Chart Detail,0022500831,176,1630643,Jay Huff,1610612754,Indiana Pacers,2,11,48,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,244,2,1,0,20260224,IND,PHI
+Shot Chart Detail,0022500831,196,1630643,Jay Huff,1610612754,Indiana Pacers,2,10,52,Missed Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,-10,1,0,20260224,IND,PHI
+Shot Chart Detail,0022500831,276,1630643,Jay Huff,1610612754,Indiana Pacers,2,5,44,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,31,-126,284,1,0,20260224,IND,PHI
+Shot Chart Detail,0022500831,451,1630643,Jay Huff,1610612754,Indiana Pacers,3,5,53,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-10,272,1,0,20260224,IND,PHI
+Shot Chart Detail,0022500831,667,1630643,Jay Huff,1610612754,Indiana Pacers,4,2,28,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-78,261,1,0,20260224,IND,PHI
+Shot Chart Detail,0022500831,698,1630643,Jay Huff,1610612754,Indiana Pacers,4,0,31,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,-2,1,1,20260224,IND,PHI
+Shot Chart Detail,0022500848,28,1630643,Jay Huff,1610612754,Indiana Pacers,1,9,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,21,1,1,20260226,IND,CHA
+Shot Chart Detail,0022500848,32,1630643,Jay Huff,1610612754,Indiana Pacers,1,9,27,Made Shot,Turnaround Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-70,3,1,1,20260226,IND,CHA
+Shot Chart Detail,0022500848,201,1630643,Jay Huff,1610612754,Indiana Pacers,2,9,44,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-32,257,1,0,20260226,IND,CHA
+Shot Chart Detail,0022500848,209,1630643,Jay Huff,1610612754,Indiana Pacers,2,8,41,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,1,258,1,0,20260226,IND,CHA
+Shot Chart Detail,0022500848,356,1630643,Jay Huff,1610612754,Indiana Pacers,3,11,50,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,7,288,1,0,20260226,IND,CHA
+Shot Chart Detail,0022500848,594,1630643,Jay Huff,1610612754,Indiana Pacers,4,6,12,Made Shot,Putback Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-39,46,1,1,20260226,IND,CHA
+Shot Chart Detail,0022500872,43,1630643,Jay Huff,1610612754,Indiana Pacers,1,8,59,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,18,27,1,1,20260301,IND,MEM
+Shot Chart Detail,0022500872,52,1630643,Jay Huff,1610612754,Indiana Pacers,1,8,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,33,259,1,1,20260301,IND,MEM
+Shot Chart Detail,0022500872,192,1630643,Jay Huff,1610612754,Indiana Pacers,2,10,23,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,10,1,1,20260301,IND,MEM
+Shot Chart Detail,0022500872,585,1630643,Jay Huff,1610612754,Indiana Pacers,4,8,24,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,59,53,1,1,20260301,IND,MEM
+Shot Chart Detail,0022500872,605,1630643,Jay Huff,1610612754,Indiana Pacers,4,6,46,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260301,IND,MEM
+Shot Chart Detail,0022500872,681,1630643,Jay Huff,1610612754,Indiana Pacers,4,0,22,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-43,262,1,0,20260301,IND,MEM
+Shot Chart Detail,0022500898,9,1630643,Jay Huff,1610612754,Indiana Pacers,1,11,27,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,25,21,1,1,20260304,LAC,IND
+Shot Chart Detail,0022500898,50,1630643,Jay Huff,1610612754,Indiana Pacers,1,7,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,131,232,1,1,20260304,LAC,IND
+Shot Chart Detail,0022500898,222,1630643,Jay Huff,1610612754,Indiana Pacers,2,8,33,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-12,19,1,1,20260304,LAC,IND
+Shot Chart Detail,0022500898,276,1630643,Jay Huff,1610612754,Indiana Pacers,2,3,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-142,216,1,1,20260304,LAC,IND
+Shot Chart Detail,0022500898,329,1630643,Jay Huff,1610612754,Indiana Pacers,2,0,38,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,22,22,1,0,20260304,LAC,IND
+Shot Chart Detail,0022500898,361,1630643,Jay Huff,1610612754,Indiana Pacers,3,11,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,142,231,1,1,20260304,LAC,IND
+Shot Chart Detail,0022500898,365,1630643,Jay Huff,1610612754,Indiana Pacers,3,10,52,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-159,209,1,1,20260304,LAC,IND
+Shot Chart Detail,0022500898,395,1630643,Jay Huff,1610612754,Indiana Pacers,3,8,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,74,262,1,0,20260304,LAC,IND
+Shot Chart Detail,0022500898,405,1630643,Jay Huff,1610612754,Indiana Pacers,3,7,16,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-43,86,1,1,20260304,LAC,IND
+Shot Chart Detail,0022500898,428,1630643,Jay Huff,1610612754,Indiana Pacers,3,5,52,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,141,227,1,0,20260304,LAC,IND
+Shot Chart Detail,0022500898,559,1630643,Jay Huff,1610612754,Indiana Pacers,4,11,4,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-163,233,1,0,20260304,LAC,IND
+Shot Chart Detail,0022500898,563,1630643,Jay Huff,1610612754,Indiana Pacers,4,10,32,Missed Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,11,32,1,0,20260304,LAC,IND
+Shot Chart Detail,0022500898,682,1630643,Jay Huff,1610612754,Indiana Pacers,4,2,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-29,280,1,0,20260304,LAC,IND
+Shot Chart Detail,0022500914,9,1630643,Jay Huff,1610612754,Indiana Pacers,1,11,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,29,87,281,1,1,20260306,LAL,IND
+Shot Chart Detail,0022500914,39,1630643,Jay Huff,1610612754,Indiana Pacers,1,8,33,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260306,LAL,IND
+Shot Chart Detail,0022500914,71,1630643,Jay Huff,1610612754,Indiana Pacers,1,6,0,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-15,27,1,0,20260306,LAL,IND
+Shot Chart Detail,0022500914,79,1630643,Jay Huff,1610612754,Indiana Pacers,1,5,54,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-5,62,1,1,20260306,LAL,IND
+Shot Chart Detail,0022500914,201,1630643,Jay Huff,1610612754,Indiana Pacers,2,10,17,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,123,257,1,0,20260306,LAL,IND
+Shot Chart Detail,0022500914,246,1630643,Jay Huff,1610612754,Indiana Pacers,2,7,33,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,19,1,0,20260306,LAL,IND
+Shot Chart Detail,0022500914,260,1630643,Jay Huff,1610612754,Indiana Pacers,2,6,56,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,16,1,1,20260306,LAL,IND
+Shot Chart Detail,0022500914,286,1630643,Jay Huff,1610612754,Indiana Pacers,2,4,51,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,29,-72,284,1,0,20260306,LAL,IND
+Shot Chart Detail,0022500914,294,1630643,Jay Huff,1610612754,Indiana Pacers,2,3,57,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,7,85,1,1,20260306,LAL,IND
+Shot Chart Detail,0022500914,392,1630643,Jay Huff,1610612754,Indiana Pacers,3,8,31,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,178,184,1,1,20260306,LAL,IND
+Shot Chart Detail,0022500914,580,1630643,Jay Huff,1610612754,Indiana Pacers,4,8,46,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,1,57,1,0,20260306,LAL,IND
+Shot Chart Detail,0022500914,669,1630643,Jay Huff,1610612754,Indiana Pacers,4,1,31,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,32,85,1,0,20260306,LAL,IND
+Shot Chart Detail,0022500914,680,1630643,Jay Huff,1610612754,Indiana Pacers,4,0,45,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-99,252,1,0,20260306,LAL,IND
+Shot Chart Detail,0022500929,11,1630643,Jay Huff,1610612754,Indiana Pacers,1,11,19,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,13,1,1,20260308,POR,IND
+Shot Chart Detail,0022500929,28,1630643,Jay Huff,1610612754,Indiana Pacers,1,10,20,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-12,269,1,0,20260308,POR,IND
+Shot Chart Detail,0022500929,42,1630643,Jay Huff,1610612754,Indiana Pacers,1,9,14,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,7,260,1,0,20260308,POR,IND
+Shot Chart Detail,0022500929,68,1630643,Jay Huff,1610612754,Indiana Pacers,1,7,5,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,109,233,1,0,20260308,POR,IND
+Shot Chart Detail,0022500929,74,1630643,Jay Huff,1610612754,Indiana Pacers,1,6,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,88,251,1,0,20260308,POR,IND
+Shot Chart Detail,0022500929,215,1630643,Jay Huff,1610612754,Indiana Pacers,2,8,57,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-104,247,1,0,20260308,POR,IND
+Shot Chart Detail,0022500929,263,1630643,Jay Huff,1610612754,Indiana Pacers,2,6,33,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-22,23,1,0,20260308,POR,IND
+Shot Chart Detail,0022500929,357,1630643,Jay Huff,1610612754,Indiana Pacers,3,11,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,50,268,1,1,20260308,POR,IND
+Shot Chart Detail,0022500929,373,1630643,Jay Huff,1610612754,Indiana Pacers,3,10,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,2,261,1,1,20260308,POR,IND
+Shot Chart Detail,0022500929,392,1630643,Jay Huff,1610612754,Indiana Pacers,3,8,59,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,22,278,1,1,20260308,POR,IND
+Shot Chart Detail,0022500929,422,1630643,Jay Huff,1610612754,Indiana Pacers,3,6,52,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-200,156,1,0,20260308,POR,IND
+Shot Chart Detail,0022500929,427,1630643,Jay Huff,1610612754,Indiana Pacers,3,6,33,Missed Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,21,22,1,0,20260308,POR,IND
+Shot Chart Detail,0022500929,595,1630643,Jay Huff,1610612754,Indiana Pacers,4,8,39,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,30,15,300,1,0,20260308,POR,IND
+Shot Chart Detail,0022500929,613,1630643,Jay Huff,1610612754,Indiana Pacers,4,7,24,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,1,1,1,20260308,POR,IND
+Shot Chart Detail,0022500929,639,1630643,Jay Huff,1610612754,Indiana Pacers,4,6,24,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,16,62,1,0,20260308,POR,IND
+Shot Chart Detail,0022500945,32,1630643,Jay Huff,1610612754,Indiana Pacers,1,9,26,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,-18,1,0,20260310,SAC,IND
+Shot Chart Detail,0022500945,54,1630643,Jay Huff,1610612754,Indiana Pacers,1,7,56,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-4,285,1,0,20260310,SAC,IND
+Shot Chart Detail,0022500945,86,1630643,Jay Huff,1610612754,Indiana Pacers,1,4,50,Missed Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,10,262,1,0,20260310,SAC,IND
+Shot Chart Detail,0022500945,236,1630643,Jay Huff,1610612754,Indiana Pacers,2,5,30,Missed Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-6,21,1,0,20260310,SAC,IND
+Shot Chart Detail,0022500945,311,1630643,Jay Huff,1610612754,Indiana Pacers,2,0,55,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,11,61,1,0,20260310,SAC,IND
+Shot Chart Detail,0022500945,318,1630643,Jay Huff,1610612754,Indiana Pacers,2,0,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-47,260,1,1,20260310,SAC,IND
+Shot Chart Detail,0022500945,393,1630643,Jay Huff,1610612754,Indiana Pacers,3,9,57,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-180,184,1,0,20260310,SAC,IND
+Shot Chart Detail,0022500945,400,1630643,Jay Huff,1610612754,Indiana Pacers,3,6,36,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,5,78,1,1,20260310,SAC,IND
+Shot Chart Detail,0022500945,574,1630643,Jay Huff,1610612754,Indiana Pacers,4,8,46,Missed Shot,Running Alley Oop Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-34,43,1,0,20260310,SAC,IND
+Shot Chart Detail,0022500945,592,1630643,Jay Huff,1610612754,Indiana Pacers,4,6,58,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,15,89,1,1,20260310,SAC,IND
+Shot Chart Detail,0022500945,598,1630643,Jay Huff,1610612754,Indiana Pacers,4,5,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,34,284,1,1,20260310,SAC,IND
+Shot Chart Detail,0022500945,644,1630643,Jay Huff,1610612754,Indiana Pacers,4,1,8,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,20,29,1,1,20260310,SAC,IND
+Shot Chart Detail,0022500945,647,1630643,Jay Huff,1610612754,Indiana Pacers,4,0,42,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-107,257,1,0,20260310,SAC,IND
+Shot Chart Detail,0022500945,658,1630643,Jay Huff,1610612754,Indiana Pacers,4,0,15,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-1,288,1,0,20260310,SAC,IND
+Shot Chart Detail,0022500954,90,1630643,Jay Huff,1610612754,Indiana Pacers,1,5,11,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,33,259,1,0,20260312,IND,PHX
+Shot Chart Detail,0022500954,94,1630643,Jay Huff,1610612754,Indiana Pacers,1,4,34,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,2,1,1,20260312,IND,PHX
+Shot Chart Detail,0022500954,110,1630643,Jay Huff,1610612754,Indiana Pacers,1,3,40,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-49,260,1,0,20260312,IND,PHX
+Shot Chart Detail,0022500954,233,1630643,Jay Huff,1610612754,Indiana Pacers,2,8,12,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-12,16,1,1,20260312,IND,PHX
+Shot Chart Detail,0022500954,249,1630643,Jay Huff,1610612754,Indiana Pacers,2,6,31,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,13,10,139,1,0,20260312,IND,PHX
+Shot Chart Detail,0022500954,366,1630643,Jay Huff,1610612754,Indiana Pacers,3,11,26,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,6,1,1,20260312,IND,PHX
+Shot Chart Detail,0022500954,369,1630643,Jay Huff,1610612754,Indiana Pacers,3,10,52,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-33,271,1,0,20260312,IND,PHX
+Shot Chart Detail,0022500954,380,1630643,Jay Huff,1610612754,Indiana Pacers,3,9,42,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-103,240,1,0,20260312,IND,PHX
+Shot Chart Detail,0022500954,386,1630643,Jay Huff,1610612754,Indiana Pacers,3,9,18,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,37,26,1,1,20260312,IND,PHX
+Shot Chart Detail,0022500954,415,1630643,Jay Huff,1610612754,Indiana Pacers,3,7,35,Missed Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-2,55,1,0,20260312,IND,PHX
+Shot Chart Detail,0022500954,588,1630643,Jay Huff,1610612754,Indiana Pacers,4,8,5,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-67,71,1,1,20260312,IND,PHX
+Shot Chart Detail,0022500962,80,1630643,Jay Huff,1610612754,Indiana Pacers,1,6,3,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,1,262,1,0,20260313,IND,NYK
+Shot Chart Detail,0022500962,424,1630643,Jay Huff,1610612754,Indiana Pacers,3,6,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-114,235,1,1,20260313,IND,NYK
+Shot Chart Detail,0022500962,431,1630643,Jay Huff,1610612754,Indiana Pacers,3,5,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-107,229,1,1,20260313,IND,NYK
+Shot Chart Detail,0022500962,449,1630643,Jay Huff,1610612754,Indiana Pacers,3,4,41,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-10,262,1,0,20260313,IND,NYK
+Shot Chart Detail,0022500962,467,1630643,Jay Huff,1610612754,Indiana Pacers,3,3,30,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,29,124,1,1,20260313,IND,NYK
+Shot Chart Detail,0022500962,475,1630643,Jay Huff,1610612754,Indiana Pacers,3,2,23,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,11,255,1,0,20260313,IND,NYK
+Shot Chart Detail,0022500962,691,1630643,Jay Huff,1610612754,Indiana Pacers,4,0,54,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-56,267,1,0,20260313,IND,NYK
+Shot Chart Detail,0022500979,107,1630643,Jay Huff,1610612754,Indiana Pacers,1,3,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,199,178,1,1,20260315,MIL,IND
+Shot Chart Detail,0022500979,123,1630643,Jay Huff,1610612754,Indiana Pacers,1,2,49,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,14,1,1,20260315,MIL,IND
+Shot Chart Detail,0022500979,236,1630643,Jay Huff,1610612754,Indiana Pacers,2,6,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,148,212,1,1,20260315,MIL,IND
+Shot Chart Detail,0022500979,251,1630643,Jay Huff,1610612754,Indiana Pacers,2,5,23,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,10,267,1,0,20260315,MIL,IND
+Shot Chart Detail,0022500979,458,1630643,Jay Huff,1610612754,Indiana Pacers,3,3,55,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,32,256,1,0,20260315,MIL,IND
+Shot Chart Detail,0022500979,486,1630643,Jay Huff,1610612754,Indiana Pacers,3,2,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,5,265,1,1,20260315,MIL,IND
+Shot Chart Detail,0022500979,633,1630643,Jay Huff,1610612754,Indiana Pacers,4,3,10,Made Shot,Turnaround Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-15,26,1,1,20260315,MIL,IND
+Shot Chart Detail,0022500979,637,1630643,Jay Huff,1610612754,Indiana Pacers,4,2,44,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-126,224,1,0,20260315,MIL,IND
+Shot Chart Detail,0022500994,85,1630643,Jay Huff,1610612754,Indiana Pacers,1,4,17,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-132,228,1,0,20260317,NYK,IND
+Shot Chart Detail,0022500994,92,1630643,Jay Huff,1610612754,Indiana Pacers,1,3,10,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-6,67,1,1,20260317,NYK,IND
+Shot Chart Detail,0022500994,408,1630643,Jay Huff,1610612754,Indiana Pacers,3,5,55,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,4,1,1,20260317,NYK,IND
+Shot Chart Detail,0022500994,412,1630643,Jay Huff,1610612754,Indiana Pacers,3,5,35,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,54,250,1,0,20260317,NYK,IND
+Shot Chart Detail,0022500994,572,1630643,Jay Huff,1610612754,Indiana Pacers,4,7,20,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,148,213,1,0,20260317,NYK,IND
+Shot Chart Detail,0022500994,607,1630643,Jay Huff,1610612754,Indiana Pacers,4,5,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,22,261,1,0,20260317,NYK,IND
+Shot Chart Detail,0022500994,638,1630643,Jay Huff,1610612754,Indiana Pacers,4,3,48,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,9,1,0,20260317,NYK,IND
+Shot Chart Detail,0022500994,647,1630643,Jay Huff,1610612754,Indiana Pacers,4,2,24,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,0,1,1,20260317,NYK,IND
+Shot Chart Detail,0022501001,80,1630643,Jay Huff,1610612754,Indiana Pacers,1,6,33,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,20,259,1,1,20260318,IND,POR
+Shot Chart Detail,0022501001,212,1630643,Jay Huff,1610612754,Indiana Pacers,2,10,20,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,60,263,1,0,20260318,IND,POR
+Shot Chart Detail,0022501001,221,1630643,Jay Huff,1610612754,Indiana Pacers,2,9,39,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,206,-17,1,1,20260318,IND,POR
+Shot Chart Detail,0022501001,336,1630643,Jay Huff,1610612754,Indiana Pacers,2,1,45,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-36,-1,1,0,20260318,IND,POR
+Shot Chart Detail,0022501001,347,1630643,Jay Huff,1610612754,Indiana Pacers,2,0,50,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-23,265,1,0,20260318,IND,POR
+Shot Chart Detail,0022501001,460,1630643,Jay Huff,1610612754,Indiana Pacers,3,5,53,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,0,1,1,20260318,IND,POR
+Shot Chart Detail,0022501001,617,1630643,Jay Huff,1610612754,Indiana Pacers,4,8,44,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,25,171,1,1,20260318,IND,POR
+Shot Chart Detail,0022501001,621,1630643,Jay Huff,1610612754,Indiana Pacers,4,8,14,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,29,4,290,1,0,20260318,IND,POR
+Shot Chart Detail,0022501028,233,1630643,Jay Huff,1610612754,Indiana Pacers,2,7,32,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,28,260,1,0,20260321,SAS,IND
+Shot Chart Detail,0022501028,295,1630643,Jay Huff,1610612754,Indiana Pacers,2,2,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-202,144,1,1,20260321,SAS,IND
+Shot Chart Detail,0022501028,307,1630643,Jay Huff,1610612754,Indiana Pacers,2,1,45,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,108,230,1,1,20260321,SAS,IND
+Shot Chart Detail,0022501028,316,1630643,Jay Huff,1610612754,Indiana Pacers,2,0,42,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-18,22,1,0,20260321,SAS,IND
+Shot Chart Detail,0022501039,235,1630643,Jay Huff,1610612754,Indiana Pacers,2,8,27,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,4,255,1,0,20260323,ORL,IND
+Shot Chart Detail,0022501039,264,1630643,Jay Huff,1610612754,Indiana Pacers,2,5,44,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,17,1,1,20260323,ORL,IND
+Shot Chart Detail,0022501039,356,1630643,Jay Huff,1610612754,Indiana Pacers,3,10,51,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,176,196,1,0,20260323,ORL,IND
+Shot Chart Detail,0022501039,394,1630643,Jay Huff,1610612754,Indiana Pacers,3,6,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,140,225,1,1,20260323,ORL,IND
+Shot Chart Detail,0022501052,30,1630643,Jay Huff,1610612754,Indiana Pacers,1,9,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,29,-17,299,1,1,20260325,IND,LAL
+Shot Chart Detail,0022501052,34,1630643,Jay Huff,1610612754,Indiana Pacers,1,9,20,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,30,-27,302,1,1,20260325,IND,LAL
+Shot Chart Detail,0022501052,216,1630643,Jay Huff,1610612754,Indiana Pacers,2,9,13,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,225,132,1,0,20260325,IND,LAL
+Shot Chart Detail,0022501052,236,1630643,Jay Huff,1610612754,Indiana Pacers,2,8,15,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,29,-10,294,1,0,20260325,IND,LAL
+Shot Chart Detail,0022501052,241,1630643,Jay Huff,1610612754,Indiana Pacers,2,7,53,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,16,1,1,20260325,IND,LAL
+Shot Chart Detail,0022501052,360,1630643,Jay Huff,1610612754,Indiana Pacers,2,0,35,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,7,1,1,20260325,IND,LAL
+Shot Chart Detail,0022501052,383,1630643,Jay Huff,1610612754,Indiana Pacers,3,11,21,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,-5,1,1,20260325,IND,LAL
+Shot Chart Detail,0022501052,410,1630643,Jay Huff,1610612754,Indiana Pacers,3,9,8,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,173,231,1,0,20260325,IND,LAL
+Shot Chart Detail,0022501052,653,1630643,Jay Huff,1610612754,Indiana Pacers,4,4,45,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,-7,1,1,20260325,IND,LAL
+Shot Chart Detail,0022501052,697,1630643,Jay Huff,1610612754,Indiana Pacers,4,0,45,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260325,IND,LAL
+Shot Chart Detail,0022501066,41,1630643,Jay Huff,1610612754,Indiana Pacers,1,8,57,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,37,1,1,20260327,IND,LAC
+Shot Chart Detail,0022501066,45,1630643,Jay Huff,1610612754,Indiana Pacers,1,8,39,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,3,1,0,20260327,IND,LAC
+Shot Chart Detail,0022501066,335,1630643,Jay Huff,1610612754,Indiana Pacers,2,1,12,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-75,247,1,0,20260327,IND,LAC
+Shot Chart Detail,0022501066,425,1630643,Jay Huff,1610612754,Indiana Pacers,3,6,23,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,244,20,1,0,20260327,IND,LAC
+Shot Chart Detail,0022501083,498,1630643,Jay Huff,1610612754,Indiana Pacers,4,11,15,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,3,1,1,20260329,IND,MIA
+Shot Chart Detail,0022501083,502,1630643,Jay Huff,1610612754,Indiana Pacers,4,10,48,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-217,134,1,0,20260329,IND,MIA
+Shot Chart Detail,0022501083,543,1630643,Jay Huff,1610612754,Indiana Pacers,4,7,54,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,-7,1,0,20260329,IND,MIA
+Shot Chart Detail,0022501083,582,1630643,Jay Huff,1610612754,Indiana Pacers,4,5,8,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-25,78,1,1,20260329,IND,MIA
+Shot Chart Detail,0022501083,609,1630643,Jay Huff,1610612754,Indiana Pacers,4,3,22,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,206,9,1,1,20260329,IND,MIA
+Shot Chart Detail,0022501109,27,1630643,Jay Huff,1610612754,Indiana Pacers,1,10,14,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,1,1,1,20260401,CHI,IND
+Shot Chart Detail,0022501109,37,1630643,Jay Huff,1610612754,Indiana Pacers,1,9,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,21,260,1,1,20260401,CHI,IND
+Shot Chart Detail,0022501109,218,1630643,Jay Huff,1610612754,Indiana Pacers,2,8,58,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,8,1,1,20260401,CHI,IND
+Shot Chart Detail,0022501109,236,1630643,Jay Huff,1610612754,Indiana Pacers,2,8,10,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-162,194,1,1,20260401,CHI,IND
+Shot Chart Detail,0022501109,240,1630643,Jay Huff,1610612754,Indiana Pacers,2,7,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-1,250,1,1,20260401,CHI,IND
+Shot Chart Detail,0022501109,245,1630643,Jay Huff,1610612754,Indiana Pacers,2,6,58,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,145,229,1,0,20260401,CHI,IND
+Shot Chart Detail,0022501109,369,1630643,Jay Huff,1610612754,Indiana Pacers,3,10,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-7,274,1,1,20260401,CHI,IND
+Shot Chart Detail,0022501109,399,1630643,Jay Huff,1610612754,Indiana Pacers,3,7,50,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-69,260,1,0,20260401,CHI,IND
+Shot Chart Detail,0022501120,32,1630643,Jay Huff,1610612754,Indiana Pacers,1,9,47,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,151,212,1,0,20260403,CHA,IND
+Shot Chart Detail,0022501120,50,1630643,Jay Huff,1610612754,Indiana Pacers,1,8,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,112,251,1,0,20260403,CHA,IND
+Shot Chart Detail,0022501120,53,1630643,Jay Huff,1610612754,Indiana Pacers,1,7,37,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,49,264,1,0,20260403,CHA,IND
+Shot Chart Detail,0022501120,210,1630643,Jay Huff,1610612754,Indiana Pacers,2,10,42,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,16,1,1,20260403,CHA,IND
+Shot Chart Detail,0022501120,233,1630643,Jay Huff,1610612754,Indiana Pacers,2,9,5,Missed Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-2,81,1,0,20260403,CHA,IND
+Shot Chart Detail,0022501120,275,1630643,Jay Huff,1610612754,Indiana Pacers,2,6,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-141,237,1,1,20260403,CHA,IND
+Shot Chart Detail,0022501120,293,1630643,Jay Huff,1610612754,Indiana Pacers,2,5,28,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-16,99,1,0,20260403,CHA,IND
+Shot Chart Detail,0022501120,295,1630643,Jay Huff,1610612754,Indiana Pacers,2,5,24,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20260403,CHA,IND
+Shot Chart Detail,0022501120,297,1630643,Jay Huff,1610612754,Indiana Pacers,2,5,23,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20260403,CHA,IND
+Shot Chart Detail,0022501120,341,1630643,Jay Huff,1610612754,Indiana Pacers,2,5,22,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,10,1,0,20260403,CHA,IND
+Shot Chart Detail,0022501120,306,1630643,Jay Huff,1610612754,Indiana Pacers,2,4,56,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-5,33,1,1,20260403,CHA,IND
+Shot Chart Detail,0022501120,310,1630643,Jay Huff,1610612754,Indiana Pacers,2,4,38,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,23,1,0,20260403,CHA,IND
+Shot Chart Detail,0022501120,378,1630643,Jay Huff,1610612754,Indiana Pacers,3,11,23,Made Shot,Turnaround Bank Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,11,1,1,20260403,CHA,IND
+Shot Chart Detail,0022501120,380,1630643,Jay Huff,1610612754,Indiana Pacers,3,10,59,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,219,132,1,0,20260403,CHA,IND
+Shot Chart Detail,0022501120,408,1630643,Jay Huff,1610612754,Indiana Pacers,3,8,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-25,255,1,1,20260403,CHA,IND
+Shot Chart Detail,0022501120,415,1630643,Jay Huff,1610612754,Indiana Pacers,3,8,5,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-168,187,1,0,20260403,CHA,IND
+Shot Chart Detail,0022501120,540,1630643,Jay Huff,1610612754,Indiana Pacers,4,11,2,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-175,190,1,0,20260403,CHA,IND
+Shot Chart Detail,0022501120,555,1630643,Jay Huff,1610612754,Indiana Pacers,4,9,52,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,116,224,1,0,20260403,CHA,IND
+Shot Chart Detail,0022501136,112,1630643,Jay Huff,1610612754,Indiana Pacers,1,4,7,Made Shot,Running Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,15,1,1,20260405,CLE,IND
+Shot Chart Detail,0022501136,165,1630643,Jay Huff,1610612754,Indiana Pacers,1,0,6,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,15,25,1,0,20260405,CLE,IND
+Shot Chart Detail,0022501136,198,1630643,Jay Huff,1610612754,Indiana Pacers,2,9,50,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,100,247,1,0,20260405,CLE,IND
+Shot Chart Detail,0022501136,425,1630643,Jay Huff,1610612754,Indiana Pacers,3,7,22,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,93,8,1,1,20260405,CLE,IND
+Shot Chart Detail,0022501136,447,1630643,Jay Huff,1610612754,Indiana Pacers,3,6,21,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-50,19,1,0,20260405,CLE,IND
+Shot Chart Detail,0022501136,557,1630643,Jay Huff,1610612754,Indiana Pacers,4,10,21,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,11,1,1,20260405,CLE,IND
+Shot Chart Detail,0022501152,15,1630643,Jay Huff,1610612754,Indiana Pacers,1,11,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,28,277,1,1,20260407,IND,MIN
+Shot Chart Detail,0022501152,30,1630643,Jay Huff,1610612754,Indiana Pacers,1,9,48,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,15,1,1,20260407,IND,MIN
+Shot Chart Detail,0022501152,43,1630643,Jay Huff,1610612754,Indiana Pacers,1,8,8,Missed Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,1,1,0,20260407,IND,MIN
+Shot Chart Detail,0022501152,204,1630643,Jay Huff,1610612754,Indiana Pacers,2,8,38,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-5,273,1,0,20260407,IND,MIN
+Shot Chart Detail,0022501152,348,1630643,Jay Huff,1610612754,Indiana Pacers,3,11,46,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,11,17,1,1,20260407,IND,MIN
+Shot Chart Detail,0022501152,367,1630643,Jay Huff,1610612754,Indiana Pacers,3,9,44,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,2,1,0,20260407,IND,MIN
+Shot Chart Detail,0022501152,476,1630643,Jay Huff,1610612754,Indiana Pacers,3,1,40,Missed Shot,Driving Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-7,27,1,0,20260407,IND,MIN
+Shot Chart Detail,0022501152,655,1630643,Jay Huff,1610612754,Indiana Pacers,4,2,23,Made Shot,Driving Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-16,12,1,1,20260407,IND,MIN
+Shot Chart Detail,0022501152,661,1630643,Jay Huff,1610612754,Indiana Pacers,4,1,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,51,274,1,1,20260407,IND,MIN
+Shot Chart Detail,0022501167,152,1630643,Jay Huff,1610612754,Indiana Pacers,1,0,28,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260409,BKN,IND
+Shot Chart Detail,0022501167,269,1630643,Jay Huff,1610612754,Indiana Pacers,2,3,40,Made Shot,Running Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,15,1,1,20260409,BKN,IND
+Shot Chart Detail,0022501167,277,1630643,Jay Huff,1610612754,Indiana Pacers,2,2,33,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,15,63,1,1,20260409,BKN,IND
+Shot Chart Detail,0022501167,440,1630643,Jay Huff,1610612754,Indiana Pacers,3,4,16,Made Shot,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,9,1,1,20260409,BKN,IND
+Shot Chart Detail,0022501167,445,1630643,Jay Huff,1610612754,Indiana Pacers,3,3,36,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,9,1,1,20260409,BKN,IND
+Shot Chart Detail,0022501167,510,1630643,Jay Huff,1610612754,Indiana Pacers,4,10,52,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,3,1,1,20260409,BKN,IND
+Shot Chart Detail,0022501175,156,1630643,Jay Huff,1610612754,Indiana Pacers,1,1,3,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,64,265,1,0,20260410,IND,PHI
+Shot Chart Detail,0022501175,255,1630643,Jay Huff,1610612754,Indiana Pacers,2,6,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,20,262,1,1,20260410,IND,PHI
+Shot Chart Detail,0022501175,280,1630643,Jay Huff,1610612754,Indiana Pacers,2,5,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-91,258,1,0,20260410,IND,PHI
+Shot Chart Detail,0022501175,446,1630643,Jay Huff,1610612754,Indiana Pacers,3,5,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-98,252,1,1,20260410,IND,PHI
+Shot Chart Detail,0022501175,499,1630643,Jay Huff,1610612754,Indiana Pacers,3,1,55,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-13,277,1,0,20260410,IND,PHI
+Shot Chart Detail,0022501175,503,1630643,Jay Huff,1610612754,Indiana Pacers,3,1,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,50,251,1,0,20260410,IND,PHI
+Shot Chart Detail,0022501175,659,1630643,Jay Huff,1610612754,Indiana Pacers,4,3,21,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-53,242,1,0,20260410,IND,PHI
+Shot Chart Detail,0022501175,663,1630643,Jay Huff,1610612754,Indiana Pacers,4,2,36,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-25,9,1,1,20260410,IND,PHI
+Shot Chart Detail,0022501175,668,1630643,Jay Huff,1610612754,Indiana Pacers,4,2,3,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-28,246,1,0,20260410,IND,PHI
+Shot Chart Detail,0022501188,101,1630643,Jay Huff,1610612754,Indiana Pacers,1,4,48,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-244,54,1,0,20260412,IND,DET
+Shot Chart Detail,0022501188,193,1630643,Jay Huff,1610612754,Indiana Pacers,2,11,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-207,18,1,0,20260412,IND,DET
+Shot Chart Detail,0022501188,260,1630643,Jay Huff,1610612754,Indiana Pacers,2,6,5,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,16,283,1,0,20260412,IND,DET
+Shot Chart Detail,0022501188,472,1630643,Jay Huff,1610612754,Indiana Pacers,3,3,11,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,-2,1,0,20260412,IND,DET
+Shot Chart Detail,0022501188,477,1630643,Jay Huff,1610612754,Indiana Pacers,3,2,54,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-16,17,1,1,20260412,IND,DET
+Shot Chart Detail,0022501188,577,1630643,Jay Huff,1610612754,Indiana Pacers,4,8,33,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,5,21,1,1,20260412,IND,DET
+Shot Chart Detail,0022501188,633,1630643,Jay Huff,1610612754,Indiana Pacers,4,5,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-15,241,1,1,20260412,IND,DET
+Shot Chart Detail,0022501188,650,1630643,Jay Huff,1610612754,Indiana Pacers,4,3,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-20,263,1,1,20260412,IND,DET
+Shot Chart Detail,0022501211,25,1630643,Jay Huff,1610612754,Indiana Pacers,1,10,3,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-168,201,1,0,20251212,PHI,IND
+Shot Chart Detail,0022501211,43,1630643,Jay Huff,1610612754,Indiana Pacers,1,8,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,16,261,1,1,20251212,PHI,IND
+Shot Chart Detail,0022501211,62,1630643,Jay Huff,1610612754,Indiana Pacers,1,6,49,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-9,20,1,0,20251212,PHI,IND
+Shot Chart Detail,0022501211,184,1630643,Jay Huff,1610612754,Indiana Pacers,2,10,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,1,277,1,1,20251212,PHI,IND
+Shot Chart Detail,0022501211,227,1630643,Jay Huff,1610612754,Indiana Pacers,2,7,52,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,221,48,1,0,20251212,PHI,IND
+Shot Chart Detail,0022501211,234,1630643,Jay Huff,1610612754,Indiana Pacers,2,7,19,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-66,282,1,0,20251212,PHI,IND
+Shot Chart Detail,0022501211,294,1630643,Jay Huff,1610612754,Indiana Pacers,2,3,41,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-15,273,1,0,20251212,PHI,IND
+Shot Chart Detail,0022501211,319,1630643,Jay Huff,1610612754,Indiana Pacers,2,1,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-87,262,1,1,20251212,PHI,IND
+Shot Chart Detail,0022501211,359,1630643,Jay Huff,1610612754,Indiana Pacers,3,10,38,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,224,42,1,0,20251212,PHI,IND
+Shot Chart Detail,0022501211,677,1630643,Jay Huff,1610612754,Indiana Pacers,4,2,36,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-147,246,1,1,20251212,PHI,IND
+Shot Chart Detail,0022501211,690,1630643,Jay Huff,1610612754,Indiana Pacers,4,1,35,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,32,1,0,20251212,PHI,IND
+Shot Chart Detail,0022501211,694,1630643,Jay Huff,1610612754,Indiana Pacers,4,1,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,32,-124,295,1,0,20251212,PHI,IND
+Shot Chart Detail,0022501216,31,1630643,Jay Huff,1610612754,Indiana Pacers,1,9,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-25,285,1,1,20251214,IND,WAS
+Shot Chart Detail,0022501216,254,1630643,Jay Huff,1610612754,Indiana Pacers,2,6,1,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-25,21,1,1,20251214,IND,WAS
+Shot Chart Detail,0022501216,259,1630643,Jay Huff,1610612754,Indiana Pacers,2,5,29,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,40,278,1,0,20251214,IND,WAS
+Shot Chart Detail,0022501216,283,1630643,Jay Huff,1610612754,Indiana Pacers,2,3,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-105,259,1,1,20251214,IND,WAS
+Shot Chart Detail,0022501216,286,1630643,Jay Huff,1610612754,Indiana Pacers,2,3,14,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,156,202,1,0,20251214,IND,WAS
+Shot Chart Detail,0022501216,338,1630643,Jay Huff,1610612754,Indiana Pacers,3,11,21,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-56,257,1,0,20251214,IND,WAS
+Shot Chart Detail,0022501216,373,1630643,Jay Huff,1610612754,Indiana Pacers,3,9,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-213,125,1,1,20251214,IND,WAS
+Shot Chart Detail,0022501216,384,1630643,Jay Huff,1610612754,Indiana Pacers,3,8,20,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,55,104,1,1,20251214,IND,WAS
+Shot Chart Detail,0022501216,389,1630643,Jay Huff,1610612754,Indiana Pacers,3,7,52,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-44,281,1,0,20251214,IND,WAS

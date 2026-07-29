@@ -1,0 +1,110 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0022500028,216,1628371,Jonathan Isaac,1610612753,Orlando Magic,2,10,15,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,-15,1,1,20251107,ORL,BOS
+Shot Chart Detail,0022500040,138,1628371,Jonathan Isaac,1610612753,Orlando Magic,1,1,37,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20251114,ORL,BKN
+Shot Chart Detail,0022500040,580,1628371,Jonathan Isaac,1610612753,Orlando Magic,4,4,11,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,12,1,1,20251114,ORL,BKN
+Shot Chart Detail,0022500072,230,1628371,Jonathan Isaac,1610612753,Orlando Magic,2,11,13,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,10,35,1,1,20251128,DET,ORL
+Shot Chart Detail,0022500072,389,1628371,Jonathan Isaac,1610612753,Orlando Magic,2,0,59,Missed Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-22,29,1,0,20251128,DET,ORL
+Shot Chart Detail,0022500072,395,1628371,Jonathan Isaac,1610612753,Orlando Magic,2,0,31,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20251128,DET,ORL
+Shot Chart Detail,0022500081,97,1628371,Jonathan Isaac,1610612753,Orlando Magic,1,4,39,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,26,1,0,20251022,ORL,MIA
+Shot Chart Detail,0022500100,223,1628371,Jonathan Isaac,1610612753,Orlando Magic,2,8,43,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20251025,ORL,CHI
+Shot Chart Detail,0022500100,264,1628371,Jonathan Isaac,1610612753,Orlando Magic,2,6,34,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,33,1,0,20251025,ORL,CHI
+Shot Chart Detail,0022500138,160,1628371,Jonathan Isaac,1610612753,Orlando Magic,1,0,57,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,152,209,1,0,20251030,CHA,ORL
+Shot Chart Detail,0022500138,355,1628371,Jonathan Isaac,1610612753,Orlando Magic,2,0,5,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-222,20,1,0,20251030,CHA,ORL
+Shot Chart Detail,0022500138,526,1628371,Jonathan Isaac,1610612753,Orlando Magic,3,0,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,225,105,1,0,20251030,CHA,ORL
+Shot Chart Detail,0022500138,583,1628371,Jonathan Isaac,1610612753,Orlando Magic,4,9,10,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,6,23,1,1,20251030,CHA,ORL
+Shot Chart Detail,0022500138,585,1628371,Jonathan Isaac,1610612753,Orlando Magic,4,8,19,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-224,29,1,0,20251030,CHA,ORL
+Shot Chart Detail,0022500145,527,1628371,Jonathan Isaac,1610612753,Orlando Magic,3,2,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,164,201,1,1,20251101,WAS,ORL
+Shot Chart Detail,0022500145,604,1628371,Jonathan Isaac,1610612753,Orlando Magic,4,9,23,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,15,1,1,20251101,WAS,ORL
+Shot Chart Detail,0022500145,632,1628371,Jonathan Isaac,1610612753,Orlando Magic,4,7,31,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,-5,1,0,20251101,WAS,ORL
+Shot Chart Detail,0022500166,126,1628371,Jonathan Isaac,1610612753,Orlando Magic,1,3,9,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,239,16,1,0,20251104,ATL,ORL
+Shot Chart Detail,0022500166,145,1628371,Jonathan Isaac,1610612753,Orlando Magic,1,2,15,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,16,1,1,20251104,ATL,ORL
+Shot Chart Detail,0022500166,163,1628371,Jonathan Isaac,1610612753,Orlando Magic,1,0,17,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,20,1,0,20251104,ATL,ORL
+Shot Chart Detail,0022500193,188,1628371,Jonathan Isaac,1610612753,Orlando Magic,2,11,23,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,5,1,0,20251109,ORL,BOS
+Shot Chart Detail,0022500200,138,1628371,Jonathan Isaac,1610612753,Orlando Magic,1,1,54,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20251110,ORL,POR
+Shot Chart Detail,0022500200,140,1628371,Jonathan Isaac,1610612753,Orlando Magic,1,1,47,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,35,1,0,20251110,ORL,POR
+Shot Chart Detail,0022500200,206,1628371,Jonathan Isaac,1610612753,Orlando Magic,2,9,38,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,29,1,1,20251110,ORL,POR
+Shot Chart Detail,0022500200,216,1628371,Jonathan Isaac,1610612753,Orlando Magic,2,8,40,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,229,29,1,0,20251110,ORL,POR
+Shot Chart Detail,0022500200,567,1628371,Jonathan Isaac,1610612753,Orlando Magic,4,9,30,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,28,23,1,1,20251110,ORL,POR
+Shot Chart Detail,0022500215,149,1628371,Jonathan Isaac,1610612753,Orlando Magic,1,0,59,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,-20,1,0,20251112,NYK,ORL
+Shot Chart Detail,0022500215,347,1628371,Jonathan Isaac,1610612753,Orlando Magic,2,0,56,Missed Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20251112,NYK,ORL
+Shot Chart Detail,0022500215,567,1628371,Jonathan Isaac,1610612753,Orlando Magic,4,9,55,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-244,11,1,0,20251112,NYK,ORL
+Shot Chart Detail,0022500236,162,1628371,Jonathan Isaac,1610612753,Orlando Magic,2,10,5,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,-18,1,1,20251116,HOU,ORL
+Shot Chart Detail,0022500236,181,1628371,Jonathan Isaac,1610612753,Orlando Magic,2,8,6,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,-5,1,0,20251116,HOU,ORL
+Shot Chart Detail,0022500236,483,1628371,Jonathan Isaac,1610612753,Orlando Magic,4,11,11,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-153,63,1,0,20251116,HOU,ORL
+Shot Chart Detail,0022500249,141,1628371,Jonathan Isaac,1610612753,Orlando Magic,1,1,28,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,121,239,1,0,20251118,ORL,GSW
+Shot Chart Detail,0022500249,173,1628371,Jonathan Isaac,1610612753,Orlando Magic,2,11,17,Missed Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20251118,ORL,GSW
+Shot Chart Detail,0022500264,124,1628371,Jonathan Isaac,1610612753,Orlando Magic,1,2,48,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,229,57,1,1,20251120,ORL,LAC
+Shot Chart Detail,0022500264,132,1628371,Jonathan Isaac,1610612753,Orlando Magic,1,1,54,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,13,22,1,1,20251120,ORL,LAC
+Shot Chart Detail,0022500264,148,1628371,Jonathan Isaac,1610612753,Orlando Magic,1,0,45,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,5,20,1,1,20251120,ORL,LAC
+Shot Chart Detail,0022500264,155,1628371,Jonathan Isaac,1610612753,Orlando Magic,1,0,21,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20251120,ORL,LAC
+Shot Chart Detail,0022500269,211,1628371,Jonathan Isaac,1610612753,Orlando Magic,2,10,10,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,8,1,1,20251122,ORL,NYK
+Shot Chart Detail,0022500269,521,1628371,Jonathan Isaac,1610612753,Orlando Magic,3,1,45,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,223,90,1,0,20251122,ORL,NYK
+Shot Chart Detail,0022500269,566,1628371,Jonathan Isaac,1610612753,Orlando Magic,4,10,48,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,25,18,1,1,20251122,ORL,NYK
+Shot Chart Detail,0022500269,575,1628371,Jonathan Isaac,1610612753,Orlando Magic,4,10,21,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20251122,ORL,NYK
+Shot Chart Detail,0022500269,578,1628371,Jonathan Isaac,1610612753,Orlando Magic,4,9,44,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,31,268,1,0,20251122,ORL,NYK
+Shot Chart Detail,0022500277,147,1628371,Jonathan Isaac,1610612753,Orlando Magic,1,1,36,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,125,235,1,0,20251123,BOS,ORL
+Shot Chart Detail,0022500314,170,1628371,Jonathan Isaac,1610612753,Orlando Magic,2,10,58,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-26,55,1,0,20251201,ORL,CHI
+Shot Chart Detail,0022500326,198,1628371,Jonathan Isaac,1610612753,Orlando Magic,2,10,42,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,1,27,1,1,20251203,ORL,SAS
+Shot Chart Detail,0022500326,222,1628371,Jonathan Isaac,1610612753,Orlando Magic,2,8,45,Missed Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,13,1,0,20251203,ORL,SAS
+Shot Chart Detail,0022500326,236,1628371,Jonathan Isaac,1610612753,Orlando Magic,2,8,4,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,-20,1,0,20251203,ORL,SAS
+Shot Chart Detail,0022500326,484,1628371,Jonathan Isaac,1610612753,Orlando Magic,3,1,36,Made Shot,Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-5,43,1,1,20251203,ORL,SAS
+Shot Chart Detail,0022500357,673,1628371,Jonathan Isaac,1610612753,Orlando Magic,4,1,54,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,-6,1,1,20251207,NYK,ORL
+Shot Chart Detail,0022500393,189,1628371,Jonathan Isaac,1610612753,Orlando Magic,2,11,37,Missed Shot,Driving Reverse Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,47,21,1,0,20251220,UTA,ORL
+Shot Chart Detail,0022500393,239,1628371,Jonathan Isaac,1610612753,Orlando Magic,2,8,34,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-104,224,1,0,20251220,UTA,ORL
+Shot Chart Detail,0022500407,144,1628371,Jonathan Isaac,1610612753,Orlando Magic,1,1,6,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20251222,GSW,ORL
+Shot Chart Detail,0022500407,191,1628371,Jonathan Isaac,1610612753,Orlando Magic,2,10,31,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,16,1,0,20251222,GSW,ORL
+Shot Chart Detail,0022500420,268,1628371,Jonathan Isaac,1610612753,Orlando Magic,2,4,44,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,6,27,1,1,20251223,POR,ORL
+Shot Chart Detail,0022500420,271,1628371,Jonathan Isaac,1610612753,Orlando Magic,2,4,14,Missed Shot,Cutting Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-36,29,1,0,20251223,POR,ORL
+Shot Chart Detail,0022500420,467,1628371,Jonathan Isaac,1610612753,Orlando Magic,3,4,24,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-26,46,1,1,20251223,POR,ORL
+Shot Chart Detail,0022500420,475,1628371,Jonathan Isaac,1610612753,Orlando Magic,3,3,46,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,5,31,1,1,20251223,POR,ORL
+Shot Chart Detail,0022500420,501,1628371,Jonathan Isaac,1610612753,Orlando Magic,3,0,45,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,11,275,1,0,20251223,POR,ORL
+Shot Chart Detail,0022500424,112,1628371,Jonathan Isaac,1610612753,Orlando Magic,1,2,58,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-51,127,1,0,20251226,ORL,CHA
+Shot Chart Detail,0022500424,129,1628371,Jonathan Isaac,1610612753,Orlando Magic,1,1,39,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,1,21,1,0,20251226,ORL,CHA
+Shot Chart Detail,0022500433,156,1628371,Jonathan Isaac,1610612753,Orlando Magic,2,11,44,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,11,1,1,20251227,ORL,DEN
+Shot Chart Detail,0022500433,176,1628371,Jonathan Isaac,1610612753,Orlando Magic,2,10,15,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,85,246,1,0,20251227,ORL,DEN
+Shot Chart Detail,0022500495,161,1628371,Jonathan Isaac,1610612753,Orlando Magic,1,1,12,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,6,1,1,20260104,ORL,IND
+Shot Chart Detail,0022500511,517,1628371,Jonathan Isaac,1610612753,Orlando Magic,3,0,53,Missed Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-33,39,1,0,20260106,WAS,ORL
+Shot Chart Detail,0022500511,519,1628371,Jonathan Isaac,1610612753,Orlando Magic,3,0,52,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-16,34,1,1,20260106,WAS,ORL
+Shot Chart Detail,0022500511,549,1628371,Jonathan Isaac,1610612753,Orlando Magic,4,10,30,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,13,1,1,20260106,WAS,ORL
+Shot Chart Detail,0022500511,555,1628371,Jonathan Isaac,1610612753,Orlando Magic,4,10,4,Made Shot,Cutting Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-16,43,1,1,20260106,WAS,ORL
+Shot Chart Detail,0022500511,678,1628371,Jonathan Isaac,1610612753,Orlando Magic,4,1,36,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,113,13,1,0,20260106,WAS,ORL
+Shot Chart Detail,0022500511,703,1628371,Jonathan Isaac,1610612753,Orlando Magic,4,0,14,Made Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-15,54,1,1,20260106,WAS,ORL
+Shot Chart Detail,0022500521,508,1628371,Jonathan Isaac,1610612753,Orlando Magic,4,11,41,Missed Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,5,1,0,20260107,BKN,ORL
+Shot Chart Detail,0022500533,462,1628371,Jonathan Isaac,1610612753,Orlando Magic,3,3,55,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,16,1,1,20260109,ORL,PHI
+Shot Chart Detail,0022500548,107,1628371,Jonathan Isaac,1610612753,Orlando Magic,1,3,3,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,89,21,1,0,20260111,ORL,NOP
+Shot Chart Detail,0022500602,720,1628371,Jonathan Isaac,1610612753,Orlando Magic,4,0,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-216,130,1,0,20260118,MEM,ORL
+Shot Chart Detail,0022500674,202,1628371,Jonathan Isaac,1610612753,Orlando Magic,2,9,14,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,76,175,1,1,20260128,MIA,ORL
+Shot Chart Detail,0022500674,310,1628371,Jonathan Isaac,1610612753,Orlando Magic,2,2,18,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,-6,1,0,20260128,MIA,ORL
+Shot Chart Detail,0022500674,550,1628371,Jonathan Isaac,1610612753,Orlando Magic,3,4,46,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,11,1,0,20260128,MIA,ORL
+Shot Chart Detail,0022500687,158,1628371,Jonathan Isaac,1610612753,Orlando Magic,1,0,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,6,1,1,20260130,ORL,TOR
+Shot Chart Detail,0022500687,181,1628371,Jonathan Isaac,1610612753,Orlando Magic,2,11,20,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,2,25,1,0,20260130,ORL,TOR
+Shot Chart Detail,0022500703,176,1628371,Jonathan Isaac,1610612753,Orlando Magic,2,11,47,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,15,1,1,20260201,SAS,ORL
+Shot Chart Detail,0022500703,223,1628371,Jonathan Isaac,1610612753,Orlando Magic,2,8,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,104,96,1,1,20260201,SAS,ORL
+Shot Chart Detail,0022500703,245,1628371,Jonathan Isaac,1610612753,Orlando Magic,2,7,26,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260201,SAS,ORL
+Shot Chart Detail,0022500703,511,1628371,Jonathan Isaac,1610612753,Orlando Magic,3,1,20,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,5,167,1,0,20260201,SAS,ORL
+Shot Chart Detail,0022500703,543,1628371,Jonathan Isaac,1610612753,Orlando Magic,4,11,19,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,10,1,1,20260201,SAS,ORL
+Shot Chart Detail,0022500703,573,1628371,Jonathan Isaac,1610612753,Orlando Magic,4,8,44,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,229,17,1,0,20260201,SAS,ORL
+Shot Chart Detail,0022500723,514,1628371,Jonathan Isaac,1610612753,Orlando Magic,3,2,2,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,4,1,0,20260203,OKC,ORL
+Shot Chart Detail,0022500723,497,1628371,Jonathan Isaac,1610612753,Orlando Magic,3,1,13,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,147,-17,1,0,20260203,OKC,ORL
+Shot Chart Detail,0022500750,226,1628371,Jonathan Isaac,1610612753,Orlando Magic,2,8,31,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-238,25,1,0,20260207,ORL,UTA
+Shot Chart Detail,0022500750,239,1628371,Jonathan Isaac,1610612753,Orlando Magic,2,7,31,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,15,1,0,20260207,ORL,UTA
+Shot Chart Detail,0022500800,146,1628371,Jonathan Isaac,1610612753,Orlando Magic,1,2,22,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,100,42,1,0,20260219,SAC,ORL
+Shot Chart Detail,0022500800,150,1628371,Jonathan Isaac,1610612753,Orlando Magic,1,1,52,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-238,34,1,0,20260219,SAC,ORL
+Shot Chart Detail,0022500800,521,1628371,Jonathan Isaac,1610612753,Orlando Magic,4,11,26,Missed Shot,Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-29,53,1,0,20260219,SAC,ORL
+Shot Chart Detail,0022500811,807,1628371,Jonathan Isaac,1610612753,Orlando Magic,6,0,53,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,10,1,1,20260221,PHX,ORL
+Shot Chart Detail,0022500827,105,1628371,Jonathan Isaac,1610612753,Orlando Magic,1,4,10,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,11,1,1,20260222,LAC,ORL
+Shot Chart Detail,0022500827,312,1628371,Jonathan Isaac,1610612753,Orlando Magic,2,2,32,Missed Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,11,1,0,20260222,LAC,ORL
+Shot Chart Detail,0022500827,314,1628371,Jonathan Isaac,1610612753,Orlando Magic,2,2,30,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,26,15,1,1,20260222,LAC,ORL
+Shot Chart Detail,0022500827,487,1628371,Jonathan Isaac,1610612753,Orlando Magic,3,1,5,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,20,1,0,20260222,LAC,ORL
+Shot Chart Detail,0022500840,195,1628371,Jonathan Isaac,1610612753,Orlando Magic,2,9,48,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,29,13,1,0,20260224,LAL,ORL
+Shot Chart Detail,0022500840,487,1628371,Jonathan Isaac,1610612753,Orlando Magic,3,2,36,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-12,25,1,0,20260224,LAL,ORL
+Shot Chart Detail,0022500840,599,1628371,Jonathan Isaac,1610612753,Orlando Magic,4,6,14,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,6,1,1,20260224,LAL,ORL
+Shot Chart Detail,0022500852,462,1628371,Jonathan Isaac,1610612753,Orlando Magic,3,2,13,Missed Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-80,156,1,0,20260226,ORL,HOU
+Shot Chart Detail,0022500852,494,1628371,Jonathan Isaac,1610612753,Orlando Magic,3,0,0,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,31,1,0,20260226,ORL,HOU
+Shot Chart Detail,0022500875,169,1628371,Jonathan Isaac,1610612753,Orlando Magic,1,0,58,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,17,1,1,20260301,ORL,DET
+Shot Chart Detail,0022500955,462,1628371,Jonathan Isaac,1610612753,Orlando Magic,3,5,35,Missed Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-25,15,1,0,20260312,ORL,WAS
+Shot Chart Detail,0022501229,74,1628371,Jonathan Isaac,1610612753,Orlando Magic,1,5,11,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20251213,ORL,NYK
+Shot Chart Detail,0022501229,86,1628371,Jonathan Isaac,1610612753,Orlando Magic,1,4,28,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,0,1,1,20251213,ORL,NYK
+Shot Chart Detail,0022501229,93,1628371,Jonathan Isaac,1610612753,Orlando Magic,1,3,48,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,0,1,1,20251213,ORL,NYK
+Shot Chart Detail,0022501229,250,1628371,Jonathan Isaac,1610612753,Orlando Magic,2,5,28,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-238,-9,1,0,20251213,ORL,NYK
+Shot Chart Detail,0022501229,467,1628371,Jonathan Isaac,1610612753,Orlando Magic,3,2,59,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,76,41,1,0,20251213,ORL,NYK

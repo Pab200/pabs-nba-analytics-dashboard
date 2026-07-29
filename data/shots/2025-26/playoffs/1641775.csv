@@ -1,0 +1,20 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0042500111,163,1641775,Jordan Walsh,1610612738,Boston Celtics,1,0,1,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,27,23,1,1,20260419,BOS,PHI
+Shot Chart Detail,0042500111,489,1641775,Jordan Walsh,1610612738,Boston Celtics,3,2,7,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,229,51,1,0,20260419,BOS,PHI
+Shot Chart Detail,0042500111,615,1641775,Jordan Walsh,1610612738,Boston Celtics,4,5,11,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-167,200,1,0,20260419,BOS,PHI
+Shot Chart Detail,0042500111,630,1641775,Jordan Walsh,1610612738,Boston Celtics,4,4,16,Missed Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,38,27,1,0,20260419,BOS,PHI
+Shot Chart Detail,0042500111,643,1641775,Jordan Walsh,1610612738,Boston Celtics,4,3,57,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,234,59,1,1,20260419,BOS,PHI
+Shot Chart Detail,0042500112,475,1641775,Jordan Walsh,1610612738,Boston Celtics,3,0,40,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20260421,BOS,PHI
+Shot Chart Detail,0042500113,92,1641775,Jordan Walsh,1610612738,Boston Celtics,1,6,6,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,21,1,0,20260424,PHI,BOS
+Shot Chart Detail,0042500113,443,1641775,Jordan Walsh,1610612738,Boston Celtics,3,2,11,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,-7,1,0,20260424,PHI,BOS
+Shot Chart Detail,0042500114,153,1641775,Jordan Walsh,1610612738,Boston Celtics,1,0,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,219,117,1,1,20260426,PHI,BOS
+Shot Chart Detail,0042500114,552,1641775,Jordan Walsh,1610612738,Boston Celtics,4,9,46,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,229,43,1,0,20260426,PHI,BOS
+Shot Chart Detail,0042500114,608,1641775,Jordan Walsh,1610612738,Boston Celtics,4,4,54,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-127,218,1,0,20260426,PHI,BOS
+Shot Chart Detail,0042500114,641,1641775,Jordan Walsh,1610612738,Boston Celtics,4,3,26,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-145,215,1,0,20260426,PHI,BOS
+Shot Chart Detail,0042500115,394,1641775,Jordan Walsh,1610612738,Boston Celtics,3,5,43,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,51,40,1,0,20260428,BOS,PHI
+Shot Chart Detail,0042500115,467,1641775,Jordan Walsh,1610612738,Boston Celtics,3,0,3,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,66,1,0,20260428,BOS,PHI
+Shot Chart Detail,0042500116,504,1641775,Jordan Walsh,1610612738,Boston Celtics,4,9,46,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-131,219,1,0,20260430,PHI,BOS
+Shot Chart Detail,0042500116,552,1641775,Jordan Walsh,1610612738,Boston Celtics,4,5,30,Missed Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-16,20,1,0,20260430,PHI,BOS
+Shot Chart Detail,0042500116,631,1641775,Jordan Walsh,1610612738,Boston Celtics,4,0,43,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,-5,1,1,20260430,PHI,BOS
+Shot Chart Detail,0042500117,122,1641775,Jordan Walsh,1610612738,Boston Celtics,1,2,14,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-227,43,1,0,20260502,BOS,PHI
+Shot Chart Detail,0042500117,129,1641775,Jordan Walsh,1610612738,Boston Celtics,1,1,12,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,189,170,1,0,20260502,BOS,PHI

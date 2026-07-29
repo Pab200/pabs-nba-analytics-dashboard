@@ -1,0 +1,105 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0022500014,562,203914,Gary Harris,1610612749,Milwaukee Bucks,4,7,15,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,28,1,0,20260119,ATL,MIL
+Shot Chart Detail,0022500043,161,203914,Gary Harris,1610612749,Milwaukee Bucks,2,11,49,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-238,16,1,1,20251114,MIL,CHA
+Shot Chart Detail,0022500043,183,203914,Gary Harris,1610612749,Milwaukee Bucks,2,9,27,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-72,5,1,1,20251114,MIL,CHA
+Shot Chart Detail,0022500043,275,203914,Gary Harris,1610612749,Milwaukee Bucks,2,3,16,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,15,1,1,20251114,MIL,CHA
+Shot Chart Detail,0022500043,522,203914,Gary Harris,1610612749,Milwaukee Bucks,3,0,11,Made Shot,Jump Bank Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,4,1,1,20251114,MIL,CHA
+Shot Chart Detail,0022500043,543,203914,Gary Harris,1610612749,Milwaukee Bucks,4,11,6,Missed Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-136,218,1,0,20251114,MIL,CHA
+Shot Chart Detail,0022500062,135,203914,Gary Harris,1610612749,Milwaukee Bucks,1,1,11,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,32,125,1,0,20251126,MIA,MIL
+Shot Chart Detail,0022500062,179,203914,Gary Harris,1610612749,Milwaukee Bucks,2,10,30,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-96,29,1,1,20251126,MIA,MIL
+Shot Chart Detail,0022500074,109,203914,Gary Harris,1610612749,Milwaukee Bucks,1,2,36,Missed Shot,Step Back Jump shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,34,1,0,20251128,NYK,MIL
+Shot Chart Detail,0022500074,208,203914,Gary Harris,1610612749,Milwaukee Bucks,2,8,21,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,-4,1,1,20251128,NYK,MIL
+Shot Chart Detail,0022500165,619,203914,Gary Harris,1610612749,Milwaukee Bucks,4,6,20,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,15,1,0,20251104,TOR,MIL
+Shot Chart Detail,0022500165,687,203914,Gary Harris,1610612749,Milwaukee Bucks,4,2,36,Missed Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,45,38,1,0,20251104,TOR,MIL
+Shot Chart Detail,0022500165,704,203914,Gary Harris,1610612749,Milwaukee Bucks,4,0,52,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,4,1,1,20251104,TOR,MIL
+Shot Chart Detail,0022500203,399,203914,Gary Harris,1610612749,Milwaukee Bucks,2,0,8,Missed Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,48,25,1,0,20251110,DAL,MIL
+Shot Chart Detail,0022500231,203,203914,Gary Harris,1610612749,Milwaukee Bucks,2,8,58,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,228,50,1,0,20251115,MIL,LAL
+Shot Chart Detail,0022500231,221,203914,Gary Harris,1610612749,Milwaukee Bucks,2,8,0,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-239,11,1,1,20251115,MIL,LAL
+Shot Chart Detail,0022500231,414,203914,Gary Harris,1610612749,Milwaukee Bucks,3,6,22,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-206,169,1,0,20251115,MIL,LAL
+Shot Chart Detail,0022500231,512,203914,Gary Harris,1610612749,Milwaukee Bucks,4,11,33,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,218,132,1,1,20251115,MIL,LAL
+Shot Chart Detail,0022500231,591,203914,Gary Harris,1610612749,Milwaukee Bucks,4,4,13,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,17,31,1,0,20251115,MIL,LAL
+Shot Chart Detail,0022500241,141,203914,Gary Harris,1610612749,Milwaukee Bucks,1,0,12,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,11,1,0,20251117,CLE,MIL
+Shot Chart Detail,0022500241,168,203914,Gary Harris,1610612749,Milwaukee Bucks,2,10,43,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-91,86,1,1,20251117,CLE,MIL
+Shot Chart Detail,0022500241,194,203914,Gary Harris,1610612749,Milwaukee Bucks,2,8,11,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,0,1,0,20251117,CLE,MIL
+Shot Chart Detail,0022500266,149,203914,Gary Harris,1610612749,Milwaukee Bucks,1,0,21,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,229,39,1,1,20251120,MIL,PHI
+Shot Chart Detail,0022500272,517,203914,Gary Harris,1610612749,Milwaukee Bucks,4,10,30,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,25,18,1,1,20251122,MIL,DET
+Shot Chart Detail,0022500297,256,203914,Gary Harris,1610612749,Milwaukee Bucks,2,2,33,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-230,105,1,0,20251129,MIL,BKN
+Shot Chart Detail,0022500297,507,203914,Gary Harris,1610612749,Milwaukee Bucks,4,8,59,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-43,161,1,0,20251129,MIL,BKN
+Shot Chart Detail,0022500297,534,203914,Gary Harris,1610612749,Milwaukee Bucks,4,6,38,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,29,18,1,0,20251129,MIL,BKN
+Shot Chart Detail,0022500297,587,203914,Gary Harris,1610612749,Milwaukee Bucks,4,3,32,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-43,81,1,0,20251129,MIL,BKN
+Shot Chart Detail,0022500348,181,203914,Gary Harris,1610612749,Milwaukee Bucks,2,8,49,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,185,189,1,0,20251205,MIL,PHI
+Shot Chart Detail,0022500353,228,203914,Gary Harris,1610612749,Milwaukee Bucks,2,8,41,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20251206,DET,MIL
+Shot Chart Detail,0022500353,546,203914,Gary Harris,1610612749,Milwaukee Bucks,4,11,9,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,33,1,0,20251206,DET,MIL
+Shot Chart Detail,0022500374,189,203914,Gary Harris,1610612749,Milwaukee Bucks,2,9,20,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,22,22,1,1,20251218,MIL,TOR
+Shot Chart Detail,0022500374,196,203914,Gary Harris,1610612749,Milwaukee Bucks,2,8,24,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,-6,1,1,20251218,MIL,TOR
+Shot Chart Detail,0022500374,460,203914,Gary Harris,1610612749,Milwaukee Bucks,3,3,25,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-65,140,1,0,20251218,MIL,TOR
+Shot Chart Detail,0022500374,537,203914,Gary Harris,1610612749,Milwaukee Bucks,4,9,11,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,0,1,1,20251218,MIL,TOR
+Shot Chart Detail,0022500413,201,203914,Gary Harris,1610612749,Milwaukee Bucks,2,10,32,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-228,75,1,1,20251223,IND,MIL
+Shot Chart Detail,0022500413,209,203914,Gary Harris,1610612749,Milwaukee Bucks,2,9,55,Missed Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,27,31,1,0,20251223,IND,MIL
+Shot Chart Detail,0022500413,231,203914,Gary Harris,1610612749,Milwaukee Bucks,2,7,50,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,23,101,1,1,20251223,IND,MIL
+Shot Chart Detail,0022500413,414,203914,Gary Harris,1610612749,Milwaukee Bucks,3,7,23,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-227,60,1,0,20251223,IND,MIL
+Shot Chart Detail,0022500428,136,203914,Gary Harris,1610612749,Milwaukee Bucks,1,2,32,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,224,62,1,1,20251226,MEM,MIL
+Shot Chart Detail,0022500428,227,203914,Gary Harris,1610612749,Milwaukee Bucks,2,8,48,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,18,1,1,20251226,MEM,MIL
+Shot Chart Detail,0022500428,581,203914,Gary Harris,1610612749,Milwaukee Bucks,4,9,8,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,14,1,1,20251226,MEM,MIL
+Shot Chart Detail,0022500437,132,203914,Gary Harris,1610612749,Milwaukee Bucks,1,1,31,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-7,260,1,0,20251227,CHI,MIL
+Shot Chart Detail,0022500437,408,203914,Gary Harris,1610612749,Milwaukee Bucks,3,5,7,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,201,199,1,0,20251227,CHI,MIL
+Shot Chart Detail,0022500437,476,203914,Gary Harris,1610612749,Milwaukee Bucks,3,1,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,194,213,1,1,20251227,CHI,MIL
+Shot Chart Detail,0022500447,194,203914,Gary Harris,1610612749,Milwaukee Bucks,2,10,29,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,11,1,0,20251229,CHA,MIL
+Shot Chart Detail,0022500447,237,203914,Gary Harris,1610612749,Milwaukee Bucks,2,7,46,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,22,1,1,20251229,CHA,MIL
+Shot Chart Detail,0022500469,147,203914,Gary Harris,1610612749,Milwaukee Bucks,1,0,33,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-7,29,1,1,20251231,MIL,WAS
+Shot Chart Detail,0022500469,194,203914,Gary Harris,1610612749,Milwaukee Bucks,2,8,36,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,-10,1,1,20251231,MIL,WAS
+Shot Chart Detail,0022500500,133,203914,Gary Harris,1610612749,Milwaukee Bucks,1,0,4,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,7,1,0,20260104,SAC,MIL
+Shot Chart Detail,0022500500,162,203914,Gary Harris,1610612749,Milwaukee Bucks,2,9,46,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,39,53,1,0,20260104,SAC,MIL
+Shot Chart Detail,0022500526,486,203914,Gary Harris,1610612749,Milwaukee Bucks,4,11,23,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-2,36,1,0,20260107,GSW,MIL
+Shot Chart Detail,0022500541,229,203914,Gary Harris,1610612749,Milwaukee Bucks,2,5,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,202,172,1,1,20260109,LAL,MIL
+Shot Chart Detail,0022500554,161,203914,Gary Harris,1610612749,Milwaukee Bucks,2,9,33,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,-6,1,1,20260111,DEN,MIL
+Shot Chart Detail,0022500554,178,203914,Gary Harris,1610612749,Milwaukee Bucks,2,8,2,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-228,74,1,1,20260111,DEN,MIL
+Shot Chart Detail,0022500566,157,203914,Gary Harris,1610612749,Milwaukee Bucks,2,9,32,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,16,1,1,20260113,MIL,MIN
+Shot Chart Detail,0022500566,514,203914,Gary Harris,1610612749,Milwaukee Bucks,4,8,57,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-151,224,1,0,20260113,MIL,MIN
+Shot Chart Detail,0022500582,462,203914,Gary Harris,1610612749,Milwaukee Bucks,3,2,48,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,22,1,1,20260115,SAS,MIL
+Shot Chart Detail,0022500625,23,203914,Gary Harris,1610612749,Milwaukee Bucks,1,9,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-201,146,1,1,20260121,MIL,OKC
+Shot Chart Detail,0022500640,56,203914,Gary Harris,1610612749,Milwaukee Bucks,1,7,53,Missed Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-214,183,1,0,20260123,MIL,DEN
+Shot Chart Detail,0022500640,91,203914,Gary Harris,1610612749,Milwaukee Bucks,1,5,2,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,34,1,0,20260123,MIL,DEN
+Shot Chart Detail,0022500640,238,203914,Gary Harris,1610612749,Milwaukee Bucks,2,6,42,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-91,38,1,0,20260123,MIL,DEN
+Shot Chart Detail,0022500640,289,203914,Gary Harris,1610612749,Milwaukee Bucks,2,2,40,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,-17,1,0,20260123,MIL,DEN
+Shot Chart Detail,0022500640,334,203914,Gary Harris,1610612749,Milwaukee Bucks,3,11,27,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-225,62,1,1,20260123,MIL,DEN
+Shot Chart Detail,0022500743,146,203914,Gary Harris,1610612749,Milwaukee Bucks,2,11,43,Missed Shot,Step Back Jump shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,228,85,1,0,20260206,MIL,IND
+Shot Chart Detail,0022500743,431,203914,Gary Harris,1610612749,Milwaukee Bucks,3,1,2,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-104,95,1,0,20260206,MIL,IND
+Shot Chart Detail,0022500743,493,203914,Gary Harris,1610612749,Milwaukee Bucks,4,7,23,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,29,65,283,1,0,20260206,MIL,IND
+Shot Chart Detail,0022500764,143,203914,Gary Harris,1610612749,Milwaukee Bucks,1,1,40,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,135,218,1,0,20260209,ORL,MIL
+Shot Chart Detail,0022500764,468,203914,Gary Harris,1610612749,Milwaukee Bucks,3,1,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-181,176,1,0,20260209,ORL,MIL
+Shot Chart Detail,0022500777,137,203914,Gary Harris,1610612749,Milwaukee Bucks,1,1,59,Missed Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,148,215,1,0,20260211,ORL,MIL
+Shot Chart Detail,0022500819,618,203914,Gary Harris,1610612749,Milwaukee Bucks,4,4,47,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-167,190,1,0,20260222,MIL,TOR
+Shot Chart Detail,0022500819,665,203914,Gary Harris,1610612749,Milwaukee Bucks,4,2,12,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-223,98,1,0,20260222,MIL,TOR
+Shot Chart Detail,0022500819,675,203914,Gary Harris,1610612749,Milwaukee Bucks,4,1,12,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,85,98,1,1,20260222,MIL,TOR
+Shot Chart Detail,0022500860,582,203914,Gary Harris,1610612749,Milwaukee Bucks,4,4,50,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,18,1,1,20260227,MIL,NYK
+Shot Chart Detail,0022500860,637,203914,Gary Harris,1610612749,Milwaukee Bucks,4,0,23,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,75,252,1,0,20260227,MIL,NYK
+Shot Chart Detail,0022500880,199,203914,Gary Harris,1610612749,Milwaukee Bucks,2,9,40,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,6,1,0,20260302,MIL,BOS
+Shot Chart Detail,0022500880,603,203914,Gary Harris,1610612749,Milwaukee Bucks,4,3,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-56,261,1,1,20260302,MIL,BOS
+Shot Chart Detail,0022500880,607,203914,Gary Harris,1610612749,Milwaukee Bucks,4,2,29,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,36,1,1,20260302,MIL,BOS
+Shot Chart Detail,0022500880,627,203914,Gary Harris,1610612749,Milwaukee Bucks,4,0,58,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,-4,1,0,20260302,MIL,BOS
+Shot Chart Detail,0022500970,649,203914,Gary Harris,1610612749,Milwaukee Bucks,4,1,19,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,183,189,1,0,20260314,ATL,MIL
+Shot Chart Detail,0022500979,181,203914,Gary Harris,1610612749,Milwaukee Bucks,2,11,4,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-17,253,1,0,20260315,MIL,IND
+Shot Chart Detail,0022500979,550,203914,Gary Harris,1610612749,Milwaukee Bucks,4,9,32,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-224,69,1,1,20260315,MIL,IND
+Shot Chart Detail,0022500979,608,203914,Gary Harris,1610612749,Milwaukee Bucks,4,5,56,Missed Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,26,1,0,20260315,MIL,IND
+Shot Chart Detail,0022500979,611,203914,Gary Harris,1610612749,Milwaukee Bucks,4,5,27,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,236,30,1,1,20260315,MIL,IND
+Shot Chart Detail,0022501014,570,203914,Gary Harris,1610612749,Milwaukee Bucks,4,7,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-214,176,1,1,20260319,UTA,MIL
+Shot Chart Detail,0022501014,578,203914,Gary Harris,1610612749,Milwaukee Bucks,4,6,0,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,5,1,0,20260319,UTA,MIL
+Shot Chart Detail,0022501014,652,203914,Gary Harris,1610612749,Milwaukee Bucks,4,0,43,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-225,123,1,1,20260319,UTA,MIL
+Shot Chart Detail,0022501126,163,203914,Gary Harris,1610612749,Milwaukee Bucks,1,0,41,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,13,1,1,20260403,MIL,BOS
+Shot Chart Detail,0022501126,405,203914,Gary Harris,1610612749,Milwaukee Bucks,3,5,41,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,51,246,1,0,20260403,MIL,BOS
+Shot Chart Detail,0022501126,432,203914,Gary Harris,1610612749,Milwaukee Bucks,3,3,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,202,134,1,1,20260403,MIL,BOS
+Shot Chart Detail,0022501126,484,203914,Gary Harris,1610612749,Milwaukee Bucks,4,10,7,Missed Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,93,158,1,0,20260403,MIL,BOS
+Shot Chart Detail,0022501150,80,203914,Gary Harris,1610612749,Milwaukee Bucks,1,4,14,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,11,1,0,20260407,BKN,MIL
+Shot Chart Detail,0022501150,84,203914,Gary Harris,1610612749,Milwaukee Bucks,1,3,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,93,243,1,1,20260407,BKN,MIL
+Shot Chart Detail,0022501150,130,203914,Gary Harris,1610612749,Milwaukee Bucks,1,0,44,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,42,162,1,0,20260407,BKN,MIL
+Shot Chart Detail,0022501150,164,203914,Gary Harris,1610612749,Milwaukee Bucks,2,9,50,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,235,78,1,0,20260407,BKN,MIL
+Shot Chart Detail,0022501150,173,203914,Gary Harris,1610612749,Milwaukee Bucks,2,9,32,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-131,213,1,0,20260407,BKN,MIL
+Shot Chart Detail,0022501150,191,203914,Gary Harris,1610612749,Milwaukee Bucks,2,8,8,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,4,1,1,20260407,BKN,MIL
+Shot Chart Detail,0022501150,195,203914,Gary Harris,1610612749,Milwaukee Bucks,2,7,36,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,64,47,1,1,20260407,BKN,MIL
+Shot Chart Detail,0022501150,203,203914,Gary Harris,1610612749,Milwaukee Bucks,2,6,54,Missed Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,17,63,1,0,20260407,BKN,MIL
+Shot Chart Detail,0022501150,448,203914,Gary Harris,1610612749,Milwaukee Bucks,4,11,43,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,13,18,1,0,20260407,BKN,MIL
+Shot Chart Detail,0022501206,124,203914,Gary Harris,1610612749,Milwaukee Bucks,1,2,17,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,-13,1,0,20251211,MIL,BOS
+Shot Chart Detail,0022501206,584,203914,Gary Harris,1610612749,Milwaukee Bucks,4,4,35,Missed Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,16,1,0,20251211,MIL,BOS
+Shot Chart Detail,0022501206,609,203914,Gary Harris,1610612749,Milwaukee Bucks,4,1,57,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,-8,1,0,20251211,MIL,BOS
+Shot Chart Detail,0022501219,105,203914,Gary Harris,1610612749,Milwaukee Bucks,1,3,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-136,204,1,1,20251214,BKN,MIL

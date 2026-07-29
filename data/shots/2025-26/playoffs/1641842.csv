@@ -1,0 +1,14 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0042500101,209,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,9,49,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-13,16,1,1,20260419,DET,ORL
+Shot Chart Detail,0042500101,483,1641842,Ronald Holland II,1610612765,Detroit Pistons,3,2,55,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-7,30,1,0,20260419,DET,ORL
+Shot Chart Detail,0042500102,196,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,11,48,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,5,1,0,20260422,DET,ORL
+Shot Chart Detail,0042500201,319,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,2,0,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,4,1,1,20260505,DET,CLE
+Shot Chart Detail,0042500201,514,1641842,Ronald Holland II,1610612765,Detroit Pistons,3,0,0,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,29,-21,296,1,1,20260505,DET,CLE
+Shot Chart Detail,0042500201,549,1641842,Ronald Holland II,1610612765,Detroit Pistons,4,10,22,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-91,242,1,0,20260505,DET,CLE
+Shot Chart Detail,0042500202,139,1641842,Ronald Holland II,1610612765,Detroit Pistons,1,0,7,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,238,38,1,0,20260507,DET,CLE
+Shot Chart Detail,0042500202,215,1641842,Ronald Holland II,1610612765,Detroit Pistons,2,7,19,Missed Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,32,53,1,0,20260507,DET,CLE
+Shot Chart Detail,0042500202,459,1641842,Ronald Holland II,1610612765,Detroit Pistons,3,2,25,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-239,16,1,0,20260507,DET,CLE
+Shot Chart Detail,0042500204,145,1641842,Ronald Holland II,1610612765,Detroit Pistons,1,0,23,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-129,220,1,0,20260511,CLE,DET
+Shot Chart Detail,0042500207,682,1641842,Ronald Holland II,1610612765,Detroit Pistons,4,5,35,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-66,50,1,0,20260517,DET,CLE
+Shot Chart Detail,0042500207,700,1641842,Ronald Holland II,1610612765,Detroit Pistons,4,4,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-202,180,1,1,20260517,DET,CLE
+Shot Chart Detail,0042500207,756,1641842,Ronald Holland II,1610612765,Detroit Pistons,4,0,47,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-127,244,1,0,20260517,DET,CLE

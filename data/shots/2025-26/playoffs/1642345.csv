@@ -1,0 +1,25 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0042500141,311,1642345,Oso Ighodaro,1610612756,Phoenix Suns,2,4,33,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,13,18,1,0,20260419,OKC,PHX
+Shot Chart Detail,0042500141,421,1642345,Oso Ighodaro,1610612756,Phoenix Suns,3,9,42,Missed Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,14,1,0,20260419,OKC,PHX
+Shot Chart Detail,0042500141,459,1642345,Oso Ighodaro,1610612756,Phoenix Suns,3,6,28,Missed Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,14,1,0,20260419,OKC,PHX
+Shot Chart Detail,0042500142,29,1642345,Oso Ighodaro,1610612756,Phoenix Suns,1,9,2,Missed Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-32,60,1,0,20260422,OKC,PHX
+Shot Chart Detail,0042500142,43,1642345,Oso Ighodaro,1610612756,Phoenix Suns,1,8,23,Missed Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,8,0,80,1,0,20260422,OKC,PHX
+Shot Chart Detail,0042500142,62,1642345,Oso Ighodaro,1610612756,Phoenix Suns,1,6,9,Missed Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-16,36,1,0,20260422,OKC,PHX
+Shot Chart Detail,0042500142,232,1642345,Oso Ighodaro,1610612756,Phoenix Suns,2,7,0,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,13,1,0,20260422,OKC,PHX
+Shot Chart Detail,0042500142,307,1642345,Oso Ighodaro,1610612756,Phoenix Suns,2,1,40,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,12,1,1,20260422,OKC,PHX
+Shot Chart Detail,0042500142,332,1642345,Oso Ighodaro,1610612756,Phoenix Suns,2,0,12,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-5,21,1,1,20260422,OKC,PHX
+Shot Chart Detail,0042500142,403,1642345,Oso Ighodaro,1610612756,Phoenix Suns,3,6,32,Missed Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,8,1,0,20260422,OKC,PHX
+Shot Chart Detail,0042500142,411,1642345,Oso Ighodaro,1610612756,Phoenix Suns,3,6,17,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,-4,1,1,20260422,OKC,PHX
+Shot Chart Detail,0042500143,31,1642345,Oso Ighodaro,1610612756,Phoenix Suns,1,9,36,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-21,24,1,1,20260425,PHX,OKC
+Shot Chart Detail,0042500143,62,1642345,Oso Ighodaro,1610612756,Phoenix Suns,1,6,2,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,91,51,1,1,20260425,PHX,OKC
+Shot Chart Detail,0042500143,257,1642345,Oso Ighodaro,1610612756,Phoenix Suns,2,4,46,Made Shot,Cutting Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,21,51,1,1,20260425,PHX,OKC
+Shot Chart Detail,0042500143,265,1642345,Oso Ighodaro,1610612756,Phoenix Suns,2,4,25,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,17,30,1,1,20260425,PHX,OKC
+Shot Chart Detail,0042500143,339,1642345,Oso Ighodaro,1610612756,Phoenix Suns,3,11,3,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-16,33,1,1,20260425,PHX,OKC
+Shot Chart Detail,0042500143,369,1642345,Oso Ighodaro,1610612756,Phoenix Suns,3,9,3,Missed Shot,Cutting Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-5,59,1,0,20260425,PHX,OKC
+Shot Chart Detail,0042500143,377,1642345,Oso Ighodaro,1610612756,Phoenix Suns,3,8,10,Missed Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-37,42,1,0,20260425,PHX,OKC
+Shot Chart Detail,0042500143,446,1642345,Oso Ighodaro,1610612756,Phoenix Suns,3,3,22,Made Shot,Cutting Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,6,41,1,1,20260425,PHX,OKC
+Shot Chart Detail,0042500144,39,1642345,Oso Ighodaro,1610612756,Phoenix Suns,1,8,20,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-34,105,1,1,20260427,PHX,OKC
+Shot Chart Detail,0042500144,190,1642345,Oso Ighodaro,1610612756,Phoenix Suns,2,9,42,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,9,1,1,20260427,PHX,OKC
+Shot Chart Detail,0042500144,266,1642345,Oso Ighodaro,1610612756,Phoenix Suns,2,3,36,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,9,1,1,20260427,PHX,OKC
+Shot Chart Detail,0042500144,324,1642345,Oso Ighodaro,1610612756,Phoenix Suns,3,11,27,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260427,PHX,OKC
+Shot Chart Detail,0042500144,630,1642345,Oso Ighodaro,1610612756,Phoenix Suns,4,3,42,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-29,37,1,0,20260427,PHX,OKC

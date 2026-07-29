@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 from pathlib import Path
 
-from src.shot_charts.fetch_data import get_player_shots
+from src.shot_charts.fetch_data import get_player_shots_local
 from src.shot_charts.process import prepare_for_plotting
 from src.shot_charts.plotting import plot_shots
 from src.shot_charts.heatmap import plot_heatmap
@@ -190,7 +190,7 @@ def render(selected_season: str, seasons):
 
     if st.button("Fetch Shot Data"):
         with st.spinner("Fetching shot data..."):
-            df_raw = get_player_shots(player_id, selected_season, season_type)
+            df_raw = get_player_shots_local(player_id, selected_season, season_type)
 
             if df_raw.empty and season_type == "Playoffs":
                 st.error(f"{player_name} did not play in the {selected_season} playoffs.")

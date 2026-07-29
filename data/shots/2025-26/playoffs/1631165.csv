@@ -1,0 +1,16 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0042500131,288,1631165,Keon Ellis,1610612739,Cleveland Cavaliers,2,4,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-205,148,1,1,20260418,CLE,TOR
+Shot Chart Detail,0042500132,198,1631165,Keon Ellis,1610612739,Cleveland Cavaliers,2,8,25,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-224,-2,1,0,20260420,CLE,TOR
+Shot Chart Detail,0042500132,209,1631165,Keon Ellis,1610612739,Cleveland Cavaliers,2,7,36,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-239,-4,1,0,20260420,CLE,TOR
+Shot Chart Detail,0042500132,569,1631165,Keon Ellis,1610612739,Cleveland Cavaliers,4,8,58,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,4,1,0,20260420,CLE,TOR
+Shot Chart Detail,0042500132,573,1631165,Keon Ellis,1610612739,Cleveland Cavaliers,4,8,26,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,211,130,1,0,20260420,CLE,TOR
+Shot Chart Detail,0042500134,235,1631165,Keon Ellis,1610612739,Cleveland Cavaliers,2,9,8,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-130,222,1,0,20260426,TOR,CLE
+Shot Chart Detail,0042500201,291,1631165,Keon Ellis,1610612739,Cleveland Cavaliers,2,3,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,233,91,1,1,20260505,DET,CLE
+Shot Chart Detail,0042500201,295,1631165,Keon Ellis,1610612739,Cleveland Cavaliers,2,3,21,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,13,1,0,20260505,DET,CLE
+Shot Chart Detail,0042500201,350,1631165,Keon Ellis,1610612739,Cleveland Cavaliers,2,0,7,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-89,244,1,0,20260505,DET,CLE
+Shot Chart Detail,0042500201,553,1631165,Keon Ellis,1610612739,Cleveland Cavaliers,4,10,8,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,127,239,1,0,20260505,DET,CLE
+Shot Chart Detail,0042500202,196,1631165,Keon Ellis,1610612739,Cleveland Cavaliers,2,8,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,114,247,1,1,20260507,DET,CLE
+Shot Chart Detail,0042500207,758,1631165,Keon Ellis,1610612739,Cleveland Cavaliers,4,0,36,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-191,185,1,1,20260517,DET,CLE
+Shot Chart Detail,0042500304,213,1631165,Keon Ellis,1610612739,Cleveland Cavaliers,2,8,27,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,26,1,0,20260525,CLE,NYK
+Shot Chart Detail,0042500304,637,1631165,Keon Ellis,1610612739,Cleveland Cavaliers,4,4,17,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-225,124,1,0,20260525,CLE,NYK
+Shot Chart Detail,0042500304,658,1631165,Keon Ellis,1610612739,Cleveland Cavaliers,4,2,36,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,229,127,1,1,20260525,CLE,NYK

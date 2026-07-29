@@ -1,0 +1,294 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0022500426,662,1630695,Micah Potter,1610612754,Indiana Pacers,4,4,23,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-25,-5,1,1,20251226,IND,BOS
+Shot Chart Detail,0022500426,680,1630695,Micah Potter,1610612754,Indiana Pacers,4,3,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-1,258,1,1,20251226,IND,BOS
+Shot Chart Detail,0022500436,231,1630695,Micah Potter,1610612754,Indiana Pacers,2,7,55,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,6,1,1,20251227,MIA,IND
+Shot Chart Detail,0022500436,234,1630695,Micah Potter,1610612754,Indiana Pacers,2,7,32,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-161,187,1,0,20251227,MIA,IND
+Shot Chart Detail,0022500436,252,1630695,Micah Potter,1610612754,Indiana Pacers,2,6,26,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,11,1,0,20251227,MIA,IND
+Shot Chart Detail,0022500436,264,1630695,Micah Potter,1610612754,Indiana Pacers,2,5,47,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-25,8,1,0,20251227,MIA,IND
+Shot Chart Detail,0022500453,183,1630695,Micah Potter,1610612754,Indiana Pacers,2,9,45,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,31,1,0,20251229,HOU,IND
+Shot Chart Detail,0022500453,649,1630695,Micah Potter,1610612754,Indiana Pacers,4,3,29,Missed Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,6,1,0,20251229,HOU,IND
+Shot Chart Detail,0022500453,657,1630695,Micah Potter,1610612754,Indiana Pacers,4,2,26,Made Shot,Turnaround Bank Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-58,41,1,1,20251229,HOU,IND
+Shot Chart Detail,0022500464,197,1630695,Micah Potter,1610612754,Indiana Pacers,2,11,47,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,16,1,1,20251231,IND,ORL
+Shot Chart Detail,0022500464,431,1630695,Micah Potter,1610612754,Indiana Pacers,3,8,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-45,242,1,1,20251231,IND,ORL
+Shot Chart Detail,0022500464,556,1630695,Micah Potter,1610612754,Indiana Pacers,3,0,15,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,238,61,1,0,20251231,IND,ORL
+Shot Chart Detail,0022500464,588,1630695,Micah Potter,1610612754,Indiana Pacers,4,10,20,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,238,25,1,0,20251231,IND,ORL
+Shot Chart Detail,0022500476,51,1630695,Micah Potter,1610612754,Indiana Pacers,1,8,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,4,269,1,1,20260102,IND,SAS
+Shot Chart Detail,0022500476,344,1630695,Micah Potter,1610612754,Indiana Pacers,2,1,0,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,28,1,0,20260102,IND,SAS
+Shot Chart Detail,0022500476,349,1630695,Micah Potter,1610612754,Indiana Pacers,2,0,29,Made Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-38,31,1,1,20260102,IND,SAS
+Shot Chart Detail,0022500476,379,1630695,Micah Potter,1610612754,Indiana Pacers,3,11,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-109,225,1,0,20260102,IND,SAS
+Shot Chart Detail,0022500476,417,1630695,Micah Potter,1610612754,Indiana Pacers,3,8,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-74,234,1,1,20260102,IND,SAS
+Shot Chart Detail,0022500476,423,1630695,Micah Potter,1610612754,Indiana Pacers,3,8,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-94,224,1,1,20260102,IND,SAS
+Shot Chart Detail,0022500476,427,1630695,Micah Potter,1610612754,Indiana Pacers,3,7,47,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,16,1,0,20260102,IND,SAS
+Shot Chart Detail,0022500476,431,1630695,Micah Potter,1610612754,Indiana Pacers,3,7,15,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-156,225,1,0,20260102,IND,SAS
+Shot Chart Detail,0022500476,462,1630695,Micah Potter,1610612754,Indiana Pacers,3,5,36,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,36,72,1,0,20260102,IND,SAS
+Shot Chart Detail,0022500476,698,1630695,Micah Potter,1610612754,Indiana Pacers,4,2,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-61,252,1,1,20260102,IND,SAS
+Shot Chart Detail,0022500495,9,1630695,Micah Potter,1610612754,Indiana Pacers,1,11,27,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,-2,1,1,20260104,ORL,IND
+Shot Chart Detail,0022500495,278,1630695,Micah Potter,1610612754,Indiana Pacers,2,6,53,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,17,1,0,20260104,ORL,IND
+Shot Chart Detail,0022500495,605,1630695,Micah Potter,1610612754,Indiana Pacers,4,8,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-143,228,1,1,20260104,ORL,IND
+Shot Chart Detail,0022500495,689,1630695,Micah Potter,1610612754,Indiana Pacers,4,1,32,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-20,23,1,1,20260104,ORL,IND
+Shot Chart Detail,0022500495,693,1630695,Micah Potter,1610612754,Indiana Pacers,4,1,0,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,7,1,0,20260104,ORL,IND
+Shot Chart Detail,0022500510,104,1630695,Micah Potter,1610612754,Indiana Pacers,1,3,29,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,-6,1,0,20260106,IND,CLE
+Shot Chart Detail,0022500510,138,1630695,Micah Potter,1610612754,Indiana Pacers,1,1,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-16,253,1,0,20260106,IND,CLE
+Shot Chart Detail,0022500510,191,1630695,Micah Potter,1610612754,Indiana Pacers,2,9,43,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,241,66,1,1,20260106,IND,CLE
+Shot Chart Detail,0022500510,445,1630695,Micah Potter,1610612754,Indiana Pacers,3,4,1,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,239,15,1,1,20260106,IND,CLE
+Shot Chart Detail,0022500528,102,1630695,Micah Potter,1610612754,Indiana Pacers,1,4,55,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,227,38,1,1,20260108,CHA,IND
+Shot Chart Detail,0022500528,147,1630695,Micah Potter,1610612754,Indiana Pacers,1,2,11,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,15,17,1,1,20260108,CHA,IND
+Shot Chart Detail,0022500528,166,1630695,Micah Potter,1610612754,Indiana Pacers,1,1,3,Missed Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,55,1,0,20260108,CHA,IND
+Shot Chart Detail,0022500528,175,1630695,Micah Potter,1610612754,Indiana Pacers,1,0,26,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-136,162,1,0,20260108,CHA,IND
+Shot Chart Detail,0022500543,134,1630695,Micah Potter,1610612754,Indiana Pacers,1,3,32,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,6,1,1,20260110,IND,MIA
+Shot Chart Detail,0022500543,281,1630695,Micah Potter,1610612754,Indiana Pacers,2,5,26,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,23,1,1,20260110,IND,MIA
+Shot Chart Detail,0022500543,430,1630695,Micah Potter,1610612754,Indiana Pacers,3,7,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,15,264,1,1,20260110,IND,MIA
+Shot Chart Detail,0022500543,467,1630695,Micah Potter,1610612754,Indiana Pacers,3,4,49,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-92,235,1,1,20260110,IND,MIA
+Shot Chart Detail,0022500543,505,1630695,Micah Potter,1610612754,Indiana Pacers,3,2,8,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-107,231,1,0,20260110,IND,MIA
+Shot Chart Detail,0022500543,687,1630695,Micah Potter,1610612754,Indiana Pacers,4,2,43,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,31,1,0,20260110,IND,MIA
+Shot Chart Detail,0022500543,697,1630695,Micah Potter,1610612754,Indiana Pacers,4,2,11,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,22,1,1,20260110,IND,MIA
+Shot Chart Detail,0022500559,136,1630695,Micah Potter,1610612754,Indiana Pacers,1,0,29,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,12,1,0,20260112,IND,BOS
+Shot Chart Detail,0022500559,131,1630695,Micah Potter,1610612754,Indiana Pacers,1,0,26,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,22,22,1,1,20260112,IND,BOS
+Shot Chart Detail,0022500559,151,1630695,Micah Potter,1610612754,Indiana Pacers,2,10,48,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20260112,IND,BOS
+Shot Chart Detail,0022500559,155,1630695,Micah Potter,1610612754,Indiana Pacers,2,10,22,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,18,1,1,20260112,IND,BOS
+Shot Chart Detail,0022500559,375,1630695,Micah Potter,1610612754,Indiana Pacers,3,4,21,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-126,213,1,0,20260112,IND,BOS
+Shot Chart Detail,0022500559,378,1630695,Micah Potter,1610612754,Indiana Pacers,3,4,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-86,243,1,0,20260112,IND,BOS
+Shot Chart Detail,0022500571,91,1630695,Micah Potter,1610612754,Indiana Pacers,1,4,33,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-212,113,1,0,20260114,IND,TOR
+Shot Chart Detail,0022500571,747,1630695,Micah Potter,1610612754,Indiana Pacers,4,0,54,Missed Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,10,1,0,20260114,IND,TOR
+Shot Chart Detail,0022500595,286,1630695,Micah Potter,1610612754,Indiana Pacers,2,6,40,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,0,1,0,20260117,DET,IND
+Shot Chart Detail,0022500595,555,1630695,Micah Potter,1610612754,Indiana Pacers,3,3,53,Missed Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,15,1,0,20260117,DET,IND
+Shot Chart Detail,0022500595,734,1630695,Micah Potter,1610612754,Indiana Pacers,4,3,55,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-121,220,1,0,20260117,DET,IND
+Shot Chart Detail,0022500621,331,1630695,Micah Potter,1610612754,Indiana Pacers,2,1,54,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,229,79,1,0,20260121,BOS,IND
+Shot Chart Detail,0022500621,479,1630695,Micah Potter,1610612754,Indiana Pacers,3,4,7,Missed Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,66,48,1,0,20260121,BOS,IND
+Shot Chart Detail,0022500621,580,1630695,Micah Potter,1610612754,Indiana Pacers,4,10,59,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,13,263,1,0,20260121,BOS,IND
+Shot Chart Detail,0022500621,583,1630695,Micah Potter,1610612754,Indiana Pacers,4,10,24,Made Shot,Cutting Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-33,31,1,1,20260121,BOS,IND
+Shot Chart Detail,0022500621,667,1630695,Micah Potter,1610612754,Indiana Pacers,4,4,40,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-102,234,1,0,20260121,BOS,IND
+Shot Chart Detail,0022500641,89,1630695,Micah Potter,1610612754,Indiana Pacers,1,5,0,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,19,1,1,20260123,OKC,IND
+Shot Chart Detail,0022500641,339,1630695,Micah Potter,1610612754,Indiana Pacers,2,2,1,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,19,1,0,20260123,OKC,IND
+Shot Chart Detail,0022500641,361,1630695,Micah Potter,1610612754,Indiana Pacers,2,0,12,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-224,-4,1,0,20260123,OKC,IND
+Shot Chart Detail,0022500641,483,1630695,Micah Potter,1610612754,Indiana Pacers,3,3,37,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-134,216,1,0,20260123,OKC,IND
+Shot Chart Detail,0022500641,508,1630695,Micah Potter,1610612754,Indiana Pacers,3,1,47,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260123,OKC,IND
+Shot Chart Detail,0022500641,517,1630695,Micah Potter,1610612754,Indiana Pacers,3,0,44,Missed Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,32,1,0,20260123,OKC,IND
+Shot Chart Detail,0022500641,521,1630695,Micah Potter,1610612754,Indiana Pacers,3,0,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,98,225,1,1,20260123,OKC,IND
+Shot Chart Detail,0022500641,541,1630695,Micah Potter,1610612754,Indiana Pacers,4,10,37,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,224,41,1,0,20260123,OKC,IND
+Shot Chart Detail,0022500641,665,1630695,Micah Potter,1610612754,Indiana Pacers,4,2,57,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,10,1,1,20260123,OKC,IND
+Shot Chart Detail,0022500659,74,1630695,Micah Potter,1610612754,Indiana Pacers,1,6,30,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,46,1,0,20260126,ATL,IND
+Shot Chart Detail,0022500659,139,1630695,Micah Potter,1610612754,Indiana Pacers,1,1,21,Missed Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,15,18,1,0,20260126,ATL,IND
+Shot Chart Detail,0022500659,334,1630695,Micah Potter,1610612754,Indiana Pacers,2,2,2,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,-4,1,1,20260126,ATL,IND
+Shot Chart Detail,0022500659,452,1630695,Micah Potter,1610612754,Indiana Pacers,3,5,36,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-33,239,1,0,20260126,ATL,IND
+Shot Chart Detail,0022500659,524,1630695,Micah Potter,1610612754,Indiana Pacers,3,1,42,Missed Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-32,43,1,0,20260126,ATL,IND
+Shot Chart Detail,0022500659,673,1630695,Micah Potter,1610612754,Indiana Pacers,4,4,21,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,11,1,0,20260126,ATL,IND
+Shot Chart Detail,0022500659,675,1630695,Micah Potter,1610612754,Indiana Pacers,4,4,14,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,-10,1,0,20260126,ATL,IND
+Shot Chart Detail,0022500659,679,1630695,Micah Potter,1610612754,Indiana Pacers,4,3,53,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,27,5,1,1,20260126,ATL,IND
+Shot Chart Detail,0022500672,179,1630695,Micah Potter,1610612754,Indiana Pacers,2,10,15,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-224,-27,1,0,20260128,IND,CHI
+Shot Chart Detail,0022500672,247,1630695,Micah Potter,1610612754,Indiana Pacers,2,5,22,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,11,-18,1,0,20260128,IND,CHI
+Shot Chart Detail,0022500672,457,1630695,Micah Potter,1610612754,Indiana Pacers,3,3,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,162,210,1,1,20260128,IND,CHI
+Shot Chart Detail,0022500672,486,1630695,Micah Potter,1610612754,Indiana Pacers,3,1,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-27,260,1,0,20260128,IND,CHI
+Shot Chart Detail,0022500672,501,1630695,Micah Potter,1610612754,Indiana Pacers,4,11,49,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,238,37,1,1,20260128,IND,CHI
+Shot Chart Detail,0022500713,242,1630695,Micah Potter,1610612754,Indiana Pacers,2,5,49,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-87,192,1,0,20260202,IND,HOU
+Shot Chart Detail,0022500713,260,1630695,Micah Potter,1610612754,Indiana Pacers,2,4,22,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,3,1,1,20260202,IND,HOU
+Shot Chart Detail,0022500713,547,1630695,Micah Potter,1610612754,Indiana Pacers,4,11,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-10,257,1,1,20260202,IND,HOU
+Shot Chart Detail,0022500743,119,1630695,Micah Potter,1610612754,Indiana Pacers,1,1,17,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-224,-29,1,1,20260206,MIL,IND
+Shot Chart Detail,0022500743,159,1630695,Micah Potter,1610612754,Indiana Pacers,2,10,19,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,241,57,1,1,20260206,MIL,IND
+Shot Chart Detail,0022500743,392,1630695,Micah Potter,1610612754,Indiana Pacers,3,4,9,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-66,23,1,1,20260206,MIL,IND
+Shot Chart Detail,0022500743,396,1630695,Micah Potter,1610612754,Indiana Pacers,3,3,39,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-121,236,1,0,20260206,MIL,IND
+Shot Chart Detail,0022500743,426,1630695,Micah Potter,1610612754,Indiana Pacers,3,1,37,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,76,258,1,0,20260206,MIL,IND
+Shot Chart Detail,0022500759,197,1630695,Micah Potter,1610612754,Indiana Pacers,2,10,51,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-11,257,1,0,20260208,TOR,IND
+Shot Chart Detail,0022500759,474,1630695,Micah Potter,1610612754,Indiana Pacers,3,4,54,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,-1,1,1,20260208,TOR,IND
+Shot Chart Detail,0022500759,627,1630695,Micah Potter,1610612754,Indiana Pacers,4,7,47,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,10,1,1,20260208,TOR,IND
+Shot Chart Detail,0022500759,631,1630695,Micah Potter,1610612754,Indiana Pacers,4,7,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-136,221,1,1,20260208,TOR,IND
+Shot Chart Detail,0022500771,152,1630695,Micah Potter,1610612754,Indiana Pacers,2,11,36,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,121,238,1,0,20260210,NYK,IND
+Shot Chart Detail,0022500771,167,1630695,Micah Potter,1610612754,Indiana Pacers,2,10,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,100,223,1,1,20260210,NYK,IND
+Shot Chart Detail,0022500771,215,1630695,Micah Potter,1610612754,Indiana Pacers,2,7,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,28,257,1,1,20260210,NYK,IND
+Shot Chart Detail,0022500771,341,1630695,Micah Potter,1610612754,Indiana Pacers,3,10,55,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-112,227,1,0,20260210,NYK,IND
+Shot Chart Detail,0022500771,379,1630695,Micah Potter,1610612754,Indiana Pacers,3,8,20,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,8,1,1,20260210,NYK,IND
+Shot Chart Detail,0022500771,395,1630695,Micah Potter,1610612754,Indiana Pacers,3,7,9,Missed Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,1,25,1,0,20260210,NYK,IND
+Shot Chart Detail,0022500771,641,1630695,Micah Potter,1610612754,Indiana Pacers,4,2,15,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,6,248,1,0,20260210,NYK,IND
+Shot Chart Detail,0022500771,713,1630695,Micah Potter,1610612754,Indiana Pacers,5,4,35,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,8,1,0,20260210,NYK,IND
+Shot Chart Detail,0022500771,747,1630695,Micah Potter,1610612754,Indiana Pacers,5,1,3,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,8,1,0,20260210,NYK,IND
+Shot Chart Detail,0022500779,47,1630695,Micah Potter,1610612754,Indiana Pacers,1,8,17,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,43,1,1,20260211,BKN,IND
+Shot Chart Detail,0022500779,68,1630695,Micah Potter,1610612754,Indiana Pacers,1,5,51,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-6,84,1,1,20260211,BKN,IND
+Shot Chart Detail,0022500779,306,1630695,Micah Potter,1610612754,Indiana Pacers,2,2,6,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,25,20,1,0,20260211,BKN,IND
+Shot Chart Detail,0022500779,437,1630695,Micah Potter,1610612754,Indiana Pacers,3,5,2,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,-2,1,1,20260211,BKN,IND
+Shot Chart Detail,0022500779,469,1630695,Micah Potter,1610612754,Indiana Pacers,3,3,13,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,1,62,1,1,20260211,BKN,IND
+Shot Chart Detail,0022500779,560,1630695,Micah Potter,1610612754,Indiana Pacers,4,8,6,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,16,1,0,20260211,BKN,IND
+Shot Chart Detail,0022500779,579,1630695,Micah Potter,1610612754,Indiana Pacers,4,7,11,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260211,BKN,IND
+Shot Chart Detail,0022500779,639,1630695,Micah Potter,1610612754,Indiana Pacers,4,1,51,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,9,30,1,1,20260211,BKN,IND
+Shot Chart Detail,0022500795,104,1630695,Micah Potter,1610612754,Indiana Pacers,1,5,15,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-233,58,1,1,20260219,WAS,IND
+Shot Chart Detail,0022500795,126,1630695,Micah Potter,1610612754,Indiana Pacers,1,3,45,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,229,-3,1,0,20260219,WAS,IND
+Shot Chart Detail,0022500795,174,1630695,Micah Potter,1610612754,Indiana Pacers,1,0,5,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,240,-1,1,0,20260219,WAS,IND
+Shot Chart Detail,0022500795,232,1630695,Micah Potter,1610612754,Indiana Pacers,2,7,15,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,5,78,1,0,20260219,WAS,IND
+Shot Chart Detail,0022500795,277,1630695,Micah Potter,1610612754,Indiana Pacers,2,4,19,Missed Shot,Cutting Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,7,53,1,0,20260219,WAS,IND
+Shot Chart Detail,0022500795,307,1630695,Micah Potter,1610612754,Indiana Pacers,2,2,2,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,21,-109,187,1,1,20260219,WAS,IND
+Shot Chart Detail,0022500795,534,1630695,Micah Potter,1610612754,Indiana Pacers,3,0,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,13,1,1,20260219,WAS,IND
+Shot Chart Detail,0022500795,594,1630695,Micah Potter,1610612754,Indiana Pacers,4,7,52,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,-11,1,1,20260219,WAS,IND
+Shot Chart Detail,0022500795,601,1630695,Micah Potter,1610612754,Indiana Pacers,4,7,8,Missed Shot,Turnaround Hook Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-81,30,1,0,20260219,WAS,IND
+Shot Chart Detail,0022500795,608,1630695,Micah Potter,1610612754,Indiana Pacers,4,6,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-9,271,1,1,20260219,WAS,IND
+Shot Chart Detail,0022500803,82,1630695,Micah Potter,1610612754,Indiana Pacers,1,6,2,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,-4,1,0,20260220,WAS,IND
+Shot Chart Detail,0022500803,276,1630695,Micah Potter,1610612754,Indiana Pacers,2,5,47,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-72,52,1,0,20260220,WAS,IND
+Shot Chart Detail,0022500803,287,1630695,Micah Potter,1610612754,Indiana Pacers,2,5,10,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,5,116,1,1,20260220,WAS,IND
+Shot Chart Detail,0022500803,297,1630695,Micah Potter,1610612754,Indiana Pacers,2,4,25,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,185,197,1,0,20260220,WAS,IND
+Shot Chart Detail,0022500803,327,1630695,Micah Potter,1610612754,Indiana Pacers,2,2,12,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-249,100,1,0,20260220,WAS,IND
+Shot Chart Detail,0022500803,332,1630695,Micah Potter,1610612754,Indiana Pacers,2,1,51,Missed Shot,Driving Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-40,27,1,0,20260220,WAS,IND
+Shot Chart Detail,0022500803,346,1630695,Micah Potter,1610612754,Indiana Pacers,2,0,57,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,12,1,1,20260220,WAS,IND
+Shot Chart Detail,0022500803,357,1630695,Micah Potter,1610612754,Indiana Pacers,2,0,21,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,239,29,1,1,20260220,WAS,IND
+Shot Chart Detail,0022500803,466,1630695,Micah Potter,1610612754,Indiana Pacers,3,4,55,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-151,203,1,0,20260220,WAS,IND
+Shot Chart Detail,0022500803,494,1630695,Micah Potter,1610612754,Indiana Pacers,3,2,53,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-207,126,1,0,20260220,WAS,IND
+Shot Chart Detail,0022500803,520,1630695,Micah Potter,1610612754,Indiana Pacers,3,1,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-189,176,1,1,20260220,WAS,IND
+Shot Chart Detail,0022500803,540,1630695,Micah Potter,1610612754,Indiana Pacers,4,10,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,5,256,1,1,20260220,WAS,IND
+Shot Chart Detail,0022500803,642,1630695,Micah Potter,1610612754,Indiana Pacers,4,2,10,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,4,1,1,20260220,WAS,IND
+Shot Chart Detail,0022500821,338,1630695,Micah Potter,1610612754,Indiana Pacers,2,2,34,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,28,46,1,1,20260222,IND,DAL
+Shot Chart Detail,0022500821,370,1630695,Micah Potter,1610612754,Indiana Pacers,2,0,0,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,25,25,1,0,20260222,IND,DAL
+Shot Chart Detail,0022500821,486,1630695,Micah Potter,1610612754,Indiana Pacers,3,4,12,Missed Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-18,52,1,0,20260222,IND,DAL
+Shot Chart Detail,0022500821,511,1630695,Micah Potter,1610612754,Indiana Pacers,3,2,41,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,20,1,0,20260222,IND,DAL
+Shot Chart Detail,0022500821,533,1630695,Micah Potter,1610612754,Indiana Pacers,3,0,52,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,217,147,1,0,20260222,IND,DAL
+Shot Chart Detail,0022500821,554,1630695,Micah Potter,1610612754,Indiana Pacers,4,11,19,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,241,14,1,0,20260222,IND,DAL
+Shot Chart Detail,0022500821,577,1630695,Micah Potter,1610612754,Indiana Pacers,4,9,43,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-129,232,1,0,20260222,IND,DAL
+Shot Chart Detail,0022500831,41,1630695,Micah Potter,1610612754,Indiana Pacers,1,8,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,30,-113,279,1,0,20260224,IND,PHI
+Shot Chart Detail,0022500831,87,1630695,Micah Potter,1610612754,Indiana Pacers,1,5,16,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,159,228,1,1,20260224,IND,PHI
+Shot Chart Detail,0022500831,105,1630695,Micah Potter,1610612754,Indiana Pacers,1,4,25,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,7,1,1,20260224,IND,PHI
+Shot Chart Detail,0022500831,129,1630695,Micah Potter,1610612754,Indiana Pacers,1,3,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-4,279,1,1,20260224,IND,PHI
+Shot Chart Detail,0022500831,294,1630695,Micah Potter,1610612754,Indiana Pacers,2,4,55,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260224,IND,PHI
+Shot Chart Detail,0022500831,312,1630695,Micah Potter,1610612754,Indiana Pacers,2,3,49,Made Shot,Cutting Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,13,1,1,20260224,IND,PHI
+Shot Chart Detail,0022500831,317,1630695,Micah Potter,1610612754,Indiana Pacers,2,3,13,Made Shot,Cutting Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,6,52,1,1,20260224,IND,PHI
+Shot Chart Detail,0022500831,327,1630695,Micah Potter,1610612754,Indiana Pacers,2,1,55,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,10,1,1,20260224,IND,PHI
+Shot Chart Detail,0022500831,351,1630695,Micah Potter,1610612754,Indiana Pacers,2,0,42,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,77,279,1,0,20260224,IND,PHI
+Shot Chart Detail,0022500831,497,1630695,Micah Potter,1610612754,Indiana Pacers,3,2,38,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-42,32,1,1,20260224,IND,PHI
+Shot Chart Detail,0022500831,631,1630695,Micah Potter,1610612754,Indiana Pacers,4,5,31,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-245,-34,1,1,20260224,IND,PHI
+Shot Chart Detail,0022500848,84,1630695,Micah Potter,1610612754,Indiana Pacers,1,5,35,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,-2,1,1,20260226,IND,CHA
+Shot Chart Detail,0022500848,108,1630695,Micah Potter,1610612754,Indiana Pacers,1,4,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,76,246,1,1,20260226,IND,CHA
+Shot Chart Detail,0022500848,231,1630695,Micah Potter,1610612754,Indiana Pacers,2,7,45,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-94,239,1,0,20260226,IND,CHA
+Shot Chart Detail,0022500848,270,1630695,Micah Potter,1610612754,Indiana Pacers,2,5,28,Missed Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,33,63,1,0,20260226,IND,CHA
+Shot Chart Detail,0022500848,344,1630695,Micah Potter,1610612754,Indiana Pacers,2,0,27,Missed Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,-6,1,0,20260226,IND,CHA
+Shot Chart Detail,0022500848,447,1630695,Micah Potter,1610612754,Indiana Pacers,3,5,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,21,256,1,1,20260226,IND,CHA
+Shot Chart Detail,0022500848,451,1630695,Micah Potter,1610612754,Indiana Pacers,3,4,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,22,264,1,1,20260226,IND,CHA
+Shot Chart Detail,0022500848,454,1630695,Micah Potter,1610612754,Indiana Pacers,3,3,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-61,254,1,1,20260226,IND,CHA
+Shot Chart Detail,0022500848,476,1630695,Micah Potter,1610612754,Indiana Pacers,3,2,36,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-4,273,1,0,20260226,IND,CHA
+Shot Chart Detail,0022500848,510,1630695,Micah Potter,1610612754,Indiana Pacers,3,0,18,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,12,1,1,20260226,IND,CHA
+Shot Chart Detail,0022500848,648,1630695,Micah Potter,1610612754,Indiana Pacers,4,2,42,Missed Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,0,48,1,0,20260226,IND,CHA
+Shot Chart Detail,0022500872,100,1630695,Micah Potter,1610612754,Indiana Pacers,1,5,39,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260301,IND,MEM
+Shot Chart Detail,0022500872,118,1630695,Micah Potter,1610612754,Indiana Pacers,1,3,28,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,16,1,1,20260301,IND,MEM
+Shot Chart Detail,0022500872,138,1630695,Micah Potter,1610612754,Indiana Pacers,1,1,55,Missed Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-21,58,1,0,20260301,IND,MEM
+Shot Chart Detail,0022500872,459,1630695,Micah Potter,1610612754,Indiana Pacers,3,5,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-22,243,1,1,20260301,IND,MEM
+Shot Chart Detail,0022500872,474,1630695,Micah Potter,1610612754,Indiana Pacers,3,4,21,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-27,-8,1,1,20260301,IND,MEM
+Shot Chart Detail,0022500872,485,1630695,Micah Potter,1610612754,Indiana Pacers,3,3,38,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,243,48,1,0,20260301,IND,MEM
+Shot Chart Detail,0022500872,509,1630695,Micah Potter,1610612754,Indiana Pacers,3,1,54,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,8,1,1,20260301,IND,MEM
+Shot Chart Detail,0022500872,513,1630695,Micah Potter,1610612754,Indiana Pacers,3,1,19,Made Shot,Turnaround Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-40,26,1,1,20260301,IND,MEM
+Shot Chart Detail,0022500872,663,1630695,Micah Potter,1610612754,Indiana Pacers,4,1,42,Missed Shot,Turnaround Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-5,25,1,0,20260301,IND,MEM
+Shot Chart Detail,0022500898,265,1630695,Micah Potter,1610612754,Indiana Pacers,2,4,29,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,229,32,1,0,20260304,LAC,IND
+Shot Chart Detail,0022500898,441,1630695,Micah Potter,1610612754,Indiana Pacers,3,5,22,Missed Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-7,58,1,0,20260304,LAC,IND
+Shot Chart Detail,0022500898,482,1630695,Micah Potter,1610612754,Indiana Pacers,3,3,16,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,237,79,1,0,20260304,LAC,IND
+Shot Chart Detail,0022500898,613,1630695,Micah Potter,1610612754,Indiana Pacers,4,7,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-154,206,1,1,20260304,LAC,IND
+Shot Chart Detail,0022500898,628,1630695,Micah Potter,1610612754,Indiana Pacers,4,6,39,Made Shot,Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-4,41,1,1,20260304,LAC,IND
+Shot Chart Detail,0022500898,667,1630695,Micah Potter,1610612754,Indiana Pacers,4,4,25,Made Shot,Turnaround Bank shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-4,25,1,1,20260304,LAC,IND
+Shot Chart Detail,0022500914,480,1630695,Micah Potter,1610612754,Indiana Pacers,3,3,5,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,21,1,0,20260306,LAL,IND
+Shot Chart Detail,0022500914,504,1630695,Micah Potter,1610612754,Indiana Pacers,3,1,20,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,31,1,1,20260306,LAL,IND
+Shot Chart Detail,0022500914,649,1630695,Micah Potter,1610612754,Indiana Pacers,4,3,0,Made Shot,Turnaround Bank Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-34,15,1,1,20260306,LAL,IND
+Shot Chart Detail,0022500929,177,1630695,Micah Potter,1610612754,Indiana Pacers,2,11,22,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,142,222,1,0,20260308,POR,IND
+Shot Chart Detail,0022500929,532,1630695,Micah Potter,1610612754,Indiana Pacers,3,0,28,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20260308,POR,IND
+Shot Chart Detail,0022500929,545,1630695,Micah Potter,1610612754,Indiana Pacers,4,11,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-42,253,1,1,20260308,POR,IND
+Shot Chart Detail,0022500929,548,1630695,Micah Potter,1610612754,Indiana Pacers,4,11,17,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,5,1,1,20260308,POR,IND
+Shot Chart Detail,0022500929,567,1630695,Micah Potter,1610612754,Indiana Pacers,4,9,48,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,8,1,1,20260308,POR,IND
+Shot Chart Detail,0022500929,579,1630695,Micah Potter,1610612754,Indiana Pacers,4,9,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-55,239,1,0,20260308,POR,IND
+Shot Chart Detail,0022500929,680,1630695,Micah Potter,1610612754,Indiana Pacers,4,4,37,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-9,266,1,1,20260308,POR,IND
+Shot Chart Detail,0022500929,694,1630695,Micah Potter,1610612754,Indiana Pacers,4,3,45,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-49,255,1,0,20260308,POR,IND
+Shot Chart Detail,0022500929,725,1630695,Micah Potter,1610612754,Indiana Pacers,4,0,57,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-1,253,1,0,20260308,POR,IND
+Shot Chart Detail,0022500945,147,1630695,Micah Potter,1610612754,Indiana Pacers,1,0,49,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,1,1,1,20260310,SAC,IND
+Shot Chart Detail,0022500945,157,1630695,Micah Potter,1610612754,Indiana Pacers,1,0,1,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,29,29,1,1,20260310,SAC,IND
+Shot Chart Detail,0022500945,167,1630695,Micah Potter,1610612754,Indiana Pacers,2,11,41,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-22,6,1,1,20260310,SAC,IND
+Shot Chart Detail,0022500945,187,1630695,Micah Potter,1610612754,Indiana Pacers,2,9,13,Made Shot,Driving Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,25,32,1,1,20260310,SAC,IND
+Shot Chart Detail,0022500945,202,1630695,Micah Potter,1610612754,Indiana Pacers,2,8,11,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,23,252,1,0,20260310,SAC,IND
+Shot Chart Detail,0022500945,456,1630695,Micah Potter,1610612754,Indiana Pacers,3,3,31,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,99,170,1,0,20260310,SAC,IND
+Shot Chart Detail,0022500945,516,1630695,Micah Potter,1610612754,Indiana Pacers,3,2,4,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,12,1,0,20260310,SAC,IND
+Shot Chart Detail,0022500945,506,1630695,Micah Potter,1610612754,Indiana Pacers,3,0,34,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,113,252,1,0,20260310,SAC,IND
+Shot Chart Detail,0022500945,545,1630695,Micah Potter,1610612754,Indiana Pacers,4,11,3,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-40,22,1,1,20260310,SAC,IND
+Shot Chart Detail,0022500954,444,1630695,Micah Potter,1610612754,Indiana Pacers,3,5,44,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,10,1,1,20260312,IND,PHX
+Shot Chart Detail,0022500954,480,1630695,Micah Potter,1610612754,Indiana Pacers,3,3,27,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,241,9,1,0,20260312,IND,PHX
+Shot Chart Detail,0022500954,503,1630695,Micah Potter,1610612754,Indiana Pacers,3,1,42,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-25,56,1,0,20260312,IND,PHX
+Shot Chart Detail,0022500954,520,1630695,Micah Potter,1610612754,Indiana Pacers,3,0,30,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,-18,1,1,20260312,IND,PHX
+Shot Chart Detail,0022500962,184,1630695,Micah Potter,1610612754,Indiana Pacers,2,11,49,Missed Shot,Jump Bank Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-174,209,1,0,20260313,IND,NYK
+Shot Chart Detail,0022500962,191,1630695,Micah Potter,1610612754,Indiana Pacers,2,11,14,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,13,1,1,20260313,IND,NYK
+Shot Chart Detail,0022500979,613,1630695,Micah Potter,1610612754,Indiana Pacers,4,5,18,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,0,1,1,20260315,MIL,IND
+Shot Chart Detail,0022501028,156,1630695,Micah Potter,1610612754,Indiana Pacers,1,1,18,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,11,1,1,20260321,SAS,IND
+Shot Chart Detail,0022501028,405,1630695,Micah Potter,1610612754,Indiana Pacers,3,6,44,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,10,1,1,20260321,SAS,IND
+Shot Chart Detail,0022501028,530,1630695,Micah Potter,1610612754,Indiana Pacers,4,9,48,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,75,264,1,0,20260321,SAS,IND
+Shot Chart Detail,0022501028,619,1630695,Micah Potter,1610612754,Indiana Pacers,4,4,53,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,15,1,0,20260321,SAS,IND
+Shot Chart Detail,0022501028,665,1630695,Micah Potter,1610612754,Indiana Pacers,4,1,11,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,229,42,1,1,20260321,SAS,IND
+Shot Chart Detail,0022501039,128,1630695,Micah Potter,1610612754,Indiana Pacers,1,2,58,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,30,1,0,20260323,ORL,IND
+Shot Chart Detail,0022501039,292,1630695,Micah Potter,1610612754,Indiana Pacers,2,3,53,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-13,257,1,0,20260323,ORL,IND
+Shot Chart Detail,0022501039,475,1630695,Micah Potter,1610612754,Indiana Pacers,3,1,58,Missed Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-10,63,1,0,20260323,ORL,IND
+Shot Chart Detail,0022501039,504,1630695,Micah Potter,1610612754,Indiana Pacers,3,0,43,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,12,1,1,20260323,ORL,IND
+Shot Chart Detail,0022501052,470,1630695,Micah Potter,1610612754,Indiana Pacers,3,4,56,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,1,1,1,20260325,IND,LAL
+Shot Chart Detail,0022501066,117,1630695,Micah Potter,1610612754,Indiana Pacers,1,4,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,43,267,1,1,20260327,IND,LAC
+Shot Chart Detail,0022501066,168,1630695,Micah Potter,1610612754,Indiana Pacers,1,0,30,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-173,73,1,1,20260327,IND,LAC
+Shot Chart Detail,0022501066,177,1630695,Micah Potter,1610612754,Indiana Pacers,2,11,40,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,190,30,1,0,20260327,IND,LAC
+Shot Chart Detail,0022501066,209,1630695,Micah Potter,1610612754,Indiana Pacers,2,8,48,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,-28,1,0,20260327,IND,LAC
+Shot Chart Detail,0022501066,242,1630695,Micah Potter,1610612754,Indiana Pacers,2,6,36,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,183,24,1,0,20260327,IND,LAC
+Shot Chart Detail,0022501066,548,1630695,Micah Potter,1610612754,Indiana Pacers,4,10,10,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,-16,1,1,20260327,IND,LAC
+Shot Chart Detail,0022501066,565,1630695,Micah Potter,1610612754,Indiana Pacers,4,9,6,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,5,1,1,20260327,IND,LAC
+Shot Chart Detail,0022501066,589,1630695,Micah Potter,1610612754,Indiana Pacers,4,7,46,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,6,29,1,1,20260327,IND,LAC
+Shot Chart Detail,0022501083,43,1630695,Micah Potter,1610612754,Indiana Pacers,1,8,30,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,37,1,0,20260329,IND,MIA
+Shot Chart Detail,0022501083,74,1630695,Micah Potter,1610612754,Indiana Pacers,1,6,6,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-238,-1,1,1,20260329,IND,MIA
+Shot Chart Detail,0022501083,84,1630695,Micah Potter,1610612754,Indiana Pacers,1,5,42,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-235,50,1,1,20260329,IND,MIA
+Shot Chart Detail,0022501083,96,1630695,Micah Potter,1610612754,Indiana Pacers,1,4,5,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,20,1,1,20260329,IND,MIA
+Shot Chart Detail,0022501083,105,1630695,Micah Potter,1610612754,Indiana Pacers,1,3,31,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,22,1,1,20260329,IND,MIA
+Shot Chart Detail,0022501083,122,1630695,Micah Potter,1610612754,Indiana Pacers,1,2,17,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-5,21,1,1,20260329,IND,MIA
+Shot Chart Detail,0022501083,302,1630695,Micah Potter,1610612754,Indiana Pacers,2,2,55,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-239,50,1,1,20260329,IND,MIA
+Shot Chart Detail,0022501083,371,1630695,Micah Potter,1610612754,Indiana Pacers,3,9,14,Missed Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,59,56,1,0,20260329,IND,MIA
+Shot Chart Detail,0022501083,412,1630695,Micah Potter,1610612754,Indiana Pacers,3,6,20,Made Shot,Jump Bank Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,49,29,1,1,20260329,IND,MIA
+Shot Chart Detail,0022501109,498,1630695,Micah Potter,1610612754,Indiana Pacers,3,2,9,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,29,-38,289,1,0,20260401,CHI,IND
+Shot Chart Detail,0022501109,624,1630695,Micah Potter,1610612754,Indiana Pacers,4,5,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,29,-168,243,1,1,20260401,CHI,IND
+Shot Chart Detail,0022501109,641,1630695,Micah Potter,1610612754,Indiana Pacers,4,5,15,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,-9,1,1,20260401,CHI,IND
+Shot Chart Detail,0022501120,107,1630695,Micah Potter,1610612754,Indiana Pacers,1,5,6,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-114,248,1,0,20260403,CHA,IND
+Shot Chart Detail,0022501120,347,1630695,Micah Potter,1610612754,Indiana Pacers,2,1,33,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,20,1,0,20260403,CHA,IND
+Shot Chart Detail,0022501120,479,1630695,Micah Potter,1610612754,Indiana Pacers,3,3,26,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260403,CHA,IND
+Shot Chart Detail,0022501120,486,1630695,Micah Potter,1610612754,Indiana Pacers,3,3,3,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,6,1,1,20260403,CHA,IND
+Shot Chart Detail,0022501120,675,1630695,Micah Potter,1610612754,Indiana Pacers,4,0,29,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,13,1,0,20260403,CHA,IND
+Shot Chart Detail,0022501136,26,1630695,Micah Potter,1610612754,Indiana Pacers,1,10,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,23,253,1,1,20260405,CLE,IND
+Shot Chart Detail,0022501136,62,1630695,Micah Potter,1610612754,Indiana Pacers,1,7,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-225,131,1,1,20260405,CLE,IND
+Shot Chart Detail,0022501136,256,1630695,Micah Potter,1610612754,Indiana Pacers,2,6,53,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,9,23,1,0,20260405,CLE,IND
+Shot Chart Detail,0022501136,304,1630695,Micah Potter,1610612754,Indiana Pacers,2,4,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,30,-162,257,1,1,20260405,CLE,IND
+Shot Chart Detail,0022501136,310,1630695,Micah Potter,1610612754,Indiana Pacers,2,3,32,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,33,109,315,1,0,20260405,CLE,IND
+Shot Chart Detail,0022501136,322,1630695,Micah Potter,1610612754,Indiana Pacers,2,2,41,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,15,1,1,20260405,CLE,IND
+Shot Chart Detail,0022501136,384,1630695,Micah Potter,1610612754,Indiana Pacers,3,10,14,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,10,1,1,20260405,CLE,IND
+Shot Chart Detail,0022501136,388,1630695,Micah Potter,1610612754,Indiana Pacers,3,9,58,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-86,239,1,0,20260405,CLE,IND
+Shot Chart Detail,0022501136,639,1630695,Micah Potter,1610612754,Indiana Pacers,4,4,48,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,5,14,1,1,20260405,CLE,IND
+Shot Chart Detail,0022501136,651,1630695,Micah Potter,1610612754,Indiana Pacers,4,3,51,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,48,35,1,0,20260405,CLE,IND
+Shot Chart Detail,0022501152,129,1630695,Micah Potter,1610612754,Indiana Pacers,1,2,27,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,191,197,1,0,20260407,IND,MIN
+Shot Chart Detail,0022501152,137,1630695,Micah Potter,1610612754,Indiana Pacers,1,1,44,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,2,-22,1,1,20260407,IND,MIN
+Shot Chart Detail,0022501152,164,1630695,Micah Potter,1610612754,Indiana Pacers,2,11,35,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-238,-32,1,1,20260407,IND,MIN
+Shot Chart Detail,0022501152,415,1630695,Micah Potter,1610612754,Indiana Pacers,3,6,12,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,-8,1,1,20260407,IND,MIN
+Shot Chart Detail,0022501152,571,1630695,Micah Potter,1610612754,Indiana Pacers,4,8,39,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,20,1,0,20260407,IND,MIN
+Shot Chart Detail,0022501167,52,1630695,Micah Potter,1610612754,Indiana Pacers,1,6,59,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-48,254,1,0,20260409,BKN,IND
+Shot Chart Detail,0022501167,61,1630695,Micah Potter,1610612754,Indiana Pacers,1,6,16,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,8,1,1,20260409,BKN,IND
+Shot Chart Detail,0022501167,92,1630695,Micah Potter,1610612754,Indiana Pacers,1,4,1,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,0,1,1,20260409,BKN,IND
+Shot Chart Detail,0022501167,235,1630695,Micah Potter,1610612754,Indiana Pacers,2,6,11,Made Shot,Cutting Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,13,1,1,20260409,BKN,IND
+Shot Chart Detail,0022501167,246,1630695,Micah Potter,1610612754,Indiana Pacers,2,5,4,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,10,1,0,20260409,BKN,IND
+Shot Chart Detail,0022501167,248,1630695,Micah Potter,1610612754,Indiana Pacers,2,5,0,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260409,BKN,IND
+Shot Chart Detail,0022501167,350,1630695,Micah Potter,1610612754,Indiana Pacers,3,10,16,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,27,29,1,0,20260409,BKN,IND
+Shot Chart Detail,0022501167,359,1630695,Micah Potter,1610612754,Indiana Pacers,3,9,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-176,1,1,1,20260409,BKN,IND
+Shot Chart Detail,0022501167,375,1630695,Micah Potter,1610612754,Indiana Pacers,3,8,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,83,239,1,0,20260409,BKN,IND
+Shot Chart Detail,0022501167,379,1630695,Micah Potter,1610612754,Indiana Pacers,3,7,58,Missed Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,13,1,0,20260409,BKN,IND
+Shot Chart Detail,0022501167,590,1630695,Micah Potter,1610612754,Indiana Pacers,4,6,7,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,48,1,0,20260409,BKN,IND
+Shot Chart Detail,0022501167,607,1630695,Micah Potter,1610612754,Indiana Pacers,4,5,7,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,4,1,1,20260409,BKN,IND
+Shot Chart Detail,0022501167,611,1630695,Micah Potter,1610612754,Indiana Pacers,4,4,39,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,87,48,1,1,20260409,BKN,IND
+Shot Chart Detail,0022501167,650,1630695,Micah Potter,1610612754,Indiana Pacers,4,1,50,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,-13,1,1,20260409,BKN,IND
+Shot Chart Detail,0022501167,660,1630695,Micah Potter,1610612754,Indiana Pacers,4,1,9,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20260409,BKN,IND
+Shot Chart Detail,0022501175,22,1630695,Micah Potter,1610612754,Indiana Pacers,1,10,25,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,5,263,1,1,20260410,IND,PHI
+Shot Chart Detail,0022501175,208,1630695,Micah Potter,1610612754,Indiana Pacers,2,9,40,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,-6,1,1,20260410,IND,PHI
+Shot Chart Detail,0022501175,212,1630695,Micah Potter,1610612754,Indiana Pacers,2,9,13,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,15,1,0,20260410,IND,PHI
+Shot Chart Detail,0022501175,226,1630695,Micah Potter,1610612754,Indiana Pacers,2,8,37,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,26,58,1,1,20260410,IND,PHI
+Shot Chart Detail,0022501175,240,1630695,Micah Potter,1610612754,Indiana Pacers,2,7,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,155,125,1,0,20260410,IND,PHI
+Shot Chart Detail,0022501175,334,1630695,Micah Potter,1610612754,Indiana Pacers,2,1,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,1,256,1,1,20260410,IND,PHI
+Shot Chart Detail,0022501175,348,1630695,Micah Potter,1610612754,Indiana Pacers,2,0,31,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,119,246,1,0,20260410,IND,PHI
+Shot Chart Detail,0022501175,389,1630695,Micah Potter,1610612754,Indiana Pacers,3,9,27,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260410,IND,PHI
+Shot Chart Detail,0022501175,596,1630695,Micah Potter,1610612754,Indiana Pacers,4,7,38,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,23,52,1,0,20260410,IND,PHI
+Shot Chart Detail,0022501175,606,1630695,Micah Potter,1610612754,Indiana Pacers,4,6,28,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,19,1,0,20260410,IND,PHI
+Shot Chart Detail,0022501188,20,1630695,Micah Potter,1610612754,Indiana Pacers,1,10,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,45,256,1,0,20260412,IND,DET
+Shot Chart Detail,0022501188,45,1630695,Micah Potter,1610612754,Indiana Pacers,1,8,23,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,235,120,1,0,20260412,IND,DET
+Shot Chart Detail,0022501188,196,1630695,Micah Potter,1610612754,Indiana Pacers,2,10,35,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,20,1,1,20260412,IND,DET
+Shot Chart Detail,0022501188,213,1630695,Micah Potter,1610612754,Indiana Pacers,2,9,38,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,222,148,1,0,20260412,IND,DET
+Shot Chart Detail,0022501188,230,1630695,Micah Potter,1610612754,Indiana Pacers,2,8,31,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,5,47,1,1,20260412,IND,DET
+Shot Chart Detail,0022501188,233,1630695,Micah Potter,1610612754,Indiana Pacers,2,7,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-80,248,1,1,20260412,IND,DET
+Shot Chart Detail,0022501188,236,1630695,Micah Potter,1610612754,Indiana Pacers,2,7,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,192,186,1,1,20260412,IND,DET
+Shot Chart Detail,0022501188,288,1630695,Micah Potter,1610612754,Indiana Pacers,2,4,46,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,13,283,1,0,20260412,IND,DET
+Shot Chart Detail,0022501188,321,1630695,Micah Potter,1610612754,Indiana Pacers,2,2,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,221,136,1,1,20260412,IND,DET
+Shot Chart Detail,0022501188,338,1630695,Micah Potter,1610612754,Indiana Pacers,2,1,19,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,36,259,1,0,20260412,IND,DET
+Shot Chart Detail,0022501188,540,1630695,Micah Potter,1610612754,Indiana Pacers,4,11,3,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-222,34,1,0,20260412,IND,DET
+Shot Chart Detail,0022501188,604,1630695,Micah Potter,1610612754,Indiana Pacers,4,6,37,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-224,-6,1,0,20260412,IND,DET
+Shot Chart Detail,0022501188,657,1630695,Micah Potter,1610612754,Indiana Pacers,4,3,19,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,3,1,1,20260412,IND,DET

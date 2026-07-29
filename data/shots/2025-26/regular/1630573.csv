@@ -1,0 +1,602 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0022500017,15,1630573,Sam Hauser,1610612738,Boston Celtics,1,11,3,Made Shot,Pullup Jump shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,238,37,1,1,20260119,DET,BOS
+Shot Chart Detail,0022500017,97,1630573,Sam Hauser,1610612738,Boston Celtics,1,5,16,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-138,234,1,0,20260119,DET,BOS
+Shot Chart Detail,0022500017,210,1630573,Sam Hauser,1610612738,Boston Celtics,2,11,15,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-234,59,1,0,20260119,DET,BOS
+Shot Chart Detail,0022500017,220,1630573,Sam Hauser,1610612738,Boston Celtics,2,10,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-61,257,1,0,20260119,DET,BOS
+Shot Chart Detail,0022500017,306,1630573,Sam Hauser,1610612738,Boston Celtics,2,5,12,Made Shot,Cutting Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-49,5,1,1,20260119,DET,BOS
+Shot Chart Detail,0022500017,310,1630573,Sam Hauser,1610612738,Boston Celtics,2,4,54,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-233,84,1,1,20260119,DET,BOS
+Shot Chart Detail,0022500017,398,1630573,Sam Hauser,1610612738,Boston Celtics,3,11,25,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-25,267,1,1,20260119,DET,BOS
+Shot Chart Detail,0022500017,421,1630573,Sam Hauser,1610612738,Boston Celtics,3,9,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,29,70,285,1,1,20260119,DET,BOS
+Shot Chart Detail,0022500017,429,1630573,Sam Hauser,1610612738,Boston Celtics,3,9,13,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-36,42,1,1,20260119,DET,BOS
+Shot Chart Detail,0022500018,7,1630573,Sam Hauser,1610612738,Boston Celtics,1,11,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-56,248,1,1,20251024,NYK,BOS
+Shot Chart Detail,0022500018,214,1630573,Sam Hauser,1610612738,Boston Celtics,2,8,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-98,225,1,1,20251024,NYK,BOS
+Shot Chart Detail,0022500018,277,1630573,Sam Hauser,1610612738,Boston Celtics,2,4,37,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-51,252,1,0,20251024,NYK,BOS
+Shot Chart Detail,0022500018,309,1630573,Sam Hauser,1610612738,Boston Celtics,2,2,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-93,231,1,1,20251024,NYK,BOS
+Shot Chart Detail,0022500018,319,1630573,Sam Hauser,1610612738,Boston Celtics,2,2,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,190,182,1,0,20251024,NYK,BOS
+Shot Chart Detail,0022500018,374,1630573,Sam Hauser,1610612738,Boston Celtics,3,11,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-217,146,1,1,20251024,NYK,BOS
+Shot Chart Detail,0022500018,386,1630573,Sam Hauser,1610612738,Boston Celtics,3,9,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,31,82,305,1,1,20251024,NYK,BOS
+Shot Chart Detail,0022500018,421,1630573,Sam Hauser,1610612738,Boston Celtics,3,5,31,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-21,263,1,0,20251024,NYK,BOS
+Shot Chart Detail,0022500018,597,1630573,Sam Hauser,1610612738,Boston Celtics,4,7,36,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-146,216,1,0,20251024,NYK,BOS
+Shot Chart Detail,0022500018,602,1630573,Sam Hauser,1610612738,Boston Celtics,4,7,10,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-181,183,1,1,20251024,NYK,BOS
+Shot Chart Detail,0022500021,67,1630573,Sam Hauser,1610612738,Boston Celtics,1,6,17,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-147,209,1,0,20251031,PHI,BOS
+Shot Chart Detail,0022500021,76,1630573,Sam Hauser,1610612738,Boston Celtics,1,5,18,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-115,253,1,0,20251031,PHI,BOS
+Shot Chart Detail,0022500021,460,1630573,Sam Hauser,1610612738,Boston Celtics,3,4,0,Missed Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,7,140,1,0,20251031,PHI,BOS
+Shot Chart Detail,0022500021,528,1630573,Sam Hauser,1610612738,Boston Celtics,3,0,2,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-43,203,1,0,20251031,PHI,BOS
+Shot Chart Detail,0022500021,562,1630573,Sam Hauser,1610612738,Boston Celtics,4,9,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,126,235,1,1,20251031,PHI,BOS
+Shot Chart Detail,0022500021,601,1630573,Sam Hauser,1610612738,Boston Celtics,4,6,55,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-87,256,1,0,20251031,PHI,BOS
+Shot Chart Detail,0022500028,131,1630573,Sam Hauser,1610612738,Boston Celtics,1,3,17,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,32,1,0,20251107,ORL,BOS
+Shot Chart Detail,0022500028,135,1630573,Sam Hauser,1610612738,Boston Celtics,1,3,4,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-137,235,1,1,20251107,ORL,BOS
+Shot Chart Detail,0022500028,168,1630573,Sam Hauser,1610612738,Boston Celtics,1,1,23,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,229,101,1,0,20251107,ORL,BOS
+Shot Chart Detail,0022500028,323,1630573,Sam Hauser,1610612738,Boston Celtics,2,3,49,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,229,132,1,0,20251107,ORL,BOS
+Shot Chart Detail,0022500028,342,1630573,Sam Hauser,1610612738,Boston Celtics,2,2,42,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-29,201,1,0,20251107,ORL,BOS
+Shot Chart Detail,0022500028,365,1630573,Sam Hauser,1610612738,Boston Celtics,2,0,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-167,196,1,0,20251107,ORL,BOS
+Shot Chart Detail,0022500049,80,1630573,Sam Hauser,1610612738,Boston Celtics,1,5,31,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,29,-32,295,1,0,20251121,BOS,BKN
+Shot Chart Detail,0022500049,92,1630573,Sam Hauser,1610612738,Boston Celtics,1,4,49,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-114,251,1,0,20251121,BOS,BKN
+Shot Chart Detail,0022500049,475,1630573,Sam Hauser,1610612738,Boston Celtics,3,2,47,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,30,-71,294,1,0,20251121,BOS,BKN
+Shot Chart Detail,0022500060,100,1630573,Sam Hauser,1610612738,Boston Celtics,1,5,24,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20251126,BOS,DET
+Shot Chart Detail,0022500060,292,1630573,Sam Hauser,1610612738,Boston Celtics,2,4,53,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,151,226,1,0,20251126,BOS,DET
+Shot Chart Detail,0022500060,501,1630573,Sam Hauser,1610612738,Boston Celtics,3,2,34,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,91,246,1,0,20251126,BOS,DET
+Shot Chart Detail,0022500060,566,1630573,Sam Hauser,1610612738,Boston Celtics,4,11,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-147,218,1,1,20251126,BOS,DET
+Shot Chart Detail,0022500083,187,1630573,Sam Hauser,1610612738,Boston Celtics,2,10,29,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-116,236,1,1,20251022,BOS,PHI
+Shot Chart Detail,0022500083,355,1630573,Sam Hauser,1610612738,Boston Celtics,3,10,41,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-152,198,1,0,20251022,BOS,PHI
+Shot Chart Detail,0022500083,357,1630573,Sam Hauser,1610612738,Boston Celtics,3,10,36,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,32,1,0,20251022,BOS,PHI
+Shot Chart Detail,0022500083,385,1630573,Sam Hauser,1610612738,Boston Celtics,3,8,6,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,15,1,1,20251022,BOS,PHI
+Shot Chart Detail,0022500083,456,1630573,Sam Hauser,1610612738,Boston Celtics,3,3,15,Missed Shot,Running Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,228,52,1,0,20251022,BOS,PHI
+Shot Chart Detail,0022500083,460,1630573,Sam Hauser,1610612738,Boston Celtics,3,2,49,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-74,248,1,0,20251022,BOS,PHI
+Shot Chart Detail,0022500106,92,1630573,Sam Hauser,1610612738,Boston Celtics,1,6,4,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,10,263,1,0,20251026,DET,BOS
+Shot Chart Detail,0022500106,122,1630573,Sam Hauser,1610612738,Boston Celtics,1,3,35,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,129,100,1,1,20251026,DET,BOS
+Shot Chart Detail,0022500106,286,1630573,Sam Hauser,1610612738,Boston Celtics,2,5,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-221,100,1,1,20251026,DET,BOS
+Shot Chart Detail,0022500106,384,1630573,Sam Hauser,1610612738,Boston Celtics,2,0,0,Missed Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,8,71,1,0,20251026,DET,BOS
+Shot Chart Detail,0022500106,682,1630573,Sam Hauser,1610612738,Boston Celtics,4,5,3,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,97,257,1,0,20251026,DET,BOS
+Shot Chart Detail,0022500106,722,1630573,Sam Hauser,1610612738,Boston Celtics,4,2,47,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,66,256,1,0,20251026,DET,BOS
+Shot Chart Detail,0022500106,744,1630573,Sam Hauser,1610612738,Boston Celtics,4,1,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,167,180,1,1,20251026,DET,BOS
+Shot Chart Detail,0022500117,137,1630573,Sam Hauser,1610612738,Boston Celtics,1,2,38,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-36,251,1,0,20251027,NOP,BOS
+Shot Chart Detail,0022500117,169,1630573,Sam Hauser,1610612738,Boston Celtics,1,0,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,34,175,302,1,0,20251027,NOP,BOS
+Shot Chart Detail,0022500117,304,1630573,Sam Hauser,1610612738,Boston Celtics,2,4,41,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-100,246,1,0,20251027,NOP,BOS
+Shot Chart Detail,0022500117,485,1630573,Sam Hauser,1610612738,Boston Celtics,3,5,28,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-9,247,1,0,20251027,NOP,BOS
+Shot Chart Detail,0022500117,489,1630573,Sam Hauser,1610612738,Boston Celtics,3,5,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,130,223,1,1,20251027,NOP,BOS
+Shot Chart Detail,0022500117,517,1630573,Sam Hauser,1610612738,Boston Celtics,3,2,45,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-165,196,1,0,20251027,NOP,BOS
+Shot Chart Detail,0022500117,569,1630573,Sam Hauser,1610612738,Boston Celtics,4,11,50,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,119,223,1,0,20251027,NOP,BOS
+Shot Chart Detail,0022500117,604,1630573,Sam Hauser,1610612738,Boston Celtics,4,8,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,206,154,1,1,20251027,NOP,BOS
+Shot Chart Detail,0022500117,633,1630573,Sam Hauser,1610612738,Boston Celtics,4,6,6,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,188,169,1,0,20251027,NOP,BOS
+Shot Chart Detail,0022500117,641,1630573,Sam Hauser,1610612738,Boston Celtics,4,4,49,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,-9,1,1,20251027,NOP,BOS
+Shot Chart Detail,0022500128,81,1630573,Sam Hauser,1610612738,Boston Celtics,1,6,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-169,189,1,1,20251029,BOS,CLE
+Shot Chart Detail,0022500128,85,1630573,Sam Hauser,1610612738,Boston Celtics,1,5,35,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,13,1,1,20251029,BOS,CLE
+Shot Chart Detail,0022500128,89,1630573,Sam Hauser,1610612738,Boston Celtics,1,5,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,213,111,1,1,20251029,BOS,CLE
+Shot Chart Detail,0022500128,100,1630573,Sam Hauser,1610612738,Boston Celtics,1,3,52,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,229,82,1,1,20251029,BOS,CLE
+Shot Chart Detail,0022500128,147,1630573,Sam Hauser,1610612738,Boston Celtics,1,0,39,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-80,274,1,0,20251029,BOS,CLE
+Shot Chart Detail,0022500128,149,1630573,Sam Hauser,1610612738,Boston Celtics,1,0,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-27,269,1,1,20251029,BOS,CLE
+Shot Chart Detail,0022500128,484,1630573,Sam Hauser,1610612738,Boston Celtics,3,3,41,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-229,60,1,0,20251029,BOS,CLE
+Shot Chart Detail,0022500128,529,1630573,Sam Hauser,1610612738,Boston Celtics,3,0,16,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-143,249,1,0,20251029,BOS,CLE
+Shot Chart Detail,0022500128,556,1630573,Sam Hauser,1610612738,Boston Celtics,4,10,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,30,64,301,1,1,20251029,BOS,CLE
+Shot Chart Detail,0022500128,566,1630573,Sam Hauser,1610612738,Boston Celtics,4,9,53,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-165,221,1,0,20251029,BOS,CLE
+Shot Chart Detail,0022500128,576,1630573,Sam Hauser,1610612738,Boston Celtics,4,9,21,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-169,202,1,0,20251029,BOS,CLE
+Shot Chart Detail,0022500128,723,1630573,Sam Hauser,1610612738,Boston Celtics,4,1,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,97,238,1,1,20251029,BOS,CLE
+Shot Chart Detail,0022500128,726,1630573,Sam Hauser,1610612738,Boston Celtics,4,0,53,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,118,232,1,0,20251029,BOS,CLE
+Shot Chart Detail,0022500146,92,1630573,Sam Hauser,1610612738,Boston Celtics,1,4,32,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-34,15,1,0,20251101,BOS,HOU
+Shot Chart Detail,0022500146,179,1630573,Sam Hauser,1610612738,Boston Celtics,2,11,42,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-157,198,1,0,20251101,BOS,HOU
+Shot Chart Detail,0022500146,441,1630573,Sam Hauser,1610612738,Boston Celtics,3,6,14,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-164,195,1,1,20251101,BOS,HOU
+Shot Chart Detail,0022500146,462,1630573,Sam Hauser,1610612738,Boston Celtics,3,5,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,102,241,1,1,20251101,BOS,HOU
+Shot Chart Detail,0022500158,79,1630573,Sam Hauser,1610612738,Boston Celtics,1,5,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-94,258,1,1,20251103,BOS,UTA
+Shot Chart Detail,0022500158,100,1630573,Sam Hauser,1610612738,Boston Celtics,1,3,20,Missed Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-121,258,1,0,20251103,BOS,UTA
+Shot Chart Detail,0022500158,123,1630573,Sam Hauser,1610612738,Boston Celtics,1,2,4,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,78,250,1,0,20251103,BOS,UTA
+Shot Chart Detail,0022500158,258,1630573,Sam Hauser,1610612738,Boston Celtics,2,4,37,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-173,179,1,0,20251103,BOS,UTA
+Shot Chart Detail,0022500158,304,1630573,Sam Hauser,1610612738,Boston Celtics,2,2,5,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-191,157,1,0,20251103,BOS,UTA
+Shot Chart Detail,0022500158,353,1630573,Sam Hauser,1610612738,Boston Celtics,3,11,20,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,11,1,0,20251103,BOS,UTA
+Shot Chart Detail,0022500158,378,1630573,Sam Hauser,1610612738,Boston Celtics,3,9,32,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,62,251,1,0,20251103,BOS,UTA
+Shot Chart Detail,0022500158,673,1630573,Sam Hauser,1610612738,Boston Celtics,4,2,51,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,157,212,1,0,20251103,BOS,UTA
+Shot Chart Detail,0022500174,120,1630573,Sam Hauser,1610612738,Boston Celtics,1,4,11,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,224,32,1,0,20251105,BOS,WAS
+Shot Chart Detail,0022500174,132,1630573,Sam Hauser,1610612738,Boston Celtics,1,3,14,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,123,215,1,0,20251105,BOS,WAS
+Shot Chart Detail,0022500174,488,1630573,Sam Hauser,1610612738,Boston Celtics,3,3,16,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,7,267,1,0,20251105,BOS,WAS
+Shot Chart Detail,0022500174,498,1630573,Sam Hauser,1610612738,Boston Celtics,3,2,22,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-210,136,1,0,20251105,BOS,WAS
+Shot Chart Detail,0022500174,515,1630573,Sam Hauser,1610612738,Boston Celtics,3,0,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,81,272,1,1,20251105,BOS,WAS
+Shot Chart Detail,0022500174,560,1630573,Sam Hauser,1610612738,Boston Celtics,4,9,10,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-96,168,1,0,20251105,BOS,WAS
+Shot Chart Detail,0022500174,571,1630573,Sam Hauser,1610612738,Boston Celtics,4,8,11,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-102,68,1,0,20251105,BOS,WAS
+Shot Chart Detail,0022500174,653,1630573,Sam Hauser,1610612738,Boston Celtics,4,0,49,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,30,159,255,1,0,20251105,BOS,WAS
+Shot Chart Detail,0022500193,476,1630573,Sam Hauser,1610612738,Boston Celtics,3,2,58,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,74,163,1,0,20251109,ORL,BOS
+Shot Chart Detail,0022500193,505,1630573,Sam Hauser,1610612738,Boston Celtics,3,1,28,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-173,187,1,0,20251109,ORL,BOS
+Shot Chart Detail,0022500209,84,1630573,Sam Hauser,1610612738,Boston Celtics,1,5,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,145,230,1,1,20251111,PHI,BOS
+Shot Chart Detail,0022500209,99,1630573,Sam Hauser,1610612738,Boston Celtics,1,3,36,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-126,238,1,0,20251111,PHI,BOS
+Shot Chart Detail,0022500209,232,1630573,Sam Hauser,1610612738,Boston Celtics,2,7,25,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-124,133,1,0,20251111,PHI,BOS
+Shot Chart Detail,0022500209,528,1630573,Sam Hauser,1610612738,Boston Celtics,4,11,34,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,200,182,1,0,20251111,PHI,BOS
+Shot Chart Detail,0022500209,574,1630573,Sam Hauser,1610612738,Boston Celtics,4,7,22,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-104,236,1,0,20251111,PHI,BOS
+Shot Chart Detail,0022500216,85,1630573,Sam Hauser,1610612738,Boston Celtics,1,5,16,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-126,90,1,1,20251112,BOS,MEM
+Shot Chart Detail,0022500216,137,1630573,Sam Hauser,1610612738,Boston Celtics,1,1,53,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,62,252,1,0,20251112,BOS,MEM
+Shot Chart Detail,0022500216,265,1630573,Sam Hauser,1610612738,Boston Celtics,2,5,53,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,30,17,301,1,0,20251112,BOS,MEM
+Shot Chart Detail,0022500216,423,1630573,Sam Hauser,1610612738,Boston Celtics,3,7,17,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,6,276,1,0,20251112,BOS,MEM
+Shot Chart Detail,0022500216,485,1630573,Sam Hauser,1610612738,Boston Celtics,3,3,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,130,252,1,0,20251112,BOS,MEM
+Shot Chart Detail,0022500216,510,1630573,Sam Hauser,1610612738,Boston Celtics,3,1,38,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,89,245,1,0,20251112,BOS,MEM
+Shot Chart Detail,0022500216,515,1630573,Sam Hauser,1610612738,Boston Celtics,3,1,9,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-129,213,1,0,20251112,BOS,MEM
+Shot Chart Detail,0022500216,521,1630573,Sam Hauser,1610612738,Boston Celtics,3,0,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,31,96,305,1,1,20251112,BOS,MEM
+Shot Chart Detail,0022500233,119,1630573,Sam Hauser,1610612738,Boston Celtics,1,2,26,Missed Shot,Running Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,234,54,1,0,20251116,BOS,LAC
+Shot Chart Detail,0022500233,409,1630573,Sam Hauser,1610612738,Boston Celtics,3,5,40,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-25,269,1,0,20251116,BOS,LAC
+Shot Chart Detail,0022500233,416,1630573,Sam Hauser,1610612738,Boston Celtics,3,4,36,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,238,-11,1,0,20251116,BOS,LAC
+Shot Chart Detail,0022500250,93,1630573,Sam Hauser,1610612738,Boston Celtics,1,6,20,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-243,-27,1,0,20251118,BKN,BOS
+Shot Chart Detail,0022500250,129,1630573,Sam Hauser,1610612738,Boston Celtics,1,4,4,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-88,224,1,0,20251118,BKN,BOS
+Shot Chart Detail,0022500250,151,1630573,Sam Hauser,1610612738,Boston Celtics,1,1,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-178,167,1,1,20251118,BKN,BOS
+Shot Chart Detail,0022500250,189,1630573,Sam Hauser,1610612738,Boston Celtics,2,11,20,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,13,-71,116,1,1,20251118,BKN,BOS
+Shot Chart Detail,0022500250,520,1630573,Sam Hauser,1610612738,Boston Celtics,4,10,35,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,138,21,1,0,20251118,BKN,BOS
+Shot Chart Detail,0022500250,569,1630573,Sam Hauser,1610612738,Boston Celtics,4,7,0,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,100,237,1,1,20251118,BKN,BOS
+Shot Chart Detail,0022500250,593,1630573,Sam Hauser,1610612738,Boston Celtics,4,5,34,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-4,259,1,0,20251118,BKN,BOS
+Shot Chart Detail,0022500277,84,1630573,Sam Hauser,1610612738,Boston Celtics,1,5,47,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-13,267,1,1,20251123,BOS,ORL
+Shot Chart Detail,0022500277,91,1630573,Sam Hauser,1610612738,Boston Celtics,1,5,23,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,57,1,1,20251123,BOS,ORL
+Shot Chart Detail,0022500277,212,1630573,Sam Hauser,1610612738,Boston Celtics,2,9,55,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,150,243,1,0,20251123,BOS,ORL
+Shot Chart Detail,0022500277,496,1630573,Sam Hauser,1610612738,Boston Celtics,3,2,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,169,177,1,1,20251123,BOS,ORL
+Shot Chart Detail,0022500277,514,1630573,Sam Hauser,1610612738,Boston Celtics,3,0,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-174,199,1,1,20251123,BOS,ORL
+Shot Chart Detail,0022500277,525,1630573,Sam Hauser,1610612738,Boston Celtics,4,11,32,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,9,19,1,1,20251123,BOS,ORL
+Shot Chart Detail,0022500277,576,1630573,Sam Hauser,1610612738,Boston Celtics,4,7,7,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,91,274,1,0,20251123,BOS,ORL
+Shot Chart Detail,0022500277,633,1630573,Sam Hauser,1610612738,Boston Celtics,4,0,54,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-197,172,1,0,20251123,BOS,ORL
+Shot Chart Detail,0022500293,120,1630573,Sam Hauser,1610612738,Boston Celtics,1,2,19,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-86,254,1,0,20251129,MIN,BOS
+Shot Chart Detail,0022500293,173,1630573,Sam Hauser,1610612738,Boston Celtics,2,10,48,Missed Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-48,69,1,0,20251129,MIN,BOS
+Shot Chart Detail,0022500293,190,1630573,Sam Hauser,1610612738,Boston Celtics,2,9,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,181,202,1,1,20251129,MIN,BOS
+Shot Chart Detail,0022500293,194,1630573,Sam Hauser,1610612738,Boston Celtics,2,9,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-120,253,1,1,20251129,MIN,BOS
+Shot Chart Detail,0022500293,211,1630573,Sam Hauser,1610612738,Boston Celtics,2,7,45,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,11,1,1,20251129,MIN,BOS
+Shot Chart Detail,0022500293,215,1630573,Sam Hauser,1610612738,Boston Celtics,2,7,22,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-112,247,1,0,20251129,MIN,BOS
+Shot Chart Detail,0022500293,253,1630573,Sam Hauser,1610612738,Boston Celtics,2,4,27,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,-11,1,1,20251129,MIN,BOS
+Shot Chart Detail,0022500293,302,1630573,Sam Hauser,1610612738,Boston Celtics,2,1,6,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,136,221,1,0,20251129,MIN,BOS
+Shot Chart Detail,0022500293,473,1630573,Sam Hauser,1610612738,Boston Celtics,3,1,21,Missed Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,114,239,1,0,20251129,MIN,BOS
+Shot Chart Detail,0022500293,477,1630573,Sam Hauser,1610612738,Boston Celtics,3,1,5,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-71,247,1,0,20251129,MIN,BOS
+Shot Chart Detail,0022500293,621,1630573,Sam Hauser,1610612738,Boston Celtics,4,3,34,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-32,267,1,0,20251129,MIN,BOS
+Shot Chart Detail,0022500293,686,1630573,Sam Hauser,1610612738,Boston Celtics,4,0,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-219,111,1,1,20251129,MIN,BOS
+Shot Chart Detail,0022500302,51,1630573,Sam Hauser,1610612738,Boston Celtics,1,7,21,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-9,247,1,0,20251130,CLE,BOS
+Shot Chart Detail,0022500302,242,1630573,Sam Hauser,1610612738,Boston Celtics,2,6,0,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,15,1,1,20251130,CLE,BOS
+Shot Chart Detail,0022500302,296,1630573,Sam Hauser,1610612738,Boston Celtics,2,1,55,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,11,250,1,0,20251130,CLE,BOS
+Shot Chart Detail,0022500302,363,1630573,Sam Hauser,1610612738,Boston Celtics,3,8,7,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,7,1,1,20251130,CLE,BOS
+Shot Chart Detail,0022500302,407,1630573,Sam Hauser,1610612738,Boston Celtics,3,5,23,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,180,212,1,1,20251130,CLE,BOS
+Shot Chart Detail,0022500302,616,1630573,Sam Hauser,1610612738,Boston Celtics,4,3,34,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,34,-183,295,1,0,20251130,CLE,BOS
+Shot Chart Detail,0022500320,149,1630573,Sam Hauser,1610612738,Boston Celtics,1,1,28,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,127,260,1,0,20251202,BOS,NYK
+Shot Chart Detail,0022500320,175,1630573,Sam Hauser,1610612738,Boston Celtics,1,0,0,Missed Shot,Alley Oop Layup shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,64,12,1,0,20251202,BOS,NYK
+Shot Chart Detail,0022500320,442,1630573,Sam Hauser,1610612738,Boston Celtics,3,0,49,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,70,237,1,1,20251202,BOS,NYK
+Shot Chart Detail,0022500320,486,1630573,Sam Hauser,1610612738,Boston Celtics,4,9,19,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-161,189,1,1,20251202,BOS,NYK
+Shot Chart Detail,0022500334,27,1630573,Sam Hauser,1610612738,Boston Celtics,1,9,28,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,29,-82,288,1,1,20251204,WAS,BOS
+Shot Chart Detail,0022500334,37,1630573,Sam Hauser,1610612738,Boston Celtics,1,8,40,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-110,264,1,0,20251204,WAS,BOS
+Shot Chart Detail,0022500334,264,1630573,Sam Hauser,1610612738,Boston Celtics,2,4,23,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,29,120,269,1,0,20251204,WAS,BOS
+Shot Chart Detail,0022500334,298,1630573,Sam Hauser,1610612738,Boston Celtics,2,2,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,60,281,1,0,20251204,WAS,BOS
+Shot Chart Detail,0022500334,343,1630573,Sam Hauser,1610612738,Boston Celtics,3,11,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,33,-93,327,1,1,20251204,WAS,BOS
+Shot Chart Detail,0022500334,393,1630573,Sam Hauser,1610612738,Boston Celtics,3,7,16,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-237,49,1,0,20251204,WAS,BOS
+Shot Chart Detail,0022500338,181,1630573,Sam Hauser,1610612738,Boston Celtics,2,10,6,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,29,-219,199,1,1,20251205,BOS,LAL
+Shot Chart Detail,0022500338,211,1630573,Sam Hauser,1610612738,Boston Celtics,2,7,52,Missed Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,30,-125,281,1,0,20251205,BOS,LAL
+Shot Chart Detail,0022500338,236,1630573,Sam Hauser,1610612738,Boston Celtics,2,6,7,Missed Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,7,280,1,0,20251205,BOS,LAL
+Shot Chart Detail,0022500338,246,1630573,Sam Hauser,1610612738,Boston Celtics,2,5,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-132,241,1,1,20251205,BOS,LAL
+Shot Chart Detail,0022500338,428,1630573,Sam Hauser,1610612738,Boston Celtics,3,4,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-118,224,1,1,20251205,BOS,LAL
+Shot Chart Detail,0022500338,440,1630573,Sam Hauser,1610612738,Boston Celtics,3,3,15,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-174,198,1,0,20251205,BOS,LAL
+Shot Chart Detail,0022500338,515,1630573,Sam Hauser,1610612738,Boston Celtics,4,9,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-200,159,1,1,20251205,BOS,LAL
+Shot Chart Detail,0022500338,525,1630573,Sam Hauser,1610612738,Boston Celtics,4,7,36,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,17,1,0,20251205,BOS,LAL
+Shot Chart Detail,0022500358,137,1630573,Sam Hauser,1610612738,Boston Celtics,1,2,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,201,206,1,1,20251207,TOR,BOS
+Shot Chart Detail,0022500358,150,1630573,Sam Hauser,1610612738,Boston Celtics,1,1,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,30,222,209,1,0,20251207,TOR,BOS
+Shot Chart Detail,0022500358,199,1630573,Sam Hauser,1610612738,Boston Celtics,2,9,17,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-72,263,1,0,20251207,TOR,BOS
+Shot Chart Detail,0022500358,242,1630573,Sam Hauser,1610612738,Boston Celtics,2,6,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,176,195,1,1,20251207,TOR,BOS
+Shot Chart Detail,0022500358,305,1630573,Sam Hauser,1610612738,Boston Celtics,2,1,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-2,255,1,1,20251207,TOR,BOS
+Shot Chart Detail,0022500358,318,1630573,Sam Hauser,1610612738,Boston Celtics,2,0,59,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,192,193,1,0,20251207,TOR,BOS
+Shot Chart Detail,0022500358,473,1630573,Sam Hauser,1610612738,Boston Celtics,3,2,8,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-181,215,1,0,20251207,TOR,BOS
+Shot Chart Detail,0022500381,121,1630573,Sam Hauser,1610612738,Boston Celtics,1,4,30,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,-9,1,1,20251219,BOS,MIA
+Shot Chart Detail,0022500381,557,1630573,Sam Hauser,1610612738,Boston Celtics,4,11,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-82,245,1,1,20251219,BOS,MIA
+Shot Chart Detail,0022500381,561,1630573,Sam Hauser,1610612738,Boston Celtics,4,11,5,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-86,267,1,1,20251219,BOS,MIA
+Shot Chart Detail,0022500381,589,1630573,Sam Hauser,1610612738,Boston Celtics,4,8,40,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-107,231,1,1,20251219,BOS,MIA
+Shot Chart Detail,0022500381,611,1630573,Sam Hauser,1610612738,Boston Celtics,4,5,58,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,188,208,1,0,20251219,BOS,MIA
+Shot Chart Detail,0022500381,629,1630573,Sam Hauser,1610612738,Boston Celtics,4,3,53,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-239,6,1,1,20251219,BOS,MIA
+Shot Chart Detail,0022500388,252,1630573,Sam Hauser,1610612738,Boston Celtics,2,6,6,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,33,4,330,1,0,20251220,TOR,BOS
+Shot Chart Detail,0022500388,275,1630573,Sam Hauser,1610612738,Boston Celtics,2,4,24,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,53,178,1,0,20251220,TOR,BOS
+Shot Chart Detail,0022500388,293,1630573,Sam Hauser,1610612738,Boston Celtics,2,2,35,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,58,258,1,1,20251220,TOR,BOS
+Shot Chart Detail,0022500388,421,1630573,Sam Hauser,1610612738,Boston Celtics,3,4,25,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,29,-162,248,1,0,20251220,TOR,BOS
+Shot Chart Detail,0022500388,425,1630573,Sam Hauser,1610612738,Boston Celtics,3,4,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,113,247,1,1,20251220,TOR,BOS
+Shot Chart Detail,0022500388,643,1630573,Sam Hauser,1610612738,Boston Celtics,4,1,42,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-170,215,1,0,20251220,TOR,BOS
+Shot Chart Detail,0022500403,91,1630573,Sam Hauser,1610612738,Boston Celtics,1,5,27,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-47,273,1,0,20251222,BOS,IND
+Shot Chart Detail,0022500403,144,1630573,Sam Hauser,1610612738,Boston Celtics,1,2,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,30,9,302,1,1,20251222,BOS,IND
+Shot Chart Detail,0022500403,185,1630573,Sam Hauser,1610612738,Boston Celtics,2,10,33,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,70,250,1,0,20251222,BOS,IND
+Shot Chart Detail,0022500403,222,1630573,Sam Hauser,1610612738,Boston Celtics,2,7,6,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,29,102,273,1,0,20251222,BOS,IND
+Shot Chart Detail,0022500403,389,1630573,Sam Hauser,1610612738,Boston Celtics,3,5,50,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-59,262,1,1,20251222,BOS,IND
+Shot Chart Detail,0022500403,393,1630573,Sam Hauser,1610612738,Boston Celtics,3,5,19,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-18,83,1,0,20251222,BOS,IND
+Shot Chart Detail,0022500403,404,1630573,Sam Hauser,1610612738,Boston Celtics,3,4,52,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-102,254,1,0,20251222,BOS,IND
+Shot Chart Detail,0022500403,442,1630573,Sam Hauser,1610612738,Boston Celtics,3,2,50,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,8,1,0,20251222,BOS,IND
+Shot Chart Detail,0022500426,121,1630573,Sam Hauser,1610612738,Boston Celtics,1,4,52,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,8,1,1,20251226,IND,BOS
+Shot Chart Detail,0022500426,125,1630573,Sam Hauser,1610612738,Boston Celtics,1,4,27,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,85,239,1,1,20251226,IND,BOS
+Shot Chart Detail,0022500426,199,1630573,Sam Hauser,1610612738,Boston Celtics,2,11,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-56,262,1,1,20251226,IND,BOS
+Shot Chart Detail,0022500426,449,1630573,Sam Hauser,1610612738,Boston Celtics,3,5,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-212,128,1,1,20251226,IND,BOS
+Shot Chart Detail,0022500426,473,1630573,Sam Hauser,1610612738,Boston Celtics,3,4,10,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-191,165,1,1,20251226,IND,BOS
+Shot Chart Detail,0022500426,491,1630573,Sam Hauser,1610612738,Boston Celtics,3,2,46,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,26,280,1,1,20251226,IND,BOS
+Shot Chart Detail,0022500426,501,1630573,Sam Hauser,1610612738,Boston Celtics,3,1,49,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,129,212,1,1,20251226,IND,BOS
+Shot Chart Detail,0022500426,505,1630573,Sam Hauser,1610612738,Boston Celtics,3,1,29,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-15,270,1,0,20251226,IND,BOS
+Shot Chart Detail,0022500444,142,1630573,Sam Hauser,1610612738,Boston Celtics,1,1,33,Missed Shot,Running Pull-Up Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,34,1,0,20251228,POR,BOS
+Shot Chart Detail,0022500444,215,1630573,Sam Hauser,1610612738,Boston Celtics,2,10,25,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-216,124,1,0,20251228,POR,BOS
+Shot Chart Detail,0022500444,219,1630573,Sam Hauser,1610612738,Boston Celtics,2,10,5,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-202,156,1,0,20251228,POR,BOS
+Shot Chart Detail,0022500444,482,1630573,Sam Hauser,1610612738,Boston Celtics,3,3,5,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-140,223,1,0,20251228,POR,BOS
+Shot Chart Detail,0022500444,631,1630573,Sam Hauser,1610612738,Boston Celtics,4,6,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,208,128,1,1,20251228,POR,BOS
+Shot Chart Detail,0022500459,120,1630573,Sam Hauser,1610612738,Boston Celtics,1,2,16,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20251230,UTA,BOS
+Shot Chart Detail,0022500459,153,1630573,Sam Hauser,1610612738,Boston Celtics,1,0,25,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-208,179,1,0,20251230,UTA,BOS
+Shot Chart Detail,0022500459,170,1630573,Sam Hauser,1610612738,Boston Celtics,2,11,27,Made Shot,Running Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,244,-15,1,1,20251230,UTA,BOS
+Shot Chart Detail,0022500459,204,1630573,Sam Hauser,1610612738,Boston Celtics,2,9,11,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,-6,1,0,20251230,UTA,BOS
+Shot Chart Detail,0022500459,287,1630573,Sam Hauser,1610612738,Boston Celtics,2,4,2,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-227,56,1,0,20251230,UTA,BOS
+Shot Chart Detail,0022500459,310,1630573,Sam Hauser,1610612738,Boston Celtics,2,2,18,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-6,263,1,0,20251230,UTA,BOS
+Shot Chart Detail,0022500459,466,1630573,Sam Hauser,1610612738,Boston Celtics,3,1,3,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,143,247,1,0,20251230,UTA,BOS
+Shot Chart Detail,0022500459,531,1630573,Sam Hauser,1610612738,Boston Celtics,4,10,17,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-82,275,1,0,20251230,UTA,BOS
+Shot Chart Detail,0022500474,70,1630573,Sam Hauser,1610612738,Boston Celtics,1,5,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-17,288,1,1,20260101,SAC,BOS
+Shot Chart Detail,0022500474,141,1630573,Sam Hauser,1610612738,Boston Celtics,1,0,39,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,23,1,1,20260101,SAC,BOS
+Shot Chart Detail,0022500474,159,1630573,Sam Hauser,1610612738,Boston Celtics,2,10,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-199,176,1,1,20260101,SAC,BOS
+Shot Chart Detail,0022500474,313,1630573,Sam Hauser,1610612738,Boston Celtics,3,9,0,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-195,205,1,1,20260101,SAC,BOS
+Shot Chart Detail,0022500474,333,1630573,Sam Hauser,1610612738,Boston Celtics,3,7,8,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,108,250,1,0,20260101,SAC,BOS
+Shot Chart Detail,0022500474,342,1630573,Sam Hauser,1610612738,Boston Celtics,3,6,44,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,1,1,0,20260101,SAC,BOS
+Shot Chart Detail,0022500474,501,1630573,Sam Hauser,1610612738,Boston Celtics,4,7,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,124,240,1,1,20260101,SAC,BOS
+Shot Chart Detail,0022500493,21,1630573,Sam Hauser,1610612738,Boston Celtics,1,9,55,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,21,1,1,20260103,LAC,BOS
+Shot Chart Detail,0022500493,47,1630573,Sam Hauser,1610612738,Boston Celtics,1,7,15,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,65,82,1,1,20260103,LAC,BOS
+Shot Chart Detail,0022500493,57,1630573,Sam Hauser,1610612738,Boston Celtics,1,5,23,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,227,75,1,0,20260103,LAC,BOS
+Shot Chart Detail,0022500493,175,1630573,Sam Hauser,1610612738,Boston Celtics,2,11,1,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-167,216,1,0,20260103,LAC,BOS
+Shot Chart Detail,0022500493,301,1630573,Sam Hauser,1610612738,Boston Celtics,2,8,31,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-238,-6,1,0,20260103,LAC,BOS
+Shot Chart Detail,0022500493,312,1630573,Sam Hauser,1610612738,Boston Celtics,2,7,21,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,51,256,1,0,20260103,LAC,BOS
+Shot Chart Detail,0022500493,280,1630573,Sam Hauser,1610612738,Boston Celtics,2,1,33,Made Shot,Running Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,22,1,1,20260103,LAC,BOS
+Shot Chart Detail,0022500493,291,1630573,Sam Hauser,1610612738,Boston Celtics,2,0,16,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-120,221,1,0,20260103,LAC,BOS
+Shot Chart Detail,0022500493,335,1630573,Sam Hauser,1610612738,Boston Celtics,3,9,47,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-196,206,1,0,20260103,LAC,BOS
+Shot Chart Detail,0022500503,25,1630573,Sam Hauser,1610612738,Boston Celtics,1,9,53,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-110,230,1,0,20260105,BOS,CHI
+Shot Chart Detail,0022500503,55,1630573,Sam Hauser,1610612738,Boston Celtics,1,6,32,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,115,245,1,1,20260105,BOS,CHI
+Shot Chart Detail,0022500503,91,1630573,Sam Hauser,1610612738,Boston Celtics,1,4,33,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,0,264,1,1,20260105,BOS,CHI
+Shot Chart Detail,0022500503,101,1630573,Sam Hauser,1610612738,Boston Celtics,1,3,55,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-36,278,1,0,20260105,BOS,CHI
+Shot Chart Detail,0022500503,339,1630573,Sam Hauser,1610612738,Boston Celtics,3,11,31,Missed Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-118,143,1,0,20260105,BOS,CHI
+Shot Chart Detail,0022500503,370,1630573,Sam Hauser,1610612738,Boston Celtics,3,8,50,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-141,209,1,0,20260105,BOS,CHI
+Shot Chart Detail,0022500503,373,1630573,Sam Hauser,1610612738,Boston Celtics,3,8,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-203,154,1,1,20260105,BOS,CHI
+Shot Chart Detail,0022500503,405,1630573,Sam Hauser,1610612738,Boston Celtics,3,6,40,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-115,239,1,0,20260105,BOS,CHI
+Shot Chart Detail,0022500520,37,1630573,Sam Hauser,1610612738,Boston Celtics,1,8,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,151,221,1,1,20260107,BOS,DEN
+Shot Chart Detail,0022500520,73,1630573,Sam Hauser,1610612738,Boston Celtics,1,5,12,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,210,124,1,0,20260107,BOS,DEN
+Shot Chart Detail,0022500520,78,1630573,Sam Hauser,1610612738,Boston Celtics,1,4,32,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-150,226,1,0,20260107,BOS,DEN
+Shot Chart Detail,0022500520,329,1630573,Sam Hauser,1610612738,Boston Celtics,3,9,29,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,199,143,1,0,20260107,BOS,DEN
+Shot Chart Detail,0022500520,337,1630573,Sam Hauser,1610612738,Boston Celtics,3,9,10,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,39,1,0,20260107,BOS,DEN
+Shot Chart Detail,0022500520,350,1630573,Sam Hauser,1610612738,Boston Celtics,3,8,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-196,153,1,1,20260107,BOS,DEN
+Shot Chart Detail,0022500532,26,1630573,Sam Hauser,1610612738,Boston Celtics,1,9,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-140,220,1,1,20260109,BOS,TOR
+Shot Chart Detail,0022500532,36,1630573,Sam Hauser,1610612738,Boston Celtics,1,7,33,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,212,152,1,1,20260109,BOS,TOR
+Shot Chart Detail,0022500532,41,1630573,Sam Hauser,1610612738,Boston Celtics,1,7,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-132,229,1,1,20260109,BOS,TOR
+Shot Chart Detail,0022500532,92,1630573,Sam Hauser,1610612738,Boston Celtics,1,3,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-169,210,1,1,20260109,BOS,TOR
+Shot Chart Detail,0022500532,120,1630573,Sam Hauser,1610612738,Boston Celtics,1,1,45,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,230,73,1,0,20260109,BOS,TOR
+Shot Chart Detail,0022500532,251,1630573,Sam Hauser,1610612738,Boston Celtics,2,4,18,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,223,127,1,0,20260109,BOS,TOR
+Shot Chart Detail,0022500532,349,1630573,Sam Hauser,1610612738,Boston Celtics,3,10,33,Made Shot,Running Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,1,1,1,20260109,BOS,TOR
+Shot Chart Detail,0022500532,376,1630573,Sam Hauser,1610612738,Boston Celtics,3,8,15,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,113,79,1,0,20260109,BOS,TOR
+Shot Chart Detail,0022500532,565,1630573,Sam Hauser,1610612738,Boston Celtics,4,6,27,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260109,BOS,TOR
+Shot Chart Detail,0022500532,572,1630573,Sam Hauser,1610612738,Boston Celtics,4,6,2,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,15,69,134,1,1,20260109,BOS,TOR
+Shot Chart Detail,0022500559,29,1630573,Sam Hauser,1610612738,Boston Celtics,1,9,21,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,15,1,0,20260112,IND,BOS
+Shot Chart Detail,0022500559,42,1630573,Sam Hauser,1610612738,Boston Celtics,1,8,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-147,203,1,1,20260112,IND,BOS
+Shot Chart Detail,0022500559,62,1630573,Sam Hauser,1610612738,Boston Celtics,1,6,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,71,266,1,1,20260112,IND,BOS
+Shot Chart Detail,0022500559,249,1630573,Sam Hauser,1610612738,Boston Celtics,2,3,36,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,11,1,0,20260112,IND,BOS
+Shot Chart Detail,0022500559,313,1630573,Sam Hauser,1610612738,Boston Celtics,3,9,43,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-228,134,1,0,20260112,IND,BOS
+Shot Chart Detail,0022500559,447,1630573,Sam Hauser,1610612738,Boston Celtics,4,10,11,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-221,165,1,0,20260112,IND,BOS
+Shot Chart Detail,0022500559,468,1630573,Sam Hauser,1610612738,Boston Celtics,4,8,37,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,222,37,1,0,20260112,IND,BOS
+Shot Chart Detail,0022500580,12,1630573,Sam Hauser,1610612738,Boston Celtics,1,11,14,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260115,MIA,BOS
+Shot Chart Detail,0022500580,15,1630573,Sam Hauser,1610612738,Boston Celtics,1,10,47,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,136,5,1,1,20260115,MIA,BOS
+Shot Chart Detail,0022500580,19,1630573,Sam Hauser,1610612738,Boston Celtics,1,10,23,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-80,258,1,0,20260115,MIA,BOS
+Shot Chart Detail,0022500580,25,1630573,Sam Hauser,1610612738,Boston Celtics,1,9,37,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,16,1,0,20260115,MIA,BOS
+Shot Chart Detail,0022500580,264,1630573,Sam Hauser,1610612738,Boston Celtics,2,6,7,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,6,1,1,20260115,MIA,BOS
+Shot Chart Detail,0022500580,277,1630573,Sam Hauser,1610612738,Boston Celtics,2,5,0,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,1,1,0,20260115,MIA,BOS
+Shot Chart Detail,0022500580,314,1630573,Sam Hauser,1610612738,Boston Celtics,2,1,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,97,243,1,1,20260115,MIA,BOS
+Shot Chart Detail,0022500580,549,1630573,Sam Hauser,1610612738,Boston Celtics,4,8,27,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-132,255,1,0,20260115,MIA,BOS
+Shot Chart Detail,0022500580,591,1630573,Sam Hauser,1610612738,Boston Celtics,4,5,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-138,213,1,1,20260115,MIA,BOS
+Shot Chart Detail,0022500580,608,1630573,Sam Hauser,1610612738,Boston Celtics,4,3,35,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,29,-31,290,1,0,20260115,MIA,BOS
+Shot Chart Detail,0022500580,639,1630573,Sam Hauser,1610612738,Boston Celtics,4,1,38,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,17,1,1,20260115,MIA,BOS
+Shot Chart Detail,0022500594,19,1630573,Sam Hauser,1610612738,Boston Celtics,1,9,54,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-17,258,1,0,20260117,ATL,BOS
+Shot Chart Detail,0022500594,39,1630573,Sam Hauser,1610612738,Boston Celtics,1,8,2,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,-1,1,1,20260117,ATL,BOS
+Shot Chart Detail,0022500594,191,1630573,Sam Hauser,1610612738,Boston Celtics,2,10,13,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,146,213,1,1,20260117,ATL,BOS
+Shot Chart Detail,0022500594,247,1630573,Sam Hauser,1610612738,Boston Celtics,2,6,18,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,27,239,1,1,20260117,ATL,BOS
+Shot Chart Detail,0022500594,270,1630573,Sam Hauser,1610612738,Boston Celtics,2,4,31,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-239,13,1,1,20260117,ATL,BOS
+Shot Chart Detail,0022500594,282,1630573,Sam Hauser,1610612738,Boston Celtics,2,4,5,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,49,242,1,1,20260117,ATL,BOS
+Shot Chart Detail,0022500594,304,1630573,Sam Hauser,1610612738,Boston Celtics,2,2,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-183,169,1,1,20260117,ATL,BOS
+Shot Chart Detail,0022500594,315,1630573,Sam Hauser,1610612738,Boston Celtics,2,1,11,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,42,250,1,1,20260117,ATL,BOS
+Shot Chart Detail,0022500594,366,1630573,Sam Hauser,1610612738,Boston Celtics,3,8,56,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-229,68,1,1,20260117,ATL,BOS
+Shot Chart Detail,0022500594,381,1630573,Sam Hauser,1610612738,Boston Celtics,3,7,29,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,161,211,1,0,20260117,ATL,BOS
+Shot Chart Detail,0022500594,520,1630573,Sam Hauser,1610612738,Boston Celtics,4,11,1,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-62,258,1,0,20260117,ATL,BOS
+Shot Chart Detail,0022500594,533,1630573,Sam Hauser,1610612738,Boston Celtics,4,10,4,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,147,220,1,0,20260117,ATL,BOS
+Shot Chart Detail,0022500594,558,1630573,Sam Hauser,1610612738,Boston Celtics,4,8,48,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-186,170,1,0,20260117,ATL,BOS
+Shot Chart Detail,0022500594,564,1630573,Sam Hauser,1610612738,Boston Celtics,4,8,18,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,201,173,1,1,20260117,ATL,BOS
+Shot Chart Detail,0022500594,568,1630573,Sam Hauser,1610612738,Boston Celtics,4,7,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,66,259,1,1,20260117,ATL,BOS
+Shot Chart Detail,0022500594,579,1630573,Sam Hauser,1610612738,Boston Celtics,4,7,6,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-159,205,1,0,20260117,ATL,BOS
+Shot Chart Detail,0022500594,581,1630573,Sam Hauser,1610612738,Boston Celtics,4,7,0,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-150,205,1,0,20260117,ATL,BOS
+Shot Chart Detail,0022500594,589,1630573,Sam Hauser,1610612738,Boston Celtics,4,6,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,72,252,1,0,20260117,ATL,BOS
+Shot Chart Detail,0022500594,591,1630573,Sam Hauser,1610612738,Boston Celtics,4,5,58,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,78,257,1,0,20260117,ATL,BOS
+Shot Chart Detail,0022500594,605,1630573,Sam Hauser,1610612738,Boston Celtics,4,5,31,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-34,280,1,0,20260117,ATL,BOS
+Shot Chart Detail,0022500594,619,1630573,Sam Hauser,1610612738,Boston Celtics,4,5,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-141,230,1,0,20260117,ATL,BOS
+Shot Chart Detail,0022500621,7,1630573,Sam Hauser,1610612738,Boston Celtics,1,11,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-173,174,1,1,20260121,BOS,IND
+Shot Chart Detail,0022500621,15,1630573,Sam Hauser,1610612738,Boston Celtics,1,10,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,141,213,1,1,20260121,BOS,IND
+Shot Chart Detail,0022500621,180,1630573,Sam Hauser,1610612738,Boston Celtics,2,11,34,Missed Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-113,236,1,0,20260121,BOS,IND
+Shot Chart Detail,0022500621,214,1630573,Sam Hauser,1610612738,Boston Celtics,2,9,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,153,197,1,1,20260121,BOS,IND
+Shot Chart Detail,0022500621,391,1630573,Sam Hauser,1610612738,Boston Celtics,3,9,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-81,257,1,1,20260121,BOS,IND
+Shot Chart Detail,0022500621,576,1630573,Sam Hauser,1610612738,Boston Celtics,4,11,17,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,30,-170,248,1,0,20260121,BOS,IND
+Shot Chart Detail,0022500621,591,1630573,Sam Hauser,1610612738,Boston Celtics,4,9,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,125,235,1,1,20260121,BOS,IND
+Shot Chart Detail,0022500621,635,1630573,Sam Hauser,1610612738,Boston Celtics,4,7,5,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-137,137,1,1,20260121,BOS,IND
+Shot Chart Detail,0022500637,12,1630573,Sam Hauser,1610612738,Boston Celtics,1,11,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,119,215,1,1,20260123,BKN,BOS
+Shot Chart Detail,0022500637,26,1630573,Sam Hauser,1610612738,Boston Celtics,1,9,58,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,12,284,1,0,20260123,BKN,BOS
+Shot Chart Detail,0022500637,37,1630573,Sam Hauser,1610612738,Boston Celtics,1,8,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-162,183,1,1,20260123,BKN,BOS
+Shot Chart Detail,0022500637,173,1630573,Sam Hauser,1610612738,Boston Celtics,2,11,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,31,-148,276,1,1,20260123,BKN,BOS
+Shot Chart Detail,0022500637,213,1630573,Sam Hauser,1610612738,Boston Celtics,2,7,44,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,69,256,1,0,20260123,BKN,BOS
+Shot Chart Detail,0022500637,287,1630573,Sam Hauser,1610612738,Boston Celtics,2,3,31,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-238,36,1,1,20260123,BKN,BOS
+Shot Chart Detail,0022500637,295,1630573,Sam Hauser,1610612738,Boston Celtics,2,2,25,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,43,271,1,0,20260123,BKN,BOS
+Shot Chart Detail,0022500637,506,1630573,Sam Hauser,1610612738,Boston Celtics,4,8,45,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,13,1,1,20260123,BKN,BOS
+Shot Chart Detail,0022500637,517,1630573,Sam Hauser,1610612738,Boston Celtics,4,8,4,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-102,123,1,1,20260123,BKN,BOS
+Shot Chart Detail,0022500637,611,1630573,Sam Hauser,1610612738,Boston Celtics,4,0,29,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-165,183,1,0,20260123,BKN,BOS
+Shot Chart Detail,0022500637,802,1630573,Sam Hauser,1610612738,Boston Celtics,6,1,51,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,-11,1,1,20260123,BKN,BOS
+Shot Chart Detail,0022500637,820,1630573,Sam Hauser,1610612738,Boston Celtics,6,0,20,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-179,180,1,0,20260123,BKN,BOS
+Shot Chart Detail,0022500647,17,1630573,Sam Hauser,1610612738,Boston Celtics,1,10,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-5,249,1,1,20260124,CHI,BOS
+Shot Chart Detail,0022500647,23,1630573,Sam Hauser,1610612738,Boston Celtics,1,10,12,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,151,196,1,0,20260124,CHI,BOS
+Shot Chart Detail,0022500647,166,1630573,Sam Hauser,1610612738,Boston Celtics,2,10,0,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-154,205,1,0,20260124,CHI,BOS
+Shot Chart Detail,0022500647,325,1630573,Sam Hauser,1610612738,Boston Celtics,3,11,49,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,173,199,1,0,20260124,CHI,BOS
+Shot Chart Detail,0022500647,339,1630573,Sam Hauser,1610612738,Boston Celtics,3,10,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,23,-146,189,1,1,20260124,CHI,BOS
+Shot Chart Detail,0022500647,380,1630573,Sam Hauser,1610612738,Boston Celtics,3,6,45,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260124,CHI,BOS
+Shot Chart Detail,0022500647,563,1630573,Sam Hauser,1610612738,Boston Celtics,4,3,47,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,-17,1,0,20260124,CHI,BOS
+Shot Chart Detail,0022500660,9,1630573,Sam Hauser,1610612738,Boston Celtics,1,11,33,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-132,244,1,0,20260126,BOS,POR
+Shot Chart Detail,0022500660,17,1630573,Sam Hauser,1610612738,Boston Celtics,1,10,54,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-140,175,1,0,20260126,BOS,POR
+Shot Chart Detail,0022500660,169,1630573,Sam Hauser,1610612738,Boston Celtics,2,11,45,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,65,247,1,0,20260126,BOS,POR
+Shot Chart Detail,0022500660,204,1630573,Sam Hauser,1610612738,Boston Celtics,2,9,5,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,83,246,1,0,20260126,BOS,POR
+Shot Chart Detail,0022500660,291,1630573,Sam Hauser,1610612738,Boston Celtics,2,4,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,109,231,1,1,20260126,BOS,POR
+Shot Chart Detail,0022500660,384,1630573,Sam Hauser,1610612738,Boston Celtics,3,10,55,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-69,250,1,0,20260126,BOS,POR
+Shot Chart Detail,0022500660,582,1630573,Sam Hauser,1610612738,Boston Celtics,4,8,56,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-54,268,1,1,20260126,BOS,POR
+Shot Chart Detail,0022500660,595,1630573,Sam Hauser,1610612738,Boston Celtics,4,8,12,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-5,151,1,0,20260126,BOS,POR
+Shot Chart Detail,0022500660,606,1630573,Sam Hauser,1610612738,Boston Celtics,4,7,22,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-56,119,1,1,20260126,BOS,POR
+Shot Chart Detail,0022500660,610,1630573,Sam Hauser,1610612738,Boston Celtics,4,6,49,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-43,247,1,1,20260126,BOS,POR
+Shot Chart Detail,0022500660,625,1630573,Sam Hauser,1610612738,Boston Celtics,4,6,3,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-134,55,1,0,20260126,BOS,POR
+Shot Chart Detail,0022500660,654,1630573,Sam Hauser,1610612738,Boston Celtics,4,3,13,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,74,150,1,0,20260126,BOS,POR
+Shot Chart Detail,0022500673,13,1630573,Sam Hauser,1610612738,Boston Celtics,1,10,43,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,43,1,1,20260128,BOS,ATL
+Shot Chart Detail,0022500673,31,1630573,Sam Hauser,1610612738,Boston Celtics,1,8,22,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,32,257,1,0,20260128,BOS,ATL
+Shot Chart Detail,0022500673,197,1630573,Sam Hauser,1610612738,Boston Celtics,2,10,1,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,91,109,1,1,20260128,BOS,ATL
+Shot Chart Detail,0022500673,204,1630573,Sam Hauser,1610612738,Boston Celtics,2,9,38,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,119,242,1,0,20260128,BOS,ATL
+Shot Chart Detail,0022500673,206,1630573,Sam Hauser,1610612738,Boston Celtics,2,9,32,Made Shot,Jump Shot,3PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,22,-219,21,1,1,20260128,BOS,ATL
+Shot Chart Detail,0022500673,325,1630573,Sam Hauser,1610612738,Boston Celtics,3,11,41,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,9,1,1,20260128,BOS,ATL
+Shot Chart Detail,0022500673,345,1630573,Sam Hauser,1610612738,Boston Celtics,3,9,43,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-28,272,1,0,20260128,BOS,ATL
+Shot Chart Detail,0022500673,358,1630573,Sam Hauser,1610612738,Boston Celtics,3,8,30,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-110,68,1,1,20260128,BOS,ATL
+Shot Chart Detail,0022500673,382,1630573,Sam Hauser,1610612738,Boston Celtics,3,6,49,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-86,232,1,0,20260128,BOS,ATL
+Shot Chart Detail,0022500689,24,1630573,Sam Hauser,1610612738,Boston Celtics,1,10,10,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,47,1,1,20260130,BOS,SAC
+Shot Chart Detail,0022500689,220,1630573,Sam Hauser,1610612738,Boston Celtics,2,8,49,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,123,225,1,0,20260130,BOS,SAC
+Shot Chart Detail,0022500689,224,1630573,Sam Hauser,1610612738,Boston Celtics,2,8,29,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-76,247,1,0,20260130,BOS,SAC
+Shot Chart Detail,0022500689,338,1630573,Sam Hauser,1610612738,Boston Celtics,2,0,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,6,265,1,0,20260130,BOS,SAC
+Shot Chart Detail,0022500689,384,1630573,Sam Hauser,1610612738,Boston Celtics,3,8,29,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,110,229,1,0,20260130,BOS,SAC
+Shot Chart Detail,0022500689,506,1630573,Sam Hauser,1610612738,Boston Celtics,4,11,8,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,136,226,1,1,20260130,BOS,SAC
+Shot Chart Detail,0022500689,518,1630573,Sam Hauser,1610612738,Boston Celtics,4,9,55,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,100,243,1,0,20260130,BOS,SAC
+Shot Chart Detail,0022500689,572,1630573,Sam Hauser,1610612738,Boston Celtics,4,5,59,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-112,56,1,1,20260130,BOS,SAC
+Shot Chart Detail,0022500689,585,1630573,Sam Hauser,1610612738,Boston Celtics,4,4,51,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,29,141,260,1,0,20260130,BOS,SAC
+Shot Chart Detail,0022500702,35,1630573,Sam Hauser,1610612738,Boston Celtics,1,8,30,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-115,263,1,0,20260201,BOS,MIL
+Shot Chart Detail,0022500702,190,1630573,Sam Hauser,1610612738,Boston Celtics,2,6,39,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-206,173,1,0,20260201,BOS,MIL
+Shot Chart Detail,0022500702,192,1630573,Sam Hauser,1610612738,Boston Celtics,2,6,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,32,283,1,0,20260201,BOS,MIL
+Shot Chart Detail,0022500702,214,1630573,Sam Hauser,1610612738,Boston Celtics,2,5,2,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-194,185,1,0,20260201,BOS,MIL
+Shot Chart Detail,0022500702,248,1630573,Sam Hauser,1610612738,Boston Celtics,2,1,32,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,11,1,1,20260201,BOS,MIL
+Shot Chart Detail,0022500702,271,1630573,Sam Hauser,1610612738,Boston Celtics,3,11,44,Missed Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,14,76,127,1,0,20260201,BOS,MIL
+Shot Chart Detail,0022500702,306,1630573,Sam Hauser,1610612738,Boston Celtics,3,8,18,Missed Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,154,221,1,0,20260201,BOS,MIL
+Shot Chart Detail,0022500702,319,1630573,Sam Hauser,1610612738,Boston Celtics,3,7,28,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-172,204,1,0,20260201,BOS,MIL
+Shot Chart Detail,0022500702,505,1630573,Sam Hauser,1610612738,Boston Celtics,4,8,19,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,62,108,1,0,20260201,BOS,MIL
+Shot Chart Detail,0022500721,27,1630573,Sam Hauser,1610612738,Boston Celtics,1,10,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-201,179,1,1,20260203,DAL,BOS
+Shot Chart Detail,0022500721,55,1630573,Sam Hauser,1610612738,Boston Celtics,1,7,49,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,-16,1,0,20260203,DAL,BOS
+Shot Chart Detail,0022500721,58,1630573,Sam Hauser,1610612738,Boston Celtics,1,7,43,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,14,1,0,20260203,DAL,BOS
+Shot Chart Detail,0022500721,192,1630573,Sam Hauser,1610612738,Boston Celtics,2,8,28,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,65,96,1,1,20260203,DAL,BOS
+Shot Chart Detail,0022500721,214,1630573,Sam Hauser,1610612738,Boston Celtics,2,7,18,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,190,168,1,0,20260203,DAL,BOS
+Shot Chart Detail,0022500721,369,1630573,Sam Hauser,1610612738,Boston Celtics,3,8,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,159,200,1,1,20260203,DAL,BOS
+Shot Chart Detail,0022500721,505,1630573,Sam Hauser,1610612738,Boston Celtics,3,0,5,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-217,141,1,0,20260203,DAL,BOS
+Shot Chart Detail,0022500721,573,1630573,Sam Hauser,1610612738,Boston Celtics,4,7,1,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-221,17,1,1,20260203,DAL,BOS
+Shot Chart Detail,0022500741,17,1630573,Sam Hauser,1610612738,Boston Celtics,1,10,29,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-107,247,1,0,20260206,BOS,MIA
+Shot Chart Detail,0022500741,55,1630573,Sam Hauser,1610612738,Boston Celtics,1,7,3,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,222,99,1,0,20260206,BOS,MIA
+Shot Chart Detail,0022500741,197,1630573,Sam Hauser,1610612738,Boston Celtics,2,9,39,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-162,201,1,0,20260206,BOS,MIA
+Shot Chart Detail,0022500741,211,1630573,Sam Hauser,1610612738,Boston Celtics,2,8,57,Missed Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-127,251,1,0,20260206,BOS,MIA
+Shot Chart Detail,0022500741,359,1630573,Sam Hauser,1610612738,Boston Celtics,2,0,3,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,147,202,1,0,20260206,BOS,MIA
+Shot Chart Detail,0022500741,428,1630573,Sam Hauser,1610612738,Boston Celtics,3,7,13,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-13,184,1,1,20260206,BOS,MIA
+Shot Chart Detail,0022500741,601,1630573,Sam Hauser,1610612738,Boston Celtics,4,5,19,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-237,38,1,0,20260206,BOS,MIA
+Shot Chart Detail,0022500778,17,1630573,Sam Hauser,1610612738,Boston Celtics,1,10,55,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,146,210,1,0,20260211,BOS,CHI
+Shot Chart Detail,0022500778,26,1630573,Sam Hauser,1610612738,Boston Celtics,1,9,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,135,209,1,1,20260211,BOS,CHI
+Shot Chart Detail,0022500778,30,1630573,Sam Hauser,1610612738,Boston Celtics,1,9,8,Missed Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,20,127,1,0,20260211,BOS,CHI
+Shot Chart Detail,0022500778,32,1630573,Sam Hauser,1610612738,Boston Celtics,1,9,7,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,5,38,1,0,20260211,BOS,CHI
+Shot Chart Detail,0022500778,38,1630573,Sam Hauser,1610612738,Boston Celtics,1,8,39,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,98,236,1,0,20260211,BOS,CHI
+Shot Chart Detail,0022500778,191,1630573,Sam Hauser,1610612738,Boston Celtics,2,8,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-185,174,1,1,20260211,BOS,CHI
+Shot Chart Detail,0022500778,218,1630573,Sam Hauser,1610612738,Boston Celtics,2,6,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-97,243,1,1,20260211,BOS,CHI
+Shot Chart Detail,0022500778,407,1630573,Sam Hauser,1610612738,Boston Celtics,3,7,2,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-150,201,1,1,20260211,BOS,CHI
+Shot Chart Detail,0022500778,447,1630573,Sam Hauser,1610612738,Boston Celtics,3,4,8,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-92,248,1,0,20260211,BOS,CHI
+Shot Chart Detail,0022500799,33,1630573,Sam Hauser,1610612738,Boston Celtics,1,9,39,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,150,211,1,1,20260219,GSW,BOS
+Shot Chart Detail,0022500799,57,1630573,Sam Hauser,1610612738,Boston Celtics,1,6,41,Missed Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-190,187,1,0,20260219,GSW,BOS
+Shot Chart Detail,0022500799,309,1630573,Sam Hauser,1610612738,Boston Celtics,2,1,25,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-229,-23,1,1,20260219,GSW,BOS
+Shot Chart Detail,0022500799,317,1630573,Sam Hauser,1610612738,Boston Celtics,2,0,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-183,182,1,1,20260219,GSW,BOS
+Shot Chart Detail,0022500799,355,1630573,Sam Hauser,1610612738,Boston Celtics,3,9,50,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-213,155,1,1,20260219,GSW,BOS
+Shot Chart Detail,0022500799,386,1630573,Sam Hauser,1610612738,Boston Celtics,3,7,33,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,19,-120,158,1,1,20260219,GSW,BOS
+Shot Chart Detail,0022500799,393,1630573,Sam Hauser,1610612738,Boston Celtics,3,6,46,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,96,109,1,0,20260219,GSW,BOS
+Shot Chart Detail,0022500799,561,1630573,Sam Hauser,1610612738,Boston Celtics,4,8,2,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,18,1,1,20260219,GSW,BOS
+Shot Chart Detail,0022500799,614,1630573,Sam Hauser,1610612738,Boston Celtics,4,2,28,Missed Shot,Reverse Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-42,20,1,0,20260219,GSW,BOS
+Shot Chart Detail,0022500799,645,1630573,Sam Hauser,1610612738,Boston Celtics,4,1,26,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,173,94,1,0,20260219,GSW,BOS
+Shot Chart Detail,0022500823,41,1630573,Sam Hauser,1610612738,Boston Celtics,1,7,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,130,232,1,1,20260222,LAL,BOS
+Shot Chart Detail,0022500823,50,1630573,Sam Hauser,1610612738,Boston Celtics,1,6,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,126,249,1,1,20260222,LAL,BOS
+Shot Chart Detail,0022500823,350,1630573,Sam Hauser,1610612738,Boston Celtics,3,11,39,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-176,198,1,0,20260222,LAL,BOS
+Shot Chart Detail,0022500823,430,1630573,Sam Hauser,1610612738,Boston Celtics,3,4,44,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,26,262,1,0,20260222,LAL,BOS
+Shot Chart Detail,0022500823,530,1630573,Sam Hauser,1610612738,Boston Celtics,4,10,43,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-195,180,1,0,20260222,LAL,BOS
+Shot Chart Detail,0022500823,533,1630573,Sam Hauser,1610612738,Boston Celtics,4,10,26,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-161,222,1,0,20260222,LAL,BOS
+Shot Chart Detail,0022500839,12,1630573,Sam Hauser,1610612738,Boston Celtics,1,11,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-100,242,1,1,20260224,PHX,BOS
+Shot Chart Detail,0022500839,53,1630573,Sam Hauser,1610612738,Boston Celtics,1,7,22,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,72,262,1,0,20260224,PHX,BOS
+Shot Chart Detail,0022500839,65,1630573,Sam Hauser,1610612738,Boston Celtics,1,6,34,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,13,1,0,20260224,PHX,BOS
+Shot Chart Detail,0022500839,325,1630573,Sam Hauser,1610612738,Boston Celtics,3,11,46,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,164,199,1,0,20260224,PHX,BOS
+Shot Chart Detail,0022500839,334,1630573,Sam Hauser,1610612738,Boston Celtics,3,11,7,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,157,228,1,1,20260224,PHX,BOS
+Shot Chart Detail,0022500839,349,1630573,Sam Hauser,1610612738,Boston Celtics,3,10,16,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,-8,1,1,20260224,PHX,BOS
+Shot Chart Detail,0022500839,375,1630573,Sam Hauser,1610612738,Boston Celtics,3,8,6,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,-6,1,1,20260224,PHX,BOS
+Shot Chart Detail,0022500839,378,1630573,Sam Hauser,1610612738,Boston Celtics,3,7,41,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,12,168,1,0,20260224,PHX,BOS
+Shot Chart Detail,0022500839,393,1630573,Sam Hauser,1610612738,Boston Celtics,3,6,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,29,-184,225,1,1,20260224,PHX,BOS
+Shot Chart Detail,0022500839,397,1630573,Sam Hauser,1610612738,Boston Celtics,3,6,6,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-121,-10,1,1,20260224,PHX,BOS
+Shot Chart Detail,0022500839,413,1630573,Sam Hauser,1610612738,Boston Celtics,3,5,20,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,161,220,1,0,20260224,PHX,BOS
+Shot Chart Detail,0022500839,424,1630573,Sam Hauser,1610612738,Boston Celtics,3,4,45,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,181,183,1,0,20260224,PHX,BOS
+Shot Chart Detail,0022500839,484,1630573,Sam Hauser,1610612738,Boston Celtics,3,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-218,125,1,0,20260224,PHX,BOS
+Shot Chart Detail,0022500839,491,1630573,Sam Hauser,1610612738,Boston Celtics,4,11,26,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,240,-21,1,0,20260224,PHX,BOS
+Shot Chart Detail,0022500847,182,1630573,Sam Hauser,1610612738,Boston Celtics,2,9,41,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260225,DEN,BOS
+Shot Chart Detail,0022500847,192,1630573,Sam Hauser,1610612738,Boston Celtics,2,8,48,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-135,213,1,0,20260225,DEN,BOS
+Shot Chart Detail,0022500847,424,1630573,Sam Hauser,1610612738,Boston Celtics,3,5,18,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-181,174,1,1,20260225,DEN,BOS
+Shot Chart Detail,0022500847,539,1630573,Sam Hauser,1610612738,Boston Celtics,4,8,17,Missed Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,20,136,1,0,20260225,DEN,BOS
+Shot Chart Detail,0022500847,541,1630573,Sam Hauser,1610612738,Boston Celtics,4,8,13,Missed Shot,Putback Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,7,62,1,0,20260225,DEN,BOS
+Shot Chart Detail,0022500859,9,1630573,Sam Hauser,1610612738,Boston Celtics,1,11,42,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,4,1,1,20260227,BOS,BKN
+Shot Chart Detail,0022500859,207,1630573,Sam Hauser,1610612738,Boston Celtics,2,7,58,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,116,225,1,0,20260227,BOS,BKN
+Shot Chart Detail,0022500859,245,1630573,Sam Hauser,1610612738,Boston Celtics,2,5,33,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,131,223,1,0,20260227,BOS,BKN
+Shot Chart Detail,0022500859,252,1630573,Sam Hauser,1610612738,Boston Celtics,2,4,53,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,32,13,1,1,20260227,BOS,BKN
+Shot Chart Detail,0022500859,267,1630573,Sam Hauser,1610612738,Boston Celtics,2,3,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,173,200,1,1,20260227,BOS,BKN
+Shot Chart Detail,0022500859,362,1630573,Sam Hauser,1610612738,Boston Celtics,3,8,4,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,100,262,1,0,20260227,BOS,BKN
+Shot Chart Detail,0022500859,383,1630573,Sam Hauser,1610612738,Boston Celtics,3,6,31,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,157,199,1,0,20260227,BOS,BKN
+Shot Chart Detail,0022500859,397,1630573,Sam Hauser,1610612738,Boston Celtics,3,4,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-167,185,1,1,20260227,BOS,BKN
+Shot Chart Detail,0022500859,420,1630573,Sam Hauser,1610612738,Boston Celtics,3,3,59,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,43,61,1,1,20260227,BOS,BKN
+Shot Chart Detail,0022500874,17,1630573,Sam Hauser,1610612738,Boston Celtics,1,10,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-205,159,1,1,20260301,BOS,PHI
+Shot Chart Detail,0022500874,28,1630573,Sam Hauser,1610612738,Boston Celtics,1,9,1,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,142,216,1,0,20260301,BOS,PHI
+Shot Chart Detail,0022500874,51,1630573,Sam Hauser,1610612738,Boston Celtics,1,7,16,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-138,223,1,0,20260301,BOS,PHI
+Shot Chart Detail,0022500874,82,1630573,Sam Hauser,1610612738,Boston Celtics,1,5,43,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,141,223,1,0,20260301,BOS,PHI
+Shot Chart Detail,0022500874,173,1630573,Sam Hauser,1610612738,Boston Celtics,2,11,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-190,173,1,1,20260301,BOS,PHI
+Shot Chart Detail,0022500874,360,1630573,Sam Hauser,1610612738,Boston Celtics,3,9,41,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,24,1,0,20260301,BOS,PHI
+Shot Chart Detail,0022500874,367,1630573,Sam Hauser,1610612738,Boston Celtics,3,9,13,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-192,199,1,0,20260301,BOS,PHI
+Shot Chart Detail,0022500874,402,1630573,Sam Hauser,1610612738,Boston Celtics,3,7,9,Missed Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,9,1,0,20260301,BOS,PHI
+Shot Chart Detail,0022500874,408,1630573,Sam Hauser,1610612738,Boston Celtics,3,6,40,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,229,59,1,0,20260301,BOS,PHI
+Shot Chart Detail,0022500874,535,1630573,Sam Hauser,1610612738,Boston Celtics,4,9,3,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,85,53,1,1,20260301,BOS,PHI
+Shot Chart Detail,0022500874,555,1630573,Sam Hauser,1610612738,Boston Celtics,4,7,50,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-135,213,1,0,20260301,BOS,PHI
+Shot Chart Detail,0022500880,38,1630573,Sam Hauser,1610612738,Boston Celtics,1,9,4,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-224,168,1,1,20260302,MIL,BOS
+Shot Chart Detail,0022500880,64,1630573,Sam Hauser,1610612738,Boston Celtics,1,6,40,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,29,-201,211,1,0,20260302,MIL,BOS
+Shot Chart Detail,0022500880,158,1630573,Sam Hauser,1610612738,Boston Celtics,1,0,3,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,156,223,1,0,20260302,MIL,BOS
+Shot Chart Detail,0022500880,160,1630573,Sam Hauser,1610612738,Boston Celtics,1,0,0,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,12,-65,111,1,1,20260302,MIL,BOS
+Shot Chart Detail,0022500880,180,1630573,Sam Hauser,1610612738,Boston Celtics,2,10,44,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-232,73,1,1,20260302,MIL,BOS
+Shot Chart Detail,0022500880,214,1630573,Sam Hauser,1610612738,Boston Celtics,2,8,23,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-150,226,1,0,20260302,MIL,BOS
+Shot Chart Detail,0022500880,364,1630573,Sam Hauser,1610612738,Boston Celtics,3,9,47,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,82,240,1,1,20260302,MIL,BOS
+Shot Chart Detail,0022500880,384,1630573,Sam Hauser,1610612738,Boston Celtics,3,7,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-136,225,1,1,20260302,MIL,BOS
+Shot Chart Detail,0022500880,574,1630573,Sam Hauser,1610612738,Boston Celtics,4,5,18,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-134,232,1,0,20260302,MIL,BOS
+Shot Chart Detail,0022500894,29,1630573,Sam Hauser,1610612738,Boston Celtics,1,9,51,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,22,279,1,0,20260304,BOS,CHA
+Shot Chart Detail,0022500894,202,1630573,Sam Hauser,1610612738,Boston Celtics,2,9,22,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-214,130,1,0,20260304,BOS,CHA
+Shot Chart Detail,0022500894,234,1630573,Sam Hauser,1610612738,Boston Celtics,2,7,1,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,26,257,1,0,20260304,BOS,CHA
+Shot Chart Detail,0022500894,327,1630573,Sam Hauser,1610612738,Boston Celtics,3,10,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-232,88,1,1,20260304,BOS,CHA
+Shot Chart Detail,0022500894,348,1630573,Sam Hauser,1610612738,Boston Celtics,3,8,8,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-67,253,1,0,20260304,BOS,CHA
+Shot Chart Detail,0022500908,7,1630573,Sam Hauser,1610612738,Boston Celtics,1,11,47,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,146,235,1,0,20260306,BOS,DAL
+Shot Chart Detail,0022500908,13,1630573,Sam Hauser,1610612738,Boston Celtics,1,11,8,Missed Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,25,-239,79,1,0,20260306,BOS,DAL
+Shot Chart Detail,0022500908,193,1630573,Sam Hauser,1610612738,Boston Celtics,2,11,29,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-236,25,1,1,20260306,BOS,DAL
+Shot Chart Detail,0022500908,209,1630573,Sam Hauser,1610612738,Boston Celtics,2,9,39,Missed Shot,Pullup Jump shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,222,20,1,0,20260306,BOS,DAL
+Shot Chart Detail,0022500908,389,1630573,Sam Hauser,1610612738,Boston Celtics,3,9,58,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,175,220,1,0,20260306,BOS,DAL
+Shot Chart Detail,0022500908,524,1630573,Sam Hauser,1610612738,Boston Celtics,4,11,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,159,218,1,0,20260306,BOS,DAL
+Shot Chart Detail,0022500908,542,1630573,Sam Hauser,1610612738,Boston Celtics,4,9,52,Made Shot,Pullup Jump shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,64,1,1,20260306,BOS,DAL
+Shot Chart Detail,0022500908,546,1630573,Sam Hauser,1610612738,Boston Celtics,4,9,32,Missed Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,1,1,0,20260306,BOS,DAL
+Shot Chart Detail,0022500921,23,1630573,Sam Hauser,1610612738,Boston Celtics,1,10,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-153,197,1,1,20260308,CLE,BOS
+Shot Chart Detail,0022500921,32,1630573,Sam Hauser,1610612738,Boston Celtics,1,9,5,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,126,227,1,0,20260308,CLE,BOS
+Shot Chart Detail,0022500921,51,1630573,Sam Hauser,1610612738,Boston Celtics,1,7,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-55,245,1,1,20260308,CLE,BOS
+Shot Chart Detail,0022500921,175,1630573,Sam Hauser,1610612738,Boston Celtics,2,11,19,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,-7,1,0,20260308,CLE,BOS
+Shot Chart Detail,0022500921,440,1630573,Sam Hauser,1610612738,Boston Celtics,3,6,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,35,-143,320,1,1,20260308,CLE,BOS
+Shot Chart Detail,0022500921,458,1630573,Sam Hauser,1610612738,Boston Celtics,3,4,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,69,253,1,1,20260308,CLE,BOS
+Shot Chart Detail,0022500921,467,1630573,Sam Hauser,1610612738,Boston Celtics,3,3,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-181,206,1,1,20260308,CLE,BOS
+Shot Chart Detail,0022500921,472,1630573,Sam Hauser,1610612738,Boston Celtics,3,3,19,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-185,198,1,0,20260308,CLE,BOS
+Shot Chart Detail,0022500921,493,1630573,Sam Hauser,1610612738,Boston Celtics,3,1,32,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,30,-169,248,1,0,20260308,CLE,BOS
+Shot Chart Detail,0022500921,605,1630573,Sam Hauser,1610612738,Boston Celtics,4,5,17,Missed Shot,Step Back Jump shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,228,85,1,0,20260308,CLE,BOS
+Shot Chart Detail,0022500942,40,1630573,Sam Hauser,1610612738,Boston Celtics,1,8,58,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-45,249,1,0,20260310,SAS,BOS
+Shot Chart Detail,0022500942,186,1630573,Sam Hauser,1610612738,Boston Celtics,2,11,37,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,238,61,1,1,20260310,SAS,BOS
+Shot Chart Detail,0022500942,218,1630573,Sam Hauser,1610612738,Boston Celtics,2,8,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-1,276,1,1,20260310,SAS,BOS
+Shot Chart Detail,0022500942,248,1630573,Sam Hauser,1610612738,Boston Celtics,2,5,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,212,161,1,1,20260310,SAS,BOS
+Shot Chart Detail,0022500942,326,1630573,Sam Hauser,1610612738,Boston Celtics,2,0,59,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,175,173,1,0,20260310,SAS,BOS
+Shot Chart Detail,0022500942,328,1630573,Sam Hauser,1610612738,Boston Celtics,2,0,55,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,132,215,1,0,20260310,SAS,BOS
+Shot Chart Detail,0022500942,361,1630573,Sam Hauser,1610612738,Boston Celtics,3,9,54,Made Shot,Running Pull-Up Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,105,-9,1,1,20260310,SAS,BOS
+Shot Chart Detail,0022500942,553,1630573,Sam Hauser,1610612738,Boston Celtics,4,8,53,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,137,225,1,0,20260310,SAS,BOS
+Shot Chart Detail,0022500942,576,1630573,Sam Hauser,1610612738,Boston Celtics,4,6,5,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,39,1,0,20260310,SAS,BOS
+Shot Chart Detail,0022500942,616,1630573,Sam Hauser,1610612738,Boston Celtics,4,3,37,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-88,152,1,0,20260310,SAS,BOS
+Shot Chart Detail,0022500959,26,1630573,Sam Hauser,1610612738,Boston Celtics,1,8,55,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,121,34,1,1,20260312,OKC,BOS
+Shot Chart Detail,0022500959,30,1630573,Sam Hauser,1610612738,Boston Celtics,1,8,38,Missed Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,58,272,1,0,20260312,OKC,BOS
+Shot Chart Detail,0022500959,52,1630573,Sam Hauser,1610612738,Boston Celtics,1,7,11,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,164,200,1,0,20260312,OKC,BOS
+Shot Chart Detail,0022500959,54,1630573,Sam Hauser,1610612738,Boston Celtics,1,7,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,104,244,1,1,20260312,OKC,BOS
+Shot Chart Detail,0022500959,179,1630573,Sam Hauser,1610612738,Boston Celtics,2,10,14,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-195,155,1,0,20260312,OKC,BOS
+Shot Chart Detail,0022500959,192,1630573,Sam Hauser,1610612738,Boston Celtics,2,9,8,Missed Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,61,116,1,0,20260312,OKC,BOS
+Shot Chart Detail,0022500959,349,1630573,Sam Hauser,1610612738,Boston Celtics,3,10,13,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,192,166,1,0,20260312,OKC,BOS
+Shot Chart Detail,0022500959,360,1630573,Sam Hauser,1610612738,Boston Celtics,3,9,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,67,246,1,1,20260312,OKC,BOS
+Shot Chart Detail,0022500959,507,1630573,Sam Hauser,1610612738,Boston Celtics,4,9,12,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,121,227,1,0,20260312,OKC,BOS
+Shot Chart Detail,0022500959,509,1630573,Sam Hauser,1610612738,Boston Celtics,4,9,8,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-61,248,1,0,20260312,OKC,BOS
+Shot Chart Detail,0022500971,55,1630573,Sam Hauser,1610612738,Boston Celtics,1,7,15,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,13,1,0,20260314,BOS,WAS
+Shot Chart Detail,0022500971,63,1630573,Sam Hauser,1610612738,Boston Celtics,1,6,43,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,176,206,1,0,20260314,BOS,WAS
+Shot Chart Detail,0022500971,190,1630573,Sam Hauser,1610612738,Boston Celtics,2,10,15,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,186,196,1,0,20260314,BOS,WAS
+Shot Chart Detail,0022500971,204,1630573,Sam Hauser,1610612738,Boston Celtics,2,9,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-159,220,1,1,20260314,BOS,WAS
+Shot Chart Detail,0022500971,215,1630573,Sam Hauser,1610612738,Boston Celtics,2,8,23,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,163,226,1,1,20260314,BOS,WAS
+Shot Chart Detail,0022500971,395,1630573,Sam Hauser,1610612738,Boston Celtics,3,7,11,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,29,169,240,1,1,20260314,BOS,WAS
+Shot Chart Detail,0022500971,520,1630573,Sam Hauser,1610612738,Boston Celtics,4,9,28,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-151,232,1,0,20260314,BOS,WAS
+Shot Chart Detail,0022500971,574,1630573,Sam Hauser,1610612738,Boston Celtics,4,5,32,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-161,204,1,0,20260314,BOS,WAS
+Shot Chart Detail,0022500971,576,1630573,Sam Hauser,1610612738,Boston Celtics,4,5,22,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-146,211,1,0,20260314,BOS,WAS
+Shot Chart Detail,0022500971,584,1630573,Sam Hauser,1610612738,Boston Celtics,4,4,38,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,91,262,1,0,20260314,BOS,WAS
+Shot Chart Detail,0022500971,608,1630573,Sam Hauser,1610612738,Boston Celtics,4,2,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,202,194,1,1,20260314,BOS,WAS
+Shot Chart Detail,0022500986,48,1630573,Sam Hauser,1610612738,Boston Celtics,1,8,3,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-237,79,1,0,20260316,BOS,PHX
+Shot Chart Detail,0022500986,373,1630573,Sam Hauser,1610612738,Boston Celtics,3,8,51,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,27,22,1,1,20260316,BOS,PHX
+Shot Chart Detail,0022500986,384,1630573,Sam Hauser,1610612738,Boston Celtics,3,8,24,Missed Shot,Running Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,227,56,1,0,20260316,BOS,PHX
+Shot Chart Detail,0022500999,22,1630573,Sam Hauser,1610612738,Boston Celtics,1,11,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,157,206,1,0,20260318,BOS,GSW
+Shot Chart Detail,0022500999,50,1630573,Sam Hauser,1610612738,Boston Celtics,1,8,20,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,229,45,1,1,20260318,BOS,GSW
+Shot Chart Detail,0022500999,344,1630573,Sam Hauser,1610612738,Boston Celtics,3,11,46,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-50,152,1,0,20260318,BOS,GSW
+Shot Chart Detail,0022500999,353,1630573,Sam Hauser,1610612738,Boston Celtics,3,10,53,Missed Shot,Fadeaway Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,98,243,1,0,20260318,BOS,GSW
+Shot Chart Detail,0022500999,403,1630573,Sam Hauser,1610612738,Boston Celtics,3,7,25,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,231,29,1,1,20260318,BOS,GSW
+Shot Chart Detail,0022500999,430,1630573,Sam Hauser,1610612738,Boston Celtics,3,5,3,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-150,197,1,0,20260318,BOS,GSW
+Shot Chart Detail,0022501019,382,1630573,Sam Hauser,1610612738,Boston Celtics,3,9,21,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-20,251,1,0,20260320,MEM,BOS
+Shot Chart Detail,0022501019,423,1630573,Sam Hauser,1610612738,Boston Celtics,3,6,28,Missed Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,150,211,1,0,20260320,MEM,BOS
+Shot Chart Detail,0022501019,425,1630573,Sam Hauser,1610612738,Boston Celtics,3,6,17,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,59,273,1,0,20260320,MEM,BOS
+Shot Chart Detail,0022501035,22,1630573,Sam Hauser,1610612738,Boston Celtics,1,9,53,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,6,1,1,20260322,BOS,MIN
+Shot Chart Detail,0022501035,43,1630573,Sam Hauser,1610612738,Boston Celtics,1,7,13,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,31,1,0,20260322,BOS,MIN
+Shot Chart Detail,0022501035,52,1630573,Sam Hauser,1610612738,Boston Celtics,1,6,6,Missed Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,30,161,262,1,0,20260322,BOS,MIN
+Shot Chart Detail,0022501035,285,1630573,Sam Hauser,1610612738,Boston Celtics,2,1,26,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,10,1,0,20260322,BOS,MIN
+Shot Chart Detail,0022501054,15,1630573,Sam Hauser,1610612738,Boston Celtics,1,10,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-158,198,1,1,20260325,BOS,OKC
+Shot Chart Detail,0022501054,22,1630573,Sam Hauser,1610612738,Boston Celtics,1,9,56,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,229,68,1,0,20260325,BOS,OKC
+Shot Chart Detail,0022501054,26,1630573,Sam Hauser,1610612738,Boston Celtics,1,9,32,Missed Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-224,-1,1,0,20260325,BOS,OKC
+Shot Chart Detail,0022501054,33,1630573,Sam Hauser,1610612738,Boston Celtics,1,8,58,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,-2,1,0,20260325,BOS,OKC
+Shot Chart Detail,0022501054,44,1630573,Sam Hauser,1610612738,Boston Celtics,1,7,57,Missed Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,11,41,1,0,20260325,BOS,OKC
+Shot Chart Detail,0022501054,54,1630573,Sam Hauser,1610612738,Boston Celtics,1,6,55,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-175,180,1,0,20260325,BOS,OKC
+Shot Chart Detail,0022501054,322,1630573,Sam Hauser,1610612738,Boston Celtics,3,11,45,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-234,89,1,0,20260325,BOS,OKC
+Shot Chart Detail,0022501054,331,1630573,Sam Hauser,1610612738,Boston Celtics,3,10,19,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-146,230,1,1,20260325,BOS,OKC
+Shot Chart Detail,0022501054,516,1630573,Sam Hauser,1610612738,Boston Celtics,4,10,47,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,15,1,1,20260325,BOS,OKC
+Shot Chart Detail,0022501067,43,1630573,Sam Hauser,1610612738,Boston Celtics,1,8,21,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,152,193,1,0,20260327,BOS,ATL
+Shot Chart Detail,0022501067,48,1630573,Sam Hauser,1610612738,Boston Celtics,1,8,6,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,168,181,1,0,20260327,BOS,ATL
+Shot Chart Detail,0022501067,58,1630573,Sam Hauser,1610612738,Boston Celtics,1,7,11,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-105,65,1,1,20260327,BOS,ATL
+Shot Chart Detail,0022501067,220,1630573,Sam Hauser,1610612738,Boston Celtics,2,7,41,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-48,111,1,1,20260327,BOS,ATL
+Shot Chart Detail,0022501067,247,1630573,Sam Hauser,1610612738,Boston Celtics,2,5,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-183,162,1,1,20260327,BOS,ATL
+Shot Chart Detail,0022501067,357,1630573,Sam Hauser,1610612738,Boston Celtics,3,9,11,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,222,141,1,0,20260327,BOS,ATL
+Shot Chart Detail,0022501067,373,1630573,Sam Hauser,1610612738,Boston Celtics,3,8,15,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,118,215,1,1,20260327,BOS,ATL
+Shot Chart Detail,0022501085,7,1630573,Sam Hauser,1610612738,Boston Celtics,1,11,55,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,181,192,1,0,20260329,CHA,BOS
+Shot Chart Detail,0022501085,41,1630573,Sam Hauser,1610612738,Boston Celtics,1,8,17,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,190,216,1,1,20260329,CHA,BOS
+Shot Chart Detail,0022501085,247,1630573,Sam Hauser,1610612738,Boston Celtics,2,5,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-120,234,1,1,20260329,CHA,BOS
+Shot Chart Detail,0022501085,422,1630573,Sam Hauser,1610612738,Boston Celtics,3,3,31,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-178,207,1,0,20260329,CHA,BOS
+Shot Chart Detail,0022501092,210,1630573,Sam Hauser,1610612738,Boston Celtics,2,7,45,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-165,185,1,0,20260330,ATL,BOS
+Shot Chart Detail,0022501092,296,1630573,Sam Hauser,1610612738,Boston Celtics,2,2,23,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,-1,1,1,20260330,ATL,BOS
+Shot Chart Detail,0022501092,300,1630573,Sam Hauser,1610612738,Boston Celtics,2,1,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-156,188,1,1,20260330,ATL,BOS
+Shot Chart Detail,0022501092,319,1630573,Sam Hauser,1610612738,Boston Celtics,2,0,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-98,220,1,0,20260330,ATL,BOS
+Shot Chart Detail,0022501092,371,1630573,Sam Hauser,1610612738,Boston Celtics,3,8,55,Missed Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,67,128,1,0,20260330,ATL,BOS
+Shot Chart Detail,0022501106,31,1630573,Sam Hauser,1610612738,Boston Celtics,1,9,25,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-154,32,1,1,20260401,MIA,BOS
+Shot Chart Detail,0022501106,64,1630573,Sam Hauser,1610612738,Boston Celtics,1,6,41,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,6,1,1,20260401,MIA,BOS
+Shot Chart Detail,0022501106,97,1630573,Sam Hauser,1610612738,Boston Celtics,1,4,12,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-213,162,1,1,20260401,MIA,BOS
+Shot Chart Detail,0022501106,114,1630573,Sam Hauser,1610612738,Boston Celtics,1,3,40,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-230,71,1,1,20260401,MIA,BOS
+Shot Chart Detail,0022501106,133,1630573,Sam Hauser,1610612738,Boston Celtics,1,2,10,Made Shot,Running Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,228,75,1,1,20260401,MIA,BOS
+Shot Chart Detail,0022501106,165,1630573,Sam Hauser,1610612738,Boston Celtics,1,0,33,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,-13,1,1,20260401,MIA,BOS
+Shot Chart Detail,0022501106,268,1630573,Sam Hauser,1610612738,Boston Celtics,2,4,57,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,129,244,1,0,20260401,MIA,BOS
+Shot Chart Detail,0022501106,296,1630573,Sam Hauser,1610612738,Boston Celtics,2,3,17,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,212,137,1,0,20260401,MIA,BOS
+Shot Chart Detail,0022501106,348,1630573,Sam Hauser,1610612738,Boston Celtics,3,11,44,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,27,53,1,1,20260401,MIA,BOS
+Shot Chart Detail,0022501106,504,1630573,Sam Hauser,1610612738,Boston Celtics,4,11,19,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,99,132,1,1,20260401,MIA,BOS
+Shot Chart Detail,0022501106,511,1630573,Sam Hauser,1610612738,Boston Celtics,4,10,16,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-130,6,1,1,20260401,MIA,BOS
+Shot Chart Detail,0022501126,11,1630573,Sam Hauser,1610612738,Boston Celtics,1,11,22,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,25,-239,86,1,1,20260403,MIL,BOS
+Shot Chart Detail,0022501126,53,1630573,Sam Hauser,1610612738,Boston Celtics,1,8,27,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,8,1,1,20260403,MIL,BOS
+Shot Chart Detail,0022501126,62,1630573,Sam Hauser,1610612738,Boston Celtics,1,7,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,141,205,1,1,20260403,MIL,BOS
+Shot Chart Detail,0022501126,310,1630573,Sam Hauser,1610612738,Boston Celtics,2,1,27,Made Shot,Running Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,6,1,1,20260403,MIL,BOS
+Shot Chart Detail,0022501126,344,1630573,Sam Hauser,1610612738,Boston Celtics,3,10,53,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-147,-14,1,1,20260403,MIL,BOS
+Shot Chart Detail,0022501126,430,1630573,Sam Hauser,1610612738,Boston Celtics,3,3,27,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,29,127,264,1,0,20260403,MIL,BOS
+Shot Chart Detail,0022501132,20,1630573,Sam Hauser,1610612738,Boston Celtics,1,10,44,Missed Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-222,4,1,0,20260405,BOS,TOR
+Shot Chart Detail,0022501132,30,1630573,Sam Hauser,1610612738,Boston Celtics,1,9,39,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,118,151,1,0,20260405,BOS,TOR
+Shot Chart Detail,0022501132,178,1630573,Sam Hauser,1610612738,Boston Celtics,2,10,52,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-129,220,1,1,20260405,BOS,TOR
+Shot Chart Detail,0022501132,199,1630573,Sam Hauser,1610612738,Boston Celtics,2,9,23,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,93,248,1,0,20260405,BOS,TOR
+Shot Chart Detail,0022501132,233,1630573,Sam Hauser,1610612738,Boston Celtics,2,7,29,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,157,237,1,0,20260405,BOS,TOR
+Shot Chart Detail,0022501132,380,1630573,Sam Hauser,1610612738,Boston Celtics,3,7,18,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,11,1,1,20260405,BOS,TOR
+Shot Chart Detail,0022501132,536,1630573,Sam Hauser,1610612738,Boston Celtics,4,8,5,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,15,1,1,20260405,BOS,TOR
+Shot Chart Detail,0022501149,14,1630573,Sam Hauser,1610612738,Boston Celtics,1,11,0,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,141,225,1,0,20260407,BOS,CHA
+Shot Chart Detail,0022501149,22,1630573,Sam Hauser,1610612738,Boston Celtics,1,10,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-130,230,1,0,20260407,BOS,CHA
+Shot Chart Detail,0022501149,30,1630573,Sam Hauser,1610612738,Boston Celtics,1,9,17,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,228,32,1,0,20260407,BOS,CHA
+Shot Chart Detail,0022501149,42,1630573,Sam Hauser,1610612738,Boston Celtics,1,7,38,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,34,1,1,20260407,BOS,CHA
+Shot Chart Detail,0022501149,62,1630573,Sam Hauser,1610612738,Boston Celtics,1,5,29,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,14,1,0,20260407,BOS,CHA
+Shot Chart Detail,0022501149,180,1630573,Sam Hauser,1610612738,Boston Celtics,2,10,24,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-17,159,1,1,20260407,BOS,CHA
+Shot Chart Detail,0022501149,188,1630573,Sam Hauser,1610612738,Boston Celtics,2,9,47,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-137,6,1,0,20260407,BOS,CHA
+Shot Chart Detail,0022501168,19,1630573,Sam Hauser,1610612738,Boston Celtics,1,10,2,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-154,-8,1,0,20260409,NYK,BOS
+Shot Chart Detail,0022501168,52,1630573,Sam Hauser,1610612738,Boston Celtics,1,7,27,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-56,251,1,0,20260409,NYK,BOS
+Shot Chart Detail,0022501168,59,1630573,Sam Hauser,1610612738,Boston Celtics,1,6,23,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,-21,1,0,20260409,NYK,BOS
+Shot Chart Detail,0022501168,160,1630573,Sam Hauser,1610612738,Boston Celtics,2,11,37,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,-18,1,0,20260409,NYK,BOS
+Shot Chart Detail,0022501168,240,1630573,Sam Hauser,1610612738,Boston Celtics,2,5,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-140,206,1,1,20260409,NYK,BOS
+Shot Chart Detail,0022501168,276,1630573,Sam Hauser,1610612738,Boston Celtics,2,3,5,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,-20,1,1,20260409,NYK,BOS
+Shot Chart Detail,0022501168,421,1630573,Sam Hauser,1610612738,Boston Celtics,3,2,34,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,221,117,1,0,20260409,NYK,BOS
+Shot Chart Detail,0022501174,18,1630573,Sam Hauser,1610612738,Boston Celtics,1,10,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,66,257,1,1,20260410,BOS,NOP
+Shot Chart Detail,0022501174,56,1630573,Sam Hauser,1610612738,Boston Celtics,1,7,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,152,219,1,1,20260410,BOS,NOP
+Shot Chart Detail,0022501174,71,1630573,Sam Hauser,1610612738,Boston Celtics,1,5,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-112,253,1,1,20260410,BOS,NOP
+Shot Chart Detail,0022501174,75,1630573,Sam Hauser,1610612738,Boston Celtics,1,5,20,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-56,247,1,0,20260410,BOS,NOP
+Shot Chart Detail,0022501174,176,1630573,Sam Hauser,1610612738,Boston Celtics,2,11,10,Missed Shot,Cutting Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,32,29,1,0,20260410,BOS,NOP
+Shot Chart Detail,0022501174,195,1630573,Sam Hauser,1610612738,Boston Celtics,2,9,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,29,257,1,0,20260410,BOS,NOP
+Shot Chart Detail,0022501174,357,1630573,Sam Hauser,1610612738,Boston Celtics,3,10,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,27,257,1,1,20260410,BOS,NOP
+Shot Chart Detail,0022501174,369,1630573,Sam Hauser,1610612738,Boston Celtics,3,9,57,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,119,247,1,1,20260410,BOS,NOP
+Shot Chart Detail,0022501174,377,1630573,Sam Hauser,1610612738,Boston Celtics,3,9,32,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,31,-81,306,1,1,20260410,BOS,NOP
+Shot Chart Detail,0022501174,386,1630573,Sam Hauser,1610612738,Boston Celtics,3,8,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,178,196,1,1,20260410,BOS,NOP
+Shot Chart Detail,0022501174,409,1630573,Sam Hauser,1610612738,Boston Celtics,3,6,23,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,11,1,0,20260410,BOS,NOP
+Shot Chart Detail,0022501174,456,1630573,Sam Hauser,1610612738,Boston Celtics,3,3,58,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,29,104,274,1,0,20260410,BOS,NOP
+Shot Chart Detail,0022501174,492,1630573,Sam Hauser,1610612738,Boston Celtics,3,1,9,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-127,231,1,1,20260410,BOS,NOP
+Shot Chart Detail,0022501206,77,1630573,Sam Hauser,1610612738,Boston Celtics,1,6,4,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-44,267,1,0,20251211,MIL,BOS
+Shot Chart Detail,0022501206,88,1630573,Sam Hauser,1610612738,Boston Celtics,1,5,5,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-221,184,1,0,20251211,MIL,BOS
+Shot Chart Detail,0022501206,315,1630573,Sam Hauser,1610612738,Boston Celtics,2,1,4,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,0,1,0,20251211,MIL,BOS
+Shot Chart Detail,0022501206,451,1630573,Sam Hauser,1610612738,Boston Celtics,3,2,14,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,165,214,1,0,20251211,MIL,BOS
+Shot Chart Detail,0022501206,503,1630573,Sam Hauser,1610612738,Boston Celtics,4,10,45,Missed Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-145,234,1,0,20251211,MIL,BOS
+Shot Chart Detail,0022501206,512,1630573,Sam Hauser,1610612738,Boston Celtics,4,9,50,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,228,150,1,0,20251211,MIL,BOS
+Shot Chart Detail,0022501206,514,1630573,Sam Hauser,1610612738,Boston Celtics,4,9,41,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,120,241,1,0,20251211,MIL,BOS
+Shot Chart Detail,0022501206,516,1630573,Sam Hauser,1610612738,Boston Celtics,4,9,30,Missed Shot,Cutting Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,75,-26,1,0,20251211,MIL,BOS
+Shot Chart Detail,0022501206,586,1630573,Sam Hauser,1610612738,Boston Celtics,4,4,27,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,38,260,1,0,20251211,MIL,BOS
+Shot Chart Detail,0022501206,607,1630573,Sam Hauser,1610612738,Boston Celtics,4,2,18,Missed Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-141,215,1,0,20251211,MIL,BOS
+Shot Chart Detail,0022501222,147,1630573,Sam Hauser,1610612738,Boston Celtics,1,1,32,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,189,168,1,0,20251215,BOS,DET

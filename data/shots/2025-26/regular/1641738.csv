@@ -1,0 +1,272 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0022500059,119,1641738,Kobe Brown,1610612746,LA Clippers,1,1,54,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,11,1,1,20251125,LAL,LAC
+Shot Chart Detail,0022500059,135,1641738,Kobe Brown,1610612746,LA Clippers,1,0,39,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,15,1,1,20251125,LAL,LAC
+Shot Chart Detail,0022500059,160,1641738,Kobe Brown,1610612746,LA Clippers,2,11,11,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,28,13,1,0,20251125,LAL,LAC
+Shot Chart Detail,0022500059,290,1641738,Kobe Brown,1610612746,LA Clippers,2,0,52,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-29,9,1,1,20251125,LAL,LAC
+Shot Chart Detail,0022500079,163,1641738,Kobe Brown,1610612746,LA Clippers,1,1,3,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-229,22,1,1,20251128,LAC,MEM
+Shot Chart Detail,0022500079,171,1641738,Kobe Brown,1610612746,LA Clippers,1,0,22,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,17,1,1,20251128,LAC,MEM
+Shot Chart Detail,0022500079,209,1641738,Kobe Brown,1610612746,LA Clippers,2,10,34,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,147,218,1,0,20251128,LAC,MEM
+Shot Chart Detail,0022500079,246,1641738,Kobe Brown,1610612746,LA Clippers,2,8,5,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,22,1,0,20251128,LAC,MEM
+Shot Chart Detail,0022500079,344,1641738,Kobe Brown,1610612746,LA Clippers,2,1,56,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,15,257,1,0,20251128,LAC,MEM
+Shot Chart Detail,0022500079,481,1641738,Kobe Brown,1610612746,LA Clippers,3,2,7,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,18,247,1,0,20251128,LAC,MEM
+Shot Chart Detail,0022500079,541,1641738,Kobe Brown,1610612746,LA Clippers,4,10,29,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,16,1,0,20251128,LAC,MEM
+Shot Chart Detail,0022500127,568,1641738,Kobe Brown,1610612746,LA Clippers,4,3,14,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,1,32,1,1,20251028,GSW,LAC
+Shot Chart Detail,0022500170,615,1641738,Kobe Brown,1610612746,LA Clippers,4,4,42,Missed Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-239,-17,1,0,20251104,LAC,OKC
+Shot Chart Detail,0022500170,617,1641738,Kobe Brown,1610612746,LA Clippers,4,4,34,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-159,199,1,0,20251104,LAC,OKC
+Shot Chart Detail,0022500170,665,1641738,Kobe Brown,1610612746,LA Clippers,4,0,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,9,268,1,0,20251104,LAC,OKC
+Shot Chart Detail,0022500182,483,1641738,Kobe Brown,1610612746,LA Clippers,3,1,9,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,46,1,0,20251106,PHX,LAC
+Shot Chart Detail,0022500182,543,1641738,Kobe Brown,1610612746,LA Clippers,4,10,58,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,25,17,1,0,20251106,PHX,LAC
+Shot Chart Detail,0022500206,161,1641738,Kobe Brown,1610612746,LA Clippers,2,11,13,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-12,17,1,1,20251110,LAC,ATL
+Shot Chart Detail,0022500206,206,1641738,Kobe Brown,1610612746,LA Clippers,2,7,29,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-18,32,1,1,20251110,LAC,ATL
+Shot Chart Detail,0022500206,485,1641738,Kobe Brown,1610612746,LA Clippers,4,10,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,146,220,1,1,20251110,LAC,ATL
+Shot Chart Detail,0022500224,604,1641738,Kobe Brown,1610612746,LA Clippers,4,3,30,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,22,1,0,20251112,LAC,DEN
+Shot Chart Detail,0022500224,636,1641738,Kobe Brown,1610612746,LA Clippers,4,1,34,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,12,19,1,1,20251112,LAC,DEN
+Shot Chart Detail,0022500264,515,1641738,Kobe Brown,1610612746,LA Clippers,3,0,0,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,224,65,1,0,20251120,ORL,LAC
+Shot Chart Detail,0022500264,525,1641738,Kobe Brown,1610612746,LA Clippers,4,11,12,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,229,34,1,1,20251120,ORL,LAC
+Shot Chart Detail,0022500264,585,1641738,Kobe Brown,1610612746,LA Clippers,4,6,33,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-5,63,1,0,20251120,ORL,LAC
+Shot Chart Detail,0022500264,588,1641738,Kobe Brown,1610612746,LA Clippers,4,6,27,Missed Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,5,67,1,0,20251120,ORL,LAC
+Shot Chart Detail,0022500264,600,1641738,Kobe Brown,1610612746,LA Clippers,4,5,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,102,246,1,1,20251120,ORL,LAC
+Shot Chart Detail,0022500264,610,1641738,Kobe Brown,1610612746,LA Clippers,4,4,45,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-146,225,1,1,20251120,ORL,LAC
+Shot Chart Detail,0022500264,626,1641738,Kobe Brown,1610612746,LA Clippers,4,4,14,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-199,143,1,0,20251120,ORL,LAC
+Shot Chart Detail,0022500264,658,1641738,Kobe Brown,1610612746,LA Clippers,4,1,1,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-29,285,1,0,20251120,ORL,LAC
+Shot Chart Detail,0022500268,644,1641738,Kobe Brown,1610612746,LA Clippers,4,2,23,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,103,253,1,0,20251122,CHA,LAC
+Shot Chart Detail,0022500278,669,1641738,Kobe Brown,1610612746,LA Clippers,4,1,26,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-123,219,1,1,20251123,CLE,LAC
+Shot Chart Detail,0022500278,688,1641738,Kobe Brown,1610612746,LA Clippers,4,0,22,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,15,1,0,20251123,CLE,LAC
+Shot Chart Detail,0022500300,154,1641738,Kobe Brown,1610612746,LA Clippers,1,0,12,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-137,243,1,0,20251129,LAC,DAL
+Shot Chart Detail,0022500300,197,1641738,Kobe Brown,1610612746,LA Clippers,2,9,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-113,232,1,1,20251129,LAC,DAL
+Shot Chart Detail,0022500300,335,1641738,Kobe Brown,1610612746,LA Clippers,2,0,19,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-15,37,1,1,20251129,LAC,DAL
+Shot Chart Detail,0022500300,465,1641738,Kobe Brown,1610612746,LA Clippers,3,2,5,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,189,174,1,0,20251129,LAC,DAL
+Shot Chart Detail,0022500300,577,1641738,Kobe Brown,1610612746,LA Clippers,4,6,40,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,11,1,0,20251129,LAC,DAL
+Shot Chart Detail,0022500313,137,1641738,Kobe Brown,1610612746,LA Clippers,1,2,6,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,114,229,1,0,20251201,MIA,LAC
+Shot Chart Detail,0022500313,143,1641738,Kobe Brown,1610612746,LA Clippers,1,1,42,Missed Shot,Driving Reverse Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-22,55,1,0,20251201,MIA,LAC
+Shot Chart Detail,0022500313,402,1641738,Kobe Brown,1610612746,LA Clippers,3,9,38,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-42,37,1,1,20251201,MIA,LAC
+Shot Chart Detail,0022500313,490,1641738,Kobe Brown,1610612746,LA Clippers,3,2,12,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-238,41,1,0,20251201,MIA,LAC
+Shot Chart Detail,0022500327,612,1641738,Kobe Brown,1610612746,LA Clippers,4,2,0,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,17,1,0,20251203,ATL,LAC
+Shot Chart Detail,0022500327,633,1641738,Kobe Brown,1610612746,LA Clippers,4,0,39,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,5,17,1,1,20251203,ATL,LAC
+Shot Chart Detail,0022500347,108,1641738,Kobe Brown,1610612746,LA Clippers,1,2,33,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,21,1,1,20251205,MEM,LAC
+Shot Chart Detail,0022500347,130,1641738,Kobe Brown,1610612746,LA Clippers,1,0,49,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,54,248,1,0,20251205,MEM,LAC
+Shot Chart Detail,0022500347,149,1641738,Kobe Brown,1610612746,LA Clippers,2,11,42,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,56,245,1,0,20251205,MEM,LAC
+Shot Chart Detail,0022500347,505,1641738,Kobe Brown,1610612746,LA Clippers,4,9,47,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,224,69,1,1,20251205,MEM,LAC
+Shot Chart Detail,0022500347,521,1641738,Kobe Brown,1610612746,LA Clippers,4,8,18,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,113,231,1,0,20251205,MEM,LAC
+Shot Chart Detail,0022500347,540,1641738,Kobe Brown,1610612746,LA Clippers,4,6,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-12,254,1,1,20251205,MEM,LAC
+Shot Chart Detail,0022500347,560,1641738,Kobe Brown,1610612746,LA Clippers,4,5,9,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,146,217,1,0,20251205,MEM,LAC
+Shot Chart Detail,0022500422,602,1641738,Kobe Brown,1610612746,LA Clippers,4,1,1,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,87,125,1,0,20251223,LAC,HOU
+Shot Chart Detail,0022500461,587,1641738,Kobe Brown,1610612746,LA Clippers,4,4,46,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,17,30,1,1,20251230,LAC,SAC
+Shot Chart Detail,0022500461,601,1641738,Kobe Brown,1610612746,LA Clippers,4,3,3,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-134,234,1,0,20251230,LAC,SAC
+Shot Chart Detail,0022500461,614,1641738,Kobe Brown,1610612746,LA Clippers,4,1,54,Missed Shot,Putback Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,4,87,1,0,20251230,LAC,SAC
+Shot Chart Detail,0022500493,568,1641738,Kobe Brown,1610612746,LA Clippers,4,4,36,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-26,1,1,1,20260103,LAC,BOS
+Shot Chart Detail,0022500535,634,1641738,Kobe Brown,1610612746,LA Clippers,4,0,31,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,34,61,1,0,20260109,BKN,LAC
+Shot Chart Detail,0022500535,638,1641738,Kobe Brown,1610612746,LA Clippers,4,0,24,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,-10,1,0,20260109,BKN,LAC
+Shot Chart Detail,0022500590,189,1641738,Kobe Brown,1610612746,LA Clippers,2,8,32,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,66,256,1,0,20260116,TOR,LAC
+Shot Chart Detail,0022500614,496,1641738,Kobe Brown,1610612746,LA Clippers,4,11,22,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,2,25,1,0,20260120,CHI,LAC
+Shot Chart Detail,0022500614,498,1641738,Kobe Brown,1610612746,LA Clippers,4,11,19,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260120,CHI,LAC
+Shot Chart Detail,0022500614,507,1641738,Kobe Brown,1610612746,LA Clippers,4,10,28,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,16,1,0,20260120,CHI,LAC
+Shot Chart Detail,0022500656,603,1641738,Kobe Brown,1610612746,LA Clippers,4,3,58,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,2,25,1,0,20260125,LAC,BKN
+Shot Chart Detail,0022500656,634,1641738,Kobe Brown,1610612746,LA Clippers,4,1,44,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,6,164,1,0,20260125,LAC,BKN
+Shot Chart Detail,0022500656,650,1641738,Kobe Brown,1610612746,LA Clippers,4,0,37,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,1,26,1,1,20260125,LAC,BKN
+Shot Chart Detail,0022500670,613,1641738,Kobe Brown,1610612746,LA Clippers,4,3,55,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,119,216,1,1,20260127,UTA,LAC
+Shot Chart Detail,0022500670,634,1641738,Kobe Brown,1610612746,LA Clippers,4,2,29,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,175,180,1,0,20260127,UTA,LAC
+Shot Chart Detail,0022500709,697,1641738,Kobe Brown,1610612746,LA Clippers,4,0,42,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,27,3,1,1,20260201,PHX,LAC
+Shot Chart Detail,0022500715,646,1641738,Kobe Brown,1610612746,LA Clippers,4,0,16,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,229,47,1,0,20260202,LAC,PHI
+Shot Chart Detail,0022500732,523,1641738,Kobe Brown,1610612746,LA Clippers,4,8,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-134,231,1,1,20260204,LAC,CLE
+Shot Chart Detail,0022500732,566,1641738,Kobe Brown,1610612746,LA Clippers,4,4,41,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-185,200,1,1,20260204,LAC,CLE
+Shot Chart Detail,0022500732,575,1641738,Kobe Brown,1610612746,LA Clippers,4,3,40,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-7,41,1,1,20260204,LAC,CLE
+Shot Chart Detail,0022500732,588,1641738,Kobe Brown,1610612746,LA Clippers,4,2,15,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-192,178,1,0,20260204,LAC,CLE
+Shot Chart Detail,0022500732,610,1641738,Kobe Brown,1610612746,LA Clippers,4,0,6,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,5,37,1,1,20260204,LAC,CLE
+Shot Chart Detail,0022500771,95,1641738,Kobe Brown,1610612754,Indiana Pacers,1,3,12,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,10,1,1,20260210,NYK,IND
+Shot Chart Detail,0022500771,415,1641738,Kobe Brown,1610612754,Indiana Pacers,3,6,33,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,1,1,1,20260210,NYK,IND
+Shot Chart Detail,0022500771,418,1641738,Kobe Brown,1610612754,Indiana Pacers,3,6,15,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,17,1,1,20260210,NYK,IND
+Shot Chart Detail,0022500771,576,1641738,Kobe Brown,1610612754,Indiana Pacers,4,6,53,Missed Shot,Cutting Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,9,42,1,0,20260210,NYK,IND
+Shot Chart Detail,0022500779,19,1641738,Kobe Brown,1610612754,Indiana Pacers,1,10,19,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,4,1,0,20260211,BKN,IND
+Shot Chart Detail,0022500779,21,1641738,Kobe Brown,1610612754,Indiana Pacers,1,10,16,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20260211,BKN,IND
+Shot Chart Detail,0022500779,126,1641738,Kobe Brown,1610612754,Indiana Pacers,1,2,9,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-116,230,1,0,20260211,BKN,IND
+Shot Chart Detail,0022500779,379,1641738,Kobe Brown,1610612754,Indiana Pacers,3,8,35,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,6,1,1,20260211,BKN,IND
+Shot Chart Detail,0022500779,382,1641738,Kobe Brown,1610612754,Indiana Pacers,3,8,15,Made Shot,Running Alley Oop Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,-4,1,1,20260211,BKN,IND
+Shot Chart Detail,0022500795,244,1641738,Kobe Brown,1610612754,Indiana Pacers,2,6,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,85,259,1,1,20260219,WAS,IND
+Shot Chart Detail,0022500795,280,1641738,Kobe Brown,1610612754,Indiana Pacers,2,4,19,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-6,29,1,0,20260219,WAS,IND
+Shot Chart Detail,0022500795,303,1641738,Kobe Brown,1610612754,Indiana Pacers,2,2,30,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,10,1,1,20260219,WAS,IND
+Shot Chart Detail,0022500795,392,1641738,Kobe Brown,1610612754,Indiana Pacers,3,8,49,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,12,31,1,0,20260219,WAS,IND
+Shot Chart Detail,0022500795,394,1641738,Kobe Brown,1610612754,Indiana Pacers,3,8,46,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,13,1,0,20260219,WAS,IND
+Shot Chart Detail,0022500795,396,1641738,Kobe Brown,1610612754,Indiana Pacers,3,8,45,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,19,1,0,20260219,WAS,IND
+Shot Chart Detail,0022500795,404,1641738,Kobe Brown,1610612754,Indiana Pacers,3,8,2,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,243,19,1,0,20260219,WAS,IND
+Shot Chart Detail,0022500795,441,1641738,Kobe Brown,1610612754,Indiana Pacers,3,5,54,Made Shot,Step Back Jump shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,56,1,1,20260219,WAS,IND
+Shot Chart Detail,0022500795,470,1641738,Kobe Brown,1610612754,Indiana Pacers,3,4,38,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260219,WAS,IND
+Shot Chart Detail,0022500795,473,1641738,Kobe Brown,1610612754,Indiana Pacers,3,4,12,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-116,241,1,0,20260219,WAS,IND
+Shot Chart Detail,0022500795,482,1641738,Kobe Brown,1610612754,Indiana Pacers,3,3,27,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-31,9,1,1,20260219,WAS,IND
+Shot Chart Detail,0022500803,85,1641738,Kobe Brown,1610612754,Indiana Pacers,1,5,38,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-32,22,1,0,20260220,WAS,IND
+Shot Chart Detail,0022500803,166,1641738,Kobe Brown,1610612754,Indiana Pacers,1,0,50,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,45,6,1,0,20260220,WAS,IND
+Shot Chart Detail,0022500803,188,1641738,Kobe Brown,1610612754,Indiana Pacers,2,11,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-115,253,1,1,20260220,WAS,IND
+Shot Chart Detail,0022500803,219,1641738,Kobe Brown,1610612754,Indiana Pacers,2,9,29,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,229,32,1,0,20260220,WAS,IND
+Shot Chart Detail,0022500803,236,1641738,Kobe Brown,1610612754,Indiana Pacers,2,8,40,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-206,184,1,1,20260220,WAS,IND
+Shot Chart Detail,0022500803,343,1641738,Kobe Brown,1610612754,Indiana Pacers,2,1,15,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,15,1,1,20260220,WAS,IND
+Shot Chart Detail,0022500803,468,1641738,Kobe Brown,1610612754,Indiana Pacers,3,4,52,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,0,1,1,20260220,WAS,IND
+Shot Chart Detail,0022500803,601,1641738,Kobe Brown,1610612754,Indiana Pacers,4,5,20,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-11,34,1,0,20260220,WAS,IND
+Shot Chart Detail,0022500803,669,1641738,Kobe Brown,1610612754,Indiana Pacers,4,0,20,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-218,126,1,0,20260220,WAS,IND
+Shot Chart Detail,0022500821,124,1641738,Kobe Brown,1610612754,Indiana Pacers,1,4,1,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-1,26,1,1,20260222,IND,DAL
+Shot Chart Detail,0022500821,190,1641738,Kobe Brown,1610612754,Indiana Pacers,1,0,12,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,13,1,1,20260222,IND,DAL
+Shot Chart Detail,0022500821,263,1641738,Kobe Brown,1610612754,Indiana Pacers,2,7,59,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,33,18,1,1,20260222,IND,DAL
+Shot Chart Detail,0022500821,319,1641738,Kobe Brown,1610612754,Indiana Pacers,2,3,49,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20260222,IND,DAL
+Shot Chart Detail,0022500821,489,1641738,Kobe Brown,1610612754,Indiana Pacers,3,4,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,23,-216,101,1,1,20260222,IND,DAL
+Shot Chart Detail,0022500821,493,1641738,Kobe Brown,1610612754,Indiana Pacers,3,3,37,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-32,11,1,0,20260222,IND,DAL
+Shot Chart Detail,0022500821,495,1641738,Kobe Brown,1610612754,Indiana Pacers,3,3,34,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20260222,IND,DAL
+Shot Chart Detail,0022500821,499,1641738,Kobe Brown,1610612754,Indiana Pacers,3,3,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,91,247,1,1,20260222,IND,DAL
+Shot Chart Detail,0022500821,529,1641738,Kobe Brown,1610612754,Indiana Pacers,3,1,22,Missed Shot,Running Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,24,1,0,20260222,IND,DAL
+Shot Chart Detail,0022500831,71,1641738,Kobe Brown,1610612754,Indiana Pacers,1,6,32,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,228,54,1,0,20260224,IND,PHI
+Shot Chart Detail,0022500831,73,1641738,Kobe Brown,1610612754,Indiana Pacers,1,6,26,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,212,178,1,0,20260224,IND,PHI
+Shot Chart Detail,0022500831,109,1641738,Kobe Brown,1610612754,Indiana Pacers,1,4,6,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,5,1,1,20260224,IND,PHI
+Shot Chart Detail,0022500831,207,1641738,Kobe Brown,1610612754,Indiana Pacers,2,10,36,Missed Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-15,121,1,0,20260224,IND,PHI
+Shot Chart Detail,0022500831,431,1641738,Kobe Brown,1610612754,Indiana Pacers,3,7,12,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-188,187,1,0,20260224,IND,PHI
+Shot Chart Detail,0022500831,490,1641738,Kobe Brown,1610612754,Indiana Pacers,3,2,58,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,22,4,1,0,20260224,IND,PHI
+Shot Chart Detail,0022500831,582,1641738,Kobe Brown,1610612754,Indiana Pacers,4,9,0,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,-17,1,0,20260224,IND,PHI
+Shot Chart Detail,0022500831,592,1641738,Kobe Brown,1610612754,Indiana Pacers,4,8,26,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,3,1,1,20260224,IND,PHI
+Shot Chart Detail,0022500831,621,1641738,Kobe Brown,1610612754,Indiana Pacers,4,6,40,Missed Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,8,1,0,20260224,IND,PHI
+Shot Chart Detail,0022500831,684,1641738,Kobe Brown,1610612754,Indiana Pacers,4,1,10,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260224,IND,PHI
+Shot Chart Detail,0022500848,80,1641738,Kobe Brown,1610612754,Indiana Pacers,1,5,57,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,-5,1,1,20260226,IND,CHA
+Shot Chart Detail,0022500848,138,1641738,Kobe Brown,1610612754,Indiana Pacers,1,2,12,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-121,213,1,0,20260226,IND,CHA
+Shot Chart Detail,0022500848,260,1641738,Kobe Brown,1610612754,Indiana Pacers,2,5,53,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,94,235,1,0,20260226,IND,CHA
+Shot Chart Detail,0022500848,302,1641738,Kobe Brown,1610612754,Indiana Pacers,2,3,6,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,10,24,1,1,20260226,IND,CHA
+Shot Chart Detail,0022500848,490,1641738,Kobe Brown,1610612754,Indiana Pacers,3,1,59,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-4,32,1,0,20260226,IND,CHA
+Shot Chart Detail,0022500848,633,1641738,Kobe Brown,1610612754,Indiana Pacers,4,3,47,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,25,31,1,1,20260226,IND,CHA
+Shot Chart Detail,0022500872,145,1641738,Kobe Brown,1610612754,Indiana Pacers,1,1,24,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-229,25,1,1,20260301,IND,MEM
+Shot Chart Detail,0022500872,172,1641738,Kobe Brown,1610612754,Indiana Pacers,1,0,0,Missed Shot,Running Pull-Up Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-11,81,1,0,20260301,IND,MEM
+Shot Chart Detail,0022500872,244,1641738,Kobe Brown,1610612754,Indiana Pacers,2,6,47,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,49,25,1,0,20260301,IND,MEM
+Shot Chart Detail,0022500872,336,1641738,Kobe Brown,1610612754,Indiana Pacers,2,1,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,7,1,1,20260301,IND,MEM
+Shot Chart Detail,0022500872,340,1641738,Kobe Brown,1610612754,Indiana Pacers,2,0,38,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,26,26,1,0,20260301,IND,MEM
+Shot Chart Detail,0022500872,465,1641738,Kobe Brown,1610612754,Indiana Pacers,3,5,2,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,3,1,1,20260301,IND,MEM
+Shot Chart Detail,0022500872,545,1641738,Kobe Brown,1610612754,Indiana Pacers,4,11,6,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,32,25,1,0,20260301,IND,MEM
+Shot Chart Detail,0022500872,564,1641738,Kobe Brown,1610612754,Indiana Pacers,4,9,22,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-189,189,1,0,20260301,IND,MEM
+Shot Chart Detail,0022500872,653,1641738,Kobe Brown,1610612754,Indiana Pacers,4,2,54,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,234,116,1,0,20260301,IND,MEM
+Shot Chart Detail,0022500898,116,1641738,Kobe Brown,1610612754,Indiana Pacers,1,3,3,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-16,30,1,0,20260304,LAC,IND
+Shot Chart Detail,0022500898,128,1641738,Kobe Brown,1610612754,Indiana Pacers,1,1,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,185,203,1,1,20260304,LAC,IND
+Shot Chart Detail,0022500898,513,1641738,Kobe Brown,1610612754,Indiana Pacers,3,1,29,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-168,199,1,0,20260304,LAC,IND
+Shot Chart Detail,0022500898,585,1641738,Kobe Brown,1610612754,Indiana Pacers,4,9,37,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,2,23,1,1,20260304,LAC,IND
+Shot Chart Detail,0022500914,148,1641738,Kobe Brown,1610612754,Indiana Pacers,1,0,59,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260306,LAL,IND
+Shot Chart Detail,0022500914,630,1641738,Kobe Brown,1610612754,Indiana Pacers,4,4,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,208,151,1,1,20260306,LAL,IND
+Shot Chart Detail,0022500914,665,1641738,Kobe Brown,1610612754,Indiana Pacers,4,2,1,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,-1,1,1,20260306,LAL,IND
+Shot Chart Detail,0022500929,133,1641738,Kobe Brown,1610612754,Indiana Pacers,1,2,37,Missed Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,42,16,1,0,20260308,POR,IND
+Shot Chart Detail,0022500929,137,1641738,Kobe Brown,1610612754,Indiana Pacers,1,2,7,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-135,241,1,0,20260308,POR,IND
+Shot Chart Detail,0022500929,144,1641738,Kobe Brown,1610612754,Indiana Pacers,1,1,28,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,17,1,1,20260308,POR,IND
+Shot Chart Detail,0022500929,464,1641738,Kobe Brown,1610612754,Indiana Pacers,3,4,10,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,36,1,1,20260308,POR,IND
+Shot Chart Detail,0022500929,709,1641738,Kobe Brown,1610612754,Indiana Pacers,4,2,37,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20260308,POR,IND
+Shot Chart Detail,0022500929,732,1641738,Kobe Brown,1610612754,Indiana Pacers,4,0,25,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,9,1,1,20260308,POR,IND
+Shot Chart Detail,0022500945,63,1641738,Kobe Brown,1610612754,Indiana Pacers,1,7,21,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-93,87,1,0,20260310,SAC,IND
+Shot Chart Detail,0022500945,179,1641738,Kobe Brown,1610612754,Indiana Pacers,2,10,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,223,142,1,1,20260310,SAC,IND
+Shot Chart Detail,0022500954,252,1641738,Kobe Brown,1610612754,Indiana Pacers,2,5,46,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,224,21,1,0,20260312,IND,PHX
+Shot Chart Detail,0022500954,254,1641738,Kobe Brown,1610612754,Indiana Pacers,2,5,42,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,0,1,0,20260312,IND,PHX
+Shot Chart Detail,0022500954,271,1641738,Kobe Brown,1610612754,Indiana Pacers,2,5,9,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,199,157,1,0,20260312,IND,PHX
+Shot Chart Detail,0022500954,376,1641738,Kobe Brown,1610612754,Indiana Pacers,3,10,4,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,3,1,1,20260312,IND,PHX
+Shot Chart Detail,0022500954,397,1641738,Kobe Brown,1610612754,Indiana Pacers,3,8,27,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-172,213,1,0,20260312,IND,PHX
+Shot Chart Detail,0022500954,522,1641738,Kobe Brown,1610612754,Indiana Pacers,3,0,4,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,1,1,0,20260312,IND,PHX
+Shot Chart Detail,0022500954,536,1641738,Kobe Brown,1610612754,Indiana Pacers,4,11,36,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,36,20,1,1,20260312,IND,PHX
+Shot Chart Detail,0022500954,541,1641738,Kobe Brown,1610612754,Indiana Pacers,4,10,58,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,0,1,1,20260312,IND,PHX
+Shot Chart Detail,0022500954,575,1641738,Kobe Brown,1610612754,Indiana Pacers,4,8,50,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-31,242,1,0,20260312,IND,PHX
+Shot Chart Detail,0022500962,41,1641738,Kobe Brown,1610612754,Indiana Pacers,1,8,45,Missed Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,99,125,1,0,20260313,IND,NYK
+Shot Chart Detail,0022500962,57,1641738,Kobe Brown,1610612754,Indiana Pacers,1,6,51,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,15,17,1,1,20260313,IND,NYK
+Shot Chart Detail,0022500962,76,1641738,Kobe Brown,1610612754,Indiana Pacers,1,6,26,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-217,152,1,0,20260313,IND,NYK
+Shot Chart Detail,0022500962,477,1641738,Kobe Brown,1610612754,Indiana Pacers,3,2,17,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-9,0,1,1,20260313,IND,NYK
+Shot Chart Detail,0022500962,492,1641738,Kobe Brown,1610612754,Indiana Pacers,3,1,3,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20260313,IND,NYK
+Shot Chart Detail,0022500962,581,1641738,Kobe Brown,1610612754,Indiana Pacers,4,7,29,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-207,153,1,0,20260313,IND,NYK
+Shot Chart Detail,0022500962,642,1641738,Kobe Brown,1610612754,Indiana Pacers,4,3,14,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,213,143,1,0,20260313,IND,NYK
+Shot Chart Detail,0022500979,265,1641738,Kobe Brown,1610612754,Indiana Pacers,2,4,29,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-1,277,1,0,20260315,MIL,IND
+Shot Chart Detail,0022500979,546,1641738,Kobe Brown,1610612754,Indiana Pacers,4,9,49,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,154,217,1,1,20260315,MIL,IND
+Shot Chart Detail,0022500979,610,1641738,Kobe Brown,1610612754,Indiana Pacers,4,5,47,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-200,184,1,1,20260315,MIL,IND
+Shot Chart Detail,0022500979,664,1641738,Kobe Brown,1610612754,Indiana Pacers,4,0,42,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,9,32,1,1,20260315,MIL,IND
+Shot Chart Detail,0022500994,7,1641738,Kobe Brown,1610612754,Indiana Pacers,1,11,40,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-75,58,1,1,20260317,NYK,IND
+Shot Chart Detail,0022500994,11,1641738,Kobe Brown,1610612754,Indiana Pacers,1,11,4,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,229,48,1,1,20260317,NYK,IND
+Shot Chart Detail,0022500994,96,1641738,Kobe Brown,1610612754,Indiana Pacers,1,2,22,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,32,1,0,20260317,NYK,IND
+Shot Chart Detail,0022500994,219,1641738,Kobe Brown,1610612754,Indiana Pacers,2,7,40,Made Shot,Pullup Jump shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-234,81,1,1,20260317,NYK,IND
+Shot Chart Detail,0022500994,222,1641738,Kobe Brown,1610612754,Indiana Pacers,2,7,22,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-161,204,1,1,20260317,NYK,IND
+Shot Chart Detail,0022500994,313,1641738,Kobe Brown,1610612754,Indiana Pacers,2,1,24,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,17,1,0,20260317,NYK,IND
+Shot Chart Detail,0022500994,361,1641738,Kobe Brown,1610612754,Indiana Pacers,3,9,17,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-87,230,1,0,20260317,NYK,IND
+Shot Chart Detail,0022500994,619,1641738,Kobe Brown,1610612754,Indiana Pacers,4,4,22,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,15,79,1,1,20260317,NYK,IND
+Shot Chart Detail,0022501001,158,1641738,Kobe Brown,1610612754,Indiana Pacers,1,1,22,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,100,16,1,1,20260318,IND,POR
+Shot Chart Detail,0022501001,481,1641738,Kobe Brown,1610612754,Indiana Pacers,3,4,44,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-222,-16,1,1,20260318,IND,POR
+Shot Chart Detail,0022501001,715,1641738,Kobe Brown,1610612754,Indiana Pacers,4,1,52,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-207,162,1,1,20260318,IND,POR
+Shot Chart Detail,0022501028,271,1641738,Kobe Brown,1610612754,Indiana Pacers,2,5,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-189,159,1,0,20260321,SAS,IND
+Shot Chart Detail,0022501028,443,1641738,Kobe Brown,1610612754,Indiana Pacers,3,3,53,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,-11,1,1,20260321,SAS,IND
+Shot Chart Detail,0022501028,461,1641738,Kobe Brown,1610612754,Indiana Pacers,3,2,28,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,24,1,1,20260321,SAS,IND
+Shot Chart Detail,0022501028,480,1641738,Kobe Brown,1610612754,Indiana Pacers,3,1,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,224,96,1,1,20260321,SAS,IND
+Shot Chart Detail,0022501028,637,1641738,Kobe Brown,1610612754,Indiana Pacers,4,3,28,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,-40,176,1,0,20260321,SAS,IND
+Shot Chart Detail,0022501052,248,1641738,Kobe Brown,1610612754,Indiana Pacers,2,7,18,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,30,-211,216,1,0,20260325,IND,LAL
+Shot Chart Detail,0022501052,490,1641738,Kobe Brown,1610612754,Indiana Pacers,3,3,38,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,240,35,1,0,20260325,IND,LAL
+Shot Chart Detail,0022501066,87,1641738,Kobe Brown,1610612754,Indiana Pacers,1,5,55,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260327,IND,LAC
+Shot Chart Detail,0022501066,158,1641738,Kobe Brown,1610612754,Indiana Pacers,1,1,46,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,-1,1,1,20260327,IND,LAC
+Shot Chart Detail,0022501066,161,1641738,Kobe Brown,1610612754,Indiana Pacers,1,1,9,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-200,-49,1,0,20260327,IND,LAC
+Shot Chart Detail,0022501066,181,1641738,Kobe Brown,1610612754,Indiana Pacers,2,11,15,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-130,224,1,0,20260327,IND,LAC
+Shot Chart Detail,0022501066,398,1641738,Kobe Brown,1610612754,Indiana Pacers,3,8,37,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-36,281,1,0,20260327,IND,LAC
+Shot Chart Detail,0022501066,405,1641738,Kobe Brown,1610612754,Indiana Pacers,3,8,9,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,32,1,1,20260327,IND,LAC
+Shot Chart Detail,0022501066,525,1641738,Kobe Brown,1610612754,Indiana Pacers,4,11,35,Missed Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,135,231,1,0,20260327,IND,LAC
+Shot Chart Detail,0022501066,559,1641738,Kobe Brown,1610612754,Indiana Pacers,4,9,34,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-5,22,1,1,20260327,IND,LAC
+Shot Chart Detail,0022501083,88,1641738,Kobe Brown,1610612754,Indiana Pacers,1,5,11,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,5,1,1,20260329,IND,MIA
+Shot Chart Detail,0022501083,162,1641738,Kobe Brown,1610612754,Indiana Pacers,2,11,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,7,1,1,20260329,IND,MIA
+Shot Chart Detail,0022501083,168,1641738,Kobe Brown,1610612754,Indiana Pacers,2,10,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,54,262,1,1,20260329,IND,MIA
+Shot Chart Detail,0022501083,317,1641738,Kobe Brown,1610612754,Indiana Pacers,2,1,46,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,20,1,0,20260329,IND,MIA
+Shot Chart Detail,0022501083,325,1641738,Kobe Brown,1610612754,Indiana Pacers,2,1,2,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,92,67,1,1,20260329,IND,MIA
+Shot Chart Detail,0022501083,418,1641738,Kobe Brown,1610612754,Indiana Pacers,3,5,8,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,4,29,1,0,20260329,IND,MIA
+Shot Chart Detail,0022501083,453,1641738,Kobe Brown,1610612754,Indiana Pacers,3,2,31,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-5,1,1,20260329,IND,MIA
+Shot Chart Detail,0022501083,459,1641738,Kobe Brown,1610612754,Indiana Pacers,3,1,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,180,178,1,1,20260329,IND,MIA
+Shot Chart Detail,0022501083,479,1641738,Kobe Brown,1610612754,Indiana Pacers,3,0,5,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,43,1,1,20260329,IND,MIA
+Shot Chart Detail,0022501083,507,1641738,Kobe Brown,1610612754,Indiana Pacers,4,10,27,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,146,225,1,0,20260329,IND,MIA
+Shot Chart Detail,0022501083,601,1641738,Kobe Brown,1610612754,Indiana Pacers,4,3,54,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,11,1,0,20260329,IND,MIA
+Shot Chart Detail,0022501109,40,1641738,Kobe Brown,1610612754,Indiana Pacers,1,8,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,163,203,1,1,20260401,CHI,IND
+Shot Chart Detail,0022501109,59,1641738,Kobe Brown,1610612754,Indiana Pacers,1,7,33,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,11,1,0,20260401,CHI,IND
+Shot Chart Detail,0022501109,247,1641738,Kobe Brown,1610612754,Indiana Pacers,2,6,55,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,9,1,1,20260401,CHI,IND
+Shot Chart Detail,0022501109,317,1641738,Kobe Brown,1610612754,Indiana Pacers,2,2,56,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,9,1,1,20260401,CHI,IND
+Shot Chart Detail,0022501109,341,1641738,Kobe Brown,1610612754,Indiana Pacers,2,1,26,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,1,1,1,20260401,CHI,IND
+Shot Chart Detail,0022501109,373,1641738,Kobe Brown,1610612754,Indiana Pacers,3,10,27,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,11,1,1,20260401,CHI,IND
+Shot Chart Detail,0022501109,401,1641738,Kobe Brown,1610612754,Indiana Pacers,3,7,46,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260401,CHI,IND
+Shot Chart Detail,0022501109,436,1641738,Kobe Brown,1610612754,Indiana Pacers,3,5,33,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,-9,1,0,20260401,CHI,IND
+Shot Chart Detail,0022501109,606,1641738,Kobe Brown,1610612754,Indiana Pacers,4,6,50,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,7,1,1,20260401,CHI,IND
+Shot Chart Detail,0022501109,653,1641738,Kobe Brown,1610612754,Indiana Pacers,4,4,44,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,25,57,1,1,20260401,CHI,IND
+Shot Chart Detail,0022501120,28,1641738,Kobe Brown,1610612754,Indiana Pacers,1,10,10,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,13,1,1,20260403,CHA,IND
+Shot Chart Detail,0022501120,40,1641738,Kobe Brown,1610612754,Indiana Pacers,1,8,55,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,174,189,1,0,20260403,CHA,IND
+Shot Chart Detail,0022501120,44,1641738,Kobe Brown,1610612754,Indiana Pacers,1,8,36,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1,18,1,0,20260403,CHA,IND
+Shot Chart Detail,0022501120,46,1641738,Kobe Brown,1610612754,Indiana Pacers,1,8,33,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-11,34,1,0,20260403,CHA,IND
+Shot Chart Detail,0022501120,223,1641738,Kobe Brown,1610612754,Indiana Pacers,2,9,47,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20260403,CHA,IND
+Shot Chart Detail,0022501120,257,1641738,Kobe Brown,1610612754,Indiana Pacers,2,7,51,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,4,23,1,1,20260403,CHA,IND
+Shot Chart Detail,0022501120,299,1641738,Kobe Brown,1610612754,Indiana Pacers,2,5,20,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,7,1,1,20260403,CHA,IND
+Shot Chart Detail,0022501120,338,1641738,Kobe Brown,1610612754,Indiana Pacers,2,2,34,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,16,1,1,20260403,CHA,IND
+Shot Chart Detail,0022501120,521,1641738,Kobe Brown,1610612754,Indiana Pacers,3,0,19,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,24,1,1,20260403,CHA,IND
+Shot Chart Detail,0022501120,660,1641738,Kobe Brown,1610612754,Indiana Pacers,4,2,11,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-25,84,1,0,20260403,CHA,IND
+Shot Chart Detail,0022501136,15,1641738,Kobe Brown,1610612754,Indiana Pacers,1,11,8,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,-6,1,0,20260405,CLE,IND
+Shot Chart Detail,0022501136,19,1641738,Kobe Brown,1610612754,Indiana Pacers,1,10,47,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,217,139,1,1,20260405,CLE,IND
+Shot Chart Detail,0022501136,108,1641738,Kobe Brown,1610612754,Indiana Pacers,1,4,24,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-168,200,1,0,20260405,CLE,IND
+Shot Chart Detail,0022501136,276,1641738,Kobe Brown,1610612754,Indiana Pacers,2,5,24,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,6,1,0,20260405,CLE,IND
+Shot Chart Detail,0022501136,318,1641738,Kobe Brown,1610612754,Indiana Pacers,2,3,11,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-237,111,1,0,20260405,CLE,IND
+Shot Chart Detail,0022501136,571,1641738,Kobe Brown,1610612754,Indiana Pacers,4,9,1,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,4,1,0,20260405,CLE,IND
+Shot Chart Detail,0022501136,573,1641738,Kobe Brown,1610612754,Indiana Pacers,4,8,57,Missed Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,8,1,0,20260405,CLE,IND
+Shot Chart Detail,0022501136,672,1641738,Kobe Brown,1610612754,Indiana Pacers,4,2,13,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,14,1,0,20260405,CLE,IND
+Shot Chart Detail,0022501136,679,1641738,Kobe Brown,1610612754,Indiana Pacers,4,1,37,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,229,15,1,1,20260405,CLE,IND
+Shot Chart Detail,0022501136,687,1641738,Kobe Brown,1610612754,Indiana Pacers,4,0,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-120,224,1,1,20260405,CLE,IND
+Shot Chart Detail,0022501152,54,1641738,Kobe Brown,1610612754,Indiana Pacers,1,7,20,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-82,247,1,0,20260407,IND,MIN
+Shot Chart Detail,0022501152,312,1641738,Kobe Brown,1610612754,Indiana Pacers,2,1,46,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260407,IND,MIN
+Shot Chart Detail,0022501175,32,1641738,Kobe Brown,1610612754,Indiana Pacers,1,9,24,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,15,23,1,1,20260410,IND,PHI
+Shot Chart Detail,0022501175,110,1641738,Kobe Brown,1610612754,Indiana Pacers,1,4,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,18,1,1,20260410,IND,PHI
+Shot Chart Detail,0022501175,229,1641738,Kobe Brown,1610612754,Indiana Pacers,2,7,59,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,15,269,1,0,20260410,IND,PHI
+Shot Chart Detail,0022501175,286,1641738,Kobe Brown,1610612754,Indiana Pacers,2,4,59,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,1,1,0,20260410,IND,PHI
+Shot Chart Detail,0022501175,641,1641738,Kobe Brown,1610612754,Indiana Pacers,4,4,24,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,18,108,1,0,20260410,IND,PHI
+Shot Chart Detail,0022501175,675,1641738,Kobe Brown,1610612754,Indiana Pacers,4,1,12,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-224,103,1,0,20260410,IND,PHI
+Shot Chart Detail,0022501175,679,1641738,Kobe Brown,1610612754,Indiana Pacers,4,0,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-138,216,1,1,20260410,IND,PHI
+Shot Chart Detail,0022501188,49,1641738,Kobe Brown,1610612754,Indiana Pacers,1,7,45,Made Shot,Driving Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,15,1,1,20260412,IND,DET
+Shot Chart Detail,0022501188,168,1641738,Kobe Brown,1610612754,Indiana Pacers,1,0,45,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260412,IND,DET
+Shot Chart Detail,0022501188,189,1641738,Kobe Brown,1610612754,Indiana Pacers,2,11,48,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-238,17,1,1,20260412,IND,DET
+Shot Chart Detail,0022501188,242,1641738,Kobe Brown,1610612754,Indiana Pacers,2,6,42,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-151,233,1,1,20260412,IND,DET
+Shot Chart Detail,0022501188,314,1641738,Kobe Brown,1610612754,Indiana Pacers,2,2,54,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,16,1,0,20260412,IND,DET
+Shot Chart Detail,0022501188,367,1641738,Kobe Brown,1610612754,Indiana Pacers,3,11,32,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-181,190,1,0,20260412,IND,DET
+Shot Chart Detail,0022501188,371,1641738,Kobe Brown,1610612754,Indiana Pacers,3,10,53,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,5,13,1,0,20260412,IND,DET
+Shot Chart Detail,0022501188,383,1641738,Kobe Brown,1610612754,Indiana Pacers,3,10,26,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,-11,1,1,20260412,IND,DET
+Shot Chart Detail,0022501188,409,1641738,Kobe Brown,1610612754,Indiana Pacers,3,7,53,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,3,1,0,20260412,IND,DET
+Shot Chart Detail,0022501188,546,1641738,Kobe Brown,1610612754,Indiana Pacers,4,10,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,118,230,1,0,20260412,IND,DET
+Shot Chart Detail,0022501188,584,1641738,Kobe Brown,1610612754,Indiana Pacers,4,8,5,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,3,1,1,20260412,IND,DET
+Shot Chart Detail,0022501188,646,1641738,Kobe Brown,1610612754,Indiana Pacers,4,4,24,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260412,IND,DET
+Shot Chart Detail,0022501188,688,1641738,Kobe Brown,1610612754,Indiana Pacers,4,0,28,Missed Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-28,-11,1,0,20260412,IND,DET
+Shot Chart Detail,0022501226,155,1641738,Kobe Brown,1610612746,LA Clippers,1,0,33,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,119,237,1,0,20251215,LAC,MEM
+Shot Chart Detail,0022501226,159,1641738,Kobe Brown,1610612746,LA Clippers,1,0,3,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,229,54,1,0,20251215,LAC,MEM
+Shot Chart Detail,0022501226,170,1641738,Kobe Brown,1610612746,LA Clippers,2,11,27,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,15,1,0,20251215,LAC,MEM
+Shot Chart Detail,0022501226,285,1641738,Kobe Brown,1610612746,LA Clippers,2,1,43,Missed Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,9,39,1,0,20251215,LAC,MEM
+Shot Chart Detail,0022501226,492,1641738,Kobe Brown,1610612746,LA Clippers,4,11,6,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,132,236,1,0,20251215,LAC,MEM
+Shot Chart Detail,0022501226,505,1641738,Kobe Brown,1610612746,LA Clippers,4,10,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-156,221,1,0,20251215,LAC,MEM
+Shot Chart Detail,0022501226,513,1641738,Kobe Brown,1610612746,LA Clippers,4,8,55,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,14,1,1,20251215,LAC,MEM
+Shot Chart Detail,0022501226,531,1641738,Kobe Brown,1610612746,LA Clippers,4,7,27,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,212,146,1,0,20251215,LAC,MEM
+Shot Chart Detail,0022501226,606,1641738,Kobe Brown,1610612746,LA Clippers,4,2,3,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,108,255,1,0,20251215,LAC,MEM
+Shot Chart Detail,0022501226,608,1641738,Kobe Brown,1610612746,LA Clippers,4,1,54,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,0,1,1,20251215,LAC,MEM

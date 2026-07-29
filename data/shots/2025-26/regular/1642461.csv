@@ -1,0 +1,263 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0022500013,30,1642461,Spencer Jones,1610612743,Denver Nuggets,1,9,41,Missed Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-34,10,1,0,20251225,DEN,MIN
+Shot Chart Detail,0022500013,50,1642461,Spencer Jones,1610612743,Denver Nuggets,1,7,47,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,227,40,1,0,20251225,DEN,MIN
+Shot Chart Detail,0022500013,76,1642461,Spencer Jones,1610612743,Denver Nuggets,1,6,12,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-28,6,1,0,20251225,DEN,MIN
+Shot Chart Detail,0022500013,310,1642461,Spencer Jones,1610612743,Denver Nuggets,2,1,40,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-238,-8,1,1,20251225,DEN,MIN
+Shot Chart Detail,0022500013,350,1642461,Spencer Jones,1610612743,Denver Nuggets,3,11,1,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,7,21,1,1,20251225,DEN,MIN
+Shot Chart Detail,0022500013,356,1642461,Spencer Jones,1610612743,Denver Nuggets,3,10,41,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,77,257,1,1,20251225,DEN,MIN
+Shot Chart Detail,0022500013,538,1642461,Spencer Jones,1610612743,Denver Nuggets,4,9,41,Made Shot,Putback Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,37,38,1,1,20251225,DEN,MIN
+Shot Chart Detail,0022500013,632,1642461,Spencer Jones,1610612743,Denver Nuggets,4,0,47,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20251225,DEN,MIN
+Shot Chart Detail,0022500013,682,1642461,Spencer Jones,1610612743,Denver Nuggets,5,4,20,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,80,252,1,0,20251225,DEN,MIN
+Shot Chart Detail,0022500013,701,1642461,Spencer Jones,1610612743,Denver Nuggets,5,3,18,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,241,38,1,0,20251225,DEN,MIN
+Shot Chart Detail,0022500037,629,1642461,Spencer Jones,1610612743,Denver Nuggets,4,0,22,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,9,21,1,1,20251107,DEN,GSW
+Shot Chart Detail,0022500054,539,1642461,Spencer Jones,1610612743,Denver Nuggets,4,8,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,211,147,1,1,20251121,HOU,DEN
+Shot Chart Detail,0022500076,21,1642461,Spencer Jones,1610612743,Denver Nuggets,1,9,54,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-238,22,1,0,20251128,DEN,SAS
+Shot Chart Detail,0022500076,337,1642461,Spencer Jones,1610612743,Denver Nuggets,2,1,6,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,20,1,1,20251128,DEN,SAS
+Shot Chart Detail,0022500076,366,1642461,Spencer Jones,1610612743,Denver Nuggets,3,10,55,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,1,67,1,1,20251128,DEN,SAS
+Shot Chart Detail,0022500076,374,1642461,Spencer Jones,1610612743,Denver Nuggets,3,10,23,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-18,21,1,0,20251128,DEN,SAS
+Shot Chart Detail,0022500076,378,1642461,Spencer Jones,1610612743,Denver Nuggets,3,10,21,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,40,1,0,20251128,DEN,SAS
+Shot Chart Detail,0022500076,386,1642461,Spencer Jones,1610612743,Denver Nuggets,3,9,57,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,116,232,1,0,20251128,DEN,SAS
+Shot Chart Detail,0022500076,391,1642461,Spencer Jones,1610612743,Denver Nuggets,3,9,45,Made Shot,Running Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,27,1,1,20251128,DEN,SAS
+Shot Chart Detail,0022500076,427,1642461,Spencer Jones,1610612743,Denver Nuggets,3,7,6,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-9,4,1,1,20251128,DEN,SAS
+Shot Chart Detail,0022500076,605,1642461,Spencer Jones,1610612743,Denver Nuggets,4,6,52,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,224,35,1,0,20251128,DEN,SAS
+Shot Chart Detail,0022500134,597,1642461,Spencer Jones,1610612743,Denver Nuggets,4,4,16,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-211,170,1,0,20251029,DEN,NOP
+Shot Chart Detail,0022500134,650,1642461,Spencer Jones,1610612743,Denver Nuggets,4,1,34,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20251029,DEN,NOP
+Shot Chart Detail,0022500134,661,1642461,Spencer Jones,1610612743,Denver Nuggets,4,0,35,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-224,67,1,0,20251029,DEN,NOP
+Shot Chart Detail,0022500189,206,1642461,Spencer Jones,1610612743,Denver Nuggets,2,9,17,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,-10,1,1,20251108,DEN,IND
+Shot Chart Detail,0022500189,217,1642461,Spencer Jones,1610612743,Denver Nuggets,2,8,1,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-239,6,1,1,20251108,DEN,IND
+Shot Chart Detail,0022500189,565,1642461,Spencer Jones,1610612743,Denver Nuggets,3,0,44,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20251108,DEN,IND
+Shot Chart Detail,0022500189,596,1642461,Spencer Jones,1610612743,Denver Nuggets,4,10,27,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,4,1,0,20251108,DEN,IND
+Shot Chart Detail,0022500224,332,1642461,Spencer Jones,1610612743,Denver Nuggets,3,11,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,227,126,1,1,20251112,LAC,DEN
+Shot Chart Detail,0022500274,203,1642461,Spencer Jones,1610612743,Denver Nuggets,2,10,9,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,16,1,0,20251122,DEN,SAC
+Shot Chart Detail,0022500274,230,1642461,Spencer Jones,1610612743,Denver Nuggets,2,8,16,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,15,1,0,20251122,DEN,SAC
+Shot Chart Detail,0022500287,20,1642461,Spencer Jones,1610612743,Denver Nuggets,1,10,39,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-152,211,1,0,20251124,MEM,DEN
+Shot Chart Detail,0022500287,413,1642461,Spencer Jones,1610612743,Denver Nuggets,3,6,7,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,1,1,0,20251124,MEM,DEN
+Shot Chart Detail,0022500299,50,1642461,Spencer Jones,1610612743,Denver Nuggets,1,8,21,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-4,26,1,0,20251129,PHX,DEN
+Shot Chart Detail,0022500299,342,1642461,Spencer Jones,1610612743,Denver Nuggets,3,10,46,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,-13,1,1,20251129,PHX,DEN
+Shot Chart Detail,0022500299,346,1642461,Spencer Jones,1610612743,Denver Nuggets,3,10,24,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,-17,1,0,20251129,PHX,DEN
+Shot Chart Detail,0022500299,362,1642461,Spencer Jones,1610612743,Denver Nuggets,3,8,58,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-239,0,1,0,20251129,PHX,DEN
+Shot Chart Detail,0022500299,471,1642461,Spencer Jones,1610612743,Denver Nuggets,3,1,25,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,-6,1,1,20251129,PHX,DEN
+Shot Chart Detail,0022500299,477,1642461,Spencer Jones,1610612743,Denver Nuggets,3,1,0,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,-3,1,0,20251129,PHX,DEN
+Shot Chart Detail,0022500299,542,1642461,Spencer Jones,1610612743,Denver Nuggets,4,8,42,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,11,1,1,20251129,PHX,DEN
+Shot Chart Detail,0022500299,573,1642461,Spencer Jones,1610612743,Denver Nuggets,4,5,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,225,127,1,1,20251129,PHX,DEN
+Shot Chart Detail,0022500299,590,1642461,Spencer Jones,1610612743,Denver Nuggets,4,3,45,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-27,-6,1,1,20251129,PHX,DEN
+Shot Chart Detail,0022500299,650,1642461,Spencer Jones,1610612743,Denver Nuggets,4,0,33,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-205,199,1,1,20251129,PHX,DEN
+Shot Chart Detail,0022500315,21,1642461,Spencer Jones,1610612743,Denver Nuggets,1,10,3,Made Shot,Running Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,4,21,1,1,20251201,DEN,DAL
+Shot Chart Detail,0022500315,25,1642461,Spencer Jones,1610612743,Denver Nuggets,1,9,32,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,-3,1,1,20251201,DEN,DAL
+Shot Chart Detail,0022500315,36,1642461,Spencer Jones,1610612743,Denver Nuggets,1,8,54,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,239,21,1,1,20251201,DEN,DAL
+Shot Chart Detail,0022500315,54,1642461,Spencer Jones,1610612743,Denver Nuggets,1,8,18,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,20,1,1,20251201,DEN,DAL
+Shot Chart Detail,0022500315,65,1642461,Spencer Jones,1610612743,Denver Nuggets,1,7,14,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,13,1,1,20251201,DEN,DAL
+Shot Chart Detail,0022500315,81,1642461,Spencer Jones,1610612743,Denver Nuggets,1,6,35,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,6,65,1,1,20251201,DEN,DAL
+Shot Chart Detail,0022500315,248,1642461,Spencer Jones,1610612743,Denver Nuggets,2,8,11,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,32,1,1,20251201,DEN,DAL
+Shot Chart Detail,0022500315,347,1642461,Spencer Jones,1610612743,Denver Nuggets,2,0,26,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,13,1,0,20251201,DEN,DAL
+Shot Chart Detail,0022500315,394,1642461,Spencer Jones,1610612743,Denver Nuggets,3,7,12,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,15,1,1,20251201,DEN,DAL
+Shot Chart Detail,0022500315,406,1642461,Spencer Jones,1610612743,Denver Nuggets,3,6,18,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,-10,1,1,20251201,DEN,DAL
+Shot Chart Detail,0022500315,447,1642461,Spencer Jones,1610612743,Denver Nuggets,3,2,55,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-224,-5,1,0,20251201,DEN,DAL
+Shot Chart Detail,0022500315,451,1642461,Spencer Jones,1610612743,Denver Nuggets,3,2,37,Missed Shot,Running Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,8,1,0,20251201,DEN,DAL
+Shot Chart Detail,0022500315,518,1642461,Spencer Jones,1610612743,Denver Nuggets,4,10,27,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,238,30,1,1,20251201,DEN,DAL
+Shot Chart Detail,0022500315,526,1642461,Spencer Jones,1610612743,Denver Nuggets,4,9,31,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,-12,1,1,20251201,DEN,DAL
+Shot Chart Detail,0022500315,597,1642461,Spencer Jones,1610612743,Denver Nuggets,4,4,1,Missed Shot,Running Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,57,1,0,20251201,DEN,DAL
+Shot Chart Detail,0022500325,71,1642461,Spencer Jones,1610612743,Denver Nuggets,1,6,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,172,176,1,0,20251203,IND,DEN
+Shot Chart Detail,0022500340,305,1642461,Spencer Jones,1610612743,Denver Nuggets,2,1,47,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,5,16,1,1,20251205,ATL,DEN
+Shot Chart Detail,0022500340,441,1642461,Spencer Jones,1610612743,Denver Nuggets,3,4,50,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-190,6,1,1,20251205,ATL,DEN
+Shot Chart Detail,0022500359,32,1642461,Spencer Jones,1610612743,Denver Nuggets,1,9,33,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-224,-17,1,0,20251207,CHA,DEN
+Shot Chart Detail,0022500359,253,1642461,Spencer Jones,1610612743,Denver Nuggets,2,2,44,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-7,64,1,1,20251207,CHA,DEN
+Shot Chart Detail,0022500359,336,1642461,Spencer Jones,1610612743,Denver Nuggets,3,8,51,Made Shot,Running Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,9,1,1,20251207,CHA,DEN
+Shot Chart Detail,0022500359,343,1642461,Spencer Jones,1610612743,Denver Nuggets,3,8,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,196,164,1,1,20251207,CHA,DEN
+Shot Chart Detail,0022500359,585,1642461,Spencer Jones,1610612743,Denver Nuggets,4,4,32,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-224,20,1,0,20251207,CHA,DEN
+Shot Chart Detail,0022500377,61,1642461,Spencer Jones,1610612743,Denver Nuggets,1,7,36,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,7,1,1,20251218,DEN,ORL
+Shot Chart Detail,0022500377,85,1642461,Spencer Jones,1610612743,Denver Nuggets,1,6,31,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,25,249,50,1,0,20251218,DEN,ORL
+Shot Chart Detail,0022500377,278,1642461,Spencer Jones,1610612743,Denver Nuggets,2,5,8,Made Shot,Running Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,5,10,1,1,20251218,DEN,ORL
+Shot Chart Detail,0022500377,357,1642461,Spencer Jones,1610612743,Denver Nuggets,3,10,54,Made Shot,Hook Bank Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,11,20,1,1,20251218,DEN,ORL
+Shot Chart Detail,0022500377,527,1642461,Spencer Jones,1610612743,Denver Nuggets,4,9,51,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-246,24,1,0,20251218,DEN,ORL
+Shot Chart Detail,0022500377,532,1642461,Spencer Jones,1610612743,Denver Nuggets,4,9,26,Made Shot,Running Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-25,-8,1,1,20251218,DEN,ORL
+Shot Chart Detail,0022500377,557,1642461,Spencer Jones,1610612743,Denver Nuggets,4,7,49,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,30,1,0,20251218,DEN,ORL
+Shot Chart Detail,0022500386,17,1642461,Spencer Jones,1610612743,Denver Nuggets,1,10,36,Missed Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,-21,1,0,20251220,DEN,HOU
+Shot Chart Detail,0022500386,22,1642461,Spencer Jones,1610612743,Denver Nuggets,1,10,7,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,51,29,1,1,20251220,DEN,HOU
+Shot Chart Detail,0022500386,40,1642461,Spencer Jones,1610612743,Denver Nuggets,1,8,19,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,15,15,1,1,20251220,DEN,HOU
+Shot Chart Detail,0022500386,77,1642461,Spencer Jones,1610612743,Denver Nuggets,1,4,55,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,13,1,1,20251220,DEN,HOU
+Shot Chart Detail,0022500386,86,1642461,Spencer Jones,1610612743,Denver Nuggets,1,3,41,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-176,178,1,0,20251220,DEN,HOU
+Shot Chart Detail,0022500386,126,1642461,Spencer Jones,1610612743,Denver Nuggets,1,0,56,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,-7,1,1,20251220,DEN,HOU
+Shot Chart Detail,0022500386,284,1642461,Spencer Jones,1610612743,Denver Nuggets,2,1,22,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,32,1,0,20251220,DEN,HOU
+Shot Chart Detail,0022500386,406,1642461,Spencer Jones,1610612743,Denver Nuggets,3,2,44,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,20,1,0,20251220,DEN,HOU
+Shot Chart Detail,0022500405,17,1642461,Spencer Jones,1610612743,Denver Nuggets,1,10,42,Missed Shot,Running Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,27,1,0,20251222,DEN,UTA
+Shot Chart Detail,0022500405,40,1642461,Spencer Jones,1610612743,Denver Nuggets,1,8,38,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,224,51,1,0,20251222,DEN,UTA
+Shot Chart Detail,0022500405,96,1642461,Spencer Jones,1610612743,Denver Nuggets,1,5,0,Made Shot,Cutting Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,50,32,1,1,20251222,DEN,UTA
+Shot Chart Detail,0022500405,260,1642461,Spencer Jones,1610612743,Denver Nuggets,2,4,47,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,227,46,1,0,20251222,DEN,UTA
+Shot Chart Detail,0022500405,273,1642461,Spencer Jones,1610612743,Denver Nuggets,2,4,20,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,-11,167,1,0,20251222,DEN,UTA
+Shot Chart Detail,0022500405,319,1642461,Spencer Jones,1610612743,Denver Nuggets,2,0,34,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-77,240,1,0,20251222,DEN,UTA
+Shot Chart Detail,0022500415,12,1642461,Spencer Jones,1610612743,Denver Nuggets,1,10,47,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,13,1,1,20251223,DAL,DEN
+Shot Chart Detail,0022500415,16,1642461,Spencer Jones,1610612743,Denver Nuggets,1,10,15,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,10,1,0,20251223,DAL,DEN
+Shot Chart Detail,0022500415,35,1642461,Spencer Jones,1610612743,Denver Nuggets,1,9,9,Missed Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,2,1,0,20251223,DAL,DEN
+Shot Chart Detail,0022500415,312,1642461,Spencer Jones,1610612743,Denver Nuggets,3,10,10,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20251223,DAL,DEN
+Shot Chart Detail,0022500415,328,1642461,Spencer Jones,1610612743,Denver Nuggets,3,8,37,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,3,1,1,20251223,DAL,DEN
+Shot Chart Detail,0022500433,76,1642461,Spencer Jones,1610612743,Denver Nuggets,1,5,46,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20251227,ORL,DEN
+Shot Chart Detail,0022500433,226,1642461,Spencer Jones,1610612743,Denver Nuggets,2,6,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-97,241,1,1,20251227,ORL,DEN
+Shot Chart Detail,0022500433,257,1642461,Spencer Jones,1610612743,Denver Nuggets,2,4,20,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,228,36,1,0,20251227,ORL,DEN
+Shot Chart Detail,0022500433,338,1642461,Spencer Jones,1610612743,Denver Nuggets,3,10,7,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-221,23,1,1,20251227,ORL,DEN
+Shot Chart Detail,0022500433,345,1642461,Spencer Jones,1610612743,Denver Nuggets,3,9,50,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20251227,ORL,DEN
+Shot Chart Detail,0022500433,350,1642461,Spencer Jones,1610612743,Denver Nuggets,3,9,18,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,229,53,1,0,20251227,ORL,DEN
+Shot Chart Detail,0022500433,376,1642461,Spencer Jones,1610612743,Denver Nuggets,3,6,31,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,17,1,1,20251227,ORL,DEN
+Shot Chart Detail,0022500450,294,1642461,Spencer Jones,1610612743,Denver Nuggets,2,3,53,Missed Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-56,4,1,0,20251229,MIA,DEN
+Shot Chart Detail,0022500450,426,1642461,Spencer Jones,1610612743,Denver Nuggets,3,6,24,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,227,60,1,1,20251229,MIA,DEN
+Shot Chart Detail,0022500450,430,1642461,Spencer Jones,1610612743,Denver Nuggets,3,5,55,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,20,1,1,20251229,MIA,DEN
+Shot Chart Detail,0022500450,434,1642461,Spencer Jones,1610612743,Denver Nuggets,3,5,29,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,210,134,1,1,20251229,MIA,DEN
+Shot Chart Detail,0022500450,467,1642461,Spencer Jones,1610612743,Denver Nuggets,3,2,3,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,41,1,1,20251229,MIA,DEN
+Shot Chart Detail,0022500450,531,1642461,Spencer Jones,1610612743,Denver Nuggets,4,9,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,140,206,1,1,20251229,MIA,DEN
+Shot Chart Detail,0022500468,11,1642461,Spencer Jones,1610612743,Denver Nuggets,1,11,5,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,7,1,0,20251231,TOR,DEN
+Shot Chart Detail,0022500468,531,1642461,Spencer Jones,1610612743,Denver Nuggets,4,9,52,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-235,103,1,0,20251231,TOR,DEN
+Shot Chart Detail,0022500468,547,1642461,Spencer Jones,1610612743,Denver Nuggets,4,7,39,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,4,1,0,20251231,TOR,DEN
+Shot Chart Detail,0022500478,10,1642461,Spencer Jones,1610612743,Denver Nuggets,1,11,24,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,12,1,1,20260102,CLE,DEN
+Shot Chart Detail,0022500478,16,1642461,Spencer Jones,1610612743,Denver Nuggets,1,10,48,Missed Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-50,17,1,0,20260102,CLE,DEN
+Shot Chart Detail,0022500478,248,1642461,Spencer Jones,1610612743,Denver Nuggets,2,4,54,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,22,102,1,1,20260102,CLE,DEN
+Shot Chart Detail,0022500478,276,1642461,Spencer Jones,1610612743,Denver Nuggets,2,3,0,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,7,1,1,20260102,CLE,DEN
+Shot Chart Detail,0022500478,290,1642461,Spencer Jones,1610612743,Denver Nuggets,2,1,47,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,26,1,1,20260102,CLE,DEN
+Shot Chart Detail,0022500478,295,1642461,Spencer Jones,1610612743,Denver Nuggets,2,1,17,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-210,181,1,0,20260102,CLE,DEN
+Shot Chart Detail,0022500478,323,1642461,Spencer Jones,1610612743,Denver Nuggets,3,11,18,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,-4,1,0,20260102,CLE,DEN
+Shot Chart Detail,0022500478,418,1642461,Spencer Jones,1610612743,Denver Nuggets,3,3,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,6,253,1,1,20260102,CLE,DEN
+Shot Chart Detail,0022500496,362,1642461,Spencer Jones,1610612743,Denver Nuggets,3,9,2,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-1,263,1,0,20260104,BKN,DEN
+Shot Chart Detail,0022500496,385,1642461,Spencer Jones,1610612743,Denver Nuggets,3,6,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-228,95,1,1,20260104,BKN,DEN
+Shot Chart Detail,0022500496,611,1642461,Spencer Jones,1610612743,Denver Nuggets,4,3,26,Missed Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,0,1,0,20260104,BKN,DEN
+Shot Chart Detail,0022500496,636,1642461,Spencer Jones,1610612743,Denver Nuggets,4,1,21,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,14,1,0,20260104,BKN,DEN
+Shot Chart Detail,0022500507,7,1642461,Spencer Jones,1610612743,Denver Nuggets,1,11,44,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-4,72,1,1,20260105,PHI,DEN
+Shot Chart Detail,0022500507,11,1642461,Spencer Jones,1610612743,Denver Nuggets,1,11,20,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,13,1,1,20260105,PHI,DEN
+Shot Chart Detail,0022500507,31,1642461,Spencer Jones,1610612743,Denver Nuggets,1,9,20,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,181,187,1,1,20260105,PHI,DEN
+Shot Chart Detail,0022500507,126,1642461,Spencer Jones,1610612743,Denver Nuggets,1,1,17,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-10,283,1,0,20260105,PHI,DEN
+Shot Chart Detail,0022500507,263,1642461,Spencer Jones,1610612743,Denver Nuggets,2,3,37,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,222,0,1,0,20260105,PHI,DEN
+Shot Chart Detail,0022500507,488,1642461,Spencer Jones,1610612743,Denver Nuggets,4,9,58,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,2,91,1,1,20260105,PHI,DEN
+Shot Chart Detail,0022500520,76,1642461,Spencer Jones,1610612743,Denver Nuggets,1,4,39,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,154,206,1,0,20260107,BOS,DEN
+Shot Chart Detail,0022500554,10,1642461,Spencer Jones,1610612743,Denver Nuggets,1,11,13,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-157,199,1,0,20260111,DEN,MIL
+Shot Chart Detail,0022500554,14,1642461,Spencer Jones,1610612743,Denver Nuggets,1,10,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,62,253,1,1,20260111,DEN,MIL
+Shot Chart Detail,0022500554,18,1642461,Spencer Jones,1610612743,Denver Nuggets,1,10,13,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,49,256,1,0,20260111,DEN,MIL
+Shot Chart Detail,0022500554,55,1642461,Spencer Jones,1610612743,Denver Nuggets,1,6,18,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,15,53,1,1,20260111,DEN,MIL
+Shot Chart Detail,0022500554,224,1642461,Spencer Jones,1610612743,Denver Nuggets,2,5,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-10,257,1,0,20260111,DEN,MIL
+Shot Chart Detail,0022500554,343,1642461,Spencer Jones,1610612743,Denver Nuggets,3,9,5,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,6,1,0,20260111,DEN,MIL
+Shot Chart Detail,0022500554,360,1642461,Spencer Jones,1610612743,Denver Nuggets,3,7,22,Missed Shot,Cutting Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,42,14,1,0,20260111,DEN,MIL
+Shot Chart Detail,0022500554,374,1642461,Spencer Jones,1610612743,Denver Nuggets,3,6,38,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,20,1,0,20260111,DEN,MIL
+Shot Chart Detail,0022500554,535,1642461,Spencer Jones,1610612743,Denver Nuggets,4,7,40,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,228,53,1,0,20260111,DEN,MIL
+Shot Chart Detail,0022500567,45,1642461,Spencer Jones,1610612743,Denver Nuggets,1,7,12,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,-8,1,0,20260113,NOP,DEN
+Shot Chart Detail,0022500567,49,1642461,Spencer Jones,1610612743,Denver Nuggets,1,6,43,Missed Shot,Driving Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,11,20,1,0,20260113,NOP,DEN
+Shot Chart Detail,0022500567,198,1642461,Spencer Jones,1610612743,Denver Nuggets,2,7,15,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,195,175,1,0,20260113,NOP,DEN
+Shot Chart Detail,0022500567,202,1642461,Spencer Jones,1610612743,Denver Nuggets,2,6,49,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,1,1,0,20260113,NOP,DEN
+Shot Chart Detail,0022500567,204,1642461,Spencer Jones,1610612743,Denver Nuggets,2,6,48,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260113,NOP,DEN
+Shot Chart Detail,0022500575,76,1642461,Spencer Jones,1610612743,Denver Nuggets,1,5,42,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,208,139,1,0,20260114,DAL,DEN
+Shot Chart Detail,0022500575,106,1642461,Spencer Jones,1610612743,Denver Nuggets,1,3,18,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,224,63,1,1,20260114,DAL,DEN
+Shot Chart Detail,0022500575,313,1642461,Spencer Jones,1610612743,Denver Nuggets,2,1,15,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-238,59,1,1,20260114,DAL,DEN
+Shot Chart Detail,0022500575,316,1642461,Spencer Jones,1610612743,Denver Nuggets,2,0,45,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,25,13,1,1,20260114,DAL,DEN
+Shot Chart Detail,0022500575,333,1642461,Spencer Jones,1610612743,Denver Nuggets,3,11,45,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,11,1,0,20260114,DAL,DEN
+Shot Chart Detail,0022500600,50,1642461,Spencer Jones,1610612743,Denver Nuggets,1,7,45,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,20,1,1,20260117,DEN,WAS
+Shot Chart Detail,0022500600,69,1642461,Spencer Jones,1610612743,Denver Nuggets,1,5,41,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,18,1,1,20260117,DEN,WAS
+Shot Chart Detail,0022500600,290,1642461,Spencer Jones,1610612743,Denver Nuggets,2,3,26,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,5,1,1,20260117,DEN,WAS
+Shot Chart Detail,0022500600,373,1642461,Spencer Jones,1610612743,Denver Nuggets,3,8,46,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,138,215,1,0,20260117,DEN,WAS
+Shot Chart Detail,0022500605,32,1642461,Spencer Jones,1610612743,Denver Nuggets,1,8,53,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-17,68,1,0,20260118,DEN,CHA
+Shot Chart Detail,0022500605,387,1642461,Spencer Jones,1610612743,Denver Nuggets,3,7,20,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,29,1,0,20260118,DEN,CHA
+Shot Chart Detail,0022500605,427,1642461,Spencer Jones,1610612743,Denver Nuggets,3,5,11,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,12,1,1,20260118,DEN,CHA
+Shot Chart Detail,0022500617,10,1642461,Spencer Jones,1610612743,Denver Nuggets,1,11,4,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-238,10,1,1,20260120,DEN,LAL
+Shot Chart Detail,0022500617,53,1642461,Spencer Jones,1610612743,Denver Nuggets,1,6,54,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,26,1,1,20260120,DEN,LAL
+Shot Chart Detail,0022500617,77,1642461,Spencer Jones,1610612743,Denver Nuggets,1,4,53,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-25,256,1,1,20260120,DEN,LAL
+Shot Chart Detail,0022500617,101,1642461,Spencer Jones,1610612743,Denver Nuggets,1,3,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-202,179,1,1,20260120,DEN,LAL
+Shot Chart Detail,0022500617,349,1642461,Spencer Jones,1610612743,Denver Nuggets,3,11,36,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,238,4,1,0,20260120,DEN,LAL
+Shot Chart Detail,0022500617,427,1642461,Spencer Jones,1610612743,Denver Nuggets,3,3,56,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,225,126,1,0,20260120,DEN,LAL
+Shot Chart Detail,0022500617,430,1642461,Spencer Jones,1610612743,Denver Nuggets,3,3,27,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,38,72,1,1,20260120,DEN,LAL
+Shot Chart Detail,0022500617,438,1642461,Spencer Jones,1610612743,Denver Nuggets,3,2,35,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,-5,1,1,20260120,DEN,LAL
+Shot Chart Detail,0022500617,582,1642461,Spencer Jones,1610612743,Denver Nuggets,4,4,48,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,-15,1,0,20260120,DEN,LAL
+Shot Chart Detail,0022500629,149,1642461,Spencer Jones,1610612743,Denver Nuggets,1,0,48,Made Shot,Hook Bank Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,81,26,1,1,20260122,WAS,DEN
+Shot Chart Detail,0022500629,460,1642461,Spencer Jones,1610612743,Denver Nuggets,3,1,45,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,8,1,0,20260122,WAS,DEN
+Shot Chart Detail,0022500640,18,1642461,Spencer Jones,1610612743,Denver Nuggets,1,10,28,Missed Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,10,1,0,20260123,MIL,DEN
+Shot Chart Detail,0022500640,30,1642461,Spencer Jones,1610612743,Denver Nuggets,1,9,42,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-222,-4,1,0,20260123,MIL,DEN
+Shot Chart Detail,0022500640,88,1642461,Spencer Jones,1610612743,Denver Nuggets,1,5,19,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,10,1,1,20260123,MIL,DEN
+Shot Chart Detail,0022500640,291,1642461,Spencer Jones,1610612743,Denver Nuggets,2,2,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,214,119,1,1,20260123,MIL,DEN
+Shot Chart Detail,0022500640,455,1642461,Spencer Jones,1610612743,Denver Nuggets,3,2,35,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-228,125,1,0,20260123,MIL,DEN
+Shot Chart Detail,0022500640,599,1642461,Spencer Jones,1610612743,Denver Nuggets,4,4,0,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,36,1,0,20260123,MIL,DEN
+Shot Chart Detail,0022500651,26,1642461,Spencer Jones,1610612743,Denver Nuggets,1,10,3,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,37,1,0,20260318,MEM,DEN
+Shot Chart Detail,0022500651,38,1642461,Spencer Jones,1610612743,Denver Nuggets,1,8,45,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,6,1,1,20260318,MEM,DEN
+Shot Chart Detail,0022500651,185,1642461,Spencer Jones,1610612743,Denver Nuggets,2,11,32,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,225,95,1,0,20260318,MEM,DEN
+Shot Chart Detail,0022500651,400,1642461,Spencer Jones,1610612743,Denver Nuggets,3,10,55,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260318,MEM,DEN
+Shot Chart Detail,0022500651,405,1642461,Spencer Jones,1610612743,Denver Nuggets,3,10,42,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,29,64,1,1,20260318,MEM,DEN
+Shot Chart Detail,0022500668,115,1642461,Spencer Jones,1610612743,Denver Nuggets,1,2,39,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,224,85,1,1,20260127,DEN,DET
+Shot Chart Detail,0022500668,381,1642461,Spencer Jones,1610612743,Denver Nuggets,3,6,35,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,8,1,1,20260127,DEN,DET
+Shot Chart Detail,0022500668,419,1642461,Spencer Jones,1610612743,Denver Nuggets,3,4,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,223,111,1,1,20260127,DEN,DET
+Shot Chart Detail,0022500668,455,1642461,Spencer Jones,1610612743,Denver Nuggets,3,1,11,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,154,206,1,0,20260127,DEN,DET
+Shot Chart Detail,0022500668,462,1642461,Spencer Jones,1610612743,Denver Nuggets,3,0,35,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,36,1,1,20260127,DEN,DET
+Shot Chart Detail,0022500684,19,1642461,Spencer Jones,1610612743,Denver Nuggets,1,10,20,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-205,149,1,0,20260129,DEN,BKN
+Shot Chart Detail,0022500684,363,1642461,Spencer Jones,1610612743,Denver Nuggets,3,6,28,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,28,51,1,0,20260129,DEN,BKN
+Shot Chart Detail,0022500684,551,1642461,Spencer Jones,1610612743,Denver Nuggets,4,3,35,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,17,1,0,20260129,DEN,BKN
+Shot Chart Detail,0022500695,7,1642461,Spencer Jones,1610612743,Denver Nuggets,1,11,43,Missed Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,26,57,1,0,20260130,DEN,LAC
+Shot Chart Detail,0022500695,11,1642461,Spencer Jones,1610612743,Denver Nuggets,1,11,37,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-222,8,1,1,20260130,DEN,LAC
+Shot Chart Detail,0022500695,357,1642461,Spencer Jones,1610612743,Denver Nuggets,3,9,22,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-11,31,1,0,20260130,DEN,LAC
+Shot Chart Detail,0022500695,494,1642461,Spencer Jones,1610612743,Denver Nuggets,4,10,49,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,6,84,1,0,20260130,DEN,LAC
+Shot Chart Detail,0022500711,78,1642461,Spencer Jones,1610612743,Denver Nuggets,1,4,9,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,-21,1,1,20260201,DEN,OKC
+Shot Chart Detail,0022500711,565,1642461,Spencer Jones,1610612743,Denver Nuggets,4,6,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-2,265,1,1,20260201,DEN,OKC
+Shot Chart Detail,0022500726,24,1642461,Spencer Jones,1610612743,Denver Nuggets,1,10,23,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,15,1,0,20260204,NYK,DEN
+Shot Chart Detail,0022500726,161,1642461,Spencer Jones,1610612743,Denver Nuggets,1,0,12,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,15,1,0,20260204,NYK,DEN
+Shot Chart Detail,0022500726,163,1642461,Spencer Jones,1610612743,Denver Nuggets,1,0,8,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-71,5,1,0,20260204,NYK,DEN
+Shot Chart Detail,0022500801,125,1642461,Spencer Jones,1610612743,Denver Nuggets,1,2,8,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,229,63,1,0,20260219,LAC,DEN
+Shot Chart Detail,0022500801,485,1642461,Spencer Jones,1610612743,Denver Nuggets,4,11,23,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,9,1,1,20260219,LAC,DEN
+Shot Chart Detail,0022500801,536,1642461,Spencer Jones,1610612743,Denver Nuggets,4,8,30,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,32,1,0,20260219,LAC,DEN
+Shot Chart Detail,0022500810,144,1642461,Spencer Jones,1610612743,Denver Nuggets,1,0,30,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-13,28,1,1,20260220,POR,DEN
+Shot Chart Detail,0022500810,314,1642461,Spencer Jones,1610612743,Denver Nuggets,2,1,44,Missed Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,22,29,1,0,20260220,POR,DEN
+Shot Chart Detail,0022500810,321,1642461,Spencer Jones,1610612743,Denver Nuggets,2,1,7,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-238,68,1,1,20260220,POR,DEN
+Shot Chart Detail,0022500810,656,1642461,Spencer Jones,1610612743,Denver Nuggets,4,3,52,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,5,9,1,1,20260220,POR,DEN
+Shot Chart Detail,0022500810,659,1642461,Spencer Jones,1610612743,Denver Nuggets,4,3,34,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,12,17,1,0,20260220,POR,DEN
+Shot Chart Detail,0022500810,672,1642461,Spencer Jones,1610612743,Denver Nuggets,4,2,51,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,25,1,1,20260220,POR,DEN
+Shot Chart Detail,0022500820,168,1642461,Spencer Jones,1610612743,Denver Nuggets,1,1,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,13,1,1,20260222,GSW,DEN
+Shot Chart Detail,0022500820,579,1642461,Spencer Jones,1610612743,Denver Nuggets,4,11,53,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,17,1,0,20260222,GSW,DEN
+Shot Chart Detail,0022500847,161,1642461,Spencer Jones,1610612743,Denver Nuggets,2,11,9,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,26,1,0,20260225,DEN,BOS
+Shot Chart Detail,0022500847,190,1642461,Spencer Jones,1610612743,Denver Nuggets,2,9,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,200,157,1,1,20260225,DEN,BOS
+Shot Chart Detail,0022500847,483,1642461,Spencer Jones,1610612743,Denver Nuggets,3,1,5,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,5,1,1,20260225,DEN,BOS
+Shot Chart Detail,0022500847,488,1642461,Spencer Jones,1610612743,Denver Nuggets,3,0,38,Missed Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,36,47,1,0,20260225,DEN,BOS
+Shot Chart Detail,0022500847,654,1642461,Spencer Jones,1610612743,Denver Nuggets,4,0,51,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-80,66,1,0,20260225,DEN,BOS
+Shot Chart Detail,0022500911,179,1642461,Spencer Jones,1610612743,Denver Nuggets,2,11,13,Missed Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,12,1,0,20260306,DEN,NYK
+Shot Chart Detail,0022500911,192,1642461,Spencer Jones,1610612743,Denver Nuggets,2,9,55,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-11,263,1,0,20260306,DEN,NYK
+Shot Chart Detail,0022500911,499,1642461,Spencer Jones,1610612743,Denver Nuggets,3,3,46,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,15,1,0,20260306,DEN,NYK
+Shot Chart Detail,0022500911,536,1642461,Spencer Jones,1610612743,Denver Nuggets,3,0,55,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260306,DEN,NYK
+Shot Chart Detail,0022500933,288,1642461,Spencer Jones,1610612743,Denver Nuggets,2,3,15,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,-29,1,0,20260309,OKC,DEN
+Shot Chart Detail,0022500933,419,1642461,Spencer Jones,1610612743,Denver Nuggets,3,6,52,Missed Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-243,-10,1,0,20260309,OKC,DEN
+Shot Chart Detail,0022500933,427,1642461,Spencer Jones,1610612743,Denver Nuggets,3,6,30,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260309,OKC,DEN
+Shot Chart Detail,0022500933,448,1642461,Spencer Jones,1610612743,Denver Nuggets,3,4,24,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,15,1,1,20260309,OKC,DEN
+Shot Chart Detail,0022500933,532,1642461,Spencer Jones,1610612743,Denver Nuggets,4,9,44,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,228,43,1,0,20260309,OKC,DEN
+Shot Chart Detail,0022500933,598,1642461,Spencer Jones,1610612743,Denver Nuggets,4,6,8,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-17,11,1,0,20260309,OKC,DEN
+Shot Chart Detail,0022500933,601,1642461,Spencer Jones,1610612743,Denver Nuggets,4,6,5,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,2,1,1,20260309,OKC,DEN
+Shot Chart Detail,0022500950,227,1642461,Spencer Jones,1610612743,Denver Nuggets,2,6,3,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,29,21,1,0,20260311,DEN,HOU
+Shot Chart Detail,0022500950,431,1642461,Spencer Jones,1610612743,Denver Nuggets,3,3,35,Missed Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,11,1,0,20260311,DEN,HOU
+Shot Chart Detail,0022500958,22,1642461,Spencer Jones,1610612743,Denver Nuggets,1,9,59,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,229,-8,1,0,20260312,SAS,DEN
+Shot Chart Detail,0022500958,299,1642461,Spencer Jones,1610612743,Denver Nuggets,2,3,53,Made Shot,Jump Bank Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,208,153,1,1,20260312,SAS,DEN
+Shot Chart Detail,0022500958,314,1642461,Spencer Jones,1610612743,Denver Nuggets,2,3,6,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260312,SAS,DEN
+Shot Chart Detail,0022500958,317,1642461,Spencer Jones,1610612743,Denver Nuggets,2,2,46,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-21,23,1,0,20260312,SAS,DEN
+Shot Chart Detail,0022500958,325,1642461,Spencer Jones,1610612743,Denver Nuggets,2,2,4,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,4,113,1,1,20260312,SAS,DEN
+Shot Chart Detail,0022500958,382,1642461,Spencer Jones,1610612743,Denver Nuggets,3,10,16,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,72,245,1,0,20260312,SAS,DEN
+Shot Chart Detail,0022500958,579,1642461,Spencer Jones,1610612743,Denver Nuggets,4,11,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-129,226,1,1,20260312,SAS,DEN
+Shot Chart Detail,0022500958,589,1642461,Spencer Jones,1610612743,Denver Nuggets,4,10,14,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-9,79,1,0,20260312,SAS,DEN
+Shot Chart Detail,0022500958,591,1642461,Spencer Jones,1610612743,Denver Nuggets,4,10,10,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,22,64,1,1,20260312,SAS,DEN
+Shot Chart Detail,0022500958,595,1642461,Spencer Jones,1610612743,Denver Nuggets,4,9,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-27,251,1,1,20260312,SAS,DEN
+Shot Chart Detail,0022500958,621,1642461,Spencer Jones,1610612743,Denver Nuggets,4,7,35,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,9,1,1,20260312,SAS,DEN
+Shot Chart Detail,0022500958,626,1642461,Spencer Jones,1610612743,Denver Nuggets,4,7,12,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,135,218,1,0,20260312,SAS,DEN
+Shot Chart Detail,0022500958,650,1642461,Spencer Jones,1610612743,Denver Nuggets,4,5,4,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,6,1,1,20260312,SAS,DEN
+Shot Chart Detail,0022500974,101,1642461,Spencer Jones,1610612743,Denver Nuggets,1,3,28,Missed Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,74,77,1,0,20260314,LAL,DEN
+Shot Chart Detail,0022500974,216,1642461,Spencer Jones,1610612743,Denver Nuggets,2,6,40,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,5,1,0,20260314,LAL,DEN
+Shot Chart Detail,0022500974,471,1642461,Spencer Jones,1610612743,Denver Nuggets,3,1,55,Made Shot,Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,6,41,1,1,20260314,LAL,DEN
+Shot Chart Detail,0022500974,582,1642461,Spencer Jones,1610612743,Denver Nuggets,4,5,13,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,21,1,1,20260314,LAL,DEN
+Shot Chart Detail,0022500997,149,1642461,Spencer Jones,1610612743,Denver Nuggets,1,1,51,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,34,1,1,20260317,DEN,PHI
+Shot Chart Detail,0022500997,242,1642461,Spencer Jones,1610612743,Denver Nuggets,2,6,55,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-65,17,1,1,20260317,DEN,PHI
+Shot Chart Detail,0022500997,455,1642461,Spencer Jones,1610612743,Denver Nuggets,3,5,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,43,252,1,0,20260317,DEN,PHI
+Shot Chart Detail,0022500997,561,1642461,Spencer Jones,1610612743,Denver Nuggets,4,10,28,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,5,1,1,20260317,DEN,PHI
+Shot Chart Detail,0022501021,522,1642461,Spencer Jones,1610612743,Denver Nuggets,4,8,3,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,16,70,1,0,20260320,DEN,TOR
+Shot Chart Detail,0022501032,191,1642461,Spencer Jones,1610612743,Denver Nuggets,2,9,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-138,231,1,0,20260322,DEN,POR
+Shot Chart Detail,0022501032,535,1642461,Spencer Jones,1610612743,Denver Nuggets,4,9,37,Made Shot,Running Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,15,15,1,1,20260322,DEN,POR
+Shot Chart Detail,0022501032,540,1642461,Spencer Jones,1610612743,Denver Nuggets,4,9,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,228,94,1,1,20260322,DEN,POR
+Shot Chart Detail,0022501050,149,1642461,Spencer Jones,1610612743,Denver Nuggets,1,1,6,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,196,11,1,0,20260324,PHX,DEN
+Shot Chart Detail,0022501050,172,1642461,Spencer Jones,1610612743,Denver Nuggets,2,11,6,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,15,21,1,1,20260324,PHX,DEN
+Shot Chart Detail,0022501050,238,1642461,Spencer Jones,1610612743,Denver Nuggets,2,5,31,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20260324,PHX,DEN
+Shot Chart Detail,0022501050,559,1642461,Spencer Jones,1610612743,Denver Nuggets,4,9,18,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,15,1,1,20260324,PHX,DEN
+Shot Chart Detail,0022501059,186,1642461,Spencer Jones,1610612743,Denver Nuggets,2,8,44,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,32,1,0,20260325,DEN,DAL
+Shot Chart Detail,0022501059,585,1642461,Spencer Jones,1610612743,Denver Nuggets,4,7,52,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,4,1,1,20260325,DEN,DAL
+Shot Chart Detail,0022501072,549,1642461,Spencer Jones,1610612743,Denver Nuggets,4,9,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,82,252,1,0,20260327,DEN,UTA
+Shot Chart Detail,0022501208,336,1642461,Spencer Jones,1610612743,Denver Nuggets,3,11,23,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,14,1,1,20251211,SAC,DEN
+Shot Chart Detail,0022501225,31,1642461,Spencer Jones,1610612743,Denver Nuggets,1,8,52,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,-8,1,0,20251215,DEN,HOU
+Shot Chart Detail,0022501225,59,1642461,Spencer Jones,1610612743,Denver Nuggets,1,5,41,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,222,19,1,0,20251215,DEN,HOU
+Shot Chart Detail,0022501225,252,1642461,Spencer Jones,1610612743,Denver Nuggets,2,3,24,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-58,8,1,1,20251215,DEN,HOU
+Shot Chart Detail,0022501225,290,1642461,Spencer Jones,1610612743,Denver Nuggets,2,0,32,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,3,1,1,20251215,DEN,HOU
+Shot Chart Detail,0022501225,329,1642461,Spencer Jones,1610612743,Denver Nuggets,3,10,5,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,16,1,0,20251215,DEN,HOU
+Shot Chart Detail,0022501225,379,1642461,Spencer Jones,1610612743,Denver Nuggets,3,5,37,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,40,7,1,0,20251215,DEN,HOU
+Shot Chart Detail,0022501225,661,1642461,Spencer Jones,1610612743,Denver Nuggets,4,0,55,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,235,59,1,1,20251215,DEN,HOU
+Shot Chart Detail,0022501225,707,1642461,Spencer Jones,1610612743,Denver Nuggets,5,2,59,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,223,64,1,1,20251215,DEN,HOU

@@ -1,0 +1,478 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0022500027,100,1627739,Kris Dunn,1610612746,LA Clippers,1,3,34,Missed Shot,Step Back Jump shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,59,1,0,20251031,LAC,NOP
+Shot Chart Detail,0022500027,302,1627739,Kris Dunn,1610612746,LA Clippers,2,2,14,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,10,1,1,20251031,LAC,NOP
+Shot Chart Detail,0022500027,321,1627739,Kris Dunn,1610612746,LA Clippers,2,0,48,Missed Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,1,1,0,20251031,LAC,NOP
+Shot Chart Detail,0022500027,427,1627739,Kris Dunn,1610612746,LA Clippers,3,4,1,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,16,141,1,1,20251031,LAC,NOP
+Shot Chart Detail,0022500027,476,1627739,Kris Dunn,1610612746,LA Clippers,3,0,31,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,1,1,0,20251031,LAC,NOP
+Shot Chart Detail,0022500027,483,1627739,Kris Dunn,1610612746,LA Clippers,3,0,5,Made Shot,Running Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,11,1,1,20251031,LAC,NOP
+Shot Chart Detail,0022500046,33,1627739,Kris Dunn,1610612746,LA Clippers,1,9,26,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,10,1,1,20251114,DAL,LAC
+Shot Chart Detail,0022500046,63,1627739,Kris Dunn,1610612746,LA Clippers,1,7,18,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,-8,1,0,20251114,DAL,LAC
+Shot Chart Detail,0022500046,204,1627739,Kris Dunn,1610612746,LA Clippers,2,10,44,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,4,1,0,20251114,DAL,LAC
+Shot Chart Detail,0022500046,240,1627739,Kris Dunn,1610612746,LA Clippers,2,8,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,72,243,1,0,20251114,DAL,LAC
+Shot Chart Detail,0022500046,474,1627739,Kris Dunn,1610612746,LA Clippers,3,6,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,228,94,1,1,20251114,DAL,LAC
+Shot Chart Detail,0022500046,675,1627739,Kris Dunn,1610612746,LA Clippers,4,5,10,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,24,1,0,20251114,DAL,LAC
+Shot Chart Detail,0022500046,725,1627739,Kris Dunn,1610612746,LA Clippers,4,0,27,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-37,246,1,0,20251114,DAL,LAC
+Shot Chart Detail,0022500046,742,1627739,Kris Dunn,1610612746,LA Clippers,5,3,57,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,129,221,1,0,20251114,DAL,LAC
+Shot Chart Detail,0022500059,9,1627739,Kris Dunn,1610612746,LA Clippers,1,11,17,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,38,59,1,1,20251125,LAL,LAC
+Shot Chart Detail,0022500059,12,1627739,Kris Dunn,1610612746,LA Clippers,1,10,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,137,210,1,1,20251125,LAL,LAC
+Shot Chart Detail,0022500059,35,1627739,Kris Dunn,1610612746,LA Clippers,1,8,22,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,36,98,1,1,20251125,LAL,LAC
+Shot Chart Detail,0022500059,62,1627739,Kris Dunn,1610612746,LA Clippers,1,5,27,Missed Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-36,24,1,0,20251125,LAL,LAC
+Shot Chart Detail,0022500059,239,1627739,Kris Dunn,1610612746,LA Clippers,2,5,12,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,14,1,1,20251125,LAL,LAC
+Shot Chart Detail,0022500059,282,1627739,Kris Dunn,1610612746,LA Clippers,2,1,23,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,66,247,1,1,20251125,LAL,LAC
+Shot Chart Detail,0022500059,317,1627739,Kris Dunn,1610612746,LA Clippers,3,11,34,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,116,218,1,0,20251125,LAL,LAC
+Shot Chart Detail,0022500059,324,1627739,Kris Dunn,1610612746,LA Clippers,3,10,27,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-25,12,1,1,20251125,LAL,LAC
+Shot Chart Detail,0022500059,374,1627739,Kris Dunn,1610612746,LA Clippers,3,5,44,Missed Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-237,74,1,0,20251125,LAL,LAC
+Shot Chart Detail,0022500059,535,1627739,Kris Dunn,1610612746,LA Clippers,4,8,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-183,174,1,1,20251125,LAL,LAC
+Shot Chart Detail,0022500059,570,1627739,Kris Dunn,1610612746,LA Clippers,4,5,51,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,15,68,1,1,20251125,LAL,LAC
+Shot Chart Detail,0022500059,579,1627739,Kris Dunn,1610612746,LA Clippers,4,5,8,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-233,73,1,0,20251125,LAL,LAC
+Shot Chart Detail,0022500059,606,1627739,Kris Dunn,1610612746,LA Clippers,4,3,44,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-37,20,1,0,20251125,LAL,LAC
+Shot Chart Detail,0022500079,9,1627739,Kris Dunn,1610612746,LA Clippers,1,11,32,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,129,220,1,1,20251128,LAC,MEM
+Shot Chart Detail,0022500079,76,1627739,Kris Dunn,1610612746,LA Clippers,1,6,3,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,32,74,1,0,20251128,LAC,MEM
+Shot Chart Detail,0022500079,307,1627739,Kris Dunn,1610612746,LA Clippers,2,4,28,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,28,33,1,0,20251128,LAC,MEM
+Shot Chart Detail,0022500079,310,1627739,Kris Dunn,1610612746,LA Clippers,2,4,24,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,13,1,1,20251128,LAC,MEM
+Shot Chart Detail,0022500079,398,1627739,Kris Dunn,1610612746,LA Clippers,3,8,57,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,67,247,1,0,20251128,LAC,MEM
+Shot Chart Detail,0022500079,447,1627739,Kris Dunn,1610612746,LA Clippers,3,4,58,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,178,176,1,0,20251128,LAC,MEM
+Shot Chart Detail,0022500079,456,1627739,Kris Dunn,1610612746,LA Clippers,3,4,1,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-61,29,1,1,20251128,LAC,MEM
+Shot Chart Detail,0022500079,603,1627739,Kris Dunn,1610612746,LA Clippers,4,5,40,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-103,226,1,0,20251128,LAC,MEM
+Shot Chart Detail,0022500079,647,1627739,Kris Dunn,1610612746,LA Clippers,4,2,24,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,17,1,1,20251128,LAC,MEM
+Shot Chart Detail,0022500087,307,1627739,Kris Dunn,1610612746,LA Clippers,2,1,44,Missed Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-87,85,1,0,20251022,UTA,LAC
+Shot Chart Detail,0022500087,527,1627739,Kris Dunn,1610612746,LA Clippers,4,10,9,Missed Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,2,113,1,0,20251022,UTA,LAC
+Shot Chart Detail,0022500087,531,1627739,Kris Dunn,1610612746,LA Clippers,4,9,41,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,15,1,0,20251022,UTA,LAC
+Shot Chart Detail,0022500099,158,1627739,Kris Dunn,1610612746,LA Clippers,1,0,47,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-6,27,1,1,20251024,LAC,PHX
+Shot Chart Detail,0022500099,186,1627739,Kris Dunn,1610612746,LA Clippers,2,10,38,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-238,32,1,1,20251024,LAC,PHX
+Shot Chart Detail,0022500099,193,1627739,Kris Dunn,1610612746,LA Clippers,2,9,46,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,239,92,1,0,20251024,LAC,PHX
+Shot Chart Detail,0022500099,214,1627739,Kris Dunn,1610612746,LA Clippers,2,8,15,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-21,32,1,1,20251024,LAC,PHX
+Shot Chart Detail,0022500099,510,1627739,Kris Dunn,1610612746,LA Clippers,3,0,1,Made Shot,Driving Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,29,17,1,1,20251024,LAC,PHX
+Shot Chart Detail,0022500099,552,1627739,Kris Dunn,1610612746,LA Clippers,4,9,20,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-36,260,1,0,20251024,LAC,PHX
+Shot Chart Detail,0022500099,562,1627739,Kris Dunn,1610612746,LA Clippers,4,8,33,Missed Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,4,43,1,0,20251024,LAC,PHX
+Shot Chart Detail,0022500099,584,1627739,Kris Dunn,1610612746,LA Clippers,4,7,24,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,17,1,1,20251024,LAC,PHX
+Shot Chart Detail,0022500112,204,1627739,Kris Dunn,1610612746,LA Clippers,2,10,23,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,119,232,1,0,20251026,LAC,POR
+Shot Chart Detail,0022500112,221,1627739,Kris Dunn,1610612746,LA Clippers,2,9,9,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,23,110,1,1,20251026,LAC,POR
+Shot Chart Detail,0022500112,237,1627739,Kris Dunn,1610612746,LA Clippers,2,7,54,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,65,-5,1,1,20251026,LAC,POR
+Shot Chart Detail,0022500112,401,1627739,Kris Dunn,1610612746,LA Clippers,3,10,35,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,5,1,1,20251026,LAC,POR
+Shot Chart Detail,0022500112,453,1627739,Kris Dunn,1610612746,LA Clippers,3,6,3,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,244,8,1,1,20251026,LAC,POR
+Shot Chart Detail,0022500112,732,1627739,Kris Dunn,1610612746,LA Clippers,4,0,18,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-196,161,1,0,20251026,LAC,POR
+Shot Chart Detail,0022500127,92,1627739,Kris Dunn,1610612746,LA Clippers,1,4,31,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,92,109,1,0,20251028,GSW,LAC
+Shot Chart Detail,0022500127,123,1627739,Kris Dunn,1610612746,LA Clippers,1,3,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,123,227,1,1,20251028,GSW,LAC
+Shot Chart Detail,0022500127,194,1627739,Kris Dunn,1610612746,LA Clippers,2,9,14,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20251028,GSW,LAC
+Shot Chart Detail,0022500127,313,1627739,Kris Dunn,1610612746,LA Clippers,2,1,12,Made Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-38,18,1,1,20251028,GSW,LAC
+Shot Chart Detail,0022500127,450,1627739,Kris Dunn,1610612746,LA Clippers,3,0,44,Missed Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,97,105,1,0,20251028,GSW,LAC
+Shot Chart Detail,0022500127,515,1627739,Kris Dunn,1610612746,LA Clippers,4,7,24,Missed Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-190,179,1,0,20251028,GSW,LAC
+Shot Chart Detail,0022500164,128,1627739,Kris Dunn,1610612746,LA Clippers,1,1,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,207,139,1,1,20251103,LAC,MIA
+Shot Chart Detail,0022500164,139,1627739,Kris Dunn,1610612746,LA Clippers,1,0,54,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-6,69,1,0,20251103,LAC,MIA
+Shot Chart Detail,0022500164,143,1627739,Kris Dunn,1610612746,LA Clippers,1,0,46,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,16,105,1,0,20251103,LAC,MIA
+Shot Chart Detail,0022500164,457,1627739,Kris Dunn,1610612746,LA Clippers,3,3,44,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,24,1,1,20251103,LAC,MIA
+Shot Chart Detail,0022500164,484,1627739,Kris Dunn,1610612746,LA Clippers,3,2,24,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,49,83,1,1,20251103,LAC,MIA
+Shot Chart Detail,0022500164,518,1627739,Kris Dunn,1610612746,LA Clippers,4,11,57,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,16,1,1,20251103,LAC,MIA
+Shot Chart Detail,0022500170,71,1627739,Kris Dunn,1610612746,LA Clippers,1,7,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-148,216,1,1,20251104,LAC,OKC
+Shot Chart Detail,0022500170,396,1627739,Kris Dunn,1610612746,LA Clippers,3,8,13,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1,11,1,1,20251104,LAC,OKC
+Shot Chart Detail,0022500170,426,1627739,Kris Dunn,1610612746,LA Clippers,3,5,42,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-167,211,1,0,20251104,LAC,OKC
+Shot Chart Detail,0022500170,502,1627739,Kris Dunn,1610612746,LA Clippers,3,0,30,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-227,64,1,0,20251104,LAC,OKC
+Shot Chart Detail,0022500182,30,1627739,Kris Dunn,1610612746,LA Clippers,1,9,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-27,268,1,1,20251106,PHX,LAC
+Shot Chart Detail,0022500182,258,1627739,Kris Dunn,1610612746,LA Clippers,2,5,19,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,21,23,1,0,20251106,PHX,LAC
+Shot Chart Detail,0022500182,343,1627739,Kris Dunn,1610612746,LA Clippers,3,10,57,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,66,100,1,1,20251106,PHX,LAC
+Shot Chart Detail,0022500182,377,1627739,Kris Dunn,1610612746,LA Clippers,3,8,9,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,0,1,1,20251106,PHX,LAC
+Shot Chart Detail,0022500190,173,1627739,Kris Dunn,1610612746,LA Clippers,2,9,53,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-17,12,1,1,20251108,LAC,PHX
+Shot Chart Detail,0022500190,326,1627739,Kris Dunn,1610612746,LA Clippers,3,11,9,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,229,22,1,0,20251108,LAC,PHX
+Shot Chart Detail,0022500190,333,1627739,Kris Dunn,1610612746,LA Clippers,3,10,6,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,26,138,1,0,20251108,LAC,PHX
+Shot Chart Detail,0022500190,474,1627739,Kris Dunn,1610612746,LA Clippers,3,0,31,Made Shot,Driving Bank Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,39,40,1,1,20251108,LAC,PHX
+Shot Chart Detail,0022500190,573,1627739,Kris Dunn,1610612746,LA Clippers,4,4,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,27,13,1,1,20251108,LAC,PHX
+Shot Chart Detail,0022500206,11,1627739,Kris Dunn,1610612746,LA Clippers,1,11,5,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-29,13,1,1,20251110,LAC,ATL
+Shot Chart Detail,0022500206,51,1627739,Kris Dunn,1610612746,LA Clippers,1,6,47,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-143,230,1,0,20251110,LAC,ATL
+Shot Chart Detail,0022500206,156,1627739,Kris Dunn,1610612746,LA Clippers,2,11,29,Missed Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,6,31,1,0,20251110,LAC,ATL
+Shot Chart Detail,0022500206,177,1627739,Kris Dunn,1610612746,LA Clippers,2,9,25,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-10,27,1,1,20251110,LAC,ATL
+Shot Chart Detail,0022500206,266,1627739,Kris Dunn,1610612746,LA Clippers,2,2,56,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,9,37,1,1,20251110,LAC,ATL
+Shot Chart Detail,0022500206,344,1627739,Kris Dunn,1610612746,LA Clippers,3,8,41,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,227,41,1,1,20251110,LAC,ATL
+Shot Chart Detail,0022500206,367,1627739,Kris Dunn,1610612746,LA Clippers,3,6,59,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-4,63,1,0,20251110,LAC,ATL
+Shot Chart Detail,0022500206,479,1627739,Kris Dunn,1610612746,LA Clippers,4,11,42,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-105,235,1,0,20251110,LAC,ATL
+Shot Chart Detail,0022500206,531,1627739,Kris Dunn,1610612746,LA Clippers,4,7,18,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,11,41,1,1,20251110,LAC,ATL
+Shot Chart Detail,0022500206,596,1627739,Kris Dunn,1610612746,LA Clippers,4,1,27,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-221,5,1,0,20251110,LAC,ATL
+Shot Chart Detail,0022500224,55,1627739,Kris Dunn,1610612746,LA Clippers,1,7,22,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-20,34,1,0,20251112,LAC,DEN
+Shot Chart Detail,0022500224,255,1627739,Kris Dunn,1610612746,LA Clippers,2,4,39,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,19,-188,54,1,0,20251112,LAC,DEN
+Shot Chart Detail,0022500224,288,1627739,Kris Dunn,1610612746,LA Clippers,2,1,53,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,1,46,1,1,20251112,LAC,DEN
+Shot Chart Detail,0022500224,361,1627739,Kris Dunn,1610612746,LA Clippers,3,9,2,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-18,37,1,0,20251112,LAC,DEN
+Shot Chart Detail,0022500233,65,1627739,Kris Dunn,1610612746,LA Clippers,1,5,45,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,113,36,1,0,20251116,BOS,LAC
+Shot Chart Detail,0022500233,272,1627739,Kris Dunn,1610612746,LA Clippers,2,3,45,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-152,228,1,0,20251116,BOS,LAC
+Shot Chart Detail,0022500233,314,1627739,Kris Dunn,1610612746,LA Clippers,2,0,31,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,195,174,1,0,20251116,BOS,LAC
+Shot Chart Detail,0022500233,369,1627739,Kris Dunn,1610612746,LA Clippers,3,8,13,Missed Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,56,79,1,0,20251116,BOS,LAC
+Shot Chart Detail,0022500233,404,1627739,Kris Dunn,1610612746,LA Clippers,3,6,15,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,229,40,1,1,20251116,BOS,LAC
+Shot Chart Detail,0022500243,38,1627739,Kris Dunn,1610612746,LA Clippers,1,9,26,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,36,1,1,20251117,PHI,LAC
+Shot Chart Detail,0022500243,255,1627739,Kris Dunn,1610612746,LA Clippers,2,5,10,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,222,35,1,0,20251117,PHI,LAC
+Shot Chart Detail,0022500243,300,1627739,Kris Dunn,1610612746,LA Clippers,2,1,0,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,9,1,1,20251117,PHI,LAC
+Shot Chart Detail,0022500243,403,1627739,Kris Dunn,1610612746,LA Clippers,3,6,58,Missed Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,-10,157,1,0,20251117,PHI,LAC
+Shot Chart Detail,0022500243,405,1627739,Kris Dunn,1610612746,LA Clippers,3,6,54,Made Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-10,142,1,1,20251117,PHI,LAC
+Shot Chart Detail,0022500264,12,1627739,Kris Dunn,1610612746,LA Clippers,1,11,20,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,17,72,1,1,20251120,ORL,LAC
+Shot Chart Detail,0022500264,74,1627739,Kris Dunn,1610612746,LA Clippers,1,6,7,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-28,87,1,1,20251120,ORL,LAC
+Shot Chart Detail,0022500264,102,1627739,Kris Dunn,1610612746,LA Clippers,1,3,49,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,87,237,1,0,20251120,ORL,LAC
+Shot Chart Detail,0022500264,325,1627739,Kris Dunn,1610612746,LA Clippers,2,1,20,Missed Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-13,24,1,0,20251120,ORL,LAC
+Shot Chart Detail,0022500264,348,1627739,Kris Dunn,1610612746,LA Clippers,2,0,2,Missed Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-26,13,1,0,20251120,ORL,LAC
+Shot Chart Detail,0022500268,23,1627739,Kris Dunn,1610612746,LA Clippers,1,9,38,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,120,17,1,0,20251122,CHA,LAC
+Shot Chart Detail,0022500268,99,1627739,Kris Dunn,1610612746,LA Clippers,1,3,53,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,17,46,1,0,20251122,CHA,LAC
+Shot Chart Detail,0022500268,246,1627739,Kris Dunn,1610612746,LA Clippers,2,6,53,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20251122,CHA,LAC
+Shot Chart Detail,0022500268,288,1627739,Kris Dunn,1610612746,LA Clippers,2,3,4,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,6,26,1,1,20251122,CHA,LAC
+Shot Chart Detail,0022500268,605,1627739,Kris Dunn,1610612746,LA Clippers,4,4,27,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,6,1,1,20251122,CHA,LAC
+Shot Chart Detail,0022500278,56,1627739,Kris Dunn,1610612746,LA Clippers,1,7,27,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,15,1,1,20251123,CLE,LAC
+Shot Chart Detail,0022500278,293,1627739,Kris Dunn,1610612746,LA Clippers,2,3,17,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,17,80,1,0,20251123,CLE,LAC
+Shot Chart Detail,0022500278,295,1627739,Kris Dunn,1610612746,LA Clippers,2,3,13,Missed Shot,Floating Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,88,102,1,0,20251123,CLE,LAC
+Shot Chart Detail,0022500278,331,1627739,Kris Dunn,1610612746,LA Clippers,2,0,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,54,264,1,1,20251123,CLE,LAC
+Shot Chart Detail,0022500278,342,1627739,Kris Dunn,1610612746,LA Clippers,3,11,40,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,11,1,1,20251123,CLE,LAC
+Shot Chart Detail,0022500300,36,1627739,Kris Dunn,1610612746,LA Clippers,1,8,40,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-13,33,1,1,20251129,LAC,DAL
+Shot Chart Detail,0022500300,86,1627739,Kris Dunn,1610612746,LA Clippers,1,4,55,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,127,235,1,0,20251129,LAC,DAL
+Shot Chart Detail,0022500300,393,1627739,Kris Dunn,1610612746,LA Clippers,3,7,17,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,19,1,0,20251129,LAC,DAL
+Shot Chart Detail,0022500300,457,1627739,Kris Dunn,1610612746,LA Clippers,3,2,56,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,36,20,1,1,20251129,LAC,DAL
+Shot Chart Detail,0022500300,627,1627739,Kris Dunn,1610612746,LA Clippers,4,3,28,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,33,243,1,0,20251129,LAC,DAL
+Shot Chart Detail,0022500300,629,1627739,Kris Dunn,1610612746,LA Clippers,4,3,23,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-120,242,1,0,20251129,LAC,DAL
+Shot Chart Detail,0022500300,655,1627739,Kris Dunn,1610612746,LA Clippers,4,1,8,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,19,1,1,20251129,LAC,DAL
+Shot Chart Detail,0022500313,32,1627739,Kris Dunn,1610612746,LA Clippers,1,9,15,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,28,31,1,1,20251201,MIA,LAC
+Shot Chart Detail,0022500313,83,1627739,Kris Dunn,1610612746,LA Clippers,1,5,7,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-224,36,1,1,20251201,MIA,LAC
+Shot Chart Detail,0022500313,275,1627739,Kris Dunn,1610612746,LA Clippers,2,5,4,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,11,93,1,0,20251201,MIA,LAC
+Shot Chart Detail,0022500313,328,1627739,Kris Dunn,1610612746,LA Clippers,2,1,15,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-102,235,1,0,20251201,MIA,LAC
+Shot Chart Detail,0022500313,352,1627739,Kris Dunn,1610612746,LA Clippers,2,0,1,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-18,32,1,1,20251201,MIA,LAC
+Shot Chart Detail,0022500313,380,1627739,Kris Dunn,1610612746,LA Clippers,3,11,2,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-36,54,1,0,20251201,MIA,LAC
+Shot Chart Detail,0022500313,597,1627739,Kris Dunn,1610612746,LA Clippers,4,6,39,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,17,37,1,1,20251201,MIA,LAC
+Shot Chart Detail,0022500327,11,1627739,Kris Dunn,1610612746,LA Clippers,1,11,18,Missed Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-15,84,1,0,20251203,ATL,LAC
+Shot Chart Detail,0022500327,42,1627739,Kris Dunn,1610612746,LA Clippers,1,8,0,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,16,1,1,20251203,ATL,LAC
+Shot Chart Detail,0022500327,386,1627739,Kris Dunn,1610612746,LA Clippers,3,7,22,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,51,71,1,1,20251203,ATL,LAC
+Shot Chart Detail,0022500327,393,1627739,Kris Dunn,1610612746,LA Clippers,3,6,39,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,15,14,1,1,20251203,ATL,LAC
+Shot Chart Detail,0022500327,421,1627739,Kris Dunn,1610612746,LA Clippers,3,4,2,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,5,9,1,1,20251203,ATL,LAC
+Shot Chart Detail,0022500327,549,1627739,Kris Dunn,1610612746,LA Clippers,4,6,24,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,238,16,1,0,20251203,ATL,LAC
+Shot Chart Detail,0022500347,370,1627739,Kris Dunn,1610612746,LA Clippers,3,6,26,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,20,96,1,0,20251205,MEM,LAC
+Shot Chart Detail,0022500355,30,1627739,Kris Dunn,1610612746,LA Clippers,1,8,49,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,178,177,1,0,20251206,MIN,LAC
+Shot Chart Detail,0022500355,32,1627739,Kris Dunn,1610612746,LA Clippers,1,8,42,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,0,104,1,0,20251206,MIN,LAC
+Shot Chart Detail,0022500355,34,1627739,Kris Dunn,1610612746,LA Clippers,1,8,41,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20251206,MIN,LAC
+Shot Chart Detail,0022500355,39,1627739,Kris Dunn,1610612746,LA Clippers,1,8,13,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,-17,1,1,20251206,MIN,LAC
+Shot Chart Detail,0022500355,205,1627739,Kris Dunn,1610612746,LA Clippers,2,7,16,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,176,174,1,0,20251206,MIN,LAC
+Shot Chart Detail,0022500355,226,1627739,Kris Dunn,1610612746,LA Clippers,2,5,38,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,9,1,0,20251206,MIN,LAC
+Shot Chart Detail,0022500355,295,1627739,Kris Dunn,1610612746,LA Clippers,2,0,0,Missed Shot,Cutting Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,11,29,1,0,20251206,MIN,LAC
+Shot Chart Detail,0022500355,303,1627739,Kris Dunn,1610612746,LA Clippers,3,11,44,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,72,242,1,0,20251206,MIN,LAC
+Shot Chart Detail,0022500355,361,1627739,Kris Dunn,1610612746,LA Clippers,3,6,49,Missed Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-56,16,1,0,20251206,MIN,LAC
+Shot Chart Detail,0022500355,596,1627739,Kris Dunn,1610612746,LA Clippers,4,2,52,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,8,1,1,20251206,MIN,LAC
+Shot Chart Detail,0022500355,609,1627739,Kris Dunn,1610612746,LA Clippers,4,1,40,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,-6,1,0,20251206,MIN,LAC
+Shot Chart Detail,0022500369,49,1627739,Kris Dunn,1610612746,LA Clippers,1,7,59,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-146,213,1,0,20251218,OKC,LAC
+Shot Chart Detail,0022500369,163,1627739,Kris Dunn,1610612746,LA Clippers,1,1,7,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,222,126,1,0,20251218,OKC,LAC
+Shot Chart Detail,0022500369,201,1627739,Kris Dunn,1610612746,LA Clippers,2,10,20,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,10,1,1,20251218,OKC,LAC
+Shot Chart Detail,0022500369,224,1627739,Kris Dunn,1610612746,LA Clippers,2,8,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-10,256,1,1,20251218,OKC,LAC
+Shot Chart Detail,0022500369,318,1627739,Kris Dunn,1610612746,LA Clippers,2,1,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,162,199,1,0,20251218,OKC,LAC
+Shot Chart Detail,0022500369,355,1627739,Kris Dunn,1610612746,LA Clippers,3,11,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-72,253,1,1,20251218,OKC,LAC
+Shot Chart Detail,0022500369,378,1627739,Kris Dunn,1610612746,LA Clippers,3,9,12,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,50,59,1,1,20251218,OKC,LAC
+Shot Chart Detail,0022500369,610,1627739,Kris Dunn,1610612746,LA Clippers,4,5,12,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-29,47,1,1,20251218,OKC,LAC
+Shot Chart Detail,0022500395,24,1627739,Kris Dunn,1610612746,LA Clippers,1,10,9,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-124,231,1,0,20251220,LAC,LAL
+Shot Chart Detail,0022500395,67,1627739,Kris Dunn,1610612746,LA Clippers,1,6,3,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,57,1,1,20251220,LAC,LAL
+Shot Chart Detail,0022500395,79,1627739,Kris Dunn,1610612746,LA Clippers,1,5,12,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,13,1,1,20251220,LAC,LAL
+Shot Chart Detail,0022500395,374,1627739,Kris Dunn,1610612746,LA Clippers,3,7,46,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,21,1,1,20251220,LAC,LAL
+Shot Chart Detail,0022500422,37,1627739,Kris Dunn,1610612746,LA Clippers,1,8,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-78,252,1,1,20251223,LAC,HOU
+Shot Chart Detail,0022500422,206,1627739,Kris Dunn,1610612746,LA Clippers,2,8,31,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,131,216,1,0,20251223,LAC,HOU
+Shot Chart Detail,0022500422,209,1627739,Kris Dunn,1610612746,LA Clippers,2,8,4,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,16,1,1,20251223,LAC,HOU
+Shot Chart Detail,0022500422,235,1627739,Kris Dunn,1610612746,LA Clippers,2,6,25,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,85,265,1,0,20251223,LAC,HOU
+Shot Chart Detail,0022500422,269,1627739,Kris Dunn,1610612746,LA Clippers,2,3,38,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-135,231,1,1,20251223,LAC,HOU
+Shot Chart Detail,0022500422,272,1627739,Kris Dunn,1610612746,LA Clippers,2,3,8,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,228,64,1,0,20251223,LAC,HOU
+Shot Chart Detail,0022500422,309,1627739,Kris Dunn,1610612746,LA Clippers,3,11,22,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,20,45,1,1,20251223,LAC,HOU
+Shot Chart Detail,0022500422,423,1627739,Kris Dunn,1610612746,LA Clippers,3,1,37,Missed Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-16,260,1,0,20251223,LAC,HOU
+Shot Chart Detail,0022500431,80,1627739,Kris Dunn,1610612746,LA Clippers,1,4,17,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,0,136,1,1,20251226,POR,LAC
+Shot Chart Detail,0022500431,317,1627739,Kris Dunn,1610612746,LA Clippers,3,8,32,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,208,172,1,0,20251226,POR,LAC
+Shot Chart Detail,0022500431,328,1627739,Kris Dunn,1610612746,LA Clippers,3,8,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-164,197,1,1,20251226,POR,LAC
+Shot Chart Detail,0022500431,401,1627739,Kris Dunn,1610612746,LA Clippers,3,2,16,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,17,1,1,20251226,POR,LAC
+Shot Chart Detail,0022500431,593,1627739,Kris Dunn,1610612746,LA Clippers,4,1,58,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,16,5,161,1,0,20251226,POR,LAC
+Shot Chart Detail,0022500445,228,1627739,Kris Dunn,1610612746,LA Clippers,2,7,31,Made Shot,Running Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-10,36,1,1,20251228,LAC,DET
+Shot Chart Detail,0022500445,364,1627739,Kris Dunn,1610612746,LA Clippers,3,8,32,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-238,-20,1,1,20251228,LAC,DET
+Shot Chart Detail,0022500445,551,1627739,Kris Dunn,1610612746,LA Clippers,4,7,31,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-225,52,1,0,20251228,LAC,DET
+Shot Chart Detail,0022500445,556,1627739,Kris Dunn,1610612746,LA Clippers,4,7,2,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,33,45,1,0,20251228,LAC,DET
+Shot Chart Detail,0022500461,7,1627739,Kris Dunn,1610612746,LA Clippers,1,11,33,Made Shot,Turnaround Bank Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,12,47,1,1,20251230,LAC,SAC
+Shot Chart Detail,0022500461,212,1627739,Kris Dunn,1610612746,LA Clippers,2,9,45,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,31,208,238,1,0,20251230,LAC,SAC
+Shot Chart Detail,0022500461,245,1627739,Kris Dunn,1610612746,LA Clippers,2,7,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,123,247,1,1,20251230,LAC,SAC
+Shot Chart Detail,0022500461,266,1627739,Kris Dunn,1610612746,LA Clippers,2,5,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,161,215,1,1,20251230,LAC,SAC
+Shot Chart Detail,0022500461,400,1627739,Kris Dunn,1610612746,LA Clippers,3,7,28,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,22,19,1,0,20251230,LAC,SAC
+Shot Chart Detail,0022500461,417,1627739,Kris Dunn,1610612746,LA Clippers,3,6,18,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,-4,1,1,20251230,LAC,SAC
+Shot Chart Detail,0022500461,422,1627739,Kris Dunn,1610612746,LA Clippers,3,5,50,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,173,197,1,0,20251230,LAC,SAC
+Shot Chart Detail,0022500475,20,1627739,Kris Dunn,1610612746,LA Clippers,1,10,32,Missed Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,11,1,0,20260101,LAC,UTA
+Shot Chart Detail,0022500475,286,1627739,Kris Dunn,1610612746,LA Clippers,2,4,25,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,100,227,1,0,20260101,LAC,UTA
+Shot Chart Detail,0022500475,300,1627739,Kris Dunn,1610612746,LA Clippers,2,3,49,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,150,205,1,0,20260101,LAC,UTA
+Shot Chart Detail,0022500475,449,1627739,Kris Dunn,1610612746,LA Clippers,3,5,17,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,27,106,1,1,20260101,LAC,UTA
+Shot Chart Detail,0022500493,41,1627739,Kris Dunn,1610612746,LA Clippers,1,8,0,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-11,84,1,1,20260103,LAC,BOS
+Shot Chart Detail,0022500493,78,1627739,Kris Dunn,1610612746,LA Clippers,1,4,39,Missed Shot,Putback Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,22,50,1,0,20260103,LAC,BOS
+Shot Chart Detail,0022500493,310,1627739,Kris Dunn,1610612746,LA Clippers,2,8,15,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-221,112,1,0,20260103,LAC,BOS
+Shot Chart Detail,0022500493,194,1627739,Kris Dunn,1610612746,LA Clippers,2,6,59,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-23,50,1,1,20260103,LAC,BOS
+Shot Chart Detail,0022500493,252,1627739,Kris Dunn,1610612746,LA Clippers,2,3,0,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,58,1,0,20260103,LAC,BOS
+Shot Chart Detail,0022500493,328,1627739,Kris Dunn,1610612746,LA Clippers,3,10,32,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,-10,1,0,20260103,LAC,BOS
+Shot Chart Detail,0022500493,373,1627739,Kris Dunn,1610612746,LA Clippers,3,6,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-219,119,1,1,20260103,LAC,BOS
+Shot Chart Detail,0022500493,392,1627739,Kris Dunn,1610612746,LA Clippers,3,5,28,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,9,1,1,20260103,LAC,BOS
+Shot Chart Detail,0022500493,524,1627739,Kris Dunn,1610612746,LA Clippers,4,9,3,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,224,31,1,0,20260103,LAC,BOS
+Shot Chart Detail,0022500493,536,1627739,Kris Dunn,1610612746,LA Clippers,4,7,35,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,2,72,1,0,20260103,LAC,BOS
+Shot Chart Detail,0022500508,51,1627739,Kris Dunn,1610612746,LA Clippers,1,7,0,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,229,31,1,0,20260105,LAC,GSW
+Shot Chart Detail,0022500508,203,1627739,Kris Dunn,1610612746,LA Clippers,2,9,50,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-76,11,1,1,20260105,LAC,GSW
+Shot Chart Detail,0022500508,246,1627739,Kris Dunn,1610612746,LA Clippers,2,6,56,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-61,57,1,0,20260105,LAC,GSW
+Shot Chart Detail,0022500508,391,1627739,Kris Dunn,1610612746,LA Clippers,3,7,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-108,247,1,1,20260105,LAC,GSW
+Shot Chart Detail,0022500508,427,1627739,Kris Dunn,1610612746,LA Clippers,3,5,50,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,15,1,1,20260105,LAC,GSW
+Shot Chart Detail,0022500508,651,1627739,Kris Dunn,1610612746,LA Clippers,4,2,52,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,26,1,1,20260105,LAC,GSW
+Shot Chart Detail,0022500508,665,1627739,Kris Dunn,1610612746,LA Clippers,4,1,48,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,1,125,1,1,20260105,LAC,GSW
+Shot Chart Detail,0022500522,7,1627739,Kris Dunn,1610612746,LA Clippers,1,11,39,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,-1,1,0,20260107,NYK,LAC
+Shot Chart Detail,0022500522,25,1627739,Kris Dunn,1610612746,LA Clippers,1,9,45,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,21,1,0,20260107,NYK,LAC
+Shot Chart Detail,0022500522,41,1627739,Kris Dunn,1610612746,LA Clippers,1,8,10,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-22,2,1,1,20260107,NYK,LAC
+Shot Chart Detail,0022500522,89,1627739,Kris Dunn,1610612746,LA Clippers,1,4,52,Missed Shot,Jump Bank Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,109,259,1,0,20260107,NYK,LAC
+Shot Chart Detail,0022500522,261,1627739,Kris Dunn,1610612746,LA Clippers,2,3,44,Missed Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-11,101,1,0,20260107,NYK,LAC
+Shot Chart Detail,0022500522,280,1627739,Kris Dunn,1610612746,LA Clippers,2,2,40,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-238,15,1,0,20260107,NYK,LAC
+Shot Chart Detail,0022500522,338,1627739,Kris Dunn,1610612746,LA Clippers,3,10,36,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,-12,1,0,20260107,NYK,LAC
+Shot Chart Detail,0022500522,608,1627739,Kris Dunn,1610612746,LA Clippers,4,4,13,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,0,1,1,20260107,NYK,LAC
+Shot Chart Detail,0022500522,638,1627739,Kris Dunn,1610612746,LA Clippers,4,1,47,Missed Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-23,62,1,0,20260107,NYK,LAC
+Shot Chart Detail,0022500535,68,1627739,Kris Dunn,1610612746,LA Clippers,1,5,50,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,0,69,1,1,20260109,BKN,LAC
+Shot Chart Detail,0022500535,81,1627739,Kris Dunn,1610612746,LA Clippers,1,5,2,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,-6,1,1,20260109,BKN,LAC
+Shot Chart Detail,0022500535,235,1627739,Kris Dunn,1610612746,LA Clippers,2,4,51,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,2,1,1,20260109,BKN,LAC
+Shot Chart Detail,0022500535,307,1627739,Kris Dunn,1610612746,LA Clippers,3,11,34,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,11,1,0,20260109,BKN,LAC
+Shot Chart Detail,0022500535,365,1627739,Kris Dunn,1610612746,LA Clippers,3,8,1,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-4,99,1,0,20260109,BKN,LAC
+Shot Chart Detail,0022500535,378,1627739,Kris Dunn,1610612746,LA Clippers,3,7,16,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,22,100,1,1,20260109,BKN,LAC
+Shot Chart Detail,0022500544,26,1627739,Kris Dunn,1610612746,LA Clippers,1,10,19,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-13,39,1,0,20260110,DET,LAC
+Shot Chart Detail,0022500544,437,1627739,Kris Dunn,1610612746,LA Clippers,3,5,56,Missed Shot,Running Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,228,51,1,0,20260110,DET,LAC
+Shot Chart Detail,0022500544,541,1627739,Kris Dunn,1610612746,LA Clippers,4,11,37,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,12,21,1,1,20260110,DET,LAC
+Shot Chart Detail,0022500563,51,1627739,Kris Dunn,1610612746,LA Clippers,1,7,50,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-121,224,1,0,20260112,LAC,CHA
+Shot Chart Detail,0022500563,55,1627739,Kris Dunn,1610612746,LA Clippers,1,7,22,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,154,206,1,0,20260112,LAC,CHA
+Shot Chart Detail,0022500563,59,1627739,Kris Dunn,1610612746,LA Clippers,1,6,56,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-228,75,1,0,20260112,LAC,CHA
+Shot Chart Detail,0022500563,100,1627739,Kris Dunn,1610612746,LA Clippers,1,4,35,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,158,200,1,0,20260112,LAC,CHA
+Shot Chart Detail,0022500563,298,1627739,Kris Dunn,1610612746,LA Clippers,2,1,3,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,131,230,1,0,20260112,LAC,CHA
+Shot Chart Detail,0022500563,404,1627739,Kris Dunn,1610612746,LA Clippers,3,4,47,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,49,1,0,20260112,LAC,CHA
+Shot Chart Detail,0022500577,253,1627739,Kris Dunn,1610612746,LA Clippers,2,5,25,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,9,27,1,1,20260114,LAC,WAS
+Shot Chart Detail,0022500590,33,1627739,Kris Dunn,1610612746,LA Clippers,1,9,2,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,29,21,1,1,20260116,TOR,LAC
+Shot Chart Detail,0022500590,68,1627739,Kris Dunn,1610612746,LA Clippers,1,5,39,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,240,18,1,1,20260116,TOR,LAC
+Shot Chart Detail,0022500590,217,1627739,Kris Dunn,1610612746,LA Clippers,2,6,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-186,206,1,1,20260116,TOR,LAC
+Shot Chart Detail,0022500590,235,1627739,Kris Dunn,1610612746,LA Clippers,2,4,47,Missed Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-13,29,1,0,20260116,TOR,LAC
+Shot Chart Detail,0022500590,534,1627739,Kris Dunn,1610612746,LA Clippers,4,6,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,118,222,1,1,20260116,TOR,LAC
+Shot Chart Detail,0022500590,550,1627739,Kris Dunn,1610612746,LA Clippers,4,5,3,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,237,40,1,0,20260116,TOR,LAC
+Shot Chart Detail,0022500608,52,1627739,Kris Dunn,1610612746,LA Clippers,1,7,14,Missed Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,4,81,1,0,20260119,WAS,LAC
+Shot Chart Detail,0022500608,75,1627739,Kris Dunn,1610612746,LA Clippers,1,5,20,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,-9,1,0,20260119,WAS,LAC
+Shot Chart Detail,0022500608,238,1627739,Kris Dunn,1610612746,LA Clippers,2,7,10,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-51,122,1,1,20260119,WAS,LAC
+Shot Chart Detail,0022500608,378,1627739,Kris Dunn,1610612746,LA Clippers,3,8,51,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,7,57,1,0,20260119,WAS,LAC
+Shot Chart Detail,0022500608,422,1627739,Kris Dunn,1610612746,LA Clippers,3,5,33,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-2,45,1,1,20260119,WAS,LAC
+Shot Chart Detail,0022500608,571,1627739,Kris Dunn,1610612746,LA Clippers,4,8,18,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,-18,1,1,20260119,WAS,LAC
+Shot Chart Detail,0022500614,62,1627739,Kris Dunn,1610612746,LA Clippers,1,5,52,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-9,0,1,1,20260120,CHI,LAC
+Shot Chart Detail,0022500614,86,1627739,Kris Dunn,1610612746,LA Clippers,1,4,37,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,26,73,1,1,20260120,CHI,LAC
+Shot Chart Detail,0022500614,194,1627739,Kris Dunn,1610612746,LA Clippers,2,9,35,Missed Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,10,27,1,0,20260120,CHI,LAC
+Shot Chart Detail,0022500614,224,1627739,Kris Dunn,1610612746,LA Clippers,2,7,47,Missed Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,48,16,1,0,20260120,CHI,LAC
+Shot Chart Detail,0022500614,289,1627739,Kris Dunn,1610612746,LA Clippers,2,2,37,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,13,78,1,0,20260120,CHI,LAC
+Shot Chart Detail,0022500633,281,1627739,Kris Dunn,1610612746,LA Clippers,2,1,55,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-161,194,1,0,20260122,LAC,LAL
+Shot Chart Detail,0022500633,289,1627739,Kris Dunn,1610612746,LA Clippers,2,1,10,Made Shot,Turnaround Bank shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-2,33,1,1,20260122,LAC,LAL
+Shot Chart Detail,0022500633,300,1627739,Kris Dunn,1610612746,LA Clippers,2,0,35,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,15,1,1,20260122,LAC,LAL
+Shot Chart Detail,0022500633,565,1627739,Kris Dunn,1610612746,LA Clippers,4,4,18,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,88,242,1,0,20260122,LAC,LAL
+Shot Chart Detail,0022500656,71,1627739,Kris Dunn,1610612746,LA Clippers,1,5,47,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-33,78,1,0,20260125,LAC,BKN
+Shot Chart Detail,0022500656,110,1627739,Kris Dunn,1610612746,LA Clippers,1,5,41,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-12,18,1,0,20260125,LAC,BKN
+Shot Chart Detail,0022500656,245,1627739,Kris Dunn,1610612746,LA Clippers,2,6,38,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-27,59,1,1,20260125,LAC,BKN
+Shot Chart Detail,0022500670,54,1627739,Kris Dunn,1610612746,LA Clippers,1,6,30,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,70,47,1,0,20260127,UTA,LAC
+Shot Chart Detail,0022500670,317,1627739,Kris Dunn,1610612746,LA Clippers,2,0,23,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,20,1,1,20260127,UTA,LAC
+Shot Chart Detail,0022500670,330,1627739,Kris Dunn,1610612746,LA Clippers,3,11,35,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-165,185,1,0,20260127,UTA,LAC
+Shot Chart Detail,0022500670,334,1627739,Kris Dunn,1610612746,LA Clippers,3,11,13,Made Shot,Driving Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,36,38,1,1,20260127,UTA,LAC
+Shot Chart Detail,0022500670,339,1627739,Kris Dunn,1610612746,LA Clippers,3,10,31,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,189,168,1,0,20260127,UTA,LAC
+Shot Chart Detail,0022500670,373,1627739,Kris Dunn,1610612746,LA Clippers,3,7,47,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,34,19,1,1,20260127,UTA,LAC
+Shot Chart Detail,0022500670,384,1627739,Kris Dunn,1610612746,LA Clippers,3,6,39,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,32,22,1,1,20260127,UTA,LAC
+Shot Chart Detail,0022500670,386,1627739,Kris Dunn,1610612746,LA Clippers,3,6,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,71,248,1,1,20260127,UTA,LAC
+Shot Chart Detail,0022500670,509,1627739,Kris Dunn,1610612746,LA Clippers,4,10,59,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,25,55,1,0,20260127,UTA,LAC
+Shot Chart Detail,0022500670,525,1627739,Kris Dunn,1610612746,LA Clippers,4,9,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,224,121,1,1,20260127,UTA,LAC
+Shot Chart Detail,0022500695,205,1627739,Kris Dunn,1610612746,LA Clippers,2,7,9,Missed Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-47,71,1,0,20260130,DEN,LAC
+Shot Chart Detail,0022500695,238,1627739,Kris Dunn,1610612746,LA Clippers,2,4,52,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,43,1,0,20260130,DEN,LAC
+Shot Chart Detail,0022500695,343,1627739,Kris Dunn,1610612746,LA Clippers,3,10,40,Missed Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,72,63,1,0,20260130,DEN,LAC
+Shot Chart Detail,0022500695,370,1627739,Kris Dunn,1610612746,LA Clippers,3,8,45,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-206,132,1,0,20260130,DEN,LAC
+Shot Chart Detail,0022500695,401,1627739,Kris Dunn,1610612746,LA Clippers,3,6,31,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,-20,1,1,20260130,DEN,LAC
+Shot Chart Detail,0022500695,450,1627739,Kris Dunn,1610612746,LA Clippers,3,2,16,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-80,241,1,0,20260130,DEN,LAC
+Shot Chart Detail,0022500695,457,1627739,Kris Dunn,1610612746,LA Clippers,3,1,6,Missed Shot,Step Back Jump shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,22,1,0,20260130,DEN,LAC
+Shot Chart Detail,0022500695,462,1627739,Kris Dunn,1610612746,LA Clippers,3,0,42,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,0,72,1,1,20260130,DEN,LAC
+Shot Chart Detail,0022500695,467,1627739,Kris Dunn,1610612746,LA Clippers,3,0,6,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,179,190,1,0,20260130,DEN,LAC
+Shot Chart Detail,0022500709,14,1627739,Kris Dunn,1610612746,LA Clippers,1,10,38,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,34,1,0,20260201,PHX,LAC
+Shot Chart Detail,0022500709,29,1627739,Kris Dunn,1610612746,LA Clippers,1,8,48,Missed Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,126,142,1,0,20260201,PHX,LAC
+Shot Chart Detail,0022500709,219,1627739,Kris Dunn,1610612746,LA Clippers,2,6,57,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,224,13,1,0,20260201,PHX,LAC
+Shot Chart Detail,0022500709,294,1627739,Kris Dunn,1610612746,LA Clippers,2,1,38,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,5,113,1,1,20260201,PHX,LAC
+Shot Chart Detail,0022500709,312,1627739,Kris Dunn,1610612746,LA Clippers,2,0,43,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-16,28,1,0,20260201,PHX,LAC
+Shot Chart Detail,0022500709,321,1627739,Kris Dunn,1610612746,LA Clippers,2,0,28,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,2,27,1,1,20260201,PHX,LAC
+Shot Chart Detail,0022500709,597,1627739,Kris Dunn,1610612746,LA Clippers,4,6,36,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,88,122,1,0,20260201,PHX,LAC
+Shot Chart Detail,0022500709,642,1627739,Kris Dunn,1610612746,LA Clippers,4,3,18,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,53,5,1,0,20260201,PHX,LAC
+Shot Chart Detail,0022500715,44,1627739,Kris Dunn,1610612746,LA Clippers,1,7,55,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-26,73,1,0,20260202,LAC,PHI
+Shot Chart Detail,0022500715,269,1627739,Kris Dunn,1610612746,LA Clippers,2,3,0,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-33,81,1,0,20260202,LAC,PHI
+Shot Chart Detail,0022500715,275,1627739,Kris Dunn,1610612746,LA Clippers,2,2,33,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-232,79,1,0,20260202,LAC,PHI
+Shot Chart Detail,0022500715,354,1627739,Kris Dunn,1610612746,LA Clippers,3,10,44,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-153,209,1,0,20260202,LAC,PHI
+Shot Chart Detail,0022500715,413,1627739,Kris Dunn,1610612746,LA Clippers,3,5,39,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-5,103,1,1,20260202,LAC,PHI
+Shot Chart Detail,0022500715,426,1627739,Kris Dunn,1610612746,LA Clippers,3,4,43,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,10,115,1,1,20260202,LAC,PHI
+Shot Chart Detail,0022500732,9,1627739,Kris Dunn,1610612746,LA Clippers,1,11,18,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-114,247,1,0,20260204,LAC,CLE
+Shot Chart Detail,0022500732,40,1627739,Kris Dunn,1610612746,LA Clippers,1,8,11,Missed Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-36,51,1,0,20260204,LAC,CLE
+Shot Chart Detail,0022500732,219,1627739,Kris Dunn,1610612746,LA Clippers,2,7,23,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-205,28,1,1,20260204,LAC,CLE
+Shot Chart Detail,0022500732,306,1627739,Kris Dunn,1610612746,LA Clippers,2,0,30,Missed Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-9,36,1,0,20260204,LAC,CLE
+Shot Chart Detail,0022500746,8,1627739,Kris Dunn,1610612746,LA Clippers,1,11,22,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-76,246,1,0,20260206,SAC,LAC
+Shot Chart Detail,0022500746,70,1627739,Kris Dunn,1610612746,LA Clippers,1,6,10,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,37,105,1,1,20260206,SAC,LAC
+Shot Chart Detail,0022500746,196,1627739,Kris Dunn,1610612746,LA Clippers,2,9,52,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,115,216,1,0,20260206,SAC,LAC
+Shot Chart Detail,0022500746,198,1627739,Kris Dunn,1610612746,LA Clippers,2,9,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,124,226,1,1,20260206,SAC,LAC
+Shot Chart Detail,0022500746,544,1627739,Kris Dunn,1610612746,LA Clippers,4,8,36,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,40,109,1,1,20260206,SAC,LAC
+Shot Chart Detail,0022500746,565,1627739,Kris Dunn,1610612746,LA Clippers,4,6,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-66,267,1,1,20260206,SAC,LAC
+Shot Chart Detail,0022500746,619,1627739,Kris Dunn,1610612746,LA Clippers,4,3,9,Missed Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-6,57,1,0,20260206,SAC,LAC
+Shot Chart Detail,0022500760,50,1627739,Kris Dunn,1610612746,LA Clippers,1,7,11,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-26,8,1,0,20260208,MIN,LAC
+Shot Chart Detail,0022500760,217,1627739,Kris Dunn,1610612746,LA Clippers,2,7,37,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,18,74,1,1,20260208,MIN,LAC
+Shot Chart Detail,0022500760,257,1627739,Kris Dunn,1610612746,LA Clippers,2,4,25,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,75,246,1,1,20260208,MIN,LAC
+Shot Chart Detail,0022500760,275,1627739,Kris Dunn,1610612746,LA Clippers,2,2,29,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,5,1,1,20260208,MIN,LAC
+Shot Chart Detail,0022500760,343,1627739,Kris Dunn,1610612746,LA Clippers,3,8,56,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,5,78,1,0,20260208,MIN,LAC
+Shot Chart Detail,0022500760,358,1627739,Kris Dunn,1610612746,LA Clippers,3,7,0,Missed Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-60,45,1,0,20260208,MIN,LAC
+Shot Chart Detail,0022500772,15,1627739,Kris Dunn,1610612746,LA Clippers,1,10,37,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,15,15,1,1,20260210,HOU,LAC
+Shot Chart Detail,0022500772,244,1627739,Kris Dunn,1610612746,LA Clippers,2,7,24,Missed Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,1,27,1,0,20260210,HOU,LAC
+Shot Chart Detail,0022500772,269,1627739,Kris Dunn,1610612746,LA Clippers,2,5,32,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,11,62,92,1,1,20260210,HOU,LAC
+Shot Chart Detail,0022500772,408,1627739,Kris Dunn,1610612746,LA Clippers,3,6,39,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-20,105,1,1,20260210,HOU,LAC
+Shot Chart Detail,0022500772,418,1627739,Kris Dunn,1610612746,LA Clippers,3,5,41,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,189,168,1,0,20260210,HOU,LAC
+Shot Chart Detail,0022500782,31,1627739,Kris Dunn,1610612746,LA Clippers,1,8,31,Missed Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,48,107,1,0,20260211,HOU,LAC
+Shot Chart Detail,0022500782,35,1627739,Kris Dunn,1610612746,LA Clippers,1,8,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-190,173,1,1,20260211,HOU,LAC
+Shot Chart Detail,0022500782,186,1627739,Kris Dunn,1610612746,LA Clippers,2,7,47,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-18,17,1,1,20260211,HOU,LAC
+Shot Chart Detail,0022500782,201,1627739,Kris Dunn,1610612746,LA Clippers,2,7,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,93,247,1,1,20260211,HOU,LAC
+Shot Chart Detail,0022500782,241,1627739,Kris Dunn,1610612746,LA Clippers,2,3,32,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,18,1,1,20260211,HOU,LAC
+Shot Chart Detail,0022500782,319,1627739,Kris Dunn,1610612746,LA Clippers,3,8,24,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,43,1,1,20260211,HOU,LAC
+Shot Chart Detail,0022500782,340,1627739,Kris Dunn,1610612746,LA Clippers,3,6,34,Made Shot,Step Back Jump shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,25,-241,80,1,1,20260211,HOU,LAC
+Shot Chart Detail,0022500782,371,1627739,Kris Dunn,1610612746,LA Clippers,3,4,49,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,24,1,0,20260211,HOU,LAC
+Shot Chart Detail,0022500782,549,1627739,Kris Dunn,1610612746,LA Clippers,4,6,7,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,6,1,0,20260211,HOU,LAC
+Shot Chart Detail,0022500782,561,1627739,Kris Dunn,1610612746,LA Clippers,4,5,16,Missed Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,17,106,1,0,20260211,HOU,LAC
+Shot Chart Detail,0022500801,46,1627739,Kris Dunn,1610612746,LA Clippers,1,7,21,Missed Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,34,31,1,0,20260219,LAC,DEN
+Shot Chart Detail,0022500801,127,1627739,Kris Dunn,1610612746,LA Clippers,1,1,48,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-28,80,1,0,20260219,LAC,DEN
+Shot Chart Detail,0022500801,235,1627739,Kris Dunn,1610612746,LA Clippers,2,6,10,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,14,1,1,20260219,LAC,DEN
+Shot Chart Detail,0022500801,471,1627739,Kris Dunn,1610612746,LA Clippers,3,0,29,Missed Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,13,42,1,0,20260219,LAC,DEN
+Shot Chart Detail,0022500809,27,1627739,Kris Dunn,1610612746,LA Clippers,1,9,30,Made Shot,Alley Oop Layup shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,22,37,1,1,20260220,LAL,LAC
+Shot Chart Detail,0022500809,382,1627739,Kris Dunn,1610612746,LA Clippers,3,7,42,Made Shot,Running Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,18,1,1,20260220,LAL,LAC
+Shot Chart Detail,0022500809,512,1627739,Kris Dunn,1610612746,LA Clippers,4,11,13,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-5,20,1,1,20260220,LAL,LAC
+Shot Chart Detail,0022500809,623,1627739,Kris Dunn,1610612746,LA Clippers,4,2,38,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-5,27,1,1,20260220,LAL,LAC
+Shot Chart Detail,0022500827,154,1627739,Kris Dunn,1610612746,LA Clippers,1,0,13,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-10,43,1,1,20260222,LAC,ORL
+Shot Chart Detail,0022500827,179,1627739,Kris Dunn,1610612746,LA Clippers,2,11,9,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-16,13,1,1,20260222,LAC,ORL
+Shot Chart Detail,0022500857,61,1627739,Kris Dunn,1610612746,LA Clippers,1,6,8,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-4,31,1,1,20260226,LAC,MIN
+Shot Chart Detail,0022500857,213,1627739,Kris Dunn,1610612746,LA Clippers,2,7,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,173,209,1,0,20260226,LAC,MIN
+Shot Chart Detail,0022500857,256,1627739,Kris Dunn,1610612746,LA Clippers,2,4,6,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-33,-2,1,0,20260226,LAC,MIN
+Shot Chart Detail,0022500857,275,1627739,Kris Dunn,1610612746,LA Clippers,2,2,45,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260226,LAC,MIN
+Shot Chart Detail,0022500857,320,1627739,Kris Dunn,1610612746,LA Clippers,3,11,41,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-48,80,1,0,20260226,LAC,MIN
+Shot Chart Detail,0022500857,367,1627739,Kris Dunn,1610612746,LA Clippers,3,8,6,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1,17,1,1,20260226,LAC,MIN
+Shot Chart Detail,0022500857,371,1627739,Kris Dunn,1610612746,LA Clippers,3,7,46,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,15,1,1,20260226,LAC,MIN
+Shot Chart Detail,0022500857,383,1627739,Kris Dunn,1610612746,LA Clippers,3,6,54,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-4,38,1,0,20260226,LAC,MIN
+Shot Chart Detail,0022500857,515,1627739,Kris Dunn,1610612746,LA Clippers,4,9,13,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,21,29,1,0,20260226,LAC,MIN
+Shot Chart Detail,0022500877,41,1627739,Kris Dunn,1610612746,LA Clippers,1,8,53,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-47,12,1,1,20260301,LAC,NOP
+Shot Chart Detail,0022500877,62,1627739,Kris Dunn,1610612746,LA Clippers,1,7,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-217,115,1,1,20260301,LAC,NOP
+Shot Chart Detail,0022500877,155,1627739,Kris Dunn,1610612746,LA Clippers,1,1,23,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,4,69,1,1,20260301,LAC,NOP
+Shot Chart Detail,0022500877,194,1627739,Kris Dunn,1610612746,LA Clippers,2,10,40,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,11,25,1,1,20260301,LAC,NOP
+Shot Chart Detail,0022500877,337,1627739,Kris Dunn,1610612746,LA Clippers,2,0,48,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,15,1,0,20260301,LAC,NOP
+Shot Chart Detail,0022500882,37,1627739,Kris Dunn,1610612746,LA Clippers,1,8,46,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-49,270,1,0,20260302,GSW,LAC
+Shot Chart Detail,0022500882,72,1627739,Kris Dunn,1610612746,LA Clippers,1,6,28,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,154,200,1,0,20260302,GSW,LAC
+Shot Chart Detail,0022500882,76,1627739,Kris Dunn,1610612746,LA Clippers,1,6,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,75,275,1,1,20260302,GSW,LAC
+Shot Chart Detail,0022500882,83,1627739,Kris Dunn,1610612746,LA Clippers,1,4,57,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,110,105,1,0,20260302,GSW,LAC
+Shot Chart Detail,0022500882,240,1627739,Kris Dunn,1610612746,LA Clippers,2,6,35,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,26,55,1,1,20260302,GSW,LAC
+Shot Chart Detail,0022500882,244,1627739,Kris Dunn,1610612746,LA Clippers,2,6,9,Made Shot,Running Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,5,1,1,20260302,GSW,LAC
+Shot Chart Detail,0022500882,400,1627739,Kris Dunn,1610612746,LA Clippers,3,7,21,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,27,13,1,1,20260302,GSW,LAC
+Shot Chart Detail,0022500882,470,1627739,Kris Dunn,1610612746,LA Clippers,3,2,55,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-10,19,1,1,20260302,GSW,LAC
+Shot Chart Detail,0022500882,536,1627739,Kris Dunn,1610612746,LA Clippers,4,11,36,Made Shot,Step Back Jump shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,40,1,1,20260302,GSW,LAC
+Shot Chart Detail,0022500882,543,1627739,Kris Dunn,1610612746,LA Clippers,4,10,58,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-29,13,1,1,20260302,GSW,LAC
+Shot Chart Detail,0022500898,387,1627739,Kris Dunn,1610612746,LA Clippers,3,8,39,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,157,216,1,0,20260304,LAC,IND
+Shot Chart Detail,0022500898,393,1627739,Kris Dunn,1610612746,LA Clippers,3,8,19,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,20,1,1,20260304,LAC,IND
+Shot Chart Detail,0022500898,572,1627739,Kris Dunn,1610612746,LA Clippers,4,9,51,Made Shot,Running Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,19,1,1,20260304,LAC,IND
+Shot Chart Detail,0022500913,16,1627739,Kris Dunn,1610612746,LA Clippers,1,10,27,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,107,239,1,0,20260306,SAS,LAC
+Shot Chart Detail,0022500913,50,1627739,Kris Dunn,1610612746,LA Clippers,1,7,28,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,10,1,1,20260306,SAS,LAC
+Shot Chart Detail,0022500913,509,1627739,Kris Dunn,1610612746,LA Clippers,4,10,36,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,-1,1,1,20260306,SAS,LAC
+Shot Chart Detail,0022500913,543,1627739,Kris Dunn,1610612746,LA Clippers,4,7,49,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,25,8,1,0,20260306,SAS,LAC
+Shot Chart Detail,0022500913,628,1627739,Kris Dunn,1610612746,LA Clippers,4,3,16,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,0,53,1,0,20260306,SAS,LAC
+Shot Chart Detail,0022500918,300,1627739,Kris Dunn,1610612746,LA Clippers,2,3,50,Missed Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,-2,1,0,20260307,MEM,LAC
+Shot Chart Detail,0022500918,414,1627739,Kris Dunn,1610612746,LA Clippers,3,9,17,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,87,243,1,0,20260307,MEM,LAC
+Shot Chart Detail,0022500935,35,1627739,Kris Dunn,1610612746,LA Clippers,1,9,10,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-229,34,1,0,20260309,LAC,NYK
+Shot Chart Detail,0022500935,39,1627739,Kris Dunn,1610612746,LA Clippers,1,8,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,164,210,1,1,20260309,LAC,NYK
+Shot Chart Detail,0022500935,187,1627739,Kris Dunn,1610612746,LA Clippers,2,9,58,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-4,44,1,1,20260309,LAC,NYK
+Shot Chart Detail,0022500935,424,1627739,Kris Dunn,1610612746,LA Clippers,3,4,39,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,11,1,0,20260309,LAC,NYK
+Shot Chart Detail,0022500952,54,1627739,Kris Dunn,1610612746,LA Clippers,1,6,57,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,4,21,1,0,20260311,LAC,MIN
+Shot Chart Detail,0022500952,253,1627739,Kris Dunn,1610612746,LA Clippers,2,5,11,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,-5,1,1,20260311,LAC,MIN
+Shot Chart Detail,0022500952,371,1627739,Kris Dunn,1610612746,LA Clippers,3,8,13,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-15,32,1,1,20260311,LAC,MIN
+Shot Chart Detail,0022500968,25,1627739,Kris Dunn,1610612746,LA Clippers,1,9,45,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-32,57,1,1,20260313,LAC,CHI
+Shot Chart Detail,0022500968,28,1627739,Kris Dunn,1610612746,LA Clippers,1,9,28,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,29,17,1,1,20260313,LAC,CHI
+Shot Chart Detail,0022500968,198,1627739,Kris Dunn,1610612746,LA Clippers,2,8,50,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,49,32,1,1,20260313,LAC,CHI
+Shot Chart Detail,0022500968,296,1627739,Kris Dunn,1610612746,LA Clippers,2,0,48,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,13,1,1,20260313,LAC,CHI
+Shot Chart Detail,0022500968,337,1627739,Kris Dunn,1610612746,LA Clippers,3,10,41,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-189,193,1,0,20260313,LAC,CHI
+Shot Chart Detail,0022500968,358,1627739,Kris Dunn,1610612746,LA Clippers,3,9,21,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,22,18,1,0,20260313,LAC,CHI
+Shot Chart Detail,0022500968,388,1627739,Kris Dunn,1610612746,LA Clippers,3,7,15,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,20,1,0,20260313,LAC,CHI
+Shot Chart Detail,0022500968,483,1627739,Kris Dunn,1610612746,LA Clippers,4,11,47,Missed Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-22,26,1,0,20260313,LAC,CHI
+Shot Chart Detail,0022500968,517,1627739,Kris Dunn,1610612746,LA Clippers,4,9,32,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,72,253,1,0,20260313,LAC,CHI
+Shot Chart Detail,0022500968,533,1627739,Kris Dunn,1610612746,LA Clippers,4,8,38,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,71,247,1,0,20260313,LAC,CHI
+Shot Chart Detail,0022500968,572,1627739,Kris Dunn,1610612746,LA Clippers,4,6,5,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,229,27,1,0,20260313,LAC,CHI
+Shot Chart Detail,0022500975,37,1627739,Kris Dunn,1610612746,LA Clippers,1,8,14,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,80,143,1,0,20260314,LAC,SAC
+Shot Chart Detail,0022500975,46,1627739,Kris Dunn,1610612746,LA Clippers,1,7,47,Missed Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2,22,1,0,20260314,LAC,SAC
+Shot Chart Detail,0022500975,58,1627739,Kris Dunn,1610612746,LA Clippers,1,6,29,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-6,28,1,1,20260314,LAC,SAC
+Shot Chart Detail,0022500975,215,1627739,Kris Dunn,1610612746,LA Clippers,2,7,48,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,38,1,0,20260314,LAC,SAC
+Shot Chart Detail,0022500975,248,1627739,Kris Dunn,1610612746,LA Clippers,2,5,25,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,25,111,1,0,20260314,LAC,SAC
+Shot Chart Detail,0022500975,277,1627739,Kris Dunn,1610612746,LA Clippers,2,2,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-108,252,1,1,20260314,LAC,SAC
+Shot Chart Detail,0022500975,372,1627739,Kris Dunn,1610612746,LA Clippers,3,7,49,Missed Shot,Running Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,3,1,0,20260314,LAC,SAC
+Shot Chart Detail,0022500990,20,1627739,Kris Dunn,1610612746,LA Clippers,1,10,34,Made Shot,Running Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,9,25,1,1,20260316,LAC,SAS
+Shot Chart Detail,0022500990,41,1627739,Kris Dunn,1610612746,LA Clippers,1,9,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-235,121,1,1,20260316,LAC,SAS
+Shot Chart Detail,0022500990,336,1627739,Kris Dunn,1610612746,LA Clippers,2,2,9,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,88,253,1,1,20260316,LAC,SAS
+Shot Chart Detail,0022500990,376,1627739,Kris Dunn,1610612746,LA Clippers,3,11,13,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,12,70,106,1,0,20260316,LAC,SAS
+Shot Chart Detail,0022500990,408,1627739,Kris Dunn,1610612746,LA Clippers,3,8,42,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,176,182,1,0,20260316,LAC,SAS
+Shot Chart Detail,0022501005,84,1627739,Kris Dunn,1610612746,LA Clippers,1,5,55,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-6,257,1,0,20260318,NOP,LAC
+Shot Chart Detail,0022501005,88,1627739,Kris Dunn,1610612746,LA Clippers,1,5,31,Missed Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-6,12,1,0,20260318,NOP,LAC
+Shot Chart Detail,0022501005,137,1627739,Kris Dunn,1610612746,LA Clippers,1,2,44,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,20,1,1,20260318,NOP,LAC
+Shot Chart Detail,0022501005,254,1627739,Kris Dunn,1610612746,LA Clippers,2,6,25,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-224,-4,1,1,20260318,NOP,LAC
+Shot Chart Detail,0022501005,311,1627739,Kris Dunn,1610612746,LA Clippers,2,1,46,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-20,52,1,0,20260318,NOP,LAC
+Shot Chart Detail,0022501005,460,1627739,Kris Dunn,1610612746,LA Clippers,3,2,14,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,130,219,1,0,20260318,NOP,LAC
+Shot Chart Detail,0022501012,21,1627739,Kris Dunn,1610612746,LA Clippers,1,10,4,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,116,222,1,1,20260319,NOP,LAC
+Shot Chart Detail,0022501012,157,1627739,Kris Dunn,1610612746,LA Clippers,2,11,4,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,142,197,1,0,20260319,NOP,LAC
+Shot Chart Detail,0022501012,172,1627739,Kris Dunn,1610612746,LA Clippers,2,9,24,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-13,75,1,1,20260319,NOP,LAC
+Shot Chart Detail,0022501012,220,1627739,Kris Dunn,1610612746,LA Clippers,2,6,38,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-11,22,1,0,20260319,NOP,LAC
+Shot Chart Detail,0022501012,229,1627739,Kris Dunn,1610612746,LA Clippers,2,5,36,Missed Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-43,265,1,0,20260319,NOP,LAC
+Shot Chart Detail,0022501012,251,1627739,Kris Dunn,1610612746,LA Clippers,2,4,10,Missed Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-13,80,1,0,20260319,NOP,LAC
+Shot Chart Detail,0022501012,331,1627739,Kris Dunn,1610612746,LA Clippers,3,10,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-151,188,1,1,20260319,NOP,LAC
+Shot Chart Detail,0022501012,623,1627739,Kris Dunn,1610612746,LA Clippers,4,2,13,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,14,-147,27,1,0,20260319,NOP,LAC
+Shot Chart Detail,0022501029,89,1627739,Kris Dunn,1610612746,LA Clippers,1,4,12,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-74,81,1,1,20260321,DAL,LAC
+Shot Chart Detail,0022501029,92,1627739,Kris Dunn,1610612746,LA Clippers,1,3,53,Missed Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-12,55,1,0,20260321,DAL,LAC
+Shot Chart Detail,0022501029,126,1627739,Kris Dunn,1610612746,LA Clippers,1,1,7,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-28,38,1,0,20260321,DAL,LAC
+Shot Chart Detail,0022501029,199,1627739,Kris Dunn,1610612746,LA Clippers,2,9,0,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-31,16,1,0,20260321,DAL,LAC
+Shot Chart Detail,0022501029,451,1627739,Kris Dunn,1610612746,LA Clippers,3,3,55,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,17,1,0,20260321,DAL,LAC
+Shot Chart Detail,0022501029,568,1627739,Kris Dunn,1610612746,LA Clippers,4,8,17,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-201,11,1,1,20260321,DAL,LAC
+Shot Chart Detail,0022501046,65,1627739,Kris Dunn,1610612746,LA Clippers,1,7,0,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,8,1,1,20260323,LAC,MIL
+Shot Chart Detail,0022501046,154,1627739,Kris Dunn,1610612746,LA Clippers,1,0,33,Made Shot,Running Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,4,1,1,20260323,LAC,MIL
+Shot Chart Detail,0022501046,301,1627739,Kris Dunn,1610612746,LA Clippers,2,1,42,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,229,41,1,0,20260323,LAC,MIL
+Shot Chart Detail,0022501062,437,1627739,Kris Dunn,1610612746,LA Clippers,3,4,52,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-207,183,1,0,20260325,LAC,TOR
+Shot Chart Detail,0022501066,149,1627739,Kris Dunn,1610612746,LA Clippers,1,2,14,Missed Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,39,21,1,0,20260327,IND,LAC
+Shot Chart Detail,0022501066,179,1627739,Kris Dunn,1610612746,LA Clippers,2,11,27,Missed Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-2,63,1,0,20260327,IND,LAC
+Shot Chart Detail,0022501066,225,1627739,Kris Dunn,1610612746,LA Clippers,2,7,32,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,-4,1,0,20260327,IND,LAC
+Shot Chart Detail,0022501066,238,1627739,Kris Dunn,1610612746,LA Clippers,2,7,8,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,25,243,63,1,0,20260327,IND,LAC
+Shot Chart Detail,0022501066,435,1627739,Kris Dunn,1610612746,LA Clippers,3,5,29,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,-3,1,0,20260327,IND,LAC
+Shot Chart Detail,0022501066,483,1627739,Kris Dunn,1610612746,LA Clippers,3,1,50,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,18,75,1,1,20260327,IND,LAC
+Shot Chart Detail,0022501082,88,1627739,Kris Dunn,1610612746,LA Clippers,1,4,22,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,25,1,1,20260329,MIL,LAC
+Shot Chart Detail,0022501082,123,1627739,Kris Dunn,1610612746,LA Clippers,1,1,39,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,0,1,1,20260329,MIL,LAC
+Shot Chart Detail,0022501082,175,1627739,Kris Dunn,1610612746,LA Clippers,2,8,42,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-22,262,1,0,20260329,MIL,LAC
+Shot Chart Detail,0022501082,378,1627739,Kris Dunn,1610612746,LA Clippers,3,6,30,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-229,42,1,1,20260329,MIL,LAC
+Shot Chart Detail,0022501082,516,1627739,Kris Dunn,1610612746,LA Clippers,4,9,3,Made Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,4,88,1,1,20260329,MIL,LAC
+Shot Chart Detail,0022501104,177,1627739,Kris Dunn,1610612746,LA Clippers,2,11,3,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-16,86,1,0,20260331,LAC,POR
+Shot Chart Detail,0022501104,497,1627739,Kris Dunn,1610612746,LA Clippers,3,0,9,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,26,25,1,1,20260331,LAC,POR
+Shot Chart Detail,0022501119,107,1627739,Kris Dunn,1610612746,LA Clippers,1,2,25,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,121,221,1,0,20260402,LAC,SAS
+Shot Chart Detail,0022501119,109,1627739,Kris Dunn,1610612746,LA Clippers,1,2,16,Missed Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-20,70,1,0,20260402,LAC,SAS
+Shot Chart Detail,0022501119,433,1627739,Kris Dunn,1610612746,LA Clippers,3,3,48,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,37,31,1,1,20260402,LAC,SAS
+Shot Chart Detail,0022501119,520,1627739,Kris Dunn,1610612746,LA Clippers,4,10,5,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,40,1,0,20260402,LAC,SAS
+Shot Chart Detail,0022501141,23,1627739,Kris Dunn,1610612746,LA Clippers,1,9,33,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,206,140,1,0,20260405,SAC,LAC
+Shot Chart Detail,0022501141,38,1627739,Kris Dunn,1610612746,LA Clippers,1,8,21,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,13,34,1,1,20260405,SAC,LAC
+Shot Chart Detail,0022501141,162,1627739,Kris Dunn,1610612746,LA Clippers,2,10,44,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-11,253,1,1,20260405,SAC,LAC
+Shot Chart Detail,0022501141,261,1627739,Kris Dunn,1610612746,LA Clippers,2,4,9,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-12,48,1,1,20260405,SAC,LAC
+Shot Chart Detail,0022501141,319,1627739,Kris Dunn,1610612746,LA Clippers,3,11,45,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,11,1,1,20260405,SAC,LAC
+Shot Chart Detail,0022501141,369,1627739,Kris Dunn,1610612746,LA Clippers,3,7,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,201,188,1,1,20260405,SAC,LAC
+Shot Chart Detail,0022501156,54,1627739,Kris Dunn,1610612746,LA Clippers,1,7,59,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,-3,1,1,20260407,LAC,DAL
+Shot Chart Detail,0022501156,260,1627739,Kris Dunn,1610612746,LA Clippers,2,5,41,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,169,193,1,0,20260407,LAC,DAL
+Shot Chart Detail,0022501156,365,1627739,Kris Dunn,1610612746,LA Clippers,3,11,32,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,6,58,1,0,20260407,LAC,DAL
+Shot Chart Detail,0022501156,390,1627739,Kris Dunn,1610612746,LA Clippers,3,9,21,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,29,11,1,0,20260407,LAC,DAL
+Shot Chart Detail,0022501163,20,1627739,Kris Dunn,1610612746,LA Clippers,1,9,58,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-129,231,1,0,20260408,LAC,OKC
+Shot Chart Detail,0022501163,31,1627739,Kris Dunn,1610612746,LA Clippers,1,8,44,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-33,111,1,0,20260408,LAC,OKC
+Shot Chart Detail,0022501163,44,1627739,Kris Dunn,1610612746,LA Clippers,1,7,54,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,32,1,0,20260408,LAC,OKC
+Shot Chart Detail,0022501163,85,1627739,Kris Dunn,1610612746,LA Clippers,1,4,38,Missed Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,22,16,1,0,20260408,LAC,OKC
+Shot Chart Detail,0022501163,228,1627739,Kris Dunn,1610612746,LA Clippers,2,6,36,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-173,210,1,0,20260408,LAC,OKC
+Shot Chart Detail,0022501163,245,1627739,Kris Dunn,1610612746,LA Clippers,2,6,9,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-23,15,1,0,20260408,LAC,OKC
+Shot Chart Detail,0022501163,368,1627739,Kris Dunn,1610612746,LA Clippers,3,11,12,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,8,1,1,20260408,LAC,OKC
+Shot Chart Detail,0022501183,69,1627739,Kris Dunn,1610612746,LA Clippers,1,6,45,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-158,207,1,0,20260410,POR,LAC
+Shot Chart Detail,0022501183,291,1627739,Kris Dunn,1610612746,LA Clippers,2,2,47,Made Shot,Pullup Jump shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,15,1,1,20260410,POR,LAC
+Shot Chart Detail,0022501183,327,1627739,Kris Dunn,1610612746,LA Clippers,2,0,16,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-37,113,1,1,20260410,POR,LAC
+Shot Chart Detail,0022501199,35,1627739,Kris Dunn,1610612746,LA Clippers,1,8,55,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,161,195,1,0,20260412,LAC,GSW
+Shot Chart Detail,0022501199,52,1627739,Kris Dunn,1610612746,LA Clippers,1,7,11,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,0,1,1,20260412,LAC,GSW
+Shot Chart Detail,0022501199,307,1627739,Kris Dunn,1610612746,LA Clippers,2,1,48,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,25,244,59,1,0,20260412,LAC,GSW
+Shot Chart Detail,0022501199,327,1627739,Kris Dunn,1610612746,LA Clippers,2,0,43,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,9,1,0,20260412,LAC,GSW
+Shot Chart Detail,0022501199,364,1627739,Kris Dunn,1610612746,LA Clippers,3,10,20,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-5,34,1,1,20260412,LAC,GSW
+Shot Chart Detail,0022501205,10,1627739,Kris Dunn,1610612746,LA Clippers,1,11,29,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,156,216,1,0,20251211,HOU,LAC
+Shot Chart Detail,0022501205,19,1627739,Kris Dunn,1610612746,LA Clippers,1,10,54,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,7,254,1,0,20251211,HOU,LAC
+Shot Chart Detail,0022501205,227,1627739,Kris Dunn,1610612746,LA Clippers,2,6,44,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,164,200,1,0,20251211,HOU,LAC
+Shot Chart Detail,0022501205,231,1627739,Kris Dunn,1610612746,LA Clippers,2,6,15,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,18,1,1,20251211,HOU,LAC
+Shot Chart Detail,0022501205,259,1627739,Kris Dunn,1610612746,LA Clippers,2,4,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,39,263,1,1,20251211,HOU,LAC
+Shot Chart Detail,0022501205,283,1627739,Kris Dunn,1610612746,LA Clippers,2,2,53,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,169,189,1,0,20251211,HOU,LAC
+Shot Chart Detail,0022501205,391,1627739,Kris Dunn,1610612746,LA Clippers,3,6,8,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-85,236,1,1,20251211,HOU,LAC
+Shot Chart Detail,0022501226,49,1627739,Kris Dunn,1610612746,LA Clippers,1,8,9,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,0,86,1,1,20251215,LAC,MEM
+Shot Chart Detail,0022501226,87,1627739,Kris Dunn,1610612746,LA Clippers,1,5,12,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,11,81,1,1,20251215,LAC,MEM
+Shot Chart Detail,0022501226,232,1627739,Kris Dunn,1610612746,LA Clippers,2,6,9,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,25,-241,78,1,0,20251215,LAC,MEM
+Shot Chart Detail,0022501226,268,1627739,Kris Dunn,1610612746,LA Clippers,2,3,9,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,227,38,1,1,20251215,LAC,MEM
+Shot Chart Detail,0022501226,274,1627739,Kris Dunn,1610612746,LA Clippers,2,2,39,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,33,23,1,0,20251215,LAC,MEM
+Shot Chart Detail,0022501226,332,1627739,Kris Dunn,1610612746,LA Clippers,3,10,2,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,45,1,1,20251215,LAC,MEM
+Shot Chart Detail,0022501226,335,1627739,Kris Dunn,1610612746,LA Clippers,3,9,37,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,55,1,1,20251215,LAC,MEM
+Shot Chart Detail,0022501226,340,1627739,Kris Dunn,1610612746,LA Clippers,3,9,9,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,237,59,1,0,20251215,LAC,MEM
+Shot Chart Detail,0022501226,396,1627739,Kris Dunn,1610612746,LA Clippers,3,5,34,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,10,268,1,0,20251215,LAC,MEM
+Shot Chart Detail,0022501226,552,1627739,Kris Dunn,1610612746,LA Clippers,4,6,18,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,13,1,1,20251215,LAC,MEM

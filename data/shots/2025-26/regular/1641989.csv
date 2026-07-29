@@ -1,0 +1,162 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0022500025,477,1641989,Elijah Harkless,1610612762,Utah Jazz,3,4,14,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,9,1,0,20251031,PHX,UTA
+Shot Chart Detail,0022500025,487,1641989,Elijah Harkless,1610612762,Utah Jazz,3,3,13,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,18,245,1,0,20251031,PHX,UTA
+Shot Chart Detail,0022500025,587,1641989,Elijah Harkless,1610612762,Utah Jazz,4,9,22,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,244,48,1,1,20251031,PHX,UTA
+Shot Chart Detail,0022500025,619,1641989,Elijah Harkless,1610612762,Utah Jazz,4,7,12,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,167,113,1,1,20251031,PHX,UTA
+Shot Chart Detail,0022500025,677,1641989,Elijah Harkless,1610612762,Utah Jazz,4,3,16,Missed Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,218,147,1,0,20251031,PHX,UTA
+Shot Chart Detail,0022500135,667,1641989,Elijah Harkless,1610612762,Utah Jazz,4,8,4,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,158,203,1,0,20251029,UTA,POR
+Shot Chart Detail,0022500158,125,1641989,Elijah Harkless,1610612762,Utah Jazz,1,1,56,Missed Shot,Running Layup Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-110,62,1,0,20251103,BOS,UTA
+Shot Chart Detail,0022500158,286,1641989,Elijah Harkless,1610612762,Utah Jazz,2,2,50,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-158,199,1,0,20251103,BOS,UTA
+Shot Chart Detail,0022500158,448,1641989,Elijah Harkless,1610612762,Utah Jazz,3,5,0,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20251103,BOS,UTA
+Shot Chart Detail,0022500158,667,1641989,Elijah Harkless,1610612762,Utah Jazz,4,3,34,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-104,229,1,0,20251103,BOS,UTA
+Shot Chart Detail,0022500172,150,1641989,Elijah Harkless,1610612762,Utah Jazz,1,1,40,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,28,1,1,20251105,DET,UTA
+Shot Chart Detail,0022500804,151,1641989,Elijah Harkless,1610612762,Utah Jazz,1,1,0,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,28,1,1,1,20260220,MEM,UTA
+Shot Chart Detail,0022500830,535,1641989,Elijah Harkless,1610612762,Utah Jazz,4,10,59,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-136,209,1,0,20260223,HOU,UTA
+Shot Chart Detail,0022500830,598,1641989,Elijah Harkless,1610612762,Utah Jazz,4,5,33,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-158,201,1,0,20260223,HOU,UTA
+Shot Chart Detail,0022500830,611,1641989,Elijah Harkless,1610612762,Utah Jazz,4,4,28,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,33,11,1,0,20260223,HOU,UTA
+Shot Chart Detail,0022500856,219,1641989,Elijah Harkless,1610612762,Utah Jazz,2,9,24,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-26,29,1,1,20260226,UTA,NOP
+Shot Chart Detail,0022500856,510,1641989,Elijah Harkless,1610612762,Utah Jazz,3,4,28,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-6,32,1,0,20260226,UTA,NOP
+Shot Chart Detail,0022500856,672,1641989,Elijah Harkless,1610612762,Utah Jazz,4,6,30,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,36,43,1,1,20260226,UTA,NOP
+Shot Chart Detail,0022500856,698,1641989,Elijah Harkless,1610612762,Utah Jazz,4,4,14,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-74,241,1,0,20260226,UTA,NOP
+Shot Chart Detail,0022500856,713,1641989,Elijah Harkless,1610612762,Utah Jazz,4,3,10,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,13,1,1,20260226,UTA,NOP
+Shot Chart Detail,0022500856,731,1641989,Elijah Harkless,1610612762,Utah Jazz,4,0,47,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-37,30,1,0,20260226,UTA,NOP
+Shot Chart Detail,0022500867,93,1641989,Elijah Harkless,1610612762,Utah Jazz,1,5,57,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,26,18,1,1,20260228,UTA,NOP
+Shot Chart Detail,0022500867,145,1641989,Elijah Harkless,1610612762,Utah Jazz,1,2,56,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,0,1,0,20260228,UTA,NOP
+Shot Chart Detail,0022500867,246,1641989,Elijah Harkless,1610612762,Utah Jazz,2,8,35,Missed Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,6,48,1,0,20260228,UTA,NOP
+Shot Chart Detail,0022500867,487,1641989,Elijah Harkless,1610612762,Utah Jazz,3,3,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,163,195,1,1,20260228,UTA,NOP
+Shot Chart Detail,0022500867,491,1641989,Elijah Harkless,1610612762,Utah Jazz,3,3,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-174,179,1,1,20260228,UTA,NOP
+Shot Chart Detail,0022500867,511,1641989,Elijah Harkless,1610612762,Utah Jazz,3,2,25,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,26,22,1,1,20260228,UTA,NOP
+Shot Chart Detail,0022500867,669,1641989,Elijah Harkless,1610612762,Utah Jazz,4,2,44,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-222,-8,1,0,20260228,UTA,NOP
+Shot Chart Detail,0022500867,690,1641989,Elijah Harkless,1610612762,Utah Jazz,4,1,44,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260228,UTA,NOP
+Shot Chart Detail,0022500867,721,1641989,Elijah Harkless,1610612762,Utah Jazz,4,0,5,Missed Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,-206,72,1,0,20260228,UTA,NOP
+Shot Chart Detail,0022500881,27,1641989,Elijah Harkless,1610612762,Utah Jazz,1,10,33,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-228,114,1,0,20260302,UTA,DEN
+Shot Chart Detail,0022500881,51,1641989,Elijah Harkless,1610612762,Utah Jazz,1,8,35,Missed Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-40,9,1,0,20260302,UTA,DEN
+Shot Chart Detail,0022500881,281,1641989,Elijah Harkless,1610612762,Utah Jazz,2,1,0,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,43,1,0,20260302,UTA,DEN
+Shot Chart Detail,0022500881,328,1641989,Elijah Harkless,1610612762,Utah Jazz,3,9,27,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,16,1,0,20260302,UTA,DEN
+Shot Chart Detail,0022500881,591,1641989,Elijah Harkless,1610612762,Utah Jazz,4,1,37,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-165,194,1,0,20260302,UTA,DEN
+Shot Chart Detail,0022500895,46,1641989,Elijah Harkless,1610612762,Utah Jazz,1,7,59,Missed Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1,11,1,0,20260304,PHI,UTA
+Shot Chart Detail,0022500895,74,1641989,Elijah Harkless,1610612762,Utah Jazz,1,6,23,Missed Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,20,129,162,1,0,20260304,PHI,UTA
+Shot Chart Detail,0022500895,254,1641989,Elijah Harkless,1610612762,Utah Jazz,2,5,20,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,9,1,0,20260304,PHI,UTA
+Shot Chart Detail,0022500895,269,1641989,Elijah Harkless,1610612762,Utah Jazz,2,4,25,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,0,1,1,20260304,PHI,UTA
+Shot Chart Detail,0022500895,353,1641989,Elijah Harkless,1610612762,Utah Jazz,3,10,50,Missed Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,25,-249,62,1,0,20260304,PHI,UTA
+Shot Chart Detail,0022500900,157,1641989,Elijah Harkless,1610612762,Utah Jazz,2,11,19,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,207,163,1,0,20260305,WAS,UTA
+Shot Chart Detail,0022500900,245,1641989,Elijah Harkless,1610612762,Utah Jazz,2,8,48,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,12,1,0,20260305,WAS,UTA
+Shot Chart Detail,0022500900,544,1641989,Elijah Harkless,1610612762,Utah Jazz,4,11,36,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,176,197,1,0,20260305,WAS,UTA
+Shot Chart Detail,0022500919,142,1641989,Elijah Harkless,1610612762,Utah Jazz,1,1,52,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,29,1,0,20260307,MIL,UTA
+Shot Chart Detail,0022500919,168,1641989,Elijah Harkless,1610612762,Utah Jazz,1,0,31,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-87,253,1,0,20260307,MIL,UTA
+Shot Chart Detail,0022500919,215,1641989,Elijah Harkless,1610612762,Utah Jazz,2,8,20,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,225,53,1,0,20260307,MIL,UTA
+Shot Chart Detail,0022500919,489,1641989,Elijah Harkless,1610612762,Utah Jazz,3,1,55,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,25,1,1,20260307,MIL,UTA
+Shot Chart Detail,0022500919,516,1641989,Elijah Harkless,1610612762,Utah Jazz,4,10,52,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,61,249,1,0,20260307,MIL,UTA
+Shot Chart Detail,0022500919,543,1641989,Elijah Harkless,1610612762,Utah Jazz,4,8,48,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,7,1,1,20260307,MIL,UTA
+Shot Chart Detail,0022500919,550,1641989,Elijah Harkless,1610612762,Utah Jazz,4,8,14,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,98,138,1,0,20260307,MIL,UTA
+Shot Chart Detail,0022500934,136,1641989,Elijah Harkless,1610612762,Utah Jazz,1,2,26,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,86,66,1,0,20260309,UTA,GSW
+Shot Chart Detail,0022500934,139,1641989,Elijah Harkless,1610612762,Utah Jazz,1,2,10,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,36,16,1,1,20260309,UTA,GSW
+Shot Chart Detail,0022500934,156,1641989,Elijah Harkless,1610612762,Utah Jazz,1,0,27,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,-55,127,1,1,20260309,UTA,GSW
+Shot Chart Detail,0022500934,160,1641989,Elijah Harkless,1610612762,Utah Jazz,1,0,0,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-51,152,1,1,20260309,UTA,GSW
+Shot Chart Detail,0022500934,217,1641989,Elijah Harkless,1610612762,Utah Jazz,2,8,9,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,233,88,1,0,20260309,UTA,GSW
+Shot Chart Detail,0022500934,247,1641989,Elijah Harkless,1610612762,Utah Jazz,2,6,34,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-127,247,1,1,20260309,UTA,GSW
+Shot Chart Detail,0022500934,523,1641989,Elijah Harkless,1610612762,Utah Jazz,4,11,39,Missed Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,20,1,0,20260309,UTA,GSW
+Shot Chart Detail,0022500934,556,1641989,Elijah Harkless,1610612762,Utah Jazz,4,9,18,Missed Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,76,241,1,0,20260309,UTA,GSW
+Shot Chart Detail,0022500934,582,1641989,Elijah Harkless,1610612762,Utah Jazz,4,7,42,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,37,63,1,0,20260309,UTA,GSW
+Shot Chart Detail,0022500934,611,1641989,Elijah Harkless,1610612762,Utah Jazz,4,4,56,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,30,-173,247,1,0,20260309,UTA,GSW
+Shot Chart Detail,0022500949,166,1641989,Elijah Harkless,1610612762,Utah Jazz,1,0,32,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-70,249,1,0,20260311,UTA,NYK
+Shot Chart Detail,0022500949,177,1641989,Elijah Harkless,1610612762,Utah Jazz,2,11,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-227,120,1,1,20260311,UTA,NYK
+Shot Chart Detail,0022500949,231,1641989,Elijah Harkless,1610612762,Utah Jazz,2,7,37,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,74,238,1,0,20260311,UTA,NYK
+Shot Chart Detail,0022500949,462,1641989,Elijah Harkless,1610612762,Utah Jazz,3,3,3,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-224,8,1,0,20260311,UTA,NYK
+Shot Chart Detail,0022500949,481,1641989,Elijah Harkless,1610612762,Utah Jazz,3,2,7,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,97,68,1,0,20260311,UTA,NYK
+Shot Chart Detail,0022500949,602,1641989,Elijah Harkless,1610612762,Utah Jazz,4,4,59,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,104,130,1,0,20260311,UTA,NYK
+Shot Chart Detail,0022500967,121,1641989,Elijah Harkless,1610612762,Utah Jazz,1,4,36,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-239,44,1,0,20260313,POR,UTA
+Shot Chart Detail,0022500967,131,1641989,Elijah Harkless,1610612762,Utah Jazz,1,4,2,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,48,254,1,0,20260313,POR,UTA
+Shot Chart Detail,0022500967,366,1641989,Elijah Harkless,1610612762,Utah Jazz,3,9,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,218,120,1,1,20260313,POR,UTA
+Shot Chart Detail,0022500967,395,1641989,Elijah Harkless,1610612762,Utah Jazz,3,7,54,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,229,89,1,1,20260313,POR,UTA
+Shot Chart Detail,0022500967,459,1641989,Elijah Harkless,1610612762,Utah Jazz,3,3,22,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,9,1,0,20260313,POR,UTA
+Shot Chart Detail,0022500967,588,1641989,Elijah Harkless,1610612762,Utah Jazz,4,7,54,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,176,192,1,0,20260313,POR,UTA
+Shot Chart Detail,0022500967,605,1641989,Elijah Harkless,1610612762,Utah Jazz,4,6,30,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,-6,1,0,20260313,POR,UTA
+Shot Chart Detail,0022500967,621,1641989,Elijah Harkless,1610612762,Utah Jazz,4,5,26,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,21,1,0,20260313,POR,UTA
+Shot Chart Detail,0022500982,34,1641989,Elijah Harkless,1610612762,Utah Jazz,1,9,42,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,5,-16,1,1,20260315,SAC,UTA
+Shot Chart Detail,0022500982,170,1641989,Elijah Harkless,1610612762,Utah Jazz,2,11,21,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-72,22,1,1,20260315,SAC,UTA
+Shot Chart Detail,0022500982,183,1641989,Elijah Harkless,1610612762,Utah Jazz,2,10,22,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-170,193,1,0,20260315,SAC,UTA
+Shot Chart Detail,0022500982,231,1641989,Elijah Harkless,1610612762,Utah Jazz,2,5,58,Missed Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,0,134,1,0,20260315,SAC,UTA
+Shot Chart Detail,0022500982,376,1641989,Elijah Harkless,1610612762,Utah Jazz,3,8,13,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,131,227,1,0,20260315,SAC,UTA
+Shot Chart Detail,0022500982,430,1641989,Elijah Harkless,1610612762,Utah Jazz,3,4,18,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-34,257,1,0,20260315,SAC,UTA
+Shot Chart Detail,0022500982,436,1641989,Elijah Harkless,1610612762,Utah Jazz,3,3,35,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,8,1,1,20260315,SAC,UTA
+Shot Chart Detail,0022500982,455,1641989,Elijah Harkless,1610612762,Utah Jazz,3,2,31,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-85,268,1,0,20260315,SAC,UTA
+Shot Chart Detail,0022500982,612,1641989,Elijah Harkless,1610612762,Utah Jazz,4,3,19,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,74,263,1,1,20260315,SAC,UTA
+Shot Chart Detail,0022500982,642,1641989,Elijah Harkless,1610612762,Utah Jazz,4,0,55,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-50,262,1,0,20260315,SAC,UTA
+Shot Chart Detail,0022501004,75,1641989,Elijah Harkless,1610612762,Utah Jazz,1,6,7,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,5,1,0,20260318,MIN,UTA
+Shot Chart Detail,0022501004,105,1641989,Elijah Harkless,1610612762,Utah Jazz,1,4,6,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,184,174,1,0,20260318,MIN,UTA
+Shot Chart Detail,0022501004,122,1641989,Elijah Harkless,1610612762,Utah Jazz,1,3,19,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-6,8,1,1,20260318,MIN,UTA
+Shot Chart Detail,0022501004,328,1641989,Elijah Harkless,1610612762,Utah Jazz,2,2,0,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,11,1,0,20260318,MIN,UTA
+Shot Chart Detail,0022501004,332,1641989,Elijah Harkless,1610612762,Utah Jazz,2,1,31,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,11,1,1,20260318,MIN,UTA
+Shot Chart Detail,0022501004,525,1641989,Elijah Harkless,1610612762,Utah Jazz,3,0,31,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,56,249,1,0,20260318,MIN,UTA
+Shot Chart Detail,0022501004,527,1641989,Elijah Harkless,1610612762,Utah Jazz,3,0,26,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,8,1,0,20260318,MIN,UTA
+Shot Chart Detail,0022501004,686,1641989,Elijah Harkless,1610612762,Utah Jazz,4,4,20,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,8,1,1,20260318,MIN,UTA
+Shot Chart Detail,0022501004,738,1641989,Elijah Harkless,1610612762,Utah Jazz,4,1,6,Missed Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,12,37,1,0,20260318,MIN,UTA
+Shot Chart Detail,0022501014,11,1641989,Elijah Harkless,1610612762,Utah Jazz,1,11,24,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-238,2,1,0,20260319,UTA,MIL
+Shot Chart Detail,0022501014,32,1641989,Elijah Harkless,1610612762,Utah Jazz,1,8,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-33,15,1,1,20260319,UTA,MIL
+Shot Chart Detail,0022501014,97,1641989,Elijah Harkless,1610612762,Utah Jazz,1,4,43,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-114,248,1,1,20260319,UTA,MIL
+Shot Chart Detail,0022501014,111,1641989,Elijah Harkless,1610612762,Utah Jazz,1,3,55,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,34,251,1,0,20260319,UTA,MIL
+Shot Chart Detail,0022501014,113,1641989,Elijah Harkless,1610612762,Utah Jazz,1,3,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-109,249,1,1,20260319,UTA,MIL
+Shot Chart Detail,0022501014,117,1641989,Elijah Harkless,1610612762,Utah Jazz,1,3,17,Missed Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,15,-70,133,1,0,20260319,UTA,MIL
+Shot Chart Detail,0022501014,390,1641989,Elijah Harkless,1610612762,Utah Jazz,3,8,12,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,86,63,1,1,20260319,UTA,MIL
+Shot Chart Detail,0022501014,410,1641989,Elijah Harkless,1610612762,Utah Jazz,3,6,43,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-136,225,1,0,20260319,UTA,MIL
+Shot Chart Detail,0022501014,423,1641989,Elijah Harkless,1610612762,Utah Jazz,3,5,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-141,226,1,1,20260319,UTA,MIL
+Shot Chart Detail,0022501014,533,1641989,Elijah Harkless,1610612762,Utah Jazz,4,9,28,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,147,205,1,0,20260319,UTA,MIL
+Shot Chart Detail,0022501014,577,1641989,Elijah Harkless,1610612762,Utah Jazz,4,6,16,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,31,32,1,1,20260319,UTA,MIL
+Shot Chart Detail,0022501014,594,1641989,Elijah Harkless,1610612762,Utah Jazz,4,4,17,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-115,222,1,0,20260319,UTA,MIL
+Shot Chart Detail,0022501014,598,1641989,Elijah Harkless,1610612762,Utah Jazz,4,4,6,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,74,248,1,1,20260319,UTA,MIL
+Shot Chart Detail,0022501014,619,1641989,Elijah Harkless,1610612762,Utah Jazz,4,2,28,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,44,247,1,0,20260319,UTA,MIL
+Shot Chart Detail,0022501030,49,1641989,Elijah Harkless,1610612762,Utah Jazz,1,9,29,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,26,25,1,1,20260321,UTA,PHI
+Shot Chart Detail,0022501030,83,1641989,Elijah Harkless,1610612762,Utah Jazz,1,6,51,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-17,26,1,0,20260321,UTA,PHI
+Shot Chart Detail,0022501030,213,1641989,Elijah Harkless,1610612762,Utah Jazz,2,11,6,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-26,11,1,1,20260321,UTA,PHI
+Shot Chart Detail,0022501030,283,1641989,Elijah Harkless,1610612762,Utah Jazz,2,6,36,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-235,64,1,0,20260321,UTA,PHI
+Shot Chart Detail,0022501030,286,1641989,Elijah Harkless,1610612762,Utah Jazz,2,6,1,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,23,1,1,20260321,UTA,PHI
+Shot Chart Detail,0022501030,297,1641989,Elijah Harkless,1610612762,Utah Jazz,2,5,27,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-224,112,1,0,20260321,UTA,PHI
+Shot Chart Detail,0022501030,405,1641989,Elijah Harkless,1610612762,Utah Jazz,3,11,15,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,24,1,1,20260321,UTA,PHI
+Shot Chart Detail,0022501030,455,1641989,Elijah Harkless,1610612762,Utah Jazz,3,7,52,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-158,189,1,0,20260321,UTA,PHI
+Shot Chart Detail,0022501030,504,1641989,Elijah Harkless,1610612762,Utah Jazz,3,4,16,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,34,35,1,1,20260321,UTA,PHI
+Shot Chart Detail,0022501030,553,1641989,Elijah Harkless,1610612762,Utah Jazz,3,1,6,Missed Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,31,26,1,0,20260321,UTA,PHI
+Shot Chart Detail,0022501030,568,1641989,Elijah Harkless,1610612762,Utah Jazz,4,11,47,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,17,43,1,0,20260321,UTA,PHI
+Shot Chart Detail,0022501030,589,1641989,Elijah Harkless,1610612762,Utah Jazz,4,10,21,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,6,40,1,1,20260321,UTA,PHI
+Shot Chart Detail,0022501030,594,1641989,Elijah Harkless,1610612762,Utah Jazz,4,9,57,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-152,200,1,0,20260321,UTA,PHI
+Shot Chart Detail,0022501043,31,1641989,Elijah Harkless,1610612762,Utah Jazz,1,9,17,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,229,100,1,0,20260323,UTA,TOR
+Shot Chart Detail,0022501043,53,1641989,Elijah Harkless,1610612762,Utah Jazz,1,7,1,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,0,155,1,0,20260323,UTA,TOR
+Shot Chart Detail,0022501043,351,1641989,Elijah Harkless,1610612762,Utah Jazz,2,1,37,Missed Shot,Running Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,233,61,1,0,20260323,UTA,TOR
+Shot Chart Detail,0022501043,463,1641989,Elijah Harkless,1610612762,Utah Jazz,3,6,2,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-22,29,1,1,20260323,UTA,TOR
+Shot Chart Detail,0022501043,470,1641989,Elijah Harkless,1610612762,Utah Jazz,3,5,33,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,6,1,0,20260323,UTA,TOR
+Shot Chart Detail,0022501043,680,1641989,Elijah Harkless,1610612762,Utah Jazz,4,5,24,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,13,1,1,20260323,UTA,TOR
+Shot Chart Detail,0022501043,693,1641989,Elijah Harkless,1610612762,Utah Jazz,4,4,41,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-109,230,1,0,20260323,UTA,TOR
+Shot Chart Detail,0022501057,51,1641989,Elijah Harkless,1610612762,Utah Jazz,1,8,39,Missed Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,25,26,1,0,20260325,UTA,WAS
+Shot Chart Detail,0022501057,257,1641989,Elijah Harkless,1610612762,Utah Jazz,2,8,53,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-25,17,1,0,20260325,UTA,WAS
+Shot Chart Detail,0022501057,259,1641989,Elijah Harkless,1610612762,Utah Jazz,2,8,52,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260325,UTA,WAS
+Shot Chart Detail,0022501057,264,1641989,Elijah Harkless,1610612762,Utah Jazz,2,8,40,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-186,179,1,0,20260325,UTA,WAS
+Shot Chart Detail,0022501057,317,1641989,Elijah Harkless,1610612762,Utah Jazz,2,5,24,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,22,47,1,0,20260325,UTA,WAS
+Shot Chart Detail,0022501057,353,1641989,Elijah Harkless,1610612762,Utah Jazz,2,3,2,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,8,1,1,20260325,UTA,WAS
+Shot Chart Detail,0022501057,356,1641989,Elijah Harkless,1610612762,Utah Jazz,2,2,38,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-67,248,1,0,20260325,UTA,WAS
+Shot Chart Detail,0022501057,426,1641989,Elijah Harkless,1610612762,Utah Jazz,3,10,10,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-28,9,1,0,20260325,UTA,WAS
+Shot Chart Detail,0022501057,474,1641989,Elijah Harkless,1610612762,Utah Jazz,3,6,40,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,11,1,0,20260325,UTA,WAS
+Shot Chart Detail,0022501057,497,1641989,Elijah Harkless,1610612762,Utah Jazz,3,5,2,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-196,159,1,0,20260325,UTA,WAS
+Shot Chart Detail,0022501057,536,1641989,Elijah Harkless,1610612762,Utah Jazz,3,2,19,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,36,1,1,20260325,UTA,WAS
+Shot Chart Detail,0022501057,559,1641989,Elijah Harkless,1610612762,Utah Jazz,3,0,1,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,-4,1,1,20260325,UTA,WAS
+Shot Chart Detail,0022501072,133,1641989,Elijah Harkless,1610612762,Utah Jazz,1,2,23,Missed Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,25,257,1,0,20260327,DEN,UTA
+Shot Chart Detail,0022501072,138,1641989,Elijah Harkless,1610612762,Utah Jazz,1,1,35,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,4,1,0,20260327,DEN,UTA
+Shot Chart Detail,0022501072,183,1641989,Elijah Harkless,1610612762,Utah Jazz,2,11,6,Missed Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-16,41,1,0,20260327,DEN,UTA
+Shot Chart Detail,0022501072,200,1641989,Elijah Harkless,1610612762,Utah Jazz,2,9,34,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,11,1,0,20260327,DEN,UTA
+Shot Chart Detail,0022501072,245,1641989,Elijah Harkless,1610612762,Utah Jazz,2,6,48,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,5,1,0,20260327,DEN,UTA
+Shot Chart Detail,0022501072,411,1641989,Elijah Harkless,1610612762,Utah Jazz,3,6,39,Missed Shot,Running Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,244,19,1,0,20260327,DEN,UTA
+Shot Chart Detail,0022501072,494,1641989,Elijah Harkless,1610612762,Utah Jazz,3,1,19,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,146,211,1,0,20260327,DEN,UTA
+Shot Chart Detail,0022501072,545,1641989,Elijah Harkless,1610612762,Utah Jazz,4,9,48,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,165,219,1,0,20260327,DEN,UTA
+Shot Chart Detail,0022501072,547,1641989,Elijah Harkless,1610612762,Utah Jazz,4,9,39,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,18,124,1,0,20260327,DEN,UTA
+Shot Chart Detail,0022501072,554,1641989,Elijah Harkless,1610612762,Utah Jazz,4,8,52,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,227,63,1,1,20260327,DEN,UTA
+Shot Chart Detail,0022501072,561,1641989,Elijah Harkless,1610612762,Utah Jazz,4,8,27,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,50,34,1,0,20260327,DEN,UTA
+Shot Chart Detail,0022501072,569,1641989,Elijah Harkless,1610612762,Utah Jazz,4,8,3,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,20,24,1,1,20260327,DEN,UTA
+Shot Chart Detail,0022501072,592,1641989,Elijah Harkless,1610612762,Utah Jazz,4,6,49,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,43,129,1,1,20260327,DEN,UTA
+Shot Chart Detail,0022501072,626,1641989,Elijah Harkless,1610612762,Utah Jazz,4,4,39,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,13,1,0,20260327,DEN,UTA
+Shot Chart Detail,0022501072,668,1641989,Elijah Harkless,1610612762,Utah Jazz,4,1,58,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,140,248,1,0,20260327,DEN,UTA
+Shot Chart Detail,0022501072,680,1641989,Elijah Harkless,1610612762,Utah Jazz,4,1,7,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,136,222,1,1,20260327,DEN,UTA
+Shot Chart Detail,0022501081,81,1641989,Elijah Harkless,1610612762,Utah Jazz,1,5,54,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,243,7,1,0,20260328,PHX,UTA
+Shot Chart Detail,0022501081,98,1641989,Elijah Harkless,1610612762,Utah Jazz,1,4,1,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2,20,1,0,20260328,PHX,UTA
+Shot Chart Detail,0022501081,103,1641989,Elijah Harkless,1610612762,Utah Jazz,1,3,50,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,6,1,1,20260328,PHX,UTA
+Shot Chart Detail,0022501081,315,1641989,Elijah Harkless,1610612762,Utah Jazz,2,2,16,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,6,22,1,0,20260328,PHX,UTA
+Shot Chart Detail,0022501081,360,1641989,Elijah Harkless,1610612762,Utah Jazz,3,11,47,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,32,1,0,20260328,PHX,UTA
+Shot Chart Detail,0022501081,634,1641989,Elijah Harkless,1610612762,Utah Jazz,4,4,40,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-116,225,1,0,20260328,PHX,UTA

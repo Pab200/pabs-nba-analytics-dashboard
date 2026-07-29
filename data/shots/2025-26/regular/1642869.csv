@@ -1,0 +1,204 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0022500058,150,1642869,Noah Penda,1610612753,Orlando Magic,1,3,25,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,136,223,1,0,20251125,PHI,ORL
+Shot Chart Detail,0022500058,220,1642869,Noah Penda,1610612753,Orlando Magic,2,11,0,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20251125,PHI,ORL
+Shot Chart Detail,0022500058,576,1642869,Noah Penda,1610612753,Orlando Magic,4,10,43,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,18,93,1,0,20251125,PHI,ORL
+Shot Chart Detail,0022500058,602,1642869,Noah Penda,1610612753,Orlando Magic,4,8,51,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,9,37,1,0,20251125,PHI,ORL
+Shot Chart Detail,0022500058,606,1642869,Noah Penda,1610612753,Orlando Magic,4,8,36,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,41,1,1,20251125,PHI,ORL
+Shot Chart Detail,0022500058,612,1642869,Noah Penda,1610612753,Orlando Magic,4,7,45,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-6,24,1,1,20251125,PHI,ORL
+Shot Chart Detail,0022500058,635,1642869,Noah Penda,1610612753,Orlando Magic,4,6,0,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-16,30,1,0,20251125,PHI,ORL
+Shot Chart Detail,0022500058,638,1642869,Noah Penda,1610612753,Orlando Magic,4,5,50,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-18,-16,1,0,20251125,PHI,ORL
+Shot Chart Detail,0022500058,640,1642869,Noah Penda,1610612753,Orlando Magic,4,5,46,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20251125,PHI,ORL
+Shot Chart Detail,0022500114,253,1642869,Noah Penda,1610612753,Orlando Magic,2,7,37,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-228,50,1,1,20251027,PHI,ORL
+Shot Chart Detail,0022500129,539,1642869,Noah Penda,1610612753,Orlando Magic,3,2,25,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,1,27,1,1,20251029,DET,ORL
+Shot Chart Detail,0022500129,801,1642869,Noah Penda,1610612753,Orlando Magic,4,0,27,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20251029,DET,ORL
+Shot Chart Detail,0022500129,803,1642869,Noah Penda,1610612753,Orlando Magic,4,0,25,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20251029,DET,ORL
+Shot Chart Detail,0022500138,80,1642869,Noah Penda,1610612753,Orlando Magic,1,5,41,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,16,1,1,20251030,CHA,ORL
+Shot Chart Detail,0022500138,483,1642869,Noah Penda,1610612753,Orlando Magic,3,3,42,Missed Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,26,16,1,0,20251030,CHA,ORL
+Shot Chart Detail,0022500145,672,1642869,Noah Penda,1610612753,Orlando Magic,4,4,55,Missed Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,16,68,1,0,20251101,WAS,ORL
+Shot Chart Detail,0022500145,721,1642869,Noah Penda,1610612753,Orlando Magic,4,0,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,78,265,1,1,20251101,WAS,ORL
+Shot Chart Detail,0022500166,732,1642869,Noah Penda,1610612753,Orlando Magic,4,0,58,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-15,41,1,0,20251104,ATL,ORL
+Shot Chart Detail,0022500166,734,1642869,Noah Penda,1610612753,Orlando Magic,4,0,56,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20251104,ATL,ORL
+Shot Chart Detail,0022500166,745,1642869,Noah Penda,1610612753,Orlando Magic,4,0,28,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-2,57,1,1,20251104,ATL,ORL
+Shot Chart Detail,0022500269,732,1642869,Noah Penda,1610612753,Orlando Magic,4,0,39,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-118,244,1,0,20251122,ORL,NYK
+Shot Chart Detail,0022500277,400,1642869,Noah Penda,1610612753,Orlando Magic,3,8,43,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-17,20,1,1,20251123,BOS,ORL
+Shot Chart Detail,0022500277,457,1642869,Noah Penda,1610612753,Orlando Magic,3,4,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-170,225,1,1,20251123,BOS,ORL
+Shot Chart Detail,0022500277,466,1642869,Noah Penda,1610612753,Orlando Magic,3,3,46,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,32,42,1,1,20251123,BOS,ORL
+Shot Chart Detail,0022500277,498,1642869,Noah Penda,1610612753,Orlando Magic,3,1,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-172,225,1,1,20251123,BOS,ORL
+Shot Chart Detail,0022500277,510,1642869,Noah Penda,1610612753,Orlando Magic,3,0,25,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,16,1,1,20251123,BOS,ORL
+Shot Chart Detail,0022500277,600,1642869,Noah Penda,1610612753,Orlando Magic,4,3,51,Missed Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-43,120,1,0,20251123,BOS,ORL
+Shot Chart Detail,0022500314,526,1642869,Noah Penda,1610612753,Orlando Magic,3,0,20,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,6,1,1,20251201,ORL,CHI
+Shot Chart Detail,0022500314,557,1642869,Noah Penda,1610612753,Orlando Magic,4,11,13,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,229,111,1,0,20251201,ORL,CHI
+Shot Chart Detail,0022500314,571,1642869,Noah Penda,1610612753,Orlando Magic,4,10,33,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,179,194,1,1,20251201,ORL,CHI
+Shot Chart Detail,0022500314,627,1642869,Noah Penda,1610612753,Orlando Magic,4,6,13,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,38,30,1,0,20251201,ORL,CHI
+Shot Chart Detail,0022500326,125,1642869,Noah Penda,1610612753,Orlando Magic,1,2,26,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,33,-7,1,0,20251203,ORL,SAS
+Shot Chart Detail,0022500326,127,1642869,Noah Penda,1610612753,Orlando Magic,1,2,19,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20251203,ORL,SAS
+Shot Chart Detail,0022500357,691,1642869,Noah Penda,1610612753,Orlando Magic,4,1,19,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-151,211,1,0,20251207,NYK,ORL
+Shot Chart Detail,0022500357,711,1642869,Noah Penda,1610612753,Orlando Magic,4,0,45,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,-3,1,1,20251207,NYK,ORL
+Shot Chart Detail,0022500377,153,1642869,Noah Penda,1610612753,Orlando Magic,1,1,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-154,194,1,1,20251218,DEN,ORL
+Shot Chart Detail,0022500377,167,1642869,Noah Penda,1610612753,Orlando Magic,1,0,5,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,28,32,1,0,20251218,DEN,ORL
+Shot Chart Detail,0022500393,278,1642869,Noah Penda,1610612753,Orlando Magic,2,6,54,Made Shot,Running Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,19,1,1,20251220,UTA,ORL
+Shot Chart Detail,0022500393,294,1642869,Noah Penda,1610612753,Orlando Magic,2,5,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-72,257,1,1,20251220,UTA,ORL
+Shot Chart Detail,0022500393,300,1642869,Noah Penda,1610612753,Orlando Magic,2,5,19,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20251220,UTA,ORL
+Shot Chart Detail,0022500393,310,1642869,Noah Penda,1610612753,Orlando Magic,2,4,42,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-34,8,1,1,20251220,UTA,ORL
+Shot Chart Detail,0022500393,563,1642869,Noah Penda,1610612753,Orlando Magic,4,10,43,Made Shot,Driving Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-36,37,1,1,20251220,UTA,ORL
+Shot Chart Detail,0022500393,625,1642869,Noah Penda,1610612753,Orlando Magic,4,6,12,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-225,120,1,0,20251220,UTA,ORL
+Shot Chart Detail,0022500393,661,1642869,Noah Penda,1610612753,Orlando Magic,4,3,49,Missed Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-32,12,1,0,20251220,UTA,ORL
+Shot Chart Detail,0022500393,744,1642869,Noah Penda,1610612753,Orlando Magic,5,3,28,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,8,1,0,20251220,UTA,ORL
+Shot Chart Detail,0022500393,758,1642869,Noah Penda,1610612753,Orlando Magic,5,2,16,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,50,1,0,20251220,UTA,ORL
+Shot Chart Detail,0022500393,767,1642869,Noah Penda,1610612753,Orlando Magic,5,1,38,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20251220,UTA,ORL
+Shot Chart Detail,0022500393,780,1642869,Noah Penda,1610612753,Orlando Magic,5,1,6,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20251220,UTA,ORL
+Shot Chart Detail,0022500407,162,1642869,Noah Penda,1610612753,Orlando Magic,1,0,1,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20251222,GSW,ORL
+Shot Chart Detail,0022500407,676,1642869,Noah Penda,1610612753,Orlando Magic,4,3,31,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-152,204,1,0,20251222,GSW,ORL
+Shot Chart Detail,0022500407,728,1642869,Noah Penda,1610612753,Orlando Magic,4,0,32,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,29,-158,254,1,1,20251222,GSW,ORL
+Shot Chart Detail,0022500420,67,1642869,Noah Penda,1610612753,Orlando Magic,1,7,16,Missed Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,9,1,0,20251223,POR,ORL
+Shot Chart Detail,0022500420,73,1642869,Noah Penda,1610612753,Orlando Magic,1,6,23,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-36,27,1,0,20251223,POR,ORL
+Shot Chart Detail,0022500420,77,1642869,Noah Penda,1610612753,Orlando Magic,1,5,59,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-100,246,1,0,20251223,POR,ORL
+Shot Chart Detail,0022500420,83,1642869,Noah Penda,1610612753,Orlando Magic,1,5,27,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,-10,1,0,20251223,POR,ORL
+Shot Chart Detail,0022500420,105,1642869,Noah Penda,1610612753,Orlando Magic,1,4,14,Missed Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-33,49,1,0,20251223,POR,ORL
+Shot Chart Detail,0022500420,113,1642869,Noah Penda,1610612753,Orlando Magic,1,3,31,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-3,98,1,0,20251223,POR,ORL
+Shot Chart Detail,0022500420,133,1642869,Noah Penda,1610612753,Orlando Magic,1,2,8,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,27,36,1,1,20251223,POR,ORL
+Shot Chart Detail,0022500420,182,1642869,Noah Penda,1610612753,Orlando Magic,2,10,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,229,124,1,1,20251223,POR,ORL
+Shot Chart Detail,0022500420,428,1642869,Noah Penda,1610612753,Orlando Magic,3,6,20,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,129,244,1,1,20251223,POR,ORL
+Shot Chart Detail,0022500420,519,1642869,Noah Penda,1610612753,Orlando Magic,3,0,1,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-178,214,1,0,20251223,POR,ORL
+Shot Chart Detail,0022500424,87,1642869,Noah Penda,1610612753,Orlando Magic,1,4,29,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-163,184,1,0,20251226,ORL,CHA
+Shot Chart Detail,0022500424,133,1642869,Noah Penda,1610612753,Orlando Magic,1,1,14,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,23,33,1,0,20251226,ORL,CHA
+Shot Chart Detail,0022500424,138,1642869,Noah Penda,1610612753,Orlando Magic,1,0,50,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,10,1,0,20251226,ORL,CHA
+Shot Chart Detail,0022500464,145,1642869,Noah Penda,1610612753,Orlando Magic,1,2,47,Made Shot,Cutting Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-51,6,1,1,20251231,IND,ORL
+Shot Chart Detail,0022500464,172,1642869,Noah Penda,1610612753,Orlando Magic,1,1,17,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,12,24,1,1,20251231,IND,ORL
+Shot Chart Detail,0022500464,266,1642869,Noah Penda,1610612753,Orlando Magic,2,7,18,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-11,51,1,0,20251231,IND,ORL
+Shot Chart Detail,0022500511,258,1642869,Noah Penda,1610612753,Orlando Magic,2,5,29,Missed Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-25,29,1,0,20260106,WAS,ORL
+Shot Chart Detail,0022500511,448,1642869,Noah Penda,1610612753,Orlando Magic,3,3,40,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-13,54,1,1,20260106,WAS,ORL
+Shot Chart Detail,0022500511,524,1642869,Noah Penda,1610612753,Orlando Magic,3,0,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-190,189,1,1,20260106,WAS,ORL
+Shot Chart Detail,0022500511,536,1642869,Noah Penda,1610612753,Orlando Magic,4,11,18,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-175,189,1,0,20260106,WAS,ORL
+Shot Chart Detail,0022500511,586,1642869,Noah Penda,1610612753,Orlando Magic,4,8,8,Made Shot,Driving Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,21,38,1,1,20260106,WAS,ORL
+Shot Chart Detail,0022500511,589,1642869,Noah Penda,1610612753,Orlando Magic,4,7,28,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,18,188,27,1,1,20260106,WAS,ORL
+Shot Chart Detail,0022500511,656,1642869,Noah Penda,1610612753,Orlando Magic,4,3,22,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,34,1,0,20260106,WAS,ORL
+Shot Chart Detail,0022500521,155,1642869,Noah Penda,1610612753,Orlando Magic,1,1,5,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-32,-17,1,0,20260107,BKN,ORL
+Shot Chart Detail,0022500521,172,1642869,Noah Penda,1610612753,Orlando Magic,1,1,2,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-5,20,1,0,20260107,BKN,ORL
+Shot Chart Detail,0022500521,157,1642869,Noah Penda,1610612753,Orlando Magic,1,1,1,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1,14,1,0,20260107,BKN,ORL
+Shot Chart Detail,0022500521,159,1642869,Noah Penda,1610612753,Orlando Magic,1,0,59,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-18,6,1,0,20260107,BKN,ORL
+Shot Chart Detail,0022500521,183,1642869,Noah Penda,1610612753,Orlando Magic,2,11,21,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,-13,1,1,20260107,BKN,ORL
+Shot Chart Detail,0022500521,187,1642869,Noah Penda,1610612753,Orlando Magic,2,10,51,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,-34,1,1,20260107,BKN,ORL
+Shot Chart Detail,0022500521,191,1642869,Noah Penda,1610612753,Orlando Magic,2,10,14,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,175,78,1,0,20260107,BKN,ORL
+Shot Chart Detail,0022500521,196,1642869,Noah Penda,1610612753,Orlando Magic,2,9,49,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,150,197,1,0,20260107,BKN,ORL
+Shot Chart Detail,0022500521,450,1642869,Noah Penda,1610612753,Orlando Magic,3,3,15,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,6,1,1,20260107,BKN,ORL
+Shot Chart Detail,0022500521,469,1642869,Noah Penda,1610612753,Orlando Magic,3,2,5,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-25,22,1,0,20260107,BKN,ORL
+Shot Chart Detail,0022500521,532,1642869,Noah Penda,1610612753,Orlando Magic,4,8,54,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,28,20,1,1,20260107,BKN,ORL
+Shot Chart Detail,0022500521,572,1642869,Noah Penda,1610612753,Orlando Magic,4,5,33,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,4,1,0,20260107,BKN,ORL
+Shot Chart Detail,0022500521,606,1642869,Noah Penda,1610612753,Orlando Magic,4,3,33,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,233,95,1,0,20260107,BKN,ORL
+Shot Chart Detail,0022500521,623,1642869,Noah Penda,1610612753,Orlando Magic,4,1,57,Missed Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,0,32,1,0,20260107,BKN,ORL
+Shot Chart Detail,0022500521,688,1642869,Noah Penda,1610612753,Orlando Magic,5,3,27,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-61,33,1,1,20260107,BKN,ORL
+Shot Chart Detail,0022500533,21,1642869,Noah Penda,1610612753,Orlando Magic,1,10,35,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260109,ORL,PHI
+Shot Chart Detail,0022500533,65,1642869,Noah Penda,1610612753,Orlando Magic,1,6,7,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-37,19,1,1,20260109,ORL,PHI
+Shot Chart Detail,0022500533,379,1642869,Noah Penda,1610612753,Orlando Magic,3,10,30,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20260109,ORL,PHI
+Shot Chart Detail,0022500533,698,1642869,Noah Penda,1610612753,Orlando Magic,4,1,30,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,39,1,0,20260109,ORL,PHI
+Shot Chart Detail,0022500533,705,1642869,Noah Penda,1610612753,Orlando Magic,4,0,46,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-185,162,1,0,20260109,ORL,PHI
+Shot Chart Detail,0022500548,7,1642869,Noah Penda,1610612753,Orlando Magic,1,11,36,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,229,16,1,1,20260111,ORL,NOP
+Shot Chart Detail,0022500548,76,1642869,Noah Penda,1610612753,Orlando Magic,1,5,3,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-11,48,1,0,20260111,ORL,NOP
+Shot Chart Detail,0022500548,145,1642869,Noah Penda,1610612753,Orlando Magic,1,0,0,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,36,201,302,1,0,20260111,ORL,NOP
+Shot Chart Detail,0022500548,291,1642869,Noah Penda,1610612753,Orlando Magic,2,2,34,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-25,79,1,0,20260111,ORL,NOP
+Shot Chart Detail,0022500548,327,1642869,Noah Penda,1610612753,Orlando Magic,2,0,0,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-132,84,1,0,20260111,ORL,NOP
+Shot Chart Detail,0022500548,352,1642869,Noah Penda,1610612753,Orlando Magic,3,10,13,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-239,31,1,1,20260111,ORL,NOP
+Shot Chart Detail,0022500578,76,1642869,Noah Penda,1610612753,Orlando Magic,1,5,28,Missed Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,16,1,0,20260115,ORL,MEM
+Shot Chart Detail,0022500578,101,1642869,Noah Penda,1610612753,Orlando Magic,1,3,26,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,5,1,1,20260115,ORL,MEM
+Shot Chart Detail,0022500578,117,1642869,Noah Penda,1610612753,Orlando Magic,1,1,50,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-148,217,1,0,20260115,ORL,MEM
+Shot Chart Detail,0022500578,537,1642869,Noah Penda,1610612753,Orlando Magic,4,11,8,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,15,20,1,1,20260115,ORL,MEM
+Shot Chart Detail,0022500578,611,1642869,Noah Penda,1610612753,Orlando Magic,4,5,30,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,6,1,1,20260115,ORL,MEM
+Shot Chart Detail,0022500578,628,1642869,Noah Penda,1610612753,Orlando Magic,4,4,42,Missed Shot,Running Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,6,1,0,20260115,ORL,MEM
+Shot Chart Detail,0022500602,193,1642869,Noah Penda,1610612753,Orlando Magic,2,11,3,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,109,235,1,0,20260118,MEM,ORL
+Shot Chart Detail,0022500602,202,1642869,Noah Penda,1610612753,Orlando Magic,2,10,38,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,0,1,0,20260118,MEM,ORL
+Shot Chart Detail,0022500602,701,1642869,Noah Penda,1610612753,Orlando Magic,4,1,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,74,247,1,1,20260118,MEM,ORL
+Shot Chart Detail,0022500602,711,1642869,Noah Penda,1610612753,Orlando Magic,4,0,58,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,126,223,1,0,20260118,MEM,ORL
+Shot Chart Detail,0022500627,130,1642869,Noah Penda,1610612753,Orlando Magic,1,2,24,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,4,1,1,20260122,ORL,CHA
+Shot Chart Detail,0022500627,162,1642869,Noah Penda,1610612753,Orlando Magic,1,0,0,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-10,41,1,0,20260122,ORL,CHA
+Shot Chart Detail,0022500627,176,1642869,Noah Penda,1610612753,Orlando Magic,2,11,12,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,6,1,1,20260122,ORL,CHA
+Shot Chart Detail,0022500627,531,1642869,Noah Penda,1610612753,Orlando Magic,4,9,35,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,15,1,1,20260122,ORL,CHA
+Shot Chart Detail,0022500627,608,1642869,Noah Penda,1610612753,Orlando Magic,4,3,6,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,20,-44,199,1,1,20260122,ORL,CHA
+Shot Chart Detail,0022500627,616,1642869,Noah Penda,1610612753,Orlando Magic,4,2,18,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,85,237,1,1,20260122,ORL,CHA
+Shot Chart Detail,0022500646,118,1642869,Noah Penda,1610612753,Orlando Magic,1,2,6,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,4,1,0,20260124,ORL,CLE
+Shot Chart Detail,0022500646,148,1642869,Noah Penda,1610612753,Orlando Magic,1,0,30,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,54,33,1,0,20260124,ORL,CLE
+Shot Chart Detail,0022500646,193,1642869,Noah Penda,1610612753,Orlando Magic,2,10,17,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,5,18,1,1,20260124,ORL,CLE
+Shot Chart Detail,0022500646,210,1642869,Noah Penda,1610612753,Orlando Magic,2,9,19,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,150,195,1,0,20260124,ORL,CLE
+Shot Chart Detail,0022500658,237,1642869,Noah Penda,1610612753,Orlando Magic,2,7,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,189,197,1,0,20260126,CLE,ORL
+Shot Chart Detail,0022500658,440,1642869,Noah Penda,1610612753,Orlando Magic,3,5,2,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-26,75,1,0,20260126,CLE,ORL
+Shot Chart Detail,0022500658,444,1642869,Noah Penda,1610612753,Orlando Magic,3,4,29,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,5,1,1,20260126,CLE,ORL
+Shot Chart Detail,0022500658,470,1642869,Noah Penda,1610612753,Orlando Magic,3,2,30,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,18,1,0,20260126,CLE,ORL
+Shot Chart Detail,0022500674,157,1642869,Noah Penda,1610612753,Orlando Magic,1,0,25,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,227,44,1,0,20260128,MIA,ORL
+Shot Chart Detail,0022500674,168,1642869,Noah Penda,1610612753,Orlando Magic,2,11,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-58,267,1,1,20260128,MIA,ORL
+Shot Chart Detail,0022500674,178,1642869,Noah Penda,1610612753,Orlando Magic,2,10,38,Missed Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,16,1,0,20260128,MIA,ORL
+Shot Chart Detail,0022500674,181,1642869,Noah Penda,1610612753,Orlando Magic,2,10,33,Missed Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-45,10,1,0,20260128,MIA,ORL
+Shot Chart Detail,0022500674,211,1642869,Noah Penda,1610612753,Orlando Magic,2,8,22,Missed Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,12,1,0,20260128,MIA,ORL
+Shot Chart Detail,0022500674,247,1642869,Noah Penda,1610612753,Orlando Magic,2,6,15,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,28,13,1,0,20260128,MIA,ORL
+Shot Chart Detail,0022500687,177,1642869,Noah Penda,1610612753,Orlando Magic,2,11,23,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,15,36,1,0,20260130,ORL,TOR
+Shot Chart Detail,0022500687,207,1642869,Noah Penda,1610612753,Orlando Magic,2,9,19,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,5,1,0,20260130,ORL,TOR
+Shot Chart Detail,0022500703,189,1642869,Noah Penda,1610612753,Orlando Magic,2,10,43,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,15,1,0,20260201,SAS,ORL
+Shot Chart Detail,0022500703,191,1642869,Noah Penda,1610612753,Orlando Magic,2,10,39,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,9,1,1,20260201,SAS,ORL
+Shot Chart Detail,0022500703,296,1642869,Noah Penda,1610612753,Orlando Magic,2,3,33,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,89,237,1,0,20260201,SAS,ORL
+Shot Chart Detail,0022500703,491,1642869,Noah Penda,1610612753,Orlando Magic,3,2,23,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,7,1,1,20260201,SAS,ORL
+Shot Chart Detail,0022500703,716,1642869,Noah Penda,1610612753,Orlando Magic,4,0,27,Made Shot,Running Pull-Up Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,22,-163,155,1,1,20260201,SAS,ORL
+Shot Chart Detail,0022500723,101,1642869,Noah Penda,1610612753,Orlando Magic,1,4,43,Missed Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,53,8,1,0,20260203,OKC,ORL
+Shot Chart Detail,0022500723,116,1642869,Noah Penda,1610612753,Orlando Magic,1,2,54,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-201,158,1,0,20260203,OKC,ORL
+Shot Chart Detail,0022500723,221,1642869,Noah Penda,1610612753,Orlando Magic,2,9,36,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,-10,1,0,20260203,OKC,ORL
+Shot Chart Detail,0022500723,246,1642869,Noah Penda,1610612753,Orlando Magic,2,7,17,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-28,36,1,0,20260203,OKC,ORL
+Shot Chart Detail,0022500723,502,1642869,Noah Penda,1610612753,Orlando Magic,3,0,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,153,194,1,1,20260203,OKC,ORL
+Shot Chart Detail,0022500723,582,1642869,Noah Penda,1610612753,Orlando Magic,4,8,22,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,24,1,0,20260203,OKC,ORL
+Shot Chart Detail,0022500723,619,1642869,Noah Penda,1610612753,Orlando Magic,4,5,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,88,236,1,1,20260203,OKC,ORL
+Shot Chart Detail,0022500723,643,1642869,Noah Penda,1610612753,Orlando Magic,4,3,18,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-164,194,1,0,20260203,OKC,ORL
+Shot Chart Detail,0022500723,652,1642869,Noah Penda,1610612753,Orlando Magic,4,2,24,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,138,218,1,0,20260203,OKC,ORL
+Shot Chart Detail,0022500723,658,1642869,Noah Penda,1610612753,Orlando Magic,4,1,20,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-4,124,1,1,20260203,OKC,ORL
+Shot Chart Detail,0022500723,664,1642869,Noah Penda,1610612753,Orlando Magic,4,0,53,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-51,16,1,1,20260203,OKC,ORL
+Shot Chart Detail,0022500750,211,1642869,Noah Penda,1610612753,Orlando Magic,2,8,53,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,11,1,1,20260207,ORL,UTA
+Shot Chart Detail,0022500750,560,1642869,Noah Penda,1610612753,Orlando Magic,3,0,3,Made Shot,Turnaround Bank Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,80,17,1,1,20260207,ORL,UTA
+Shot Chart Detail,0022500764,235,1642869,Noah Penda,1610612753,Orlando Magic,2,7,22,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,229,77,1,0,20260209,ORL,MIL
+Shot Chart Detail,0022500764,265,1642869,Noah Penda,1610612753,Orlando Magic,2,5,42,Missed Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,-11,1,0,20260209,ORL,MIL
+Shot Chart Detail,0022500764,558,1642869,Noah Penda,1610612753,Orlando Magic,4,7,44,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,28,23,1,1,20260209,ORL,MIL
+Shot Chart Detail,0022500764,666,1642869,Noah Penda,1610612753,Orlando Magic,4,0,48,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-163,206,1,1,20260209,ORL,MIL
+Shot Chart Detail,0022500811,479,1642869,Noah Penda,1610612753,Orlando Magic,3,1,36,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,17,92,1,0,20260221,PHX,ORL
+Shot Chart Detail,0022500885,197,1642869,Noah Penda,1610612753,Orlando Magic,2,9,44,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,19,1,1,20260303,ORL,WAS
+Shot Chart Detail,0022500885,526,1642869,Noah Penda,1610612753,Orlando Magic,4,10,47,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,4,1,0,20260303,ORL,WAS
+Shot Chart Detail,0022500899,161,1642869,Noah Penda,1610612753,Orlando Magic,1,0,29,Missed Shot,Driving Reverse Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-42,25,1,0,20260305,ORL,DAL
+Shot Chart Detail,0022500899,196,1642869,Noah Penda,1610612753,Orlando Magic,2,9,32,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-130,213,1,0,20260305,ORL,DAL
+Shot Chart Detail,0022500899,203,1642869,Noah Penda,1610612753,Orlando Magic,2,8,42,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,17,1,1,20260305,ORL,DAL
+Shot Chart Detail,0022500899,217,1642869,Noah Penda,1610612753,Orlando Magic,2,8,26,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,4,1,1,20260305,ORL,DAL
+Shot Chart Detail,0022500899,545,1642869,Noah Penda,1610612753,Orlando Magic,4,11,35,Missed Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,9,47,1,0,20260305,ORL,DAL
+Shot Chart Detail,0022500899,622,1642869,Noah Penda,1610612753,Orlando Magic,4,7,32,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,20,1,0,20260305,ORL,DAL
+Shot Chart Detail,0022500899,624,1642869,Noah Penda,1610612753,Orlando Magic,4,7,20,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-48,256,1,0,20260305,ORL,DAL
+Shot Chart Detail,0022500915,240,1642869,Noah Penda,1610612753,Orlando Magic,2,8,26,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-228,31,1,0,20260307,MIN,ORL
+Shot Chart Detail,0022500915,537,1642869,Noah Penda,1610612753,Orlando Magic,4,11,35,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,4,1,0,20260307,MIN,ORL
+Shot Chart Detail,0022500926,165,1642869,Noah Penda,1610612753,Orlando Magic,2,11,19,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-175,209,1,1,20260308,MIL,ORL
+Shot Chart Detail,0022500926,173,1642869,Noah Penda,1610612753,Orlando Magic,2,10,6,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,6,1,1,20260308,MIL,ORL
+Shot Chart Detail,0022500926,189,1642869,Noah Penda,1610612753,Orlando Magic,2,8,46,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,229,-4,1,0,20260308,MIL,ORL
+Shot Chart Detail,0022500926,494,1642869,Noah Penda,1610612753,Orlando Magic,4,10,34,Missed Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-152,9,1,0,20260308,MIL,ORL
+Shot Chart Detail,0022500926,554,1642869,Noah Penda,1610612753,Orlando Magic,4,8,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-232,91,1,0,20260308,MIL,ORL
+Shot Chart Detail,0022500947,138,1642869,Noah Penda,1610612753,Orlando Magic,1,1,53,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,11,1,1,20260311,ORL,CLE
+Shot Chart Detail,0022500947,499,1642869,Noah Penda,1610612753,Orlando Magic,3,0,4,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,0,1,0,20260311,ORL,CLE
+Shot Chart Detail,0022500947,550,1642869,Noah Penda,1610612753,Orlando Magic,4,9,4,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260311,ORL,CLE
+Shot Chart Detail,0022500947,552,1642869,Noah Penda,1610612753,Orlando Magic,4,8,30,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,34,1,0,20260311,ORL,CLE
+Shot Chart Detail,0022500972,93,1642869,Noah Penda,1610612753,Orlando Magic,1,4,57,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,228,73,1,1,20260314,MIA,ORL
+Shot Chart Detail,0022500972,120,1642869,Noah Penda,1610612753,Orlando Magic,1,2,49,Made Shot,Turnaround Bank shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-36,55,1,1,20260314,MIA,ORL
+Shot Chart Detail,0022500972,407,1642869,Noah Penda,1610612753,Orlando Magic,3,5,42,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,28,41,1,0,20260314,MIA,ORL
+Shot Chart Detail,0022500972,494,1642869,Noah Penda,1610612753,Orlando Magic,4,10,57,Missed Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-5,271,1,0,20260314,MIA,ORL
+Shot Chart Detail,0022500983,493,1642869,Noah Penda,1610612753,Orlando Magic,3,2,9,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,126,232,1,0,20260316,ATL,ORL
+Shot Chart Detail,0022500983,686,1642869,Noah Penda,1610612753,Orlando Magic,4,3,30,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,6,1,1,20260316,ATL,ORL
+Shot Chart Detail,0022501008,139,1642869,Noah Penda,1610612753,Orlando Magic,1,1,28,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,21,1,0,20260319,CHA,ORL
+Shot Chart Detail,0022501008,489,1642869,Noah Penda,1610612753,Orlando Magic,3,3,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-217,141,1,0,20260319,CHA,ORL
+Shot Chart Detail,0022501008,560,1642869,Noah Penda,1610612753,Orlando Magic,4,11,5,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,29,-162,241,1,0,20260319,CHA,ORL
+Shot Chart Detail,0022501008,583,1642869,Noah Penda,1610612753,Orlando Magic,4,9,19,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,29,-175,239,1,1,20260319,CHA,ORL
+Shot Chart Detail,0022501008,600,1642869,Noah Penda,1610612753,Orlando Magic,4,7,34,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,58,254,1,0,20260319,CHA,ORL
+Shot Chart Detail,0022501008,625,1642869,Noah Penda,1610612753,Orlando Magic,4,6,6,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260319,CHA,ORL
+Shot Chart Detail,0022501008,631,1642869,Noah Penda,1610612753,Orlando Magic,4,4,59,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,37,62,1,0,20260319,CHA,ORL
+Shot Chart Detail,0022501008,685,1642869,Noah Penda,1610612753,Orlando Magic,4,1,2,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,15,272,1,1,20260319,CHA,ORL
+Shot Chart Detail,0022501024,188,1642869,Noah Penda,1610612753,Orlando Magic,2,10,26,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,14,1,1,20260321,ORL,LAL
+Shot Chart Detail,0022501024,508,1642869,Noah Penda,1610612753,Orlando Magic,3,1,38,Missed Shot,Driving Bank Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,45,17,1,0,20260321,ORL,LAL
+Shot Chart Detail,0022501024,560,1642869,Noah Penda,1610612753,Orlando Magic,4,9,24,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,13,39,126,1,0,20260321,ORL,LAL
+Shot Chart Detail,0022501039,163,1642869,Noah Penda,1610612753,Orlando Magic,1,0,27,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,22,31,1,0,20260323,ORL,IND
+Shot Chart Detail,0022501039,207,1642869,Noah Penda,1610612753,Orlando Magic,2,9,12,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-176,195,1,0,20260323,ORL,IND
+Shot Chart Detail,0022501049,174,1642869,Noah Penda,1610612753,Orlando Magic,2,10,5,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,232,121,1,0,20260324,CLE,ORL
+Shot Chart Detail,0022501086,150,1642869,Noah Penda,1610612753,Orlando Magic,1,1,36,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-87,246,1,0,20260329,TOR,ORL
+Shot Chart Detail,0022501086,635,1642869,Noah Penda,1610612753,Orlando Magic,4,7,18,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,29,1,1,20260329,TOR,ORL
+Shot Chart Detail,0022501086,682,1642869,Noah Penda,1610612753,Orlando Magic,4,3,4,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-239,57,1,0,20260329,TOR,ORL
+Shot Chart Detail,0022501107,741,1642869,Noah Penda,1610612753,Orlando Magic,4,1,49,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,29,-77,289,1,0,20260401,ORL,ATL
+Shot Chart Detail,0022501144,745,1642869,Noah Penda,1610612753,Orlando Magic,4,0,33,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,156,197,1,0,20260406,ORL,DET
+Shot Chart Detail,0022501159,631,1642869,Noah Penda,1610612753,Orlando Magic,4,5,7,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-34,46,1,0,20260408,ORL,MIN
+Shot Chart Detail,0022501177,684,1642869,Noah Penda,1610612753,Orlando Magic,4,4,13,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,146,209,1,0,20260410,CHI,ORL
+Shot Chart Detail,0022501177,716,1642869,Noah Penda,1610612753,Orlando Magic,4,2,1,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,233,79,1,0,20260410,CHI,ORL

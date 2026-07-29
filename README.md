@@ -33,37 +33,53 @@ pabs-nba-analytics-dashboard/
 ├── app.py                         # Streamlit entry point (root-level)
 │
 ├── dashboard/
-│   ├── init.py
+│   ├── __init__.py
 │   ├── components/
-│   │   ├── init.py
+│   │   ├── __init__.py
 │   │   └── styling.py             # Global CSS + table styling
 │   │
 │   └── pages/                     # Modular Streamlit pages
-│       ├── init.py
+│       ├── __init__.py
 │       ├── league_leaders.py
 │       ├── player_analysis.py
 │       ├── team_analysis.py
 │       ├── compare_players.py
 │       ├── team_comparison.py
+│       ├── shot_charts.py         # NEW: Player shot charts
 │       └── about.py
 │
 ├── src/
-│   ├── init.py
+│   ├── __init__.py
 │   ├── db.py                      # SQLite connection + query helper
 │   ├── metrics.py                 # TS%, eFG%, AST/TOV, etc.
 │   ├── colors.py                  # Team color system
 │   ├── utils.py                   # Season helpers + misc utilities
-│   └── team_stats.py              # ORtg, DRtg, Pace, possession logic
+│   ├── team_stats.py              # ORtg, DRtg, Pace, possession logic
+│   └── shot_charts/               # NEW: Shot chart engine
+│       ├── __init__.py
+│       ├── fetch_data.py          # NEW: Local shot-data loader
+│       ├── court.py               # NEW: NBA court rendering
+│       ├── plotting.py            # NEW: scatter (make/miss)
+│       ├── heatmap.py             # NEW: contour heatmap
+│       ├── hexbin.py              # NEW: hexbin density
 │
 ├── src/data_pipeline/
-│   ├── init.py
+│   ├── __init__.py
 │   ├── create_database.py         # Build nba.db from raw CSVs
 │   ├── data_loader.py             # Load new seasons into database
 │   └── normalize_br.py            # Normalize Basketball Reference CSVs
 │
 ├── data/
 │   ├── raw/                       # Raw CSVs (nba_api + BR)
-│   └── processed/                 # Cleaned tables (optional)
+│   ├── processed/                 # Cleaned tables (optional)
+│   └── shots/                     # NEW: Full shot-chart dataset (2010–11 → 2025–26)
+│       ├── 2010-11/
+│       │   ├── regular/
+│       │   └── playoffs/
+│       ├── 2011-12/
+│       │   ├── regular/
+│       │   └── playoffs/
+│       └── ...
 │
 ├── notebooks/                     # Jupyter notebooks for exploration
 ├── reports/                       # Generated charts + summaries
@@ -112,6 +128,22 @@ pabs-nba-analytics-dashboard/
   - Comparison table  
   - Grouped bar charts (ORtg, DRtg, Pace, REB, AST, 3PA)
 
+- **Shot Charts**
+  - Make/Miss Scatter
+    - Green O = make
+    - Red X = miss
+    - Hover tooltips with full shot metadata
+  - Heatmap (Contour)
+    - Geographic-style density map
+    - Smooth contour gradients
+  - Hexbin
+    - Fixed-grid hex density
+  - Fully local shot data
+    - No API calls
+    - Instant loading
+    - Supports Regular Season + Playoffs
+    - Seasons 2010-11 → 2025-26
+
 - **About Page**
 
 ---
@@ -128,6 +160,19 @@ Used for:
 Used for:
 - Older seasons (pre‑1996)
 - Normalized using `normalize_br.py`
+
+### Local Shot Data (`data/shots/`) - NEW
+A complete shot-chart dataset covering:
+- 2010-11 → 2025-26
+- Regular Season + Playoffs
+- One CSV per player per season per type:
+  `data/shots/{season}/{regular|playoffs}/{player_id}.csv`
+Each CSV contains:
+- Shot coordinates (`LOC_X`, `LOC_Y`)
+- Make/miss flags
+- Shot type, zone, distance
+- Game metadata
+- Player metadata
 
 ### Raw Data Files
 - `players.csv`
@@ -149,10 +194,18 @@ data/
 │   ├── players.csv
 │   ├── rookies.csv
 │   ├── teams.csv
-│   └── br_YYYY_per_game.csv        # Basketball Reference data
+│   └── br_YYYY_per_game.csv
 │
-└── processed/         # Cleaned, normalized, or transformed data
-
+├── processed/         # Cleaned, normalized, or transformed data
+│
+└── shots/             # NEW: Full shot-chart dataset
+    ├── 2010-11/
+    │   ├── regular/
+    │   └── playoffs/
+    ├── 2011-12/
+    │   ├── regular/
+    │   └── playoffs/
+    └── ...
 
 ### Raw Data (`data/raw/`)
 This folder contains **all original CSVs**, including:
@@ -204,26 +257,26 @@ This pipeline ensures:
 ## 🚀 Running the Dashboard
 
 ### 1. Clone the repository
-git clone https://github.com/pabs-nba-analytics-dashboard.git (github.com in Bing)
-cd pabs-nba-analytics-dashboard
+`git clone https://github.com/pabs-nba-analytics-dashboard.git` (github.com in Bing)
+`cd pabs-nba-analytics-dashboard`
 
 ### 2. Create virtual environment
-python -m venv .venv
-source .venv/bin/activate   # Mac/Linux
-.venv\Scripts\activate      # Windows
+`python -m venv .venv`
+`source .venv/bin/activate`   # Mac/Linux
+`.venv\Scripts\activate`      # Windows
 
 ### 3. Install dependencies
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 ### 4. Run the dashboard
-streamlit run app.py
+`streamlit run app.py`
 
 ---
 
 ## 🛠️ Data Pipeline
 
 ### Build the database from scratch
-python src/data_pipeline/create_database.py
+`python src/data_pipeline/create_database.py`
 
 ### Load new seasons
 Place new CSVs into `data/raw/`:
@@ -233,10 +286,10 @@ Place new CSVs into `data/raw/`:
 
 Then run:
 
-python src/data_pipeline/data_loader.py
+`python src/data_pipeline/data_loader.py`
 
 ### Normalize Basketball Reference CSVs
-python src/data_pipeline/normalize_br.py
+`python src/data_pipeline/normalize_br.py`
 
 This converts BR data into the NBA Stats API schema.
 

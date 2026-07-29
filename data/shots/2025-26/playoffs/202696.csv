@@ -1,0 +1,38 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0042500111,299,202696,Nikola Vučević,1610612738,Boston Celtics,2,3,57,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,176,186,1,0,20260419,BOS,PHI
+Shot Chart Detail,0042500111,403,202696,Nikola Vučević,1610612738,Boston Celtics,3,9,43,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-93,58,1,0,20260419,BOS,PHI
+Shot Chart Detail,0042500111,436,202696,Nikola Vučević,1610612738,Boston Celtics,3,5,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,146,225,1,1,20260419,BOS,PHI
+Shot Chart Detail,0042500112,99,202696,Nikola Vučević,1610612738,Boston Celtics,1,3,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,131,215,1,1,20260421,BOS,PHI
+Shot Chart Detail,0042500112,133,202696,Nikola Vučević,1610612738,Boston Celtics,1,0,51,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,14,-75,127,1,1,20260421,BOS,PHI
+Shot Chart Detail,0042500112,407,202696,Nikola Vučević,1610612738,Boston Celtics,3,5,40,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-10,50,1,1,20260421,BOS,PHI
+Shot Chart Detail,0042500112,453,202696,Nikola Vučević,1610612738,Boston Celtics,3,2,38,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,54,267,1,0,20260421,BOS,PHI
+Shot Chart Detail,0042500112,473,202696,Nikola Vučević,1610612738,Boston Celtics,3,0,41,Missed Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,2,50,1,0,20260421,BOS,PHI
+Shot Chart Detail,0042500112,588,202696,Nikola Vučević,1610612738,Boston Celtics,4,3,0,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,229,9,1,0,20260421,BOS,PHI
+Shot Chart Detail,0042500112,594,202696,Nikola Vučević,1610612738,Boston Celtics,4,2,34,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,29,-4,295,1,0,20260421,BOS,PHI
+Shot Chart Detail,0042500113,58,202696,Nikola Vučević,1610612738,Boston Celtics,1,7,57,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-137,236,1,0,20260424,PHI,BOS
+Shot Chart Detail,0042500113,104,202696,Nikola Vučević,1610612738,Boston Celtics,1,4,18,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,71,259,1,1,20260424,PHI,BOS
+Shot Chart Detail,0042500113,156,202696,Nikola Vučević,1610612738,Boston Celtics,1,0,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-168,230,1,1,20260424,PHI,BOS
+Shot Chart Detail,0042500113,310,202696,Nikola Vučević,1610612738,Boston Celtics,2,2,13,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-169,214,1,0,20260424,PHI,BOS
+Shot Chart Detail,0042500113,318,202696,Nikola Vučević,1610612738,Boston Celtics,2,1,21,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-2,48,1,1,20260424,PHI,BOS
+Shot Chart Detail,0042500113,351,202696,Nikola Vučević,1610612738,Boston Celtics,3,10,2,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-21,247,1,0,20260424,PHI,BOS
+Shot Chart Detail,0042500113,362,202696,Nikola Vučević,1610612738,Boston Celtics,3,9,13,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,12,247,1,0,20260424,PHI,BOS
+Shot Chart Detail,0042500113,496,202696,Nikola Vučević,1610612738,Boston Celtics,4,10,37,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,25,246,48,1,1,20260424,PHI,BOS
+Shot Chart Detail,0042500113,572,202696,Nikola Vučević,1610612738,Boston Celtics,4,4,4,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-238,25,1,0,20260424,PHI,BOS
+Shot Chart Detail,0042500113,605,202696,Nikola Vučević,1610612738,Boston Celtics,4,0,37,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,27,1,0,20260424,PHI,BOS
+Shot Chart Detail,0042500114,51,202696,Nikola Vučević,1610612738,Boston Celtics,1,7,53,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,5,99,1,1,20260426,PHI,BOS
+Shot Chart Detail,0042500114,58,202696,Nikola Vučević,1610612738,Boston Celtics,1,7,3,Missed Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-32,36,1,0,20260426,PHI,BOS
+Shot Chart Detail,0042500114,60,202696,Nikola Vučević,1610612738,Boston Celtics,1,6,59,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260426,PHI,BOS
+Shot Chart Detail,0042500114,74,202696,Nikola Vučević,1610612738,Boston Celtics,1,5,44,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-243,55,1,0,20260426,PHI,BOS
+Shot Chart Detail,0042500114,133,202696,Nikola Vučević,1610612738,Boston Celtics,1,1,34,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-141,227,1,0,20260426,PHI,BOS
+Shot Chart Detail,0042500114,258,202696,Nikola Vučević,1610612738,Boston Celtics,2,4,30,Missed Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-20,48,1,0,20260426,PHI,BOS
+Shot Chart Detail,0042500115,117,202696,Nikola Vučević,1610612738,Boston Celtics,1,1,21,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,190,149,1,0,20260428,BOS,PHI
+Shot Chart Detail,0042500115,119,202696,Nikola Vučević,1610612738,Boston Celtics,1,1,10,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,224,-3,1,0,20260428,BOS,PHI
+Shot Chart Detail,0042500115,123,202696,Nikola Vučević,1610612738,Boston Celtics,1,0,31,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,-1,1,1,20260428,BOS,PHI
+Shot Chart Detail,0042500115,126,202696,Nikola Vučević,1610612738,Boston Celtics,1,0,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-183,170,1,0,20260428,BOS,PHI
+Shot Chart Detail,0042500115,180,202696,Nikola Vučević,1610612738,Boston Celtics,2,8,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,54,256,1,1,20260428,BOS,PHI
+Shot Chart Detail,0042500115,231,202696,Nikola Vučević,1610612738,Boston Celtics,2,5,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-92,247,1,1,20260428,BOS,PHI
+Shot Chart Detail,0042500116,304,202696,Nikola Vučević,1610612738,Boston Celtics,2,1,20,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,29,15,294,1,0,20260430,PHI,BOS
+Shot Chart Detail,0042500116,405,202696,Nikola Vučević,1610612738,Boston Celtics,3,5,7,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,62,252,1,0,20260430,PHI,BOS
+Shot Chart Detail,0042500116,427,202696,Nikola Vučević,1610612738,Boston Celtics,3,3,11,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,151,61,1,0,20260430,PHI,BOS
+Shot Chart Detail,0042500116,429,202696,Nikola Vučević,1610612738,Boston Celtics,3,3,7,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,6,1,0,20260430,PHI,BOS
+Shot Chart Detail,0042500116,462,202696,Nikola Vučević,1610612738,Boston Celtics,3,0,5,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-28,36,1,1,20260430,PHI,BOS

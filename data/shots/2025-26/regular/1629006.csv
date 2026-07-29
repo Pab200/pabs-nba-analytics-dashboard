@@ -1,0 +1,295 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0022500001,203,1629006,Josh Okogie,1610612745,Houston Rockets,2,10,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,23,-179,159,1,1,20251021,OKC,HOU
+Shot Chart Detail,0022500001,550,1629006,Josh Okogie,1610612745,Houston Rockets,4,10,42,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,-22,1,0,20251021,OKC,HOU
+Shot Chart Detail,0022500001,578,1629006,Josh Okogie,1610612745,Houston Rockets,4,7,56,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,-22,1,0,20251021,OKC,HOU
+Shot Chart Detail,0022500012,179,1629006,Josh Okogie,1610612745,Houston Rockets,2,9,48,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-59,52,1,0,20251225,LAL,HOU
+Shot Chart Detail,0022500012,406,1629006,Josh Okogie,1610612745,Houston Rockets,3,4,21,Missed Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,25,10,1,0,20251225,LAL,HOU
+Shot Chart Detail,0022500012,423,1629006,Josh Okogie,1610612745,Houston Rockets,3,2,57,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,189,22,1,0,20251225,LAL,HOU
+Shot Chart Detail,0022500012,426,1629006,Josh Okogie,1610612745,Houston Rockets,3,2,54,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,26,1,0,20251225,LAL,HOU
+Shot Chart Detail,0022500032,29,1629006,Josh Okogie,1610612745,Houston Rockets,1,9,39,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,5,1,1,20251107,SAS,HOU
+Shot Chart Detail,0022500032,44,1629006,Josh Okogie,1610612745,Houston Rockets,1,7,59,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-239,6,1,1,20251107,SAS,HOU
+Shot Chart Detail,0022500032,256,1629006,Josh Okogie,1610612745,Houston Rockets,2,5,23,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,-1,1,0,20251107,SAS,HOU
+Shot Chart Detail,0022500032,260,1629006,Josh Okogie,1610612745,Houston Rockets,2,5,9,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,6,1,1,20251107,SAS,HOU
+Shot Chart Detail,0022500032,419,1629006,Josh Okogie,1610612745,Houston Rockets,3,6,42,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,-16,1,1,20251107,SAS,HOU
+Shot Chart Detail,0022500032,652,1629006,Josh Okogie,1610612745,Houston Rockets,4,2,39,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,34,1,0,20251107,SAS,HOU
+Shot Chart Detail,0022500032,698,1629006,Josh Okogie,1610612745,Houston Rockets,4,0,23,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,14,1,0,20251107,SAS,HOU
+Shot Chart Detail,0022500042,37,1629006,Josh Okogie,1610612745,Houston Rockets,1,9,9,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,224,126,1,0,20251114,HOU,POR
+Shot Chart Detail,0022500042,55,1629006,Josh Okogie,1610612745,Houston Rockets,1,7,22,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,25,1,0,20251114,HOU,POR
+Shot Chart Detail,0022500042,308,1629006,Josh Okogie,1610612745,Houston Rockets,2,2,30,Missed Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-1,38,1,0,20251114,HOU,POR
+Shot Chart Detail,0022500042,354,1629006,Josh Okogie,1610612745,Houston Rockets,2,0,1,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20251114,HOU,POR
+Shot Chart Detail,0022500042,379,1629006,Josh Okogie,1610612745,Houston Rockets,3,10,49,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,229,47,1,1,20251114,HOU,POR
+Shot Chart Detail,0022500042,385,1629006,Josh Okogie,1610612745,Houston Rockets,3,10,17,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-26,32,1,1,20251114,HOU,POR
+Shot Chart Detail,0022500042,393,1629006,Josh Okogie,1610612745,Houston Rockets,3,9,34,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,11,1,1,20251114,HOU,POR
+Shot Chart Detail,0022500042,416,1629006,Josh Okogie,1610612745,Houston Rockets,3,8,21,Missed Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,9,21,1,0,20251114,HOU,POR
+Shot Chart Detail,0022500042,442,1629006,Josh Okogie,1610612745,Houston Rockets,3,5,42,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20251114,HOU,POR
+Shot Chart Detail,0022500054,158,1629006,Josh Okogie,1610612745,Houston Rockets,1,0,6,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,20,1,0,20251121,HOU,DEN
+Shot Chart Detail,0022500054,295,1629006,Josh Okogie,1610612745,Houston Rockets,2,1,28,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,12,1,1,20251121,HOU,DEN
+Shot Chart Detail,0022500054,298,1629006,Josh Okogie,1610612745,Houston Rockets,2,0,48,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,12,1,0,20251121,HOU,DEN
+Shot Chart Detail,0022500054,441,1629006,Josh Okogie,1610612745,Houston Rockets,3,3,20,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-154,194,1,1,20251121,HOU,DEN
+Shot Chart Detail,0022500054,468,1629006,Josh Okogie,1610612745,Houston Rockets,3,1,42,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,13,1,0,20251121,HOU,DEN
+Shot Chart Detail,0022500054,492,1629006,Josh Okogie,1610612745,Houston Rockets,3,0,0,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,10,1,0,20251121,HOU,DEN
+Shot Chart Detail,0022500066,12,1629006,Josh Okogie,1610612745,Houston Rockets,1,11,12,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,-9,1,0,20251126,GSW,HOU
+Shot Chart Detail,0022500066,256,1629006,Josh Okogie,1610612745,Houston Rockets,2,4,52,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,21,31,1,0,20251126,GSW,HOU
+Shot Chart Detail,0022500066,281,1629006,Josh Okogie,1610612745,Houston Rockets,2,2,11,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-25,15,1,0,20251126,GSW,HOU
+Shot Chart Detail,0022500066,374,1629006,Josh Okogie,1610612745,Houston Rockets,3,8,9,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,238,13,1,1,20251126,GSW,HOU
+Shot Chart Detail,0022500066,378,1629006,Josh Okogie,1610612745,Houston Rockets,3,7,36,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,-1,1,0,20251126,GSW,HOU
+Shot Chart Detail,0022500093,254,1629006,Josh Okogie,1610612745,Houston Rockets,2,10,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,194,174,1,1,20251024,HOU,DET
+Shot Chart Detail,0022500093,488,1629006,Josh Okogie,1610612745,Houston Rockets,3,8,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-228,151,1,0,20251024,HOU,DET
+Shot Chart Detail,0022500093,496,1629006,Josh Okogie,1610612745,Houston Rockets,3,7,33,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,3,1,1,20251024,HOU,DET
+Shot Chart Detail,0022500093,538,1629006,Josh Okogie,1610612745,Houston Rockets,3,5,36,Made Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-39,32,1,1,20251024,HOU,DET
+Shot Chart Detail,0022500116,10,1629006,Josh Okogie,1610612745,Houston Rockets,1,10,29,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-33,29,1,0,20251027,HOU,BKN
+Shot Chart Detail,0022500116,54,1629006,Josh Okogie,1610612745,Houston Rockets,1,6,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-186,186,1,1,20251027,HOU,BKN
+Shot Chart Detail,0022500116,97,1629006,Josh Okogie,1610612745,Houston Rockets,1,4,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,162,214,1,1,20251027,HOU,BKN
+Shot Chart Detail,0022500116,368,1629006,Josh Okogie,1610612745,Houston Rockets,3,10,23,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,9,1,1,20251027,HOU,BKN
+Shot Chart Detail,0022500116,407,1629006,Josh Okogie,1610612745,Houston Rockets,3,6,37,Missed Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-32,8,1,0,20251027,HOU,BKN
+Shot Chart Detail,0022500131,18,1629006,Josh Okogie,1610612745,Houston Rockets,1,10,56,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-161,220,1,0,20251029,TOR,HOU
+Shot Chart Detail,0022500131,201,1629006,Josh Okogie,1610612745,Houston Rockets,2,8,59,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,7,1,1,20251029,TOR,HOU
+Shot Chart Detail,0022500131,388,1629006,Josh Okogie,1610612745,Houston Rockets,3,8,41,Made Shot,Running Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,238,27,1,1,20251029,TOR,HOU
+Shot Chart Detail,0022500131,520,1629006,Josh Okogie,1610612745,Houston Rockets,3,0,7,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,6,1,1,20251029,TOR,HOU
+Shot Chart Detail,0022500131,684,1629006,Josh Okogie,1610612745,Houston Rockets,4,0,47,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,37,1,1,20251029,TOR,HOU
+Shot Chart Detail,0022500146,43,1629006,Josh Okogie,1610612745,Houston Rockets,1,7,54,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,-1,1,1,20251101,BOS,HOU
+Shot Chart Detail,0022500146,48,1629006,Josh Okogie,1610612745,Houston Rockets,1,7,16,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,23,1,1,20251101,BOS,HOU
+Shot Chart Detail,0022500146,79,1629006,Josh Okogie,1610612745,Houston Rockets,1,5,7,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,169,202,1,0,20251101,BOS,HOU
+Shot Chart Detail,0022500146,256,1629006,Josh Okogie,1610612745,Houston Rockets,2,5,4,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,229,33,1,0,20251101,BOS,HOU
+Shot Chart Detail,0022500146,469,1629006,Josh Okogie,1610612745,Houston Rockets,3,4,41,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,36,1,1,20251101,BOS,HOU
+Shot Chart Detail,0022500160,257,1629006,Josh Okogie,1610612745,Houston Rockets,2,9,8,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,167,212,1,0,20251103,HOU,DAL
+Shot Chart Detail,0022500160,304,1629006,Josh Okogie,1610612745,Houston Rockets,2,5,42,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,175,194,1,0,20251103,HOU,DAL
+Shot Chart Detail,0022500160,404,1629006,Josh Okogie,1610612745,Houston Rockets,3,11,44,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-214,146,1,0,20251103,HOU,DAL
+Shot Chart Detail,0022500160,432,1629006,Josh Okogie,1610612745,Houston Rockets,3,9,41,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,9,1,0,20251103,HOU,DAL
+Shot Chart Detail,0022500160,599,1629006,Josh Okogie,1610612745,Houston Rockets,4,11,11,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,19,1,0,20251103,HOU,DAL
+Shot Chart Detail,0022500176,16,1629006,Josh Okogie,1610612745,Houston Rockets,1,10,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,10,1,1,20251105,MEM,HOU
+Shot Chart Detail,0022500176,269,1629006,Josh Okogie,1610612745,Houston Rockets,2,5,59,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,25,29,1,0,20251105,MEM,HOU
+Shot Chart Detail,0022500176,300,1629006,Josh Okogie,1610612745,Houston Rockets,2,4,28,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,23,250,1,0,20251105,MEM,HOU
+Shot Chart Detail,0022500176,340,1629006,Josh Okogie,1610612745,Houston Rockets,2,1,54,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,2,1,0,20251105,MEM,HOU
+Shot Chart Detail,0022500176,396,1629006,Josh Okogie,1610612745,Houston Rockets,3,10,58,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-7,21,1,1,20251105,MEM,HOU
+Shot Chart Detail,0022500176,459,1629006,Josh Okogie,1610612745,Houston Rockets,3,6,37,Missed Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,22,1,0,20251105,MEM,HOU
+Shot Chart Detail,0022500176,474,1629006,Josh Okogie,1610612745,Houston Rockets,3,5,48,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,222,20,1,1,20251105,MEM,HOU
+Shot Chart Detail,0022500176,489,1629006,Josh Okogie,1610612745,Houston Rockets,3,5,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,170,202,1,1,20251105,MEM,HOU
+Shot Chart Detail,0022500176,493,1629006,Josh Okogie,1610612745,Houston Rockets,3,4,45,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,157,196,1,1,20251105,MEM,HOU
+Shot Chart Detail,0022500191,164,1629006,Josh Okogie,1610612745,Houston Rockets,1,4,29,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,13,1,0,20251109,MIL,HOU
+Shot Chart Detail,0022500191,375,1629006,Josh Okogie,1610612745,Houston Rockets,3,8,24,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-37,91,1,0,20251109,MIL,HOU
+Shot Chart Detail,0022500191,661,1629006,Josh Okogie,1610612745,Houston Rockets,4,0,47,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,29,1,0,20251109,MIL,HOU
+Shot Chart Detail,0022500218,20,1629006,Josh Okogie,1610612745,Houston Rockets,1,10,21,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20251112,HOU,WAS
+Shot Chart Detail,0022500218,94,1629006,Josh Okogie,1610612745,Houston Rockets,1,4,47,Missed Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,21,27,1,0,20251112,HOU,WAS
+Shot Chart Detail,0022500218,339,1629006,Josh Okogie,1610612745,Houston Rockets,2,2,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,180,222,1,1,20251112,HOU,WAS
+Shot Chart Detail,0022500218,360,1629006,Josh Okogie,1610612745,Houston Rockets,2,0,46,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,25,244,59,1,0,20251112,HOU,WAS
+Shot Chart Detail,0022500218,392,1629006,Josh Okogie,1610612745,Houston Rockets,3,11,27,Missed Shot,Running Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,15,1,0,20251112,HOU,WAS
+Shot Chart Detail,0022500218,394,1629006,Josh Okogie,1610612745,Houston Rockets,3,11,23,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,15,19,1,1,20251112,HOU,WAS
+Shot Chart Detail,0022500218,425,1629006,Josh Okogie,1610612745,Houston Rockets,3,8,32,Missed Shot,Alley Oop Layup shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-44,27,1,0,20251112,HOU,WAS
+Shot Chart Detail,0022500218,431,1629006,Josh Okogie,1610612745,Houston Rockets,3,8,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-174,179,1,0,20251112,HOU,WAS
+Shot Chart Detail,0022500255,142,1629006,Josh Okogie,1610612745,Houston Rockets,1,0,47,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-5,81,1,0,20251119,CLE,HOU
+Shot Chart Detail,0022500255,456,1629006,Josh Okogie,1610612745,Houston Rockets,3,5,9,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,6,1,0,20251119,CLE,HOU
+Shot Chart Detail,0022500290,16,1629006,Josh Okogie,1610612745,Houston Rockets,1,10,53,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-71,36,1,1,20251124,PHX,HOU
+Shot Chart Detail,0022500290,24,1629006,Josh Okogie,1610612745,Houston Rockets,1,10,26,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,40,46,1,1,20251124,PHX,HOU
+Shot Chart Detail,0022500290,62,1629006,Josh Okogie,1610612745,Houston Rockets,1,6,16,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,18,1,0,20251124,PHX,HOU
+Shot Chart Detail,0022500290,76,1629006,Josh Okogie,1610612745,Houston Rockets,1,5,40,Made Shot,Putback Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,23,41,1,1,20251124,PHX,HOU
+Shot Chart Detail,0022500290,90,1629006,Josh Okogie,1610612745,Houston Rockets,1,3,55,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,31,1,0,20251124,PHX,HOU
+Shot Chart Detail,0022500290,274,1629006,Josh Okogie,1610612745,Houston Rockets,2,2,29,Missed Shot,Alley Oop Layup shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,20,46,1,0,20251124,PHX,HOU
+Shot Chart Detail,0022500290,578,1629006,Josh Okogie,1610612745,Houston Rockets,3,11,37,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,21,39,1,0,20251124,PHX,HOU
+Shot Chart Detail,0022500290,397,1629006,Josh Okogie,1610612745,Houston Rockets,3,6,4,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,9,1,1,20251124,PHX,HOU
+Shot Chart Detail,0022500290,411,1629006,Josh Okogie,1610612745,Houston Rockets,3,4,38,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,15,25,1,0,20251124,PHX,HOU
+Shot Chart Detail,0022500290,430,1629006,Josh Okogie,1610612745,Houston Rockets,3,3,21,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,25,1,0,20251124,PHX,HOU
+Shot Chart Detail,0022500290,565,1629006,Josh Okogie,1610612745,Houston Rockets,4,6,53,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,17,1,0,20251124,PHX,HOU
+Shot Chart Detail,0022500301,86,1629006,Josh Okogie,1610612745,Houston Rockets,1,6,0,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,22,1,1,20251130,UTA,HOU
+Shot Chart Detail,0022500301,101,1629006,Josh Okogie,1610612745,Houston Rockets,1,5,11,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,8,-48,67,1,0,20251130,UTA,HOU
+Shot Chart Detail,0022500301,600,1629006,Josh Okogie,1610612745,Houston Rockets,4,8,12,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,228,129,1,0,20251130,UTA,HOU
+Shot Chart Detail,0022500301,662,1629006,Josh Okogie,1610612745,Houston Rockets,4,3,4,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,194,176,1,0,20251130,UTA,HOU
+Shot Chart Detail,0022500301,673,1629006,Josh Okogie,1610612745,Houston Rockets,4,2,30,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,36,13,1,1,20251130,UTA,HOU
+Shot Chart Detail,0022500301,685,1629006,Josh Okogie,1610612745,Houston Rockets,4,1,15,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20251130,UTA,HOU
+Shot Chart Detail,0022500316,218,1629006,Josh Okogie,1610612745,Houston Rockets,2,10,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-20,256,1,0,20251201,UTA,HOU
+Shot Chart Detail,0022500330,234,1629006,Josh Okogie,1610612745,Houston Rockets,2,7,40,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,33,1,1,20251203,HOU,SAC
+Shot Chart Detail,0022500330,254,1629006,Josh Okogie,1610612745,Houston Rockets,2,6,18,Missed Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,59,39,1,0,20251203,HOU,SAC
+Shot Chart Detail,0022500330,275,1629006,Josh Okogie,1610612745,Houston Rockets,2,5,9,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,239,69,1,0,20251203,HOU,SAC
+Shot Chart Detail,0022500346,13,1629006,Josh Okogie,1610612745,Houston Rockets,1,11,2,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,13,20,1,1,20251205,HOU,PHX
+Shot Chart Detail,0022500346,21,1629006,Josh Okogie,1610612745,Houston Rockets,1,10,2,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,36,20,1,1,20251205,HOU,PHX
+Shot Chart Detail,0022500346,353,1629006,Josh Okogie,1610612745,Houston Rockets,2,0,0,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-13,23,1,1,20251205,HOU,PHX
+Shot Chart Detail,0022500356,49,1629006,Josh Okogie,1610612745,Houston Rockets,1,7,27,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20251206,DAL,HOU
+Shot Chart Detail,0022500356,361,1629006,Josh Okogie,1610612745,Houston Rockets,3,9,52,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,47,1,0,20251206,DAL,HOU
+Shot Chart Detail,0022500356,567,1629006,Josh Okogie,1610612745,Houston Rockets,4,5,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,206,145,1,1,20251206,DAL,HOU
+Shot Chart Detail,0022500375,54,1629006,Josh Okogie,1610612745,Houston Rockets,1,8,46,Missed Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-6,28,1,0,20251218,NOP,HOU
+Shot Chart Detail,0022500375,177,1629006,Josh Okogie,1610612745,Houston Rockets,1,0,3,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,27,15,1,0,20251218,NOP,HOU
+Shot Chart Detail,0022500375,312,1629006,Josh Okogie,1610612745,Houston Rockets,2,3,23,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,152,191,1,1,20251218,NOP,HOU
+Shot Chart Detail,0022500375,420,1629006,Josh Okogie,1610612745,Houston Rockets,3,10,6,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,13,1,1,20251218,NOP,HOU
+Shot Chart Detail,0022500375,491,1629006,Josh Okogie,1610612745,Houston Rockets,3,4,28,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,11,1,0,20251218,NOP,HOU
+Shot Chart Detail,0022500375,495,1629006,Josh Okogie,1610612745,Houston Rockets,3,4,5,Made Shot,Cutting Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,16,1,1,20251218,NOP,HOU
+Shot Chart Detail,0022500375,679,1629006,Josh Okogie,1610612745,Houston Rockets,4,2,51,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,-5,1,0,20251218,NOP,HOU
+Shot Chart Detail,0022500386,197,1629006,Josh Okogie,1610612745,Houston Rockets,2,7,0,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-229,28,1,1,20251220,DEN,HOU
+Shot Chart Detail,0022500386,202,1629006,Josh Okogie,1610612745,Houston Rockets,2,6,30,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,15,1,1,20251220,DEN,HOU
+Shot Chart Detail,0022500386,219,1629006,Josh Okogie,1610612745,Houston Rockets,2,6,0,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,158,215,1,1,20251220,DEN,HOU
+Shot Chart Detail,0022500386,286,1629006,Josh Okogie,1610612745,Houston Rockets,2,1,6,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,235,83,1,0,20251220,DEN,HOU
+Shot Chart Detail,0022500386,516,1629006,Josh Okogie,1610612745,Houston Rockets,4,8,14,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,14,1,0,20251220,DEN,HOU
+Shot Chart Detail,0022500401,36,1629006,Josh Okogie,1610612745,Houston Rockets,1,8,8,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-241,6,1,0,20251221,SAC,HOU
+Shot Chart Detail,0022500401,50,1629006,Josh Okogie,1610612745,Houston Rockets,1,6,43,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,229,63,1,1,20251221,SAC,HOU
+Shot Chart Detail,0022500401,361,1629006,Josh Okogie,1610612745,Houston Rockets,3,11,13,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,23,1,0,20251221,SAC,HOU
+Shot Chart Detail,0022500401,427,1629006,Josh Okogie,1610612745,Houston Rockets,3,6,32,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,58,15,1,0,20251221,SAC,HOU
+Shot Chart Detail,0022500401,668,1629006,Josh Okogie,1610612745,Houston Rockets,4,1,4,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-229,27,1,0,20251221,SAC,HOU
+Shot Chart Detail,0022500422,17,1629006,Josh Okogie,1610612745,Houston Rockets,1,10,5,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,91,246,1,0,20251223,LAC,HOU
+Shot Chart Detail,0022500438,532,1629006,Josh Okogie,1610612745,Houston Rockets,4,10,17,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,48,22,1,0,20251227,HOU,CLE
+Shot Chart Detail,0022500438,559,1629006,Josh Okogie,1610612745,Houston Rockets,4,8,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,30,134,269,1,1,20251227,HOU,CLE
+Shot Chart Detail,0022500438,621,1629006,Josh Okogie,1610612745,Houston Rockets,4,4,46,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,43,18,1,1,20251227,HOU,CLE
+Shot Chart Detail,0022500438,633,1629006,Josh Okogie,1610612745,Houston Rockets,4,3,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,28,170,225,1,1,20251227,HOU,CLE
+Shot Chart Detail,0022500453,122,1629006,Josh Okogie,1610612745,Houston Rockets,1,1,52,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,22,1,1,20251229,HOU,IND
+Shot Chart Detail,0022500453,306,1629006,Josh Okogie,1610612745,Houston Rockets,2,2,0,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,17,1,0,20251229,HOU,IND
+Shot Chart Detail,0022500471,158,1629006,Josh Okogie,1610612745,Houston Rockets,1,0,1,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,32,84,1,0,20260101,BKN,HOU
+Shot Chart Detail,0022500471,240,1629006,Josh Okogie,1610612745,Houston Rockets,2,6,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-189,164,1,1,20260101,BKN,HOU
+Shot Chart Detail,0022500471,244,1629006,Josh Okogie,1610612745,Houston Rockets,2,5,29,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,-3,1,0,20260101,BKN,HOU
+Shot Chart Detail,0022500471,270,1629006,Josh Okogie,1610612745,Houston Rockets,2,3,8,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,10,1,1,20260101,BKN,HOU
+Shot Chart Detail,0022500471,600,1629006,Josh Okogie,1610612745,Houston Rockets,4,3,48,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-110,50,1,0,20260101,BKN,HOU
+Shot Chart Detail,0022500491,233,1629006,Josh Okogie,1610612745,Houston Rockets,2,7,16,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,0,1,0,20260103,DAL,HOU
+Shot Chart Detail,0022500491,254,1629006,Josh Okogie,1610612745,Houston Rockets,2,6,13,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,8,1,0,20260103,DAL,HOU
+Shot Chart Detail,0022500491,482,1629006,Josh Okogie,1610612745,Houston Rockets,3,1,48,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,11,1,1,20260103,DAL,HOU
+Shot Chart Detail,0022500505,227,1629006,Josh Okogie,1610612745,Houston Rockets,2,6,34,Missed Shot,Running Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,237,43,1,0,20260105,HOU,PHX
+Shot Chart Detail,0022500505,408,1629006,Josh Okogie,1610612745,Houston Rockets,3,5,38,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,17,1,0,20260105,HOU,PHX
+Shot Chart Detail,0022500527,87,1629006,Josh Okogie,1610612745,Houston Rockets,1,5,55,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,6,1,0,20260107,POR,HOU
+Shot Chart Detail,0022500527,374,1629006,Josh Okogie,1610612745,Houston Rockets,2,0,11,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,225,57,1,0,20260107,POR,HOU
+Shot Chart Detail,0022500540,473,1629006,Josh Okogie,1610612745,Houston Rockets,3,3,25,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,28,26,1,1,20260109,POR,HOU
+Shot Chart Detail,0022500540,502,1629006,Josh Okogie,1610612745,Houston Rockets,3,1,37,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,24,1,0,20260109,POR,HOU
+Shot Chart Detail,0022500540,609,1629006,Josh Okogie,1610612745,Houston Rockets,4,5,56,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-179,177,1,0,20260109,POR,HOU
+Shot Chart Detail,0022500557,96,1629006,Josh Okogie,1610612745,Houston Rockets,1,3,9,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,-5,1,0,20260111,SAC,HOU
+Shot Chart Detail,0022500557,200,1629006,Josh Okogie,1610612745,Houston Rockets,2,8,6,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,47,21,1,0,20260111,SAC,HOU
+Shot Chart Detail,0022500565,33,1629006,Josh Okogie,1610612745,Houston Rockets,1,8,38,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-5,32,1,1,20260113,HOU,CHI
+Shot Chart Detail,0022500565,369,1629006,Josh Okogie,1610612745,Houston Rockets,3,10,14,Made Shot,Running Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,10,1,1,20260113,HOU,CHI
+Shot Chart Detail,0022500581,7,1629006,Josh Okogie,1610612745,Houston Rockets,1,11,52,Missed Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,13,1,0,20260115,HOU,OKC
+Shot Chart Detail,0022500581,11,1629006,Josh Okogie,1610612745,Houston Rockets,1,11,16,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,238,34,1,1,20260115,HOU,OKC
+Shot Chart Detail,0022500581,73,1629006,Josh Okogie,1610612745,Houston Rockets,1,6,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-222,92,1,0,20260115,HOU,OKC
+Shot Chart Detail,0022500581,315,1629006,Josh Okogie,1610612745,Houston Rockets,2,2,42,Missed Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20260115,HOU,OKC
+Shot Chart Detail,0022500581,366,1629006,Josh Okogie,1610612745,Houston Rockets,3,10,46,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,32,1,0,20260115,HOU,OKC
+Shot Chart Detail,0022500581,386,1629006,Josh Okogie,1610612745,Houston Rockets,3,8,53,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,8,1,1,20260115,HOU,OKC
+Shot Chart Detail,0022500591,30,1629006,Josh Okogie,1610612745,Houston Rockets,1,10,4,Missed Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-16,6,1,0,20260116,HOU,MIN
+Shot Chart Detail,0022500591,78,1629006,Josh Okogie,1610612745,Houston Rockets,1,6,9,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,224,-4,1,0,20260116,HOU,MIN
+Shot Chart Detail,0022500591,464,1629006,Josh Okogie,1610612745,Houston Rockets,3,5,44,Missed Shot,Fadeaway Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,243,105,1,0,20260116,HOU,MIN
+Shot Chart Detail,0022500591,717,1629006,Josh Okogie,1610612745,Houston Rockets,4,2,15,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,20,1,0,20260116,HOU,MIN
+Shot Chart Detail,0022500604,309,1629006,Josh Okogie,1610612745,Houston Rockets,2,0,41,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,13,1,1,20260118,HOU,NOP
+Shot Chart Detail,0022500604,313,1629006,Josh Okogie,1610612745,Houston Rockets,2,0,18,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-203,157,1,0,20260118,HOU,NOP
+Shot Chart Detail,0022500604,417,1629006,Josh Okogie,1610612745,Houston Rockets,3,3,50,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,10,1,0,20260118,HOU,NOP
+Shot Chart Detail,0022500615,25,1629006,Josh Okogie,1610612745,Houston Rockets,1,9,42,Made Shot,Putback Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,29,36,1,1,20260120,HOU,SAS
+Shot Chart Detail,0022500615,368,1629006,Josh Okogie,1610612745,Houston Rockets,3,11,26,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,222,13,1,1,20260120,HOU,SAS
+Shot Chart Detail,0022500628,63,1629006,Josh Okogie,1610612745,Houston Rockets,1,6,47,Made Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,23,18,231,1,1,20260122,PHI,HOU
+Shot Chart Detail,0022500628,116,1629006,Josh Okogie,1610612745,Houston Rockets,1,2,22,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,225,58,1,1,20260122,PHI,HOU
+Shot Chart Detail,0022500628,278,1629006,Josh Okogie,1610612745,Houston Rockets,2,5,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-126,236,1,1,20260122,PHI,HOU
+Shot Chart Detail,0022500628,289,1629006,Josh Okogie,1610612745,Houston Rockets,2,3,54,Missed Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,13,31,1,0,20260122,PHI,HOU
+Shot Chart Detail,0022500635,36,1629006,Josh Okogie,1610612745,Houston Rockets,1,8,31,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-110,231,1,0,20260123,DET,HOU
+Shot Chart Detail,0022500635,312,1629006,Josh Okogie,1610612745,Houston Rockets,2,1,7,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,-6,1,1,20260123,DET,HOU
+Shot Chart Detail,0022500635,432,1629006,Josh Okogie,1610612745,Houston Rockets,3,4,39,Missed Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,2,53,1,0,20260123,DET,HOU
+Shot Chart Detail,0022500635,595,1629006,Josh Okogie,1610612745,Houston Rockets,4,5,19,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,238,32,1,1,20260123,DET,HOU
+Shot Chart Detail,0022500635,617,1629006,Josh Okogie,1610612745,Houston Rockets,4,3,59,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,15,1,1,20260123,DET,HOU
+Shot Chart Detail,0022500662,262,1629006,Josh Okogie,1610612745,Houston Rockets,2,7,5,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-224,28,1,0,20260126,HOU,MEM
+Shot Chart Detail,0022500662,555,1629006,Josh Okogie,1610612745,Houston Rockets,4,11,48,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,5,1,0,20260126,HOU,MEM
+Shot Chart Detail,0022500662,616,1629006,Josh Okogie,1610612745,Houston Rockets,4,7,18,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-26,11,1,1,20260126,HOU,MEM
+Shot Chart Detail,0022500679,267,1629006,Josh Okogie,1610612745,Houston Rockets,2,2,52,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,21,1,0,20260128,HOU,SAS
+Shot Chart Detail,0022500679,293,1629006,Josh Okogie,1610612745,Houston Rockets,2,1,6,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,22,1,0,20260128,HOU,SAS
+Shot Chart Detail,0022500679,318,1629006,Josh Okogie,1610612745,Houston Rockets,2,0,0,Missed Shot,Driving Floating Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,32,-201,249,1,0,20260128,HOU,SAS
+Shot Chart Detail,0022500682,21,1629006,Josh Okogie,1610612745,Houston Rockets,1,10,48,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20260129,ATL,HOU
+Shot Chart Detail,0022500682,52,1629006,Josh Okogie,1610612745,Houston Rockets,1,8,3,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-154,210,1,1,20260129,ATL,HOU
+Shot Chart Detail,0022500682,300,1629006,Josh Okogie,1610612745,Houston Rockets,2,2,55,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,22,1,0,20260129,ATL,HOU
+Shot Chart Detail,0022500682,369,1629006,Josh Okogie,1610612745,Houston Rockets,3,9,47,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,132,219,1,0,20260129,ATL,HOU
+Shot Chart Detail,0022500682,477,1629006,Josh Okogie,1610612745,Houston Rockets,3,3,4,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-234,87,1,1,20260129,ATL,HOU
+Shot Chart Detail,0022500682,622,1629006,Josh Okogie,1610612745,Houston Rockets,4,3,9,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,176,183,1,1,20260129,ATL,HOU
+Shot Chart Detail,0022500701,74,1629006,Josh Okogie,1610612745,Houston Rockets,1,6,54,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,13,1,1,20260131,HOU,DAL
+Shot Chart Detail,0022500701,100,1629006,Josh Okogie,1610612745,Houston Rockets,1,5,9,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,18,1,0,20260131,HOU,DAL
+Shot Chart Detail,0022500701,116,1629006,Josh Okogie,1610612745,Houston Rockets,1,3,44,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,9,29,1,1,20260131,HOU,DAL
+Shot Chart Detail,0022500701,124,1629006,Josh Okogie,1610612745,Houston Rockets,1,2,39,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,33,1,0,20260131,HOU,DAL
+Shot Chart Detail,0022500701,307,1629006,Josh Okogie,1610612745,Houston Rockets,2,3,12,Missed Shot,Running Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-15,20,1,0,20260131,HOU,DAL
+Shot Chart Detail,0022500701,438,1629006,Josh Okogie,1610612745,Houston Rockets,3,5,20,Made Shot,Running Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,10,1,1,20260131,HOU,DAL
+Shot Chart Detail,0022500701,475,1629006,Josh Okogie,1610612745,Houston Rockets,3,3,14,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,9,1,1,20260131,HOU,DAL
+Shot Chart Detail,0022500701,488,1629006,Josh Okogie,1610612745,Houston Rockets,3,1,58,Made Shot,Running Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,8,1,1,20260131,HOU,DAL
+Shot Chart Detail,0022500701,532,1629006,Josh Okogie,1610612745,Houston Rockets,4,11,24,Missed Shot,Running Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,21,1,0,20260131,HOU,DAL
+Shot Chart Detail,0022500701,537,1629006,Josh Okogie,1610612745,Houston Rockets,4,11,9,Missed Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,16,43,1,0,20260131,HOU,DAL
+Shot Chart Detail,0022500701,627,1629006,Josh Okogie,1610612745,Houston Rockets,4,4,34,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-164,69,1,0,20260131,HOU,DAL
+Shot Chart Detail,0022500728,83,1629006,Josh Okogie,1610612745,Houston Rockets,1,5,7,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-15,13,1,1,20260204,HOU,BOS
+Shot Chart Detail,0022500728,105,1629006,Josh Okogie,1610612745,Houston Rockets,1,3,46,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20260204,HOU,BOS
+Shot Chart Detail,0022500737,20,1629006,Josh Okogie,1610612745,Houston Rockets,1,10,16,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,229,-1,1,1,20260205,HOU,CHA
+Shot Chart Detail,0022500737,25,1629006,Josh Okogie,1610612745,Houston Rockets,1,9,39,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,1,26,1,1,20260205,HOU,CHA
+Shot Chart Detail,0022500748,207,1629006,Josh Okogie,1610612745,Houston Rockets,2,8,45,Missed Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,201,151,1,0,20260207,OKC,HOU
+Shot Chart Detail,0022500748,232,1629006,Josh Okogie,1610612745,Houston Rockets,2,7,25,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,-2,1,0,20260207,OKC,HOU
+Shot Chart Detail,0022500748,504,1629006,Josh Okogie,1610612745,Houston Rockets,3,1,37,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,-16,1,0,20260207,OKC,HOU
+Shot Chart Detail,0022500830,58,1629006,Josh Okogie,1610612745,Houston Rockets,1,8,26,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,14,1,0,20260223,HOU,UTA
+Shot Chart Detail,0022500830,206,1629006,Josh Okogie,1610612745,Houston Rockets,2,9,56,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,16,1,0,20260223,HOU,UTA
+Shot Chart Detail,0022500830,233,1629006,Josh Okogie,1610612745,Houston Rockets,2,8,20,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-48,19,1,0,20260223,HOU,UTA
+Shot Chart Detail,0022500830,253,1629006,Josh Okogie,1610612745,Houston Rockets,2,6,43,Made Shot,Running Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-31,14,1,1,20260223,HOU,UTA
+Shot Chart Detail,0022500845,114,1629006,Josh Okogie,1610612745,Houston Rockets,1,3,0,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,27,16,1,1,20260225,HOU,SAC
+Shot Chart Detail,0022500845,149,1629006,Josh Okogie,1610612745,Houston Rockets,1,0,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,-69,277,1,0,20260225,HOU,SAC
+Shot Chart Detail,0022500845,198,1629006,Josh Okogie,1610612745,Houston Rockets,2,8,59,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,238,23,1,1,20260225,HOU,SAC
+Shot Chart Detail,0022500845,427,1629006,Josh Okogie,1610612745,Houston Rockets,3,4,1,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,-10,1,1,20260225,HOU,SAC
+Shot Chart Detail,0022500845,431,1629006,Josh Okogie,1610612745,Houston Rockets,3,3,25,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,-2,1,1,20260225,HOU,SAC
+Shot Chart Detail,0022500845,496,1629006,Josh Okogie,1610612745,Houston Rockets,4,11,9,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,38,-7,1,1,20260225,HOU,SAC
+Shot Chart Detail,0022500845,519,1629006,Josh Okogie,1610612745,Houston Rockets,4,9,13,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-47,9,1,0,20260225,HOU,SAC
+Shot Chart Detail,0022500852,398,1629006,Josh Okogie,1610612745,Houston Rockets,3,6,58,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,22,1,0,20260226,ORL,HOU
+Shot Chart Detail,0022500852,428,1629006,Josh Okogie,1610612745,Houston Rockets,3,5,30,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,1,22,1,0,20260226,ORL,HOU
+Shot Chart Detail,0022500852,440,1629006,Josh Okogie,1610612745,Houston Rockets,3,4,35,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,21,23,1,0,20260226,ORL,HOU
+Shot Chart Detail,0022500852,492,1629006,Josh Okogie,1610612745,Houston Rockets,3,0,12,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,92,244,1,1,20260226,ORL,HOU
+Shot Chart Detail,0022500852,505,1629006,Josh Okogie,1610612745,Houston Rockets,4,11,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-228,126,1,1,20260226,ORL,HOU
+Shot Chart Detail,0022500852,525,1629006,Josh Okogie,1610612745,Houston Rockets,4,9,5,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,-6,1,0,20260226,ORL,HOU
+Shot Chart Detail,0022500852,548,1629006,Josh Okogie,1610612745,Houston Rockets,4,6,46,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,15,1,0,20260226,ORL,HOU
+Shot Chart Detail,0022500864,150,1629006,Josh Okogie,1610612745,Houston Rockets,1,1,5,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,233,78,1,0,20260228,MIA,HOU
+Shot Chart Detail,0022500879,220,1629006,Josh Okogie,1610612745,Houston Rockets,2,8,15,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,-5,1,0,20260302,WAS,HOU
+Shot Chart Detail,0022500902,112,1629006,Josh Okogie,1610612745,Houston Rockets,1,2,21,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,20,1,1,20260305,HOU,GSW
+Shot Chart Detail,0022500902,126,1629006,Josh Okogie,1610612745,Houston Rockets,1,0,24,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-212,129,1,0,20260305,HOU,GSW
+Shot Chart Detail,0022500902,249,1629006,Josh Okogie,1610612745,Houston Rockets,2,3,37,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,162,178,1,1,20260305,HOU,GSW
+Shot Chart Detail,0022500902,438,1629006,Josh Okogie,1610612745,Houston Rockets,3,1,47,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,238,13,1,1,20260305,HOU,GSW
+Shot Chart Detail,0022500902,568,1629006,Josh Okogie,1610612745,Houston Rockets,4,6,12,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-164,57,1,0,20260305,HOU,GSW
+Shot Chart Detail,0022500902,598,1629006,Josh Okogie,1610612745,Houston Rockets,4,5,32,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,5,1,0,20260305,HOU,GSW
+Shot Chart Detail,0022500927,699,1629006,Josh Okogie,1610612745,Houston Rockets,4,2,56,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,4,189,1,0,20260308,SAS,HOU
+Shot Chart Detail,0022500927,720,1629006,Josh Okogie,1610612745,Houston Rockets,4,0,32,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-195,168,1,0,20260308,SAS,HOU
+Shot Chart Detail,0022500950,69,1629006,Josh Okogie,1610612745,Houston Rockets,1,5,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-211,141,1,0,20260311,DEN,HOU
+Shot Chart Detail,0022500950,73,1629006,Josh Okogie,1610612745,Houston Rockets,1,5,26,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260311,DEN,HOU
+Shot Chart Detail,0022500950,115,1629006,Josh Okogie,1610612745,Houston Rockets,1,1,53,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,22,1,0,20260311,DEN,HOU
+Shot Chart Detail,0022500950,245,1629006,Josh Okogie,1610612745,Houston Rockets,2,5,12,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,40,15,1,1,20260311,DEN,HOU
+Shot Chart Detail,0022500950,506,1629006,Josh Okogie,1610612745,Houston Rockets,4,11,41,Missed Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,17,53,1,0,20260311,DEN,HOU
+Shot Chart Detail,0022500950,557,1629006,Josh Okogie,1610612745,Houston Rockets,4,7,16,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-114,51,1,1,20260311,DEN,HOU
+Shot Chart Detail,0022500950,560,1629006,Josh Okogie,1610612745,Houston Rockets,4,6,39,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,136,226,1,1,20260311,DEN,HOU
+Shot Chart Detail,0022500950,606,1629006,Josh Okogie,1610612745,Houston Rockets,4,3,37,Missed Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,32,11,1,0,20260311,DEN,HOU
+Shot Chart Detail,0022500950,646,1629006,Josh Okogie,1610612745,Houston Rockets,4,0,51,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,3,1,0,20260311,DEN,HOU
+Shot Chart Detail,0022500950,664,1629006,Josh Okogie,1610612745,Houston Rockets,4,0,48,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-1,20,1,0,20260311,DEN,HOU
+Shot Chart Detail,0022500950,657,1629006,Josh Okogie,1610612745,Houston Rockets,4,0,28,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-120,234,1,1,20260311,DEN,HOU
+Shot Chart Detail,0022500964,92,1629006,Josh Okogie,1610612745,Houston Rockets,1,5,13,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,10,1,1,20260313,HOU,NOP
+Shot Chart Detail,0022500964,239,1629006,Josh Okogie,1610612745,Houston Rockets,2,7,1,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,29,1,0,20260313,HOU,NOP
+Shot Chart Detail,0022501007,281,1629006,Josh Okogie,1610612745,Houston Rockets,2,1,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-116,225,1,1,20260318,HOU,LAL
+Shot Chart Detail,0022501007,440,1629006,Josh Okogie,1610612745,Houston Rockets,3,2,54,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,239,37,1,0,20260318,HOU,LAL
+Shot Chart Detail,0022501007,452,1629006,Josh Okogie,1610612745,Houston Rockets,3,1,17,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,5,10,1,0,20260318,HOU,LAL
+Shot Chart Detail,0022501018,199,1629006,Josh Okogie,1610612745,Houston Rockets,2,11,30,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,21,-191,90,1,1,20260320,HOU,ATL
+Shot Chart Detail,0022501018,617,1629006,Josh Okogie,1610612745,Houston Rockets,4,5,48,Missed Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-89,20,1,0,20260320,HOU,ATL
+Shot Chart Detail,0022501042,459,1629006,Josh Okogie,1610612745,Houston Rockets,3,4,14,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-162,211,1,0,20260323,CHI,HOU
+Shot Chart Detail,0022501088,656,1629006,Josh Okogie,1610612745,Houston Rockets,4,3,31,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,22,1,0,20260329,NOP,HOU
+Shot Chart Detail,0022501088,679,1629006,Josh Okogie,1610612745,Houston Rockets,4,1,33,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,8,1,0,20260329,NOP,HOU
+Shot Chart Detail,0022501088,686,1629006,Josh Okogie,1610612745,Houston Rockets,4,1,14,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,113,80,1,1,20260329,NOP,HOU
+Shot Chart Detail,0022501110,247,1629006,Josh Okogie,1610612745,Houston Rockets,2,5,27,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-1,23,1,1,20260401,HOU,MIL
+Shot Chart Detail,0022501110,263,1629006,Josh Okogie,1610612745,Houston Rockets,2,4,39,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260401,HOU,MIL
+Shot Chart Detail,0022501110,266,1629006,Josh Okogie,1610612745,Houston Rockets,2,4,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,29,114,267,1,1,20260401,HOU,MIL
+Shot Chart Detail,0022501110,269,1629006,Josh Okogie,1610612745,Houston Rockets,2,3,25,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,17,1,0,20260401,HOU,MIL
+Shot Chart Detail,0022501124,282,1629006,Josh Okogie,1610612745,Houston Rockets,2,3,43,Made Shot,Driving Floating Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-112,50,1,1,20260403,HOU,UTA
+Shot Chart Detail,0022501157,71,1629006,Josh Okogie,1610612745,Houston Rockets,1,6,19,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,240,-31,1,0,20260407,PHX,HOU
+Shot Chart Detail,0022501157,432,1629006,Josh Okogie,1610612745,Houston Rockets,3,10,55,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,19,1,0,20260407,PHX,HOU
+Shot Chart Detail,0022501157,476,1629006,Josh Okogie,1610612745,Houston Rockets,3,7,53,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,246,31,1,0,20260407,PHX,HOU
+Shot Chart Detail,0022501169,13,1629006,Josh Okogie,1610612745,Houston Rockets,1,11,15,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260409,HOU,PHI
+Shot Chart Detail,0022501169,114,1629006,Josh Okogie,1610612745,Houston Rockets,1,3,19,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,23,1,1,20260409,HOU,PHI
+Shot Chart Detail,0022501169,277,1629006,Josh Okogie,1610612745,Houston Rockets,2,5,37,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-69,78,1,1,20260409,HOU,PHI
+Shot Chart Detail,0022501169,363,1629006,Josh Okogie,1610612745,Houston Rockets,3,11,25,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,16,1,0,20260409,HOU,PHI
+Shot Chart Detail,0022501169,375,1629006,Josh Okogie,1610612745,Houston Rockets,3,10,58,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260409,HOU,PHI
+Shot Chart Detail,0022501169,386,1629006,Josh Okogie,1610612745,Houston Rockets,3,9,57,Missed Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,61,69,1,0,20260409,HOU,PHI
+Shot Chart Detail,0022501169,404,1629006,Josh Okogie,1610612745,Houston Rockets,3,8,46,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,22,1,0,20260409,HOU,PHI
+Shot Chart Detail,0022501169,424,1629006,Josh Okogie,1610612745,Houston Rockets,3,6,37,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20260409,HOU,PHI
+Shot Chart Detail,0022501178,11,1629006,Josh Okogie,1610612745,Houston Rockets,1,11,25,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,36,1,0,20260410,HOU,MIN
+Shot Chart Detail,0022501178,376,1629006,Josh Okogie,1610612745,Houston Rockets,3,7,30,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-224,23,1,0,20260410,HOU,MIN
+Shot Chart Detail,0022501178,644,1629006,Josh Okogie,1610612745,Houston Rockets,4,1,40,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,27,1,0,20260410,HOU,MIN
+Shot Chart Detail,0022501194,9,1629006,Josh Okogie,1610612745,Houston Rockets,1,11,28,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,77,235,1,0,20260412,HOU,MEM
+Shot Chart Detail,0022501194,255,1629006,Josh Okogie,1610612745,Houston Rockets,2,5,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-197,191,1,1,20260412,HOU,MEM
+Shot Chart Detail,0022501194,360,1629006,Josh Okogie,1610612745,Houston Rockets,3,10,28,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-31,11,1,0,20260412,HOU,MEM
+Shot Chart Detail,0022501194,389,1629006,Josh Okogie,1610612745,Houston Rockets,3,7,59,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,224,14,1,0,20260412,HOU,MEM
+Shot Chart Detail,0022501194,391,1629006,Josh Okogie,1610612745,Houston Rockets,3,7,57,Missed Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,8,1,0,20260412,HOU,MEM
+Shot Chart Detail,0022501194,417,1629006,Josh Okogie,1610612745,Houston Rockets,3,5,43,Missed Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-16,31,1,0,20260412,HOU,MEM
+Shot Chart Detail,0022501205,64,1629006,Josh Okogie,1610612745,Houston Rockets,1,6,54,Missed Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,-10,1,0,20251211,HOU,LAC
+Shot Chart Detail,0022501205,90,1629006,Josh Okogie,1610612745,Houston Rockets,1,4,55,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20251211,HOU,LAC
+Shot Chart Detail,0022501205,217,1629006,Josh Okogie,1610612745,Houston Rockets,2,7,22,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,15,1,0,20251211,HOU,LAC
+Shot Chart Detail,0022501205,385,1629006,Josh Okogie,1610612745,Houston Rockets,3,6,53,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,11,-70,96,1,0,20251211,HOU,LAC
+Shot Chart Detail,0022501205,410,1629006,Josh Okogie,1610612745,Houston Rockets,3,3,36,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,8,1,1,20251211,HOU,LAC
+Shot Chart Detail,0022501205,468,1629006,Josh Okogie,1610612745,Houston Rockets,3,0,0,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,28,27,1,1,20251211,HOU,LAC
+Shot Chart Detail,0022501225,7,1629006,Josh Okogie,1610612745,Houston Rockets,1,11,36,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-190,172,1,1,20251215,DEN,HOU
+Shot Chart Detail,0022501225,40,1629006,Josh Okogie,1610612745,Houston Rockets,1,7,30,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,2,1,1,20251215,DEN,HOU
+Shot Chart Detail,0022501225,323,1629006,Josh Okogie,1610612745,Houston Rockets,3,10,28,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,229,16,1,1,20251215,DEN,HOU
+Shot Chart Detail,0022501225,327,1629006,Josh Okogie,1610612745,Houston Rockets,3,10,12,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,0,1,1,20251215,DEN,HOU
+Shot Chart Detail,0022501225,355,1629006,Josh Okogie,1610612745,Houston Rockets,3,7,41,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,5,13,1,1,20251215,DEN,HOU
+Shot Chart Detail,0022501225,411,1629006,Josh Okogie,1610612745,Houston Rockets,3,5,56,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,8,1,0,20251215,DEN,HOU
+Shot Chart Detail,0022501225,378,1629006,Josh Okogie,1610612745,Houston Rockets,3,5,54,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20251215,DEN,HOU
+Shot Chart Detail,0022501225,404,1629006,Josh Okogie,1610612745,Houston Rockets,3,4,32,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,-10,1,1,20251215,DEN,HOU
+Shot Chart Detail,0022501225,595,1629006,Josh Okogie,1610612745,Houston Rockets,4,6,6,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,-1,1,0,20251215,DEN,HOU

@@ -1,0 +1,24 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0042500111,213,203083,Andre Drummond,1610612755,Philadelphia 76ers,2,9,20,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,239,32,1,0,20260419,BOS,PHI
+Shot Chart Detail,0042500111,231,203083,Andre Drummond,1610612755,Philadelphia 76ers,2,8,12,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-28,0,1,1,20260419,BOS,PHI
+Shot Chart Detail,0042500112,113,203083,Andre Drummond,1610612755,Philadelphia 76ers,1,2,19,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260421,BOS,PHI
+Shot Chart Detail,0042500112,201,203083,Andre Drummond,1610612755,Philadelphia 76ers,2,8,39,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-239,26,1,1,20260421,BOS,PHI
+Shot Chart Detail,0042500112,210,203083,Andre Drummond,1610612755,Philadelphia 76ers,2,7,13,Made Shot,Cutting Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-56,16,1,1,20260421,BOS,PHI
+Shot Chart Detail,0042500112,575,203083,Andre Drummond,1610612755,Philadelphia 76ers,4,4,36,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260421,BOS,PHI
+Shot Chart Detail,0042500113,309,203083,Andre Drummond,1610612755,Philadelphia 76ers,2,2,29,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260424,PHI,BOS
+Shot Chart Detail,0042500113,423,203083,Andre Drummond,1610612755,Philadelphia 76ers,3,3,37,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,221,69,1,1,20260424,PHI,BOS
+Shot Chart Detail,0042500113,469,203083,Andre Drummond,1610612755,Philadelphia 76ers,3,0,24,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-32,29,1,0,20260424,PHI,BOS
+Shot Chart Detail,0042500113,563,203083,Andre Drummond,1610612755,Philadelphia 76ers,4,4,53,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-241,65,1,1,20260424,PHI,BOS
+Shot Chart Detail,0042500113,583,203083,Andre Drummond,1610612755,Philadelphia 76ers,4,2,55,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-12,16,1,1,20260424,PHI,BOS
+Shot Chart Detail,0042500113,590,203083,Andre Drummond,1610612755,Philadelphia 76ers,4,2,19,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-4,21,1,1,20260424,PHI,BOS
+Shot Chart Detail,0042500114,100,203083,Andre Drummond,1610612755,Philadelphia 76ers,1,4,5,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,21,1,0,20260426,PHI,BOS
+Shot Chart Detail,0042500115,439,203083,Andre Drummond,1610612755,Philadelphia 76ers,3,2,52,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,17,1,1,20260428,BOS,PHI
+Shot Chart Detail,0042500116,266,203083,Andre Drummond,1610612755,Philadelphia 76ers,2,4,20,Made Shot,Putback Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,18,37,1,1,20260430,PHI,BOS
+Shot Chart Detail,0042500211,414,203083,Andre Drummond,1610612755,Philadelphia 76ers,3,4,37,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-229,39,1,0,20260504,NYK,PHI
+Shot Chart Detail,0042500212,270,203083,Andre Drummond,1610612755,Philadelphia 76ers,2,6,40,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260506,NYK,PHI
+Shot Chart Detail,0042500212,399,203083,Andre Drummond,1610612755,Philadelphia 76ers,3,9,36,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,5,1,1,20260506,NYK,PHI
+Shot Chart Detail,0042500213,256,203083,Andre Drummond,1610612755,Philadelphia 76ers,2,5,29,Missed Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,-8,1,0,20260508,PHI,NYK
+Shot Chart Detail,0042500214,123,203083,Andre Drummond,1610612755,Philadelphia 76ers,1,1,46,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260510,PHI,NYK
+Shot Chart Detail,0042500214,127,203083,Andre Drummond,1610612755,Philadelphia 76ers,1,0,58,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20260510,PHI,NYK
+Shot Chart Detail,0042500214,290,203083,Andre Drummond,1610612755,Philadelphia 76ers,2,3,11,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,-1,1,1,20260510,PHI,NYK
+Shot Chart Detail,0042500214,448,203083,Andre Drummond,1610612755,Philadelphia 76ers,3,3,33,Missed Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-47,17,1,0,20260510,PHI,NYK

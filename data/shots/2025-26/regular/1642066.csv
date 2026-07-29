@@ -1,0 +1,124 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0022500051,781,1642066,Myron Gardner,1610612748,Miami Heat,4,1,57,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,178,183,1,1,20251121,CHI,MIA
+Shot Chart Detail,0022500124,700,1642066,Myron Gardner,1610612748,Miami Heat,4,0,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-119,220,1,1,20251028,MIA,CHA
+Shot Chart Detail,0022500381,154,1642066,Myron Gardner,1610612748,Miami Heat,1,2,3,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-174,195,1,0,20251219,BOS,MIA
+Shot Chart Detail,0022500381,204,1642066,Myron Gardner,1610612748,Miami Heat,2,10,35,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,168,189,1,1,20251219,BOS,MIA
+Shot Chart Detail,0022500381,253,1642066,Myron Gardner,1610612748,Miami Heat,2,7,15,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,32,13,1,1,20251219,BOS,MIA
+Shot Chart Detail,0022500381,681,1642066,Myron Gardner,1610612748,Miami Heat,4,0,46,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,224,46,1,0,20251219,BOS,MIA
+Shot Chart Detail,0022500436,723,1642066,Myron Gardner,1610612748,Miami Heat,4,1,13,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,-1,1,0,20251227,MIA,IND
+Shot Chart Detail,0022500450,638,1642066,Myron Gardner,1610612748,Miami Heat,4,2,9,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-9,64,1,0,20251229,MIA,DEN
+Shot Chart Detail,0022500450,640,1642066,Myron Gardner,1610612748,Miami Heat,4,2,5,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,8,1,0,20251229,MIA,DEN
+Shot Chart Detail,0022500450,650,1642066,Myron Gardner,1610612748,Miami Heat,4,1,20,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-6,9,1,0,20251229,MIA,DEN
+Shot Chart Detail,0022500486,644,1642066,Myron Gardner,1610612748,Miami Heat,4,3,2,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260103,MIA,MIN
+Shot Chart Detail,0022500486,653,1642066,Myron Gardner,1610612748,Miami Heat,4,2,43,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,4,1,1,20260103,MIA,MIN
+Shot Chart Detail,0022500486,695,1642066,Myron Gardner,1610612748,Miami Heat,4,0,21,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,104,226,1,1,20260103,MIA,MIN
+Shot Chart Detail,0022500497,280,1642066,Myron Gardner,1610612748,Miami Heat,2,5,32,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,26,50,1,0,20260104,MIA,NOP
+Shot Chart Detail,0022500497,282,1642066,Myron Gardner,1610612748,Miami Heat,2,5,30,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,10,25,1,0,20260104,MIA,NOP
+Shot Chart Detail,0022500497,302,1642066,Myron Gardner,1610612748,Miami Heat,2,4,45,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,5,1,1,20260104,MIA,NOP
+Shot Chart Detail,0022500497,305,1642066,Myron Gardner,1610612748,Miami Heat,2,4,14,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,163,193,1,0,20260104,MIA,NOP
+Shot Chart Detail,0022500497,534,1642066,Myron Gardner,1610612748,Miami Heat,3,1,41,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,8,1,0,20260104,MIA,NOP
+Shot Chart Detail,0022500513,685,1642066,Myron Gardner,1610612748,Miami Heat,4,2,3,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,6,1,1,20260106,MIN,MIA
+Shot Chart Detail,0022500513,719,1642066,Myron Gardner,1610612748,Miami Heat,4,0,2,Missed Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-42,242,1,0,20260106,MIN,MIA
+Shot Chart Detail,0022500543,556,1642066,Myron Gardner,1610612748,Miami Heat,4,11,7,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,13,1,0,20260110,IND,MIA
+Shot Chart Detail,0022500543,578,1642066,Myron Gardner,1610612748,Miami Heat,4,9,24,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,13,16,1,0,20260110,IND,MIA
+Shot Chart Detail,0022500543,625,1642066,Myron Gardner,1610612748,Miami Heat,4,7,3,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,33,23,1,1,20260110,IND,MIA
+Shot Chart Detail,0022500543,648,1642066,Myron Gardner,1610612748,Miami Heat,4,5,5,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,170,185,1,0,20260110,IND,MIA
+Shot Chart Detail,0022500543,652,1642066,Myron Gardner,1610612748,Miami Heat,4,4,46,Missed Shot,Running Pull-Up Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,5,1,0,20260110,IND,MIA
+Shot Chart Detail,0022500543,685,1642066,Myron Gardner,1610612748,Miami Heat,4,2,52,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,116,218,1,0,20260110,IND,MIA
+Shot Chart Detail,0022500597,239,1642066,Myron Gardner,1610612748,Miami Heat,2,6,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,119,211,1,1,20260117,MIA,OKC
+Shot Chart Detail,0022500597,242,1642066,Myron Gardner,1610612748,Miami Heat,2,5,41,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,65,1,1,20260117,MIA,OKC
+Shot Chart Detail,0022500597,255,1642066,Myron Gardner,1610612748,Miami Heat,2,5,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,161,201,1,1,20260117,MIA,OKC
+Shot Chart Detail,0022500597,448,1642066,Myron Gardner,1610612748,Miami Heat,3,4,40,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260117,MIA,OKC
+Shot Chart Detail,0022500612,713,1642066,Myron Gardner,1610612748,Miami Heat,4,3,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-126,235,1,1,20260119,GSW,MIA
+Shot Chart Detail,0022500612,729,1642066,Myron Gardner,1610612748,Miami Heat,4,1,58,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,20,110,1,1,20260119,GSW,MIA
+Shot Chart Detail,0022500612,732,1642066,Myron Gardner,1610612748,Miami Heat,4,1,37,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-203,158,1,0,20260119,GSW,MIA
+Shot Chart Detail,0022500619,188,1642066,Myron Gardner,1610612748,Miami Heat,2,10,10,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,22,22,1,1,20260120,SAC,MIA
+Shot Chart Detail,0022500619,195,1642066,Myron Gardner,1610612748,Miami Heat,2,9,46,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,200,170,1,0,20260120,SAC,MIA
+Shot Chart Detail,0022500619,236,1642066,Myron Gardner,1610612748,Miami Heat,2,7,0,Made Shot,Cutting Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-50,34,1,1,20260120,SAC,MIA
+Shot Chart Detail,0022500619,552,1642066,Myron Gardner,1610612748,Miami Heat,4,9,51,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-173,208,1,0,20260120,SAC,MIA
+Shot Chart Detail,0022500634,184,1642066,Myron Gardner,1610612748,Miami Heat,2,11,35,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,88,242,1,0,20260122,POR,MIA
+Shot Chart Detail,0022500634,498,1642066,Myron Gardner,1610612748,Miami Heat,3,2,24,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,29,1,0,20260122,POR,MIA
+Shot Chart Detail,0022500634,542,1642066,Myron Gardner,1610612748,Miami Heat,4,11,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,119,249,1,1,20260122,POR,MIA
+Shot Chart Detail,0022500634,559,1642066,Myron Gardner,1610612748,Miami Heat,4,10,12,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,224,62,1,0,20260122,POR,MIA
+Shot Chart Detail,0022500634,589,1642066,Myron Gardner,1610612748,Miami Heat,4,7,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-183,214,1,1,20260122,POR,MIA
+Shot Chart Detail,0022500649,256,1642066,Myron Gardner,1610612748,Miami Heat,2,8,32,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-153,200,1,0,20260124,UTA,MIA
+Shot Chart Detail,0022500649,756,1642066,Myron Gardner,1610612748,Miami Heat,4,2,15,Missed Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,25,13,1,0,20260124,UTA,MIA
+Shot Chart Detail,0022500649,758,1642066,Myron Gardner,1610612748,Miami Heat,4,2,14,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260124,UTA,MIA
+Shot Chart Detail,0022500649,764,1642066,Myron Gardner,1610612748,Miami Heat,4,1,50,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,2,37,1,0,20260124,UTA,MIA
+Shot Chart Detail,0022500692,23,1642066,Myron Gardner,1610612748,Miami Heat,1,10,44,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260131,MIA,CHI
+Shot Chart Detail,0022500692,38,1642066,Myron Gardner,1610612748,Miami Heat,1,9,54,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,153,197,1,0,20260131,MIA,CHI
+Shot Chart Detail,0022500692,228,1642066,Myron Gardner,1610612748,Miami Heat,2,8,53,Made Shot,Running Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,10,1,1,20260131,MIA,CHI
+Shot Chart Detail,0022500692,250,1642066,Myron Gardner,1610612748,Miami Heat,2,7,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-107,232,1,1,20260131,MIA,CHI
+Shot Chart Detail,0022500692,438,1642066,Myron Gardner,1610612748,Miami Heat,3,7,27,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,6,1,1,20260131,MIA,CHI
+Shot Chart Detail,0022500705,294,1642066,Myron Gardner,1610612748,Miami Heat,2,5,6,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,26,22,1,0,20260201,MIA,CHI
+Shot Chart Detail,0022500705,534,1642066,Myron Gardner,1610612748,Miami Heat,3,1,1,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,232,125,1,1,20260201,MIA,CHI
+Shot Chart Detail,0022500705,587,1642066,Myron Gardner,1610612748,Miami Heat,4,10,17,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,24,260,1,0,20260201,MIA,CHI
+Shot Chart Detail,0022500705,603,1642066,Myron Gardner,1610612748,Miami Heat,4,9,1,Missed Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,-1,1,0,20260201,MIA,CHI
+Shot Chart Detail,0022500705,615,1642066,Myron Gardner,1610612748,Miami Heat,4,8,19,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,25,16,1,1,20260201,MIA,CHI
+Shot Chart Detail,0022500705,684,1642066,Myron Gardner,1610612748,Miami Heat,4,3,31,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,238,4,1,0,20260201,MIA,CHI
+Shot Chart Detail,0022500705,717,1642066,Myron Gardner,1610612748,Miami Heat,4,1,50,Missed Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-49,53,1,0,20260201,MIA,CHI
+Shot Chart Detail,0022500720,19,1642066,Myron Gardner,1610612748,Miami Heat,1,10,32,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,-1,1,1,20260203,MIA,ATL
+Shot Chart Detail,0022500720,33,1642066,Myron Gardner,1610612748,Miami Heat,1,9,31,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,11,-59,100,1,0,20260203,MIA,ATL
+Shot Chart Detail,0022500720,115,1642066,Myron Gardner,1610612748,Miami Heat,1,4,16,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,161,201,1,0,20260203,MIA,ATL
+Shot Chart Detail,0022500720,376,1642066,Myron Gardner,1610612748,Miami Heat,3,11,31,Made Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,219,112,1,1,20260203,MIA,ATL
+Shot Chart Detail,0022500720,427,1642066,Myron Gardner,1610612748,Miami Heat,3,8,2,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,7,1,1,20260203,MIA,ATL
+Shot Chart Detail,0022500720,439,1642066,Myron Gardner,1610612748,Miami Heat,3,7,3,Made Shot,Step Back Jump shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,224,55,1,1,20260203,MIA,ATL
+Shot Chart Detail,0022500720,447,1642066,Myron Gardner,1610612748,Miami Heat,3,5,56,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,17,1,0,20260203,MIA,ATL
+Shot Chart Detail,0022500720,596,1642066,Myron Gardner,1610612748,Miami Heat,4,8,52,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,32,16,1,1,20260203,MIA,ATL
+Shot Chart Detail,0022500741,421,1642066,Myron Gardner,1610612748,Miami Heat,3,8,21,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,26,1,0,20260206,BOS,MIA
+Shot Chart Detail,0022500758,196,1642066,Myron Gardner,1610612748,Miami Heat,2,9,33,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,11,1,0,20260208,WAS,MIA
+Shot Chart Detail,0022500758,198,1642066,Myron Gardner,1610612748,Miami Heat,2,9,32,Missed Shot,Tip Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-44,26,1,0,20260208,WAS,MIA
+Shot Chart Detail,0022500758,200,1642066,Myron Gardner,1610612748,Miami Heat,2,9,30,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260208,WAS,MIA
+Shot Chart Detail,0022500758,388,1642066,Myron Gardner,1610612748,Miami Heat,3,10,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,28,-191,205,1,1,20260208,WAS,MIA
+Shot Chart Detail,0022500758,397,1642066,Myron Gardner,1610612748,Miami Heat,3,10,1,Missed Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,23,4,1,0,20260208,WAS,MIA
+Shot Chart Detail,0022500758,461,1642066,Myron Gardner,1610612748,Miami Heat,3,5,25,Missed Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-131,46,1,0,20260208,WAS,MIA
+Shot Chart Detail,0022500758,602,1642066,Myron Gardner,1610612748,Miami Heat,4,7,30,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,-10,1,0,20260208,WAS,MIA
+Shot Chart Detail,0022500758,667,1642066,Myron Gardner,1610612748,Miami Heat,4,3,27,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-28,264,1,1,20260208,WAS,MIA
+Shot Chart Detail,0022500758,675,1642066,Myron Gardner,1610612748,Miami Heat,4,2,25,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,11,1,1,20260208,WAS,MIA
+Shot Chart Detail,0022500763,207,1642066,Myron Gardner,1610612748,Miami Heat,2,10,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,108,238,1,0,20260209,MIA,UTA
+Shot Chart Detail,0022500784,30,1642066,Myron Gardner,1610612748,Miami Heat,1,9,3,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-212,135,1,0,20260211,NOP,MIA
+Shot Chart Detail,0022500784,48,1642066,Myron Gardner,1610612748,Miami Heat,1,7,22,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-55,-5,1,0,20260211,NOP,MIA
+Shot Chart Detail,0022500784,72,1642066,Myron Gardner,1610612748,Miami Heat,1,5,43,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,20,1,1,20260211,NOP,MIA
+Shot Chart Detail,0022500784,104,1642066,Myron Gardner,1610612748,Miami Heat,1,3,31,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,141,218,1,0,20260211,NOP,MIA
+Shot Chart Detail,0022500784,348,1642066,Myron Gardner,1610612748,Miami Heat,3,11,27,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,203,170,1,0,20260211,NOP,MIA
+Shot Chart Detail,0022500784,419,1642066,Myron Gardner,1610612748,Miami Heat,3,6,31,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,16,1,1,20260211,NOP,MIA
+Shot Chart Detail,0022500784,471,1642066,Myron Gardner,1610612748,Miami Heat,3,3,48,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,12,1,1,20260211,NOP,MIA
+Shot Chart Detail,0022500805,657,1642066,Myron Gardner,1610612748,Miami Heat,4,0,33,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,36,57,1,1,20260220,ATL,MIA
+Shot Chart Detail,0022500813,275,1642066,Myron Gardner,1610612748,Miami Heat,2,5,1,Made Shot,Driving Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,8,1,1,20260221,MIA,MEM
+Shot Chart Detail,0022500813,287,1642066,Myron Gardner,1610612748,Miami Heat,2,4,10,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-229,80,1,0,20260221,MIA,MEM
+Shot Chart Detail,0022500813,706,1642066,Myron Gardner,1610612748,Miami Heat,4,2,43,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,223,86,1,1,20260221,MIA,MEM
+Shot Chart Detail,0022500886,650,1642066,Myron Gardner,1610612748,Miami Heat,4,2,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-213,133,1,1,20260303,MIA,BKN
+Shot Chart Detail,0022500909,59,1642066,Myron Gardner,1610612748,Miami Heat,1,6,47,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,196,162,1,1,20260306,CHA,MIA
+Shot Chart Detail,0022500909,378,1642066,Myron Gardner,1610612748,Miami Heat,3,9,13,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,18,1,0,20260306,CHA,MIA
+Shot Chart Detail,0022500909,402,1642066,Myron Gardner,1610612748,Miami Heat,3,7,56,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260306,CHA,MIA
+Shot Chart Detail,0022500909,424,1642066,Myron Gardner,1610612748,Miami Heat,3,5,40,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,163,226,1,0,20260306,CHA,MIA
+Shot Chart Detail,0022500923,38,1642066,Myron Gardner,1610612748,Miami Heat,1,9,6,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,37,34,1,1,20260308,MIA,DET
+Shot Chart Detail,0022500923,53,1642066,Myron Gardner,1610612748,Miami Heat,1,7,25,Missed Shot,Step Back Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,58,89,1,0,20260308,MIA,DET
+Shot Chart Detail,0022500923,398,1642066,Myron Gardner,1610612748,Miami Heat,3,9,39,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-2,20,1,0,20260308,MIA,DET
+Shot Chart Detail,0022500938,11,1642066,Myron Gardner,1610612748,Miami Heat,1,11,8,Missed Shot,Driving Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,3,1,0,20260310,MIA,WAS
+Shot Chart Detail,0022500938,123,1642066,Myron Gardner,1610612748,Miami Heat,1,3,1,Missed Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-17,246,1,0,20260310,MIA,WAS
+Shot Chart Detail,0022500938,130,1642066,Myron Gardner,1610612748,Miami Heat,1,2,28,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260310,MIA,WAS
+Shot Chart Detail,0022500938,424,1642066,Myron Gardner,1610612748,Miami Heat,3,7,48,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260310,MIA,WAS
+Shot Chart Detail,0022500957,500,1642066,Myron Gardner,1610612748,Miami Heat,4,11,20,Made Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,112,231,1,1,20260312,MIA,MIL
+Shot Chart Detail,0022500972,46,1642066,Myron Gardner,1610612748,Miami Heat,1,8,12,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,164,183,1,0,20260314,MIA,ORL
+Shot Chart Detail,0022500991,702,1642066,Myron Gardner,1610612748,Miami Heat,4,3,24,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-18,18,1,0,20260317,CHA,MIA
+Shot Chart Detail,0022500991,738,1642066,Myron Gardner,1610612748,Miami Heat,4,0,38,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,20,-104,174,1,0,20260317,CHA,MIA
+Shot Chart Detail,0022501027,123,1642066,Myron Gardner,1610612748,Miami Heat,1,2,52,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-16,52,1,1,20260321,HOU,MIA
+Shot Chart Detail,0022501027,446,1642066,Myron Gardner,1610612748,Miami Heat,3,3,30,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-207,146,1,1,20260321,HOU,MIA
+Shot Chart Detail,0022501027,459,1642066,Myron Gardner,1610612748,Miami Heat,3,2,46,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-234,76,1,0,20260321,HOU,MIA
+Shot Chart Detail,0022501027,474,1642066,Myron Gardner,1610612748,Miami Heat,3,1,13,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,208,167,1,1,20260321,HOU,MIA
+Shot Chart Detail,0022501041,494,1642066,Myron Gardner,1610612748,Miami Heat,3,3,43,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-20,256,1,0,20260323,MIA,SAS
+Shot Chart Detail,0022501041,578,1642066,Myron Gardner,1610612748,Miami Heat,4,11,4,Made Shot,Jump Bank Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-96,248,1,1,20260323,MIA,SAS
+Shot Chart Detail,0022501041,581,1642066,Myron Gardner,1610612748,Miami Heat,4,10,33,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,173,176,1,0,20260323,MIA,SAS
+Shot Chart Detail,0022501041,585,1642066,Myron Gardner,1610612748,Miami Heat,4,9,58,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-238,20,1,0,20260323,MIA,SAS
+Shot Chart Detail,0022501041,626,1642066,Myron Gardner,1610612748,Miami Heat,4,7,5,Made Shot,Step Back Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,195,157,1,1,20260323,MIA,SAS
+Shot Chart Detail,0022501041,690,1642066,Myron Gardner,1610612748,Miami Heat,4,2,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-1,262,1,0,20260323,MIA,SAS
+Shot Chart Detail,0022501041,707,1642066,Myron Gardner,1610612748,Miami Heat,4,1,5,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,9,-31,85,1,1,20260323,MIA,SAS
+Shot Chart Detail,0022501068,657,1642066,Myron Gardner,1610612748,Miami Heat,4,4,16,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,30,-202,230,1,0,20260327,CLE,MIA
+Shot Chart Detail,0022501068,726,1642066,Myron Gardner,1610612748,Miami Heat,4,1,2,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,17,1,0,20260327,CLE,MIA
+Shot Chart Detail,0022501068,742,1642066,Myron Gardner,1610612748,Miami Heat,4,0,10,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1,12,1,1,20260327,CLE,MIA
+Shot Chart Detail,0022501083,239,1642066,Myron Gardner,1610612748,Miami Heat,2,6,28,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,9,25,1,1,20260329,IND,MIA
+Shot Chart Detail,0022501151,681,1642066,Myron Gardner,1610612748,Miami Heat,4,0,47,Missed Shot,Running Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,4,1,0,20260407,TOR,MIA
+Shot Chart Detail,0022501165,675,1642066,Myron Gardner,1610612748,Miami Heat,4,0,58,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,6,1,1,20260409,TOR,MIA
+Shot Chart Detail,0022501189,626,1642066,Myron Gardner,1610612748,Miami Heat,4,1,56,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,5,42,1,0,20260412,MIA,ATL
+Shot Chart Detail,0022501189,630,1642066,Myron Gardner,1610612748,Miami Heat,4,1,50,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,1,1,1,20260412,MIA,ATL

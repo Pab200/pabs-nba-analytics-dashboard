@@ -1,0 +1,660 @@
+GRID_TYPE,GAME_ID,GAME_EVENT_ID,PLAYER_ID,PLAYER_NAME,TEAM_ID,TEAM_NAME,PERIOD,MINUTES_REMAINING,SECONDS_REMAINING,EVENT_TYPE,ACTION_TYPE,SHOT_TYPE,SHOT_ZONE_BASIC,SHOT_ZONE_AREA,SHOT_ZONE_RANGE,SHOT_DISTANCE,LOC_X,LOC_Y,SHOT_ATTEMPTED_FLAG,SHOT_MADE_FLAG,GAME_DATE,HTM,VTM
+Shot Chart Detail,0022500027,123,1628381,John Collins,1610612746,LA Clippers,1,1,51,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,30,1,0,20251031,LAC,NOP
+Shot Chart Detail,0022500027,127,1628381,John Collins,1610612746,LA Clippers,1,1,35,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,10,1,1,20251031,LAC,NOP
+Shot Chart Detail,0022500027,160,1628381,John Collins,1610612746,LA Clippers,2,11,45,Missed Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,1,57,1,0,20251031,LAC,NOP
+Shot Chart Detail,0022500027,196,1628381,John Collins,1610612746,LA Clippers,2,9,19,Made Shot,Running Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,-11,1,1,20251031,LAC,NOP
+Shot Chart Detail,0022500027,204,1628381,John Collins,1610612746,LA Clippers,2,8,32,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,18,8,1,1,20251031,LAC,NOP
+Shot Chart Detail,0022500027,227,1628381,John Collins,1610612746,LA Clippers,2,7,51,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20251031,LAC,NOP
+Shot Chart Detail,0022500027,238,1628381,John Collins,1610612746,LA Clippers,2,6,21,Missed Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,9,1,0,20251031,LAC,NOP
+Shot Chart Detail,0022500027,459,1628381,John Collins,1610612746,LA Clippers,3,2,8,Made Shot,Turnaround Bank Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,36,49,1,1,20251031,LAC,NOP
+Shot Chart Detail,0022500027,468,1628381,John Collins,1610612746,LA Clippers,3,1,22,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,-4,1,0,20251031,LAC,NOP
+Shot Chart Detail,0022500027,521,1628381,John Collins,1610612746,LA Clippers,4,9,32,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,22,1,1,20251031,LAC,NOP
+Shot Chart Detail,0022500046,15,1628381,John Collins,1610612746,LA Clippers,1,10,46,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,39,8,1,1,20251114,DAL,LAC
+Shot Chart Detail,0022500046,109,1628381,John Collins,1610612746,LA Clippers,1,4,5,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-169,43,1,0,20251114,DAL,LAC
+Shot Chart Detail,0022500046,276,1628381,John Collins,1610612746,LA Clippers,2,5,34,Missed Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,4,1,0,20251114,DAL,LAC
+Shot Chart Detail,0022500046,319,1628381,John Collins,1610612746,LA Clippers,2,3,19,Missed Shot,Driving Layup Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,9,-95,-15,1,0,20251114,DAL,LAC
+Shot Chart Detail,0022500046,431,1628381,John Collins,1610612746,LA Clippers,3,9,50,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-192,158,1,0,20251114,DAL,LAC
+Shot Chart Detail,0022500046,435,1628381,John Collins,1610612746,LA Clippers,3,9,29,Made Shot,Running Pull-Up Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,43,45,1,1,20251114,DAL,LAC
+Shot Chart Detail,0022500046,448,1628381,John Collins,1610612746,LA Clippers,3,8,57,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,3,1,1,20251114,DAL,LAC
+Shot Chart Detail,0022500046,488,1628381,John Collins,1610612746,LA Clippers,3,5,23,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,-2,1,0,20251114,DAL,LAC
+Shot Chart Detail,0022500059,16,1628381,John Collins,1610612746,LA Clippers,1,10,17,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-2,45,1,1,20251125,LAL,LAC
+Shot Chart Detail,0022500059,39,1628381,John Collins,1610612746,LA Clippers,1,7,56,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,1,1,1,20251125,LAL,LAC
+Shot Chart Detail,0022500059,107,1628381,John Collins,1610612746,LA Clippers,1,3,10,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,16,1,1,20251125,LAL,LAC
+Shot Chart Detail,0022500059,266,1628381,John Collins,1610612746,LA Clippers,2,2,30,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,9,1,1,20251125,LAL,LAC
+Shot Chart Detail,0022500059,321,1628381,John Collins,1610612746,LA Clippers,3,10,59,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,12,1,1,20251125,LAL,LAC
+Shot Chart Detail,0022500059,327,1628381,John Collins,1610612746,LA Clippers,3,9,58,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,104,236,1,0,20251125,LAL,LAC
+Shot Chart Detail,0022500059,564,1628381,John Collins,1610612746,LA Clippers,4,6,28,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,43,1,1,20251125,LAL,LAC
+Shot Chart Detail,0022500059,640,1628381,John Collins,1610612746,LA Clippers,4,2,7,Missed Shot,Pullup Jump shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,33,1,0,20251125,LAL,LAC
+Shot Chart Detail,0022500079,40,1628381,John Collins,1610612746,LA Clippers,1,9,5,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,26,13,1,1,20251128,LAC,MEM
+Shot Chart Detail,0022500079,49,1628381,John Collins,1610612746,LA Clippers,1,8,13,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,112,62,1,0,20251128,LAC,MEM
+Shot Chart Detail,0022500079,65,1628381,John Collins,1610612746,LA Clippers,1,6,39,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,127,223,1,0,20251128,LAC,MEM
+Shot Chart Detail,0022500079,122,1628381,John Collins,1610612746,LA Clippers,1,3,42,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,28,16,1,1,20251128,LAC,MEM
+Shot Chart Detail,0022500079,277,1628381,John Collins,1610612746,LA Clippers,2,6,12,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,13,11,1,1,20251128,LAC,MEM
+Shot Chart Detail,0022500079,295,1628381,John Collins,1610612746,LA Clippers,2,5,2,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,18,1,0,20251128,LAC,MEM
+Shot Chart Detail,0022500079,334,1628381,John Collins,1610612746,LA Clippers,2,2,43,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,108,232,1,0,20251128,LAC,MEM
+Shot Chart Detail,0022500079,396,1628381,John Collins,1610612746,LA Clippers,3,9,23,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,29,15,1,1,20251128,LAC,MEM
+Shot Chart Detail,0022500079,451,1628381,John Collins,1610612746,LA Clippers,3,4,24,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-71,30,1,0,20251128,LAC,MEM
+Shot Chart Detail,0022500079,460,1628381,John Collins,1610612746,LA Clippers,3,3,41,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-29,11,1,0,20251128,LAC,MEM
+Shot Chart Detail,0022500079,465,1628381,John Collins,1610612746,LA Clippers,3,3,7,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,17,164,63,1,0,20251128,LAC,MEM
+Shot Chart Detail,0022500079,586,1628381,John Collins,1610612746,LA Clippers,4,6,49,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,11,1,0,20251128,LAC,MEM
+Shot Chart Detail,0022500087,125,1628381,John Collins,1610612746,LA Clippers,1,2,46,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,70,43,1,0,20251022,UTA,LAC
+Shot Chart Detail,0022500087,182,1628381,John Collins,1610612746,LA Clippers,2,10,36,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,15,1,1,20251022,UTA,LAC
+Shot Chart Detail,0022500087,445,1628381,John Collins,1610612746,LA Clippers,3,3,48,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,-10,1,1,20251022,UTA,LAC
+Shot Chart Detail,0022500087,449,1628381,John Collins,1610612746,LA Clippers,3,3,32,Made Shot,Running Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-9,57,1,1,20251022,UTA,LAC
+Shot Chart Detail,0022500087,461,1628381,John Collins,1610612746,LA Clippers,3,2,52,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,-67,251,1,0,20251022,UTA,LAC
+Shot Chart Detail,0022500087,489,1628381,John Collins,1610612746,LA Clippers,3,0,31,Missed Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,80,8,1,0,20251022,UTA,LAC
+Shot Chart Detail,0022500087,515,1628381,John Collins,1610612746,LA Clippers,4,11,11,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,81,51,1,1,20251022,UTA,LAC
+Shot Chart Detail,0022500087,538,1628381,John Collins,1610612746,LA Clippers,4,9,10,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,15,150,25,1,0,20251022,UTA,LAC
+Shot Chart Detail,0022500087,561,1628381,John Collins,1610612746,LA Clippers,4,7,56,Made Shot,Putback Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,33,24,1,1,20251022,UTA,LAC
+Shot Chart Detail,0022500087,615,1628381,John Collins,1610612746,LA Clippers,4,3,57,Missed Shot,Running Alley Oop Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,47,16,1,0,20251022,UTA,LAC
+Shot Chart Detail,0022500087,633,1628381,John Collins,1610612746,LA Clippers,4,3,27,Missed Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-10,38,1,0,20251022,UTA,LAC
+Shot Chart Detail,0022500087,665,1628381,John Collins,1610612746,LA Clippers,4,1,52,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-2,53,1,1,20251022,UTA,LAC
+Shot Chart Detail,0022500099,156,1628381,John Collins,1610612746,LA Clippers,1,0,48,Missed Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,54,43,1,0,20251024,LAC,PHX
+Shot Chart Detail,0022500099,298,1628381,John Collins,1610612746,LA Clippers,2,2,53,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,169,202,1,0,20251024,LAC,PHX
+Shot Chart Detail,0022500099,466,1628381,John Collins,1610612746,LA Clippers,3,2,58,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,15,1,1,20251024,LAC,PHX
+Shot Chart Detail,0022500099,536,1628381,John Collins,1610612746,LA Clippers,4,10,29,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-1,32,1,1,20251024,LAC,PHX
+Shot Chart Detail,0022500099,592,1628381,John Collins,1610612746,LA Clippers,4,6,21,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-16,14,1,1,20251024,LAC,PHX
+Shot Chart Detail,0022500112,122,1628381,John Collins,1610612746,LA Clippers,1,3,5,Made Shot,Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,20,1,1,20251026,LAC,POR
+Shot Chart Detail,0022500112,126,1628381,John Collins,1610612746,LA Clippers,1,2,54,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,9,26,1,1,20251026,LAC,POR
+Shot Chart Detail,0022500112,149,1628381,John Collins,1610612746,LA Clippers,1,2,3,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-29,22,1,1,20251026,LAC,POR
+Shot Chart Detail,0022500112,193,1628381,John Collins,1610612746,LA Clippers,2,11,16,Made Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,23,52,1,1,20251026,LAC,POR
+Shot Chart Detail,0022500112,208,1628381,John Collins,1610612746,LA Clippers,2,9,51,Missed Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-11,27,1,0,20251026,LAC,POR
+Shot Chart Detail,0022500112,587,1628381,John Collins,1610612746,LA Clippers,4,9,30,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,-5,1,1,20251026,LAC,POR
+Shot Chart Detail,0022500112,677,1628381,John Collins,1610612746,LA Clippers,4,4,57,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,2,20,1,1,20251026,LAC,POR
+Shot Chart Detail,0022500112,684,1628381,John Collins,1610612746,LA Clippers,4,4,22,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-27,-4,1,1,20251026,LAC,POR
+Shot Chart Detail,0022500127,185,1628381,John Collins,1610612746,LA Clippers,2,10,28,Missed Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-50,2,1,0,20251028,GSW,LAC
+Shot Chart Detail,0022500127,200,1628381,John Collins,1610612746,LA Clippers,2,8,49,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-183,186,1,0,20251028,GSW,LAC
+Shot Chart Detail,0022500127,252,1628381,John Collins,1610612746,LA Clippers,2,5,22,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20251028,GSW,LAC
+Shot Chart Detail,0022500127,482,1628381,John Collins,1610612746,LA Clippers,4,10,34,Made Shot,Running Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-17,53,1,1,20251028,GSW,LAC
+Shot Chart Detail,0022500127,509,1628381,John Collins,1610612746,LA Clippers,4,8,3,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-37,171,1,0,20251028,GSW,LAC
+Shot Chart Detail,0022500127,532,1628381,John Collins,1610612746,LA Clippers,4,5,52,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-121,250,1,0,20251028,GSW,LAC
+Shot Chart Detail,0022500164,109,1628381,John Collins,1610612746,LA Clippers,1,3,21,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-43,136,1,0,20251103,LAC,MIA
+Shot Chart Detail,0022500164,119,1628381,John Collins,1610612746,LA Clippers,1,2,14,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,226,27,1,0,20251103,LAC,MIA
+Shot Chart Detail,0022500164,161,1628381,John Collins,1610612746,LA Clippers,2,11,38,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,33,1,1,20251103,LAC,MIA
+Shot Chart Detail,0022500164,168,1628381,John Collins,1610612746,LA Clippers,2,10,33,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,6,39,1,1,20251103,LAC,MIA
+Shot Chart Detail,0022500164,480,1628381,John Collins,1610612746,LA Clippers,3,2,38,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-9,21,1,0,20251103,LAC,MIA
+Shot Chart Detail,0022500164,487,1628381,John Collins,1610612746,LA Clippers,3,1,44,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,6,29,1,1,20251103,LAC,MIA
+Shot Chart Detail,0022500164,491,1628381,John Collins,1610612746,LA Clippers,3,1,19,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,10,1,0,20251103,LAC,MIA
+Shot Chart Detail,0022500164,521,1628381,John Collins,1610612746,LA Clippers,4,11,19,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,25,246,63,1,0,20251103,LAC,MIA
+Shot Chart Detail,0022500164,526,1628381,John Collins,1610612746,LA Clippers,4,10,56,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,200,194,1,1,20251103,LAC,MIA
+Shot Chart Detail,0022500164,557,1628381,John Collins,1610612746,LA Clippers,4,8,24,Missed Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,10,69,1,0,20251103,LAC,MIA
+Shot Chart Detail,0022500164,567,1628381,John Collins,1610612746,LA Clippers,4,7,59,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-6,11,1,1,20251103,LAC,MIA
+Shot Chart Detail,0022500170,153,1628381,John Collins,1610612746,LA Clippers,1,1,22,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-32,102,1,1,20251104,LAC,OKC
+Shot Chart Detail,0022500170,167,1628381,John Collins,1610612746,LA Clippers,1,0,7,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,76,20,1,0,20251104,LAC,OKC
+Shot Chart Detail,0022500170,205,1628381,John Collins,1610612746,LA Clippers,2,9,49,Made Shot,Cutting Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,31,32,1,1,20251104,LAC,OKC
+Shot Chart Detail,0022500170,223,1628381,John Collins,1610612746,LA Clippers,2,8,31,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1,17,1,1,20251104,LAC,OKC
+Shot Chart Detail,0022500170,236,1628381,John Collins,1610612746,LA Clippers,2,7,10,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,229,62,1,1,20251104,LAC,OKC
+Shot Chart Detail,0022500170,259,1628381,John Collins,1610612746,LA Clippers,2,6,25,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,228,65,1,0,20251104,LAC,OKC
+Shot Chart Detail,0022500170,287,1628381,John Collins,1610612746,LA Clippers,2,4,14,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-5,31,1,1,20251104,LAC,OKC
+Shot Chart Detail,0022500170,480,1628381,John Collins,1610612746,LA Clippers,3,2,34,Missed Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,21,36,1,0,20251104,LAC,OKC
+Shot Chart Detail,0022500182,136,1628381,John Collins,1610612746,LA Clippers,1,1,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-199,163,1,1,20251106,PHX,LAC
+Shot Chart Detail,0022500182,189,1628381,John Collins,1610612746,LA Clippers,2,9,46,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,39,28,1,1,20251106,PHX,LAC
+Shot Chart Detail,0022500182,199,1628381,John Collins,1610612746,LA Clippers,2,9,17,Missed Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,9,-49,79,1,0,20251106,PHX,LAC
+Shot Chart Detail,0022500182,226,1628381,John Collins,1610612746,LA Clippers,2,6,55,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-53,158,1,0,20251106,PHX,LAC
+Shot Chart Detail,0022500182,397,1628381,John Collins,1610612746,LA Clippers,3,6,42,Missed Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,77,43,1,0,20251106,PHX,LAC
+Shot Chart Detail,0022500182,416,1628381,John Collins,1610612746,LA Clippers,3,5,50,Missed Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,80,15,1,0,20251106,PHX,LAC
+Shot Chart Detail,0022500182,420,1628381,John Collins,1610612746,LA Clippers,3,5,24,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-224,-20,1,0,20251106,PHX,LAC
+Shot Chart Detail,0022500182,422,1628381,John Collins,1610612746,LA Clippers,3,5,19,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-2,30,1,1,20251106,PHX,LAC
+Shot Chart Detail,0022500182,474,1628381,John Collins,1610612746,LA Clippers,3,2,7,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,237,40,1,1,20251106,PHX,LAC
+Shot Chart Detail,0022500182,538,1628381,John Collins,1610612746,LA Clippers,4,11,6,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,47,52,1,0,20251106,PHX,LAC
+Shot Chart Detail,0022500182,585,1628381,John Collins,1610612746,LA Clippers,4,7,36,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,159,53,1,1,20251106,PHX,LAC
+Shot Chart Detail,0022500190,123,1628381,John Collins,1610612746,LA Clippers,1,1,26,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-11,17,1,1,20251108,LAC,PHX
+Shot Chart Detail,0022500190,156,1628381,John Collins,1610612746,LA Clippers,2,11,44,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,22,17,1,1,20251108,LAC,PHX
+Shot Chart Detail,0022500190,184,1628381,John Collins,1610612746,LA Clippers,2,8,44,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,9,92,18,1,0,20251108,LAC,PHX
+Shot Chart Detail,0022500190,203,1628381,John Collins,1610612746,LA Clippers,2,7,23,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-7,21,1,1,20251108,LAC,PHX
+Shot Chart Detail,0022500190,231,1628381,John Collins,1610612746,LA Clippers,2,6,7,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,15,1,1,20251108,LAC,PHX
+Shot Chart Detail,0022500190,413,1628381,John Collins,1610612746,LA Clippers,3,4,19,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,228,62,1,1,20251108,LAC,PHX
+Shot Chart Detail,0022500190,455,1628381,John Collins,1610612746,LA Clippers,3,2,37,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,11,1,1,20251108,LAC,PHX
+Shot Chart Detail,0022500190,525,1628381,John Collins,1610612746,LA Clippers,4,9,10,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-112,221,1,1,20251108,LAC,PHX
+Shot Chart Detail,0022500190,528,1628381,John Collins,1610612746,LA Clippers,4,8,24,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,26,15,1,1,20251108,LAC,PHX
+Shot Chart Detail,0022500190,532,1628381,John Collins,1610612746,LA Clippers,4,8,7,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-203,138,1,0,20251108,LAC,PHX
+Shot Chart Detail,0022500190,598,1628381,John Collins,1610612746,LA Clippers,4,2,37,Missed Shot,Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,83,14,1,0,20251108,LAC,PHX
+Shot Chart Detail,0022500190,619,1628381,John Collins,1610612746,LA Clippers,4,0,6,Missed Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-33,115,1,0,20251108,LAC,PHX
+Shot Chart Detail,0022500206,14,1628381,John Collins,1610612746,LA Clippers,1,10,43,Missed Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-12,29,1,0,20251110,LAC,ATL
+Shot Chart Detail,0022500206,35,1628381,John Collins,1610612746,LA Clippers,1,10,39,Made Shot,Putback Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-40,0,1,1,20251110,LAC,ATL
+Shot Chart Detail,0022500206,28,1628381,John Collins,1610612746,LA Clippers,1,8,49,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,143,231,1,0,20251110,LAC,ATL
+Shot Chart Detail,0022500206,56,1628381,John Collins,1610612746,LA Clippers,1,6,8,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,60,69,1,0,20251110,LAC,ATL
+Shot Chart Detail,0022500206,77,1628381,John Collins,1610612746,LA Clippers,1,5,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,167,215,1,0,20251110,LAC,ATL
+Shot Chart Detail,0022500206,296,1628381,John Collins,1610612746,LA Clippers,2,0,51,Made Shot,Cutting Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,7,42,1,1,20251110,LAC,ATL
+Shot Chart Detail,0022500206,319,1628381,John Collins,1610612746,LA Clippers,3,10,9,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-229,40,1,0,20251110,LAC,ATL
+Shot Chart Detail,0022500206,323,1628381,John Collins,1610612746,LA Clippers,3,9,52,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-156,208,1,0,20251110,LAC,ATL
+Shot Chart Detail,0022500206,349,1628381,John Collins,1610612746,LA Clippers,3,8,24,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,22,1,0,20251110,LAC,ATL
+Shot Chart Detail,0022500206,361,1628381,John Collins,1610612746,LA Clippers,3,7,30,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,-12,1,1,20251110,LAC,ATL
+Shot Chart Detail,0022500206,383,1628381,John Collins,1610612746,LA Clippers,3,6,0,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,180,177,1,0,20251110,LAC,ATL
+Shot Chart Detail,0022500224,7,1628381,John Collins,1610612746,LA Clippers,1,11,45,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-207,185,1,0,20251112,LAC,DEN
+Shot Chart Detail,0022500224,33,1628381,John Collins,1610612746,LA Clippers,1,9,21,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,81,23,1,1,20251112,LAC,DEN
+Shot Chart Detail,0022500224,93,1628381,John Collins,1610612746,LA Clippers,1,4,35,Missed Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,67,28,1,0,20251112,LAC,DEN
+Shot Chart Detail,0022500224,244,1628381,John Collins,1610612746,LA Clippers,2,5,19,Missed Shot,Running Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,20,202,41,1,0,20251112,LAC,DEN
+Shot Chart Detail,0022500224,342,1628381,John Collins,1610612746,LA Clippers,3,10,43,Missed Shot,Hook Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-87,8,1,0,20251112,LAC,DEN
+Shot Chart Detail,0022500224,385,1628381,John Collins,1610612746,LA Clippers,3,7,26,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,12,16,1,0,20251112,LAC,DEN
+Shot Chart Detail,0022500233,7,1628381,John Collins,1610612746,LA Clippers,1,11,46,Missed Shot,Driving Bank Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,39,-5,1,0,20251116,BOS,LAC
+Shot Chart Detail,0022500233,57,1628381,John Collins,1610612746,LA Clippers,1,6,55,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-112,252,1,0,20251116,BOS,LAC
+Shot Chart Detail,0022500233,61,1628381,John Collins,1610612746,LA Clippers,1,6,18,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,7,1,1,20251116,BOS,LAC
+Shot Chart Detail,0022500233,76,1628381,John Collins,1610612746,LA Clippers,1,4,44,Missed Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,75,80,1,0,20251116,BOS,LAC
+Shot Chart Detail,0022500233,255,1628381,John Collins,1610612746,LA Clippers,2,4,37,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-7,26,1,1,20251116,BOS,LAC
+Shot Chart Detail,0022500233,259,1628381,John Collins,1610612746,LA Clippers,2,4,8,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,1,1,0,20251116,BOS,LAC
+Shot Chart Detail,0022500233,295,1628381,John Collins,1610612746,LA Clippers,2,2,12,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,77,36,1,1,20251116,BOS,LAC
+Shot Chart Detail,0022500233,311,1628381,John Collins,1610612746,LA Clippers,2,1,5,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,15,1,1,20251116,BOS,LAC
+Shot Chart Detail,0022500233,358,1628381,John Collins,1610612746,LA Clippers,3,9,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-162,213,1,0,20251116,BOS,LAC
+Shot Chart Detail,0022500233,360,1628381,John Collins,1610612746,LA Clippers,3,9,6,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-27,15,1,1,20251116,BOS,LAC
+Shot Chart Detail,0022500233,426,1628381,John Collins,1610612746,LA Clippers,3,4,7,Made Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,34,15,1,1,20251116,BOS,LAC
+Shot Chart Detail,0022500233,582,1628381,John Collins,1610612746,LA Clippers,4,6,24,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,30,1,1,20251116,BOS,LAC
+Shot Chart Detail,0022500233,643,1628381,John Collins,1610612746,LA Clippers,4,0,50,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-7,3,1,1,20251116,BOS,LAC
+Shot Chart Detail,0022500243,13,1628381,John Collins,1610612746,LA Clippers,1,11,8,Missed Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,12,-53,116,1,0,20251117,PHI,LAC
+Shot Chart Detail,0022500243,22,1628381,John Collins,1610612746,LA Clippers,1,10,39,Missed Shot,Turnaround Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,11,1,0,20251117,PHI,LAC
+Shot Chart Detail,0022500243,50,1628381,John Collins,1610612746,LA Clippers,1,7,50,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,18,63,1,1,20251117,PHI,LAC
+Shot Chart Detail,0022500243,215,1628381,John Collins,1610612746,LA Clippers,2,8,12,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,15,55,148,1,0,20251117,PHI,LAC
+Shot Chart Detail,0022500243,330,1628381,John Collins,1610612746,LA Clippers,3,11,45,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-7,32,1,0,20251117,PHI,LAC
+Shot Chart Detail,0022500243,357,1628381,John Collins,1610612746,LA Clippers,3,9,25,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20251117,PHI,LAC
+Shot Chart Detail,0022500243,376,1628381,John Collins,1610612746,LA Clippers,3,8,14,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,50,100,1,0,20251117,PHI,LAC
+Shot Chart Detail,0022500243,616,1628381,John Collins,1610612746,LA Clippers,4,2,28,Made Shot,Driving Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-6,32,1,1,20251117,PHI,LAC
+Shot Chart Detail,0022500264,24,1628381,John Collins,1610612746,LA Clippers,1,10,2,Missed Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,17,-29,171,1,0,20251120,ORL,LAC
+Shot Chart Detail,0022500264,48,1628381,John Collins,1610612746,LA Clippers,1,7,54,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,14,1,1,20251120,ORL,LAC
+Shot Chart Detail,0022500264,98,1628381,John Collins,1610612746,LA Clippers,1,4,6,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-229,20,1,0,20251120,ORL,LAC
+Shot Chart Detail,0022500264,111,1628381,John Collins,1610612746,LA Clippers,1,3,3,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,11,1,1,20251120,ORL,LAC
+Shot Chart Detail,0022500264,280,1628381,John Collins,1610612746,LA Clippers,2,4,33,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-36,101,1,1,20251120,ORL,LAC
+Shot Chart Detail,0022500264,366,1628381,John Collins,1610612746,LA Clippers,3,10,42,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,10,17,1,0,20251120,ORL,LAC
+Shot Chart Detail,0022500264,414,1628381,John Collins,1610612746,LA Clippers,3,6,47,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,21,1,1,20251120,ORL,LAC
+Shot Chart Detail,0022500264,424,1628381,John Collins,1610612746,LA Clippers,3,6,11,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Center(C),16-24 ft.,18,40,176,1,0,20251120,ORL,LAC
+Shot Chart Detail,0022500268,27,1628381,John Collins,1610612746,LA Clippers,1,9,12,Missed Shot,Turnaround Hook Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-92,49,1,0,20251122,CHA,LAC
+Shot Chart Detail,0022500268,30,1628381,John Collins,1610612746,LA Clippers,1,8,42,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-1,33,1,0,20251122,CHA,LAC
+Shot Chart Detail,0022500268,261,1628381,John Collins,1610612746,LA Clippers,2,4,40,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,228,60,1,1,20251122,CHA,LAC
+Shot Chart Detail,0022500268,267,1628381,John Collins,1610612746,LA Clippers,2,4,12,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,227,55,1,0,20251122,CHA,LAC
+Shot Chart Detail,0022500268,292,1628381,John Collins,1610612746,LA Clippers,2,2,28,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,238,1,1,0,20251122,CHA,LAC
+Shot Chart Detail,0022500268,352,1628381,John Collins,1610612746,LA Clippers,3,10,4,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,5,1,1,20251122,CHA,LAC
+Shot Chart Detail,0022500268,356,1628381,John Collins,1610612746,LA Clippers,3,9,33,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,237,59,1,0,20251122,CHA,LAC
+Shot Chart Detail,0022500268,366,1628381,John Collins,1610612746,LA Clippers,3,8,40,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,6,1,0,20251122,CHA,LAC
+Shot Chart Detail,0022500268,394,1628381,John Collins,1610612746,LA Clippers,3,7,6,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,5,1,1,20251122,CHA,LAC
+Shot Chart Detail,0022500268,584,1628381,John Collins,1610612746,LA Clippers,4,6,31,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,0,1,1,20251122,CHA,LAC
+Shot Chart Detail,0022500278,45,1628381,John Collins,1610612746,LA Clippers,1,8,19,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,8,87,20,1,1,20251123,CLE,LAC
+Shot Chart Detail,0022500278,77,1628381,John Collins,1610612746,LA Clippers,1,5,48,Missed Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-7,22,1,0,20251123,CLE,LAC
+Shot Chart Detail,0022500278,101,1628381,John Collins,1610612746,LA Clippers,1,4,2,Missed Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-13,8,1,0,20251123,CLE,LAC
+Shot Chart Detail,0022500278,113,1628381,John Collins,1610612746,LA Clippers,1,3,22,Missed Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,26,106,1,0,20251123,CLE,LAC
+Shot Chart Detail,0022500278,323,1628381,John Collins,1610612746,LA Clippers,2,0,30,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-225,13,1,0,20251123,CLE,LAC
+Shot Chart Detail,0022500278,506,1628381,John Collins,1610612746,LA Clippers,3,0,9,Missed Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20251123,CLE,LAC
+Shot Chart Detail,0022500300,19,1628381,John Collins,1610612746,LA Clippers,1,10,12,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-12,18,1,1,20251129,LAC,DAL
+Shot Chart Detail,0022500300,52,1628381,John Collins,1610612746,LA Clippers,1,7,17,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,238,101,1,0,20251129,LAC,DAL
+Shot Chart Detail,0022500300,112,1628381,John Collins,1610612746,LA Clippers,1,3,12,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,67,18,1,1,20251129,LAC,DAL
+Shot Chart Detail,0022500300,149,1628381,John Collins,1610612746,LA Clippers,1,0,51,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-115,43,1,1,20251129,LAC,DAL
+Shot Chart Detail,0022500300,239,1628381,John Collins,1610612746,LA Clippers,2,6,56,Made Shot,Running Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-12,31,1,1,20251129,LAC,DAL
+Shot Chart Detail,0022500300,247,1628381,John Collins,1610612746,LA Clippers,2,6,8,Made Shot,Cutting Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,16,57,1,1,20251129,LAC,DAL
+Shot Chart Detail,0022500300,318,1628381,John Collins,1610612746,LA Clippers,2,1,55,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,4,1,1,20251129,LAC,DAL
+Shot Chart Detail,0022500300,460,1628381,John Collins,1610612746,LA Clippers,3,2,29,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1,15,1,1,20251129,LAC,DAL
+Shot Chart Detail,0022500300,491,1628381,John Collins,1610612746,LA Clippers,3,0,37,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-32,115,1,1,20251129,LAC,DAL
+Shot Chart Detail,0022500300,643,1628381,John Collins,1610612746,LA Clippers,4,2,22,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-142,225,1,1,20251129,LAC,DAL
+Shot Chart Detail,0022500313,7,1628381,John Collins,1610612746,LA Clippers,1,11,40,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,8,1,0,20251201,MIA,LAC
+Shot Chart Detail,0022500313,16,1628381,John Collins,1610612746,LA Clippers,1,10,51,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,30,1,0,20251201,MIA,LAC
+Shot Chart Detail,0022500313,21,1628381,John Collins,1610612746,LA Clippers,1,10,17,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,34,31,1,1,20251201,MIA,LAC
+Shot Chart Detail,0022500313,56,1628381,John Collins,1610612746,LA Clippers,1,7,54,Made Shot,Putback Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,38,37,1,1,20251201,MIA,LAC
+Shot Chart Detail,0022500313,90,1628381,John Collins,1610612746,LA Clippers,1,4,41,Missed Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-5,100,1,0,20251201,MIA,LAC
+Shot Chart Detail,0022500313,149,1628381,John Collins,1610612746,LA Clippers,1,1,13,Missed Shot,Putback Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,28,43,1,0,20251201,MIA,LAC
+Shot Chart Detail,0022500313,152,1628381,John Collins,1610612746,LA Clippers,1,1,12,Missed Shot,Putback Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,37,42,1,0,20251201,MIA,LAC
+Shot Chart Detail,0022500313,298,1628381,John Collins,1610612746,LA Clippers,2,3,33,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,43,35,1,0,20251201,MIA,LAC
+Shot Chart Detail,0022500313,323,1628381,John Collins,1610612746,LA Clippers,2,1,45,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-40,43,1,0,20251201,MIA,LAC
+Shot Chart Detail,0022500313,539,1628381,John Collins,1610612746,LA Clippers,4,10,24,Made Shot,Floating Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,-34,75,1,1,20251201,MIA,LAC
+Shot Chart Detail,0022500313,547,1628381,John Collins,1610612746,LA Clippers,4,9,47,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20251201,MIA,LAC
+Shot Chart Detail,0022500313,564,1628381,John Collins,1610612746,LA Clippers,4,8,54,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,49,1,0,20251201,MIA,LAC
+Shot Chart Detail,0022500327,36,1628381,John Collins,1610612746,LA Clippers,1,8,32,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-162,196,1,0,20251203,ATL,LAC
+Shot Chart Detail,0022500327,72,1628381,John Collins,1610612746,LA Clippers,1,6,31,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-11,11,1,0,20251203,ATL,LAC
+Shot Chart Detail,0022500327,89,1628381,John Collins,1610612746,LA Clippers,1,5,7,Made Shot,Running Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,6,1,1,20251203,ATL,LAC
+Shot Chart Detail,0022500327,111,1628381,John Collins,1610612746,LA Clippers,1,3,55,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,7,1,1,20251203,ATL,LAC
+Shot Chart Detail,0022500327,115,1628381,John Collins,1610612746,LA Clippers,1,3,21,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,10,100,34,1,1,20251203,ATL,LAC
+Shot Chart Detail,0022500327,130,1628381,John Collins,1610612746,LA Clippers,1,2,12,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,100,233,1,0,20251203,ATL,LAC
+Shot Chart Detail,0022500327,250,1628381,John Collins,1610612746,LA Clippers,2,5,25,Missed Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-10,-9,1,0,20251203,ATL,LAC
+Shot Chart Detail,0022500327,252,1628381,John Collins,1610612746,LA Clippers,2,5,23,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,18,1,1,20251203,ATL,LAC
+Shot Chart Detail,0022500327,376,1628381,John Collins,1610612746,LA Clippers,3,7,58,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,14,1,1,20251203,ATL,LAC
+Shot Chart Detail,0022500327,396,1628381,John Collins,1610612746,LA Clippers,3,6,11,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,40,1,0,20251203,ATL,LAC
+Shot Chart Detail,0022500327,439,1628381,John Collins,1610612746,LA Clippers,3,2,58,Missed Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,22,42,1,0,20251203,ATL,LAC
+Shot Chart Detail,0022500327,557,1628381,John Collins,1610612746,LA Clippers,3,1,57,Missed Shot,Tip Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,33,64,1,0,20251203,ATL,LAC
+Shot Chart Detail,0022500327,480,1628381,John Collins,1610612746,LA Clippers,3,0,0,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20251203,ATL,LAC
+Shot Chart Detail,0022500347,13,1628381,John Collins,1610612746,LA Clippers,1,10,59,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,11,1,1,20251205,MEM,LAC
+Shot Chart Detail,0022500347,36,1628381,John Collins,1610612746,LA Clippers,1,8,9,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,17,1,0,20251205,MEM,LAC
+Shot Chart Detail,0022500347,52,1628381,John Collins,1610612746,LA Clippers,1,6,30,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-229,32,1,0,20251205,MEM,LAC
+Shot Chart Detail,0022500347,100,1628381,John Collins,1610612746,LA Clippers,1,3,1,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,4,5,1,1,20251205,MEM,LAC
+Shot Chart Detail,0022500347,123,1628381,John Collins,1610612746,LA Clippers,1,1,53,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,53,1,0,20251205,MEM,LAC
+Shot Chart Detail,0022500347,132,1628381,John Collins,1610612746,LA Clippers,1,0,43,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,51,73,1,1,20251205,MEM,LAC
+Shot Chart Detail,0022500347,262,1628381,John Collins,1610612746,LA Clippers,2,1,45,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,165,198,1,1,20251205,MEM,LAC
+Shot Chart Detail,0022500347,304,1628381,John Collins,1610612746,LA Clippers,3,11,38,Missed Shot,Driving Finger Roll Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,26,37,1,0,20251205,MEM,LAC
+Shot Chart Detail,0022500347,318,1628381,John Collins,1610612746,LA Clippers,3,10,47,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,153,211,1,0,20251205,MEM,LAC
+Shot Chart Detail,0022500347,323,1628381,John Collins,1610612746,LA Clippers,3,10,14,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,228,41,1,0,20251205,MEM,LAC
+Shot Chart Detail,0022500347,341,1628381,John Collins,1610612746,LA Clippers,3,8,17,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-34,21,1,1,20251205,MEM,LAC
+Shot Chart Detail,0022500347,362,1628381,John Collins,1610612746,LA Clippers,3,7,18,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,22,1,1,20251205,MEM,LAC
+Shot Chart Detail,0022500347,378,1628381,John Collins,1610612746,LA Clippers,3,5,39,Missed Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-9,118,1,0,20251205,MEM,LAC
+Shot Chart Detail,0022500347,382,1628381,John Collins,1610612746,LA Clippers,3,5,7,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,-1,1,0,20251205,MEM,LAC
+Shot Chart Detail,0022500355,17,1628381,John Collins,1610612746,LA Clippers,1,10,5,Missed Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,-18,148,1,0,20251206,MIN,LAC
+Shot Chart Detail,0022500355,22,1628381,John Collins,1610612746,LA Clippers,1,9,31,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-100,220,1,1,20251206,MIN,LAC
+Shot Chart Detail,0022500355,82,1628381,John Collins,1610612746,LA Clippers,1,4,19,Made Shot,Turnaround Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,7,19,1,1,20251206,MIN,LAC
+Shot Chart Detail,0022500355,109,1628381,John Collins,1610612746,LA Clippers,1,1,42,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,16,14,1,1,20251206,MIN,LAC
+Shot Chart Detail,0022500355,267,1628381,John Collins,1610612746,LA Clippers,2,1,44,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,227,74,1,1,20251206,MIN,LAC
+Shot Chart Detail,0022500355,549,1628381,John Collins,1610612746,LA Clippers,4,6,30,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-229,53,1,0,20251206,MIN,LAC
+Shot Chart Detail,0022500355,575,1628381,John Collins,1610612746,LA Clippers,4,4,13,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-42,38,1,1,20251206,MIN,LAC
+Shot Chart Detail,0022500369,9,1628381,John Collins,1610612746,LA Clippers,1,11,30,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,-8,1,1,20251218,OKC,LAC
+Shot Chart Detail,0022500369,17,1628381,John Collins,1610612746,LA Clippers,1,10,26,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,173,174,1,1,20251218,OKC,LAC
+Shot Chart Detail,0022500369,96,1628381,John Collins,1610612746,LA Clippers,1,4,33,Made Shot,Turnaround Hook Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,121,-18,1,1,20251218,OKC,LAC
+Shot Chart Detail,0022500369,118,1628381,John Collins,1610612746,LA Clippers,1,2,54,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,33,4,1,0,20251218,OKC,LAC
+Shot Chart Detail,0022500369,236,1628381,John Collins,1610612746,LA Clippers,2,7,21,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,135,226,1,0,20251218,OKC,LAC
+Shot Chart Detail,0022500369,250,1628381,John Collins,1610612746,LA Clippers,2,6,20,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,10,1,0,20251218,OKC,LAC
+Shot Chart Detail,0022500369,279,1628381,John Collins,1610612746,LA Clippers,2,4,20,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-239,-22,1,0,20251218,OKC,LAC
+Shot Chart Detail,0022500369,284,1628381,John Collins,1610612746,LA Clippers,2,3,28,Made Shot,Fadeaway Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,16,159,30,1,1,20251218,OKC,LAC
+Shot Chart Detail,0022500369,309,1628381,John Collins,1610612746,LA Clippers,2,2,7,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,20,17,1,0,20251218,OKC,LAC
+Shot Chart Detail,0022500369,313,1628381,John Collins,1610612746,LA Clippers,2,1,35,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,153,214,1,0,20251218,OKC,LAC
+Shot Chart Detail,0022500369,404,1628381,John Collins,1610612746,LA Clippers,3,7,13,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,18,1,1,20251218,OKC,LAC
+Shot Chart Detail,0022500369,590,1628381,John Collins,1610612746,LA Clippers,4,6,54,Made Shot,Running Alley Oop Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-18,10,1,1,20251218,OKC,LAC
+Shot Chart Detail,0022500369,626,1628381,John Collins,1610612746,LA Clippers,4,4,16,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,127,10,1,1,20251218,OKC,LAC
+Shot Chart Detail,0022500395,20,1628381,John Collins,1610612746,LA Clippers,1,10,39,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-12,18,1,1,20251220,LAC,LAL
+Shot Chart Detail,0022500395,26,1628381,John Collins,1610612746,LA Clippers,1,10,2,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,22,11,1,0,20251220,LAC,LAL
+Shot Chart Detail,0022500395,28,1628381,John Collins,1610612746,LA Clippers,1,9,58,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20251220,LAC,LAL
+Shot Chart Detail,0022500395,57,1628381,John Collins,1610612746,LA Clippers,1,6,48,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,13,1,1,20251220,LAC,LAL
+Shot Chart Detail,0022500395,381,1628381,John Collins,1610612746,LA Clippers,3,7,0,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,5,1,0,20251220,LAC,LAL
+Shot Chart Detail,0022500395,420,1628381,John Collins,1610612746,LA Clippers,3,4,37,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,230,72,1,1,20251220,LAC,LAL
+Shot Chart Detail,0022500395,439,1628381,John Collins,1610612746,LA Clippers,3,3,29,Missed Shot,Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,17,1,0,20251220,LAC,LAL
+Shot Chart Detail,0022500395,447,1628381,John Collins,1610612746,LA Clippers,3,2,56,Made Shot,Turnaround Hook Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-31,22,1,1,20251220,LAC,LAL
+Shot Chart Detail,0022500395,548,1628381,John Collins,1610612746,LA Clippers,4,7,41,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,229,41,1,1,20251220,LAC,LAL
+Shot Chart Detail,0022500395,592,1628381,John Collins,1610612746,LA Clippers,4,3,47,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,25,11,1,1,20251220,LAC,LAL
+Shot Chart Detail,0022500422,7,1628381,John Collins,1610612746,LA Clippers,1,11,32,Missed Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-18,27,1,0,20251223,LAC,HOU
+Shot Chart Detail,0022500422,10,1628381,John Collins,1610612746,LA Clippers,1,11,1,Missed Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,27,16,1,0,20251223,LAC,HOU
+Shot Chart Detail,0022500422,96,1628381,John Collins,1610612746,LA Clippers,1,4,17,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20251223,LAC,HOU
+Shot Chart Detail,0022500422,276,1628381,John Collins,1610612746,LA Clippers,2,2,44,Made Shot,Running Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-2,12,1,1,20251223,LAC,HOU
+Shot Chart Detail,0022500422,298,1628381,John Collins,1610612746,LA Clippers,2,0,0,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,37,47,1,0,20251223,LAC,HOU
+Shot Chart Detail,0022500422,388,1628381,John Collins,1610612746,LA Clippers,3,4,14,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-186,177,1,1,20251223,LAC,HOU
+Shot Chart Detail,0022500422,401,1628381,John Collins,1610612746,LA Clippers,3,3,15,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,-2,1,1,20251223,LAC,HOU
+Shot Chart Detail,0022500422,433,1628381,John Collins,1610612746,LA Clippers,3,1,5,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,228,34,1,1,20251223,LAC,HOU
+Shot Chart Detail,0022500431,121,1628381,John Collins,1610612746,LA Clippers,1,1,30,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-237,44,1,1,20251226,POR,LAC
+Shot Chart Detail,0022500431,224,1628381,John Collins,1610612746,LA Clippers,2,3,53,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-235,29,1,1,20251226,POR,LAC
+Shot Chart Detail,0022500431,299,1628381,John Collins,1610612746,LA Clippers,3,10,35,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,228,40,1,0,20251226,POR,LAC
+Shot Chart Detail,0022500461,40,1628381,John Collins,1610612746,LA Clippers,1,8,38,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20251230,LAC,SAC
+Shot Chart Detail,0022500461,70,1628381,John Collins,1610612746,LA Clippers,1,6,13,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,26,16,1,0,20251230,LAC,SAC
+Shot Chart Detail,0022500461,73,1628381,John Collins,1610612746,LA Clippers,1,6,8,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,8,1,1,20251230,LAC,SAC
+Shot Chart Detail,0022500461,277,1628381,John Collins,1610612746,LA Clippers,2,4,54,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,227,117,1,1,20251230,LAC,SAC
+Shot Chart Detail,0022500461,281,1628381,John Collins,1610612746,LA Clippers,2,4,33,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-6,29,1,1,20251230,LAC,SAC
+Shot Chart Detail,0022500461,298,1628381,John Collins,1610612746,LA Clippers,2,3,46,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,53,1,0,20251230,LAC,SAC
+Shot Chart Detail,0022500461,313,1628381,John Collins,1610612746,LA Clippers,2,2,20,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,229,55,1,1,20251230,LAC,SAC
+Shot Chart Detail,0022500461,321,1628381,John Collins,1610612746,LA Clippers,2,1,41,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,27,-72,267,1,0,20251230,LAC,SAC
+Shot Chart Detail,0022500461,374,1628381,John Collins,1610612746,LA Clippers,3,9,49,Made Shot,Running Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,13,1,1,20251230,LAC,SAC
+Shot Chart Detail,0022500475,22,1628381,John Collins,1610612746,LA Clippers,1,10,31,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260101,LAC,UTA
+Shot Chart Detail,0022500475,273,1628381,John Collins,1610612746,LA Clippers,2,5,15,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,229,16,1,0,20260101,LAC,UTA
+Shot Chart Detail,0022500475,372,1628381,John Collins,1610612746,LA Clippers,3,11,27,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260101,LAC,UTA
+Shot Chart Detail,0022500493,23,1628381,John Collins,1610612746,LA Clippers,1,9,39,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,6,1,1,20260103,LAC,BOS
+Shot Chart Detail,0022500493,29,1628381,John Collins,1610612746,LA Clippers,1,8,58,Made Shot,Alley Oop Layup shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,20,1,1,20260103,LAC,BOS
+Shot Chart Detail,0022500493,52,1628381,John Collins,1610612746,LA Clippers,1,6,8,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,27,57,1,1,20260103,LAC,BOS
+Shot Chart Detail,0022500493,59,1628381,John Collins,1610612746,LA Clippers,1,5,12,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-33,42,1,1,20260103,LAC,BOS
+Shot Chart Detail,0022500493,198,1628381,John Collins,1610612746,LA Clippers,2,6,26,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,7,25,1,1,20260103,LAC,BOS
+Shot Chart Detail,0022500493,207,1628381,John Collins,1610612746,LA Clippers,2,5,52,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,28,11,281,1,1,20260103,LAC,BOS
+Shot Chart Detail,0022500493,211,1628381,John Collins,1610612746,LA Clippers,2,5,20,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-223,69,1,1,20260103,LAC,BOS
+Shot Chart Detail,0022500493,215,1628381,John Collins,1610612746,LA Clippers,2,4,57,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,46,1,1,20260103,LAC,BOS
+Shot Chart Detail,0022500493,277,1628381,John Collins,1610612746,LA Clippers,2,1,39,Missed Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-47,99,1,0,20260103,LAC,BOS
+Shot Chart Detail,0022500493,369,1628381,John Collins,1610612746,LA Clippers,3,6,58,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-10,52,1,1,20260103,LAC,BOS
+Shot Chart Detail,0022500508,63,1628381,John Collins,1610612746,LA Clippers,1,6,35,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,45,75,1,0,20260105,LAC,GSW
+Shot Chart Detail,0022500508,83,1628381,John Collins,1610612746,LA Clippers,1,5,20,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,-1,1,1,20260105,LAC,GSW
+Shot Chart Detail,0022500508,192,1628381,John Collins,1610612746,LA Clippers,2,11,24,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,229,50,1,0,20260105,LAC,GSW
+Shot Chart Detail,0022500508,196,1628381,John Collins,1610612746,LA Clippers,2,10,52,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,224,43,1,1,20260105,LAC,GSW
+Shot Chart Detail,0022500508,200,1628381,John Collins,1610612746,LA Clippers,2,10,9,Missed Shot,Driving Bank Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,61,22,1,0,20260105,LAC,GSW
+Shot Chart Detail,0022500508,208,1628381,John Collins,1610612746,LA Clippers,2,9,21,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,228,50,1,1,20260105,LAC,GSW
+Shot Chart Detail,0022500508,450,1628381,John Collins,1610612746,LA Clippers,3,4,6,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-51,58,1,0,20260105,LAC,GSW
+Shot Chart Detail,0022500508,528,1628381,John Collins,1610612746,LA Clippers,4,10,32,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,25,76,1,1,20260105,LAC,GSW
+Shot Chart Detail,0022500508,554,1628381,John Collins,1610612746,LA Clippers,4,8,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-138,217,1,1,20260105,LAC,GSW
+Shot Chart Detail,0022500508,602,1628381,John Collins,1610612746,LA Clippers,4,6,9,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,12,1,1,20260105,LAC,GSW
+Shot Chart Detail,0022500508,659,1628381,John Collins,1610612746,LA Clippers,4,2,13,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,21,17,1,1,20260105,LAC,GSW
+Shot Chart Detail,0022500508,669,1628381,John Collins,1610612746,LA Clippers,4,1,21,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,217,138,1,0,20260105,LAC,GSW
+Shot Chart Detail,0022500522,35,1628381,John Collins,1610612746,LA Clippers,1,9,6,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,11,1,1,20260107,NYK,LAC
+Shot Chart Detail,0022500522,37,1628381,John Collins,1610612746,LA Clippers,1,8,41,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,65,251,1,1,20260107,NYK,LAC
+Shot Chart Detail,0022500522,112,1628381,John Collins,1610612746,LA Clippers,1,2,29,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,228,63,1,0,20260107,NYK,LAC
+Shot Chart Detail,0022500522,331,1628381,John Collins,1610612746,LA Clippers,3,10,58,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-11,17,1,1,20260107,NYK,LAC
+Shot Chart Detail,0022500522,426,1628381,John Collins,1610612746,LA Clippers,3,4,48,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,10,1,1,20260107,NYK,LAC
+Shot Chart Detail,0022500522,571,1628381,John Collins,1610612746,LA Clippers,4,7,14,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,-17,1,0,20260107,NYK,LAC
+Shot Chart Detail,0022500522,582,1628381,John Collins,1610612746,LA Clippers,4,6,46,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,-10,1,1,20260107,NYK,LAC
+Shot Chart Detail,0022500522,589,1628381,John Collins,1610612746,LA Clippers,4,6,9,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,96,69,1,1,20260107,NYK,LAC
+Shot Chart Detail,0022500522,623,1628381,John Collins,1610612746,LA Clippers,4,3,18,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,227,14,1,1,20260107,NYK,LAC
+Shot Chart Detail,0022500535,9,1628381,John Collins,1610612746,LA Clippers,1,11,25,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,-5,1,1,20260109,BKN,LAC
+Shot Chart Detail,0022500535,30,1628381,John Collins,1610612746,LA Clippers,1,9,37,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,1,47,1,1,20260109,BKN,LAC
+Shot Chart Detail,0022500535,52,1628381,John Collins,1610612746,LA Clippers,1,7,46,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,1,15,1,1,20260109,BKN,LAC
+Shot Chart Detail,0022500535,114,1628381,John Collins,1610612746,LA Clippers,1,2,19,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Center(C),8-16 ft.,14,12,149,1,0,20260109,BKN,LAC
+Shot Chart Detail,0022500535,260,1628381,John Collins,1610612746,LA Clippers,2,2,2,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,11,1,1,20260109,BKN,LAC
+Shot Chart Detail,0022500535,386,1628381,John Collins,1610612746,LA Clippers,3,6,14,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-4,-1,1,1,20260109,BKN,LAC
+Shot Chart Detail,0022500535,577,1628381,John Collins,1610612746,LA Clippers,4,4,33,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,34,41,1,0,20260109,BKN,LAC
+Shot Chart Detail,0022500535,586,1628381,John Collins,1610612746,LA Clippers,4,3,50,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,-11,1,1,20260109,BKN,LAC
+Shot Chart Detail,0022500535,601,1628381,John Collins,1610612746,LA Clippers,4,2,26,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,-12,1,1,20260109,BKN,LAC
+Shot Chart Detail,0022500544,133,1628381,John Collins,1610612746,LA Clippers,1,6,12,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,53,48,1,0,20260110,DET,LAC
+Shot Chart Detail,0022500544,79,1628381,John Collins,1610612746,LA Clippers,1,5,52,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,6,7,1,1,20260110,DET,LAC
+Shot Chart Detail,0022500544,123,1628381,John Collins,1610612746,LA Clippers,1,2,57,Missed Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,28,64,1,0,20260110,DET,LAC
+Shot Chart Detail,0022500544,285,1628381,John Collins,1610612746,LA Clippers,2,4,25,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,223,-14,1,1,20260110,DET,LAC
+Shot Chart Detail,0022500544,314,1628381,John Collins,1610612746,LA Clippers,2,2,42,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-243,20,1,1,20260110,DET,LAC
+Shot Chart Detail,0022500544,330,1628381,John Collins,1610612746,LA Clippers,2,1,18,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,31,8,1,1,20260110,DET,LAC
+Shot Chart Detail,0022500544,333,1628381,John Collins,1610612746,LA Clippers,2,0,42,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,120,223,1,0,20260110,DET,LAC
+Shot Chart Detail,0022500544,371,1628381,John Collins,1610612746,LA Clippers,3,11,19,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,13,1,1,20260110,DET,LAC
+Shot Chart Detail,0022500544,445,1628381,John Collins,1610612746,LA Clippers,3,5,21,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-222,8,1,1,20260110,DET,LAC
+Shot Chart Detail,0022500544,493,1628381,John Collins,1610612746,LA Clippers,3,2,39,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-13,26,1,1,20260110,DET,LAC
+Shot Chart Detail,0022500544,581,1628381,John Collins,1610612746,LA Clippers,4,8,58,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-2,36,1,1,20260110,DET,LAC
+Shot Chart Detail,0022500544,616,1628381,John Collins,1610612746,LA Clippers,4,6,9,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,48,1,0,20260110,DET,LAC
+Shot Chart Detail,0022500544,631,1628381,John Collins,1610612746,LA Clippers,4,5,19,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-199,163,1,0,20260110,DET,LAC
+Shot Chart Detail,0022500544,645,1628381,John Collins,1610612746,LA Clippers,4,4,17,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,112,239,1,1,20260110,DET,LAC
+Shot Chart Detail,0022500563,7,1628381,John Collins,1610612746,LA Clippers,1,11,35,Missed Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,39,0,1,0,20260112,LAC,CHA
+Shot Chart Detail,0022500563,227,1628381,John Collins,1610612746,LA Clippers,2,7,35,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-26,59,1,0,20260112,LAC,CHA
+Shot Chart Detail,0022500563,239,1628381,John Collins,1610612746,LA Clippers,2,6,6,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,9,1,1,20260112,LAC,CHA
+Shot Chart Detail,0022500563,576,1628381,John Collins,1610612746,LA Clippers,4,2,9,Missed Shot,Turnaround Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,134,210,1,0,20260112,LAC,CHA
+Shot Chart Detail,0022500608,18,1628381,John Collins,1610612746,LA Clippers,1,10,10,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,-10,1,0,20260119,WAS,LAC
+Shot Chart Detail,0022500608,20,1628381,John Collins,1610612746,LA Clippers,1,10,4,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-238,8,1,1,20260119,WAS,LAC
+Shot Chart Detail,0022500608,71,1628381,John Collins,1610612746,LA Clippers,1,5,47,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,34,248,1,0,20260119,WAS,LAC
+Shot Chart Detail,0022500608,212,1628381,John Collins,1610612746,LA Clippers,2,8,53,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-20,10,1,1,20260119,WAS,LAC
+Shot Chart Detail,0022500608,241,1628381,John Collins,1610612746,LA Clippers,2,6,53,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,28,17,1,1,20260119,WAS,LAC
+Shot Chart Detail,0022500608,269,1628381,John Collins,1610612746,LA Clippers,2,5,38,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Left Side(L),8-16 ft.,10,-67,75,1,1,20260119,WAS,LAC
+Shot Chart Detail,0022500608,404,1628381,John Collins,1610612746,LA Clippers,3,7,4,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-7,11,1,1,20260119,WAS,LAC
+Shot Chart Detail,0022500614,14,1628381,John Collins,1610612746,LA Clippers,1,10,54,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,238,-6,1,1,20260120,CHI,LAC
+Shot Chart Detail,0022500614,22,1628381,John Collins,1610612746,LA Clippers,1,10,20,Made Shot,Running Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,234,-6,1,1,20260120,CHI,LAC
+Shot Chart Detail,0022500614,39,1628381,John Collins,1610612746,LA Clippers,1,8,3,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,5,1,1,20260120,CHI,LAC
+Shot Chart Detail,0022500614,250,1628381,John Collins,1610612746,LA Clippers,2,5,26,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,9,1,1,20260120,CHI,LAC
+Shot Chart Detail,0022500614,270,1628381,John Collins,1610612746,LA Clippers,2,3,39,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,14,1,0,20260120,CHI,LAC
+Shot Chart Detail,0022500614,274,1628381,John Collins,1610612746,LA Clippers,2,3,25,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,9,36,1,0,20260120,CHI,LAC
+Shot Chart Detail,0022500614,323,1628381,John Collins,1610612746,LA Clippers,2,0,30,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-1,0,1,1,20260120,CHI,LAC
+Shot Chart Detail,0022500614,338,1628381,John Collins,1610612746,LA Clippers,3,11,48,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,-4,1,1,20260120,CHI,LAC
+Shot Chart Detail,0022500614,388,1628381,John Collins,1610612746,LA Clippers,3,7,31,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-107,231,1,1,20260120,CHI,LAC
+Shot Chart Detail,0022500614,408,1628381,John Collins,1610612746,LA Clippers,3,6,10,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-2,5,1,1,20260120,CHI,LAC
+Shot Chart Detail,0022500614,412,1628381,John Collins,1610612746,LA Clippers,3,5,38,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,0,1,1,20260120,CHI,LAC
+Shot Chart Detail,0022500614,416,1628381,John Collins,1610612746,LA Clippers,3,4,55,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,-9,1,0,20260120,CHI,LAC
+Shot Chart Detail,0022500633,16,1628381,John Collins,1610612746,LA Clippers,1,10,53,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-9,36,1,1,20260122,LAC,LAL
+Shot Chart Detail,0022500633,122,1628381,John Collins,1610612746,LA Clippers,1,1,21,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,9,23,1,1,20260122,LAC,LAL
+Shot Chart Detail,0022500633,242,1628381,John Collins,1610612746,LA Clippers,2,4,2,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,18,92,160,1,1,20260122,LAC,LAL
+Shot Chart Detail,0022500633,347,1628381,John Collins,1610612746,LA Clippers,3,8,54,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,41,1,0,20260122,LAC,LAL
+Shot Chart Detail,0022500633,351,1628381,John Collins,1610612746,LA Clippers,3,8,35,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,233,22,1,0,20260122,LAC,LAL
+Shot Chart Detail,0022500633,561,1628381,John Collins,1610612746,LA Clippers,4,5,3,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,7,27,1,1,20260122,LAC,LAL
+Shot Chart Detail,0022500633,639,1628381,John Collins,1610612746,LA Clippers,4,0,43,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,3,1,1,20260122,LAC,LAL
+Shot Chart Detail,0022500656,14,1628381,John Collins,1610612746,LA Clippers,1,10,38,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,47,34,1,1,20260125,LAC,BKN
+Shot Chart Detail,0022500656,22,1628381,John Collins,1610612746,LA Clippers,1,10,8,Missed Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-9,8,1,0,20260125,LAC,BKN
+Shot Chart Detail,0022500656,30,1628381,John Collins,1610612746,LA Clippers,1,9,15,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-12,27,1,1,20260125,LAC,BKN
+Shot Chart Detail,0022500656,44,1628381,John Collins,1610612746,LA Clippers,1,7,50,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-159,217,1,0,20260125,LAC,BKN
+Shot Chart Detail,0022500656,58,1628381,John Collins,1610612746,LA Clippers,1,6,57,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-238,70,1,0,20260125,LAC,BKN
+Shot Chart Detail,0022500656,93,1628381,John Collins,1610612746,LA Clippers,1,4,32,Missed Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-16,49,1,0,20260125,LAC,BKN
+Shot Chart Detail,0022500656,255,1628381,John Collins,1610612746,LA Clippers,2,6,2,Made Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,-25,102,1,1,20260125,LAC,BKN
+Shot Chart Detail,0022500656,278,1628381,John Collins,1610612746,LA Clippers,2,3,55,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,5,27,1,1,20260125,LAC,BKN
+Shot Chart Detail,0022500656,315,1628381,John Collins,1610612746,LA Clippers,2,1,0,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,234,78,1,0,20260125,LAC,BKN
+Shot Chart Detail,0022500656,355,1628381,John Collins,1610612746,LA Clippers,3,10,46,Missed Shot,Cutting Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,33,43,1,0,20260125,LAC,BKN
+Shot Chart Detail,0022500656,396,1628381,John Collins,1610612746,LA Clippers,3,7,46,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-141,220,1,1,20260125,LAC,BKN
+Shot Chart Detail,0022500656,415,1628381,John Collins,1610612746,LA Clippers,3,6,16,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,18,34,1,1,20260125,LAC,BKN
+Shot Chart Detail,0022500656,444,1628381,John Collins,1610612746,LA Clippers,3,4,15,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,188,185,1,1,20260125,LAC,BKN
+Shot Chart Detail,0022500656,470,1628381,John Collins,1610612746,LA Clippers,3,2,21,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-51,19,1,0,20260125,LAC,BKN
+Shot Chart Detail,0022500670,24,1628381,John Collins,1610612746,LA Clippers,1,9,48,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,82,236,1,0,20260127,UTA,LAC
+Shot Chart Detail,0022500670,30,1628381,John Collins,1610612746,LA Clippers,1,9,3,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-22,1,1,1,20260127,UTA,LAC
+Shot Chart Detail,0022500670,59,1628381,John Collins,1610612746,LA Clippers,1,6,12,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,82,239,1,1,20260127,UTA,LAC
+Shot Chart Detail,0022500670,247,1628381,John Collins,1610612746,LA Clippers,2,5,6,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-183,183,1,0,20260127,UTA,LAC
+Shot Chart Detail,0022500670,279,1628381,John Collins,1610612746,LA Clippers,2,2,42,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,7,1,0,20260127,UTA,LAC
+Shot Chart Detail,0022500670,283,1628381,John Collins,1610612746,LA Clippers,2,2,24,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,29,-4,1,0,20260127,UTA,LAC
+Shot Chart Detail,0022500670,341,1628381,John Collins,1610612746,LA Clippers,3,10,26,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-9,38,1,1,20260127,UTA,LAC
+Shot Chart Detail,0022500670,357,1628381,John Collins,1610612746,LA Clippers,3,9,14,Missed Shot,Alley Oop Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,56,16,1,0,20260127,UTA,LAC
+Shot Chart Detail,0022500670,365,1628381,John Collins,1610612746,LA Clippers,3,8,32,Made Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-135,216,1,1,20260127,UTA,LAC
+Shot Chart Detail,0022500695,13,1628381,John Collins,1610612746,LA Clippers,1,11,19,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,39,1,1,20260130,DEN,LAC
+Shot Chart Detail,0022500695,44,1628381,John Collins,1610612746,LA Clippers,1,8,28,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,235,5,1,0,20260130,DEN,LAC
+Shot Chart Detail,0022500695,52,1628381,John Collins,1610612746,LA Clippers,1,7,25,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,234,65,1,1,20260130,DEN,LAC
+Shot Chart Detail,0022500695,93,1628381,John Collins,1610612746,LA Clippers,1,4,20,Made Shot,Running Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-6,10,1,1,20260130,DEN,LAC
+Shot Chart Detail,0022500695,284,1628381,John Collins,1610612746,LA Clippers,2,1,51,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,53,1,0,20260130,DEN,LAC
+Shot Chart Detail,0022500695,286,1628381,John Collins,1610612746,LA Clippers,2,1,47,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-234,37,1,1,20260130,DEN,LAC
+Shot Chart Detail,0022500695,299,1628381,John Collins,1610612746,LA Clippers,2,0,57,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260130,DEN,LAC
+Shot Chart Detail,0022500695,360,1628381,John Collins,1610612746,LA Clippers,3,9,11,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,9,75,63,1,0,20260130,DEN,LAC
+Shot Chart Detail,0022500695,408,1628381,John Collins,1610612746,LA Clippers,3,6,4,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,7,9,1,1,20260130,DEN,LAC
+Shot Chart Detail,0022500695,426,1628381,John Collins,1610612746,LA Clippers,3,4,45,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,246,10,1,1,20260130,DEN,LAC
+Shot Chart Detail,0022500695,578,1628381,John Collins,1610612746,LA Clippers,4,5,9,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-107,230,1,0,20260130,DEN,LAC
+Shot Chart Detail,0022500709,18,1628381,John Collins,1610612746,LA Clippers,1,10,10,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-179,188,1,0,20260201,PHX,LAC
+Shot Chart Detail,0022500709,62,1628381,John Collins,1610612746,LA Clippers,1,6,2,Made Shot,Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-12,18,1,1,20260201,PHX,LAC
+Shot Chart Detail,0022500709,67,1628381,John Collins,1610612746,LA Clippers,1,5,36,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260201,PHX,LAC
+Shot Chart Detail,0022500709,203,1628381,John Collins,1610612746,LA Clippers,2,8,8,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,5,11,1,1,20260201,PHX,LAC
+Shot Chart Detail,0022500709,216,1628381,John Collins,1610612746,LA Clippers,2,7,31,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-233,29,1,0,20260201,PHX,LAC
+Shot Chart Detail,0022500709,221,1628381,John Collins,1610612746,LA Clippers,2,6,49,Missed Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,4,1,0,20260201,PHX,LAC
+Shot Chart Detail,0022500709,238,1628381,John Collins,1610612746,LA Clippers,2,5,58,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-26,12,1,1,20260201,PHX,LAC
+Shot Chart Detail,0022500709,371,1628381,John Collins,1610612746,LA Clippers,3,8,4,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,-2,1,1,20260201,PHX,LAC
+Shot Chart Detail,0022500709,415,1628381,John Collins,1610612746,LA Clippers,3,5,44,Missed Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,5,9,1,0,20260201,PHX,LAC
+Shot Chart Detail,0022500709,417,1628381,John Collins,1610612746,LA Clippers,3,5,41,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260201,PHX,LAC
+Shot Chart Detail,0022500715,13,1628381,John Collins,1610612746,LA Clippers,1,10,52,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,8,1,0,20260202,LAC,PHI
+Shot Chart Detail,0022500715,51,1628381,John Collins,1610612746,LA Clippers,1,7,30,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,132,230,1,0,20260202,LAC,PHI
+Shot Chart Detail,0022500715,79,1628381,John Collins,1610612746,LA Clippers,1,5,45,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,227,39,1,0,20260202,LAC,PHI
+Shot Chart Detail,0022500715,172,1628381,John Collins,1610612746,LA Clippers,2,11,1,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,12,1,1,20260202,LAC,PHI
+Shot Chart Detail,0022500715,200,1628381,John Collins,1610612746,LA Clippers,2,8,53,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-240,55,1,1,20260202,LAC,PHI
+Shot Chart Detail,0022500715,223,1628381,John Collins,1610612746,LA Clippers,2,6,48,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,12,96,75,1,1,20260202,LAC,PHI
+Shot Chart Detail,0022500715,343,1628381,John Collins,1610612746,LA Clippers,3,11,38,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-227,20,1,1,20260202,LAC,PHI
+Shot Chart Detail,0022500715,405,1628381,John Collins,1610612746,LA Clippers,3,6,45,Made Shot,Putback Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260202,LAC,PHI
+Shot Chart Detail,0022500715,408,1628381,John Collins,1610612746,LA Clippers,3,6,6,Missed Shot,Driving Bank Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,58,6,1,0,20260202,LAC,PHI
+Shot Chart Detail,0022500715,473,1628381,John Collins,1610612746,LA Clippers,3,2,27,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,8,38,78,1,1,20260202,LAC,PHI
+Shot Chart Detail,0022500715,581,1628381,John Collins,1610612746,LA Clippers,4,5,36,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,16,1,0,20260202,LAC,PHI
+Shot Chart Detail,0022500732,19,1628381,John Collins,1610612746,LA Clippers,1,10,25,Made Shot,Driving Bank Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,29,35,1,1,20260204,LAC,CLE
+Shot Chart Detail,0022500732,24,1628381,John Collins,1610612746,LA Clippers,1,9,51,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,14,1,0,20260204,LAC,CLE
+Shot Chart Detail,0022500732,32,1628381,John Collins,1610612746,LA Clippers,1,9,3,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,0,21,1,1,20260204,LAC,CLE
+Shot Chart Detail,0022500732,42,1628381,John Collins,1610612746,LA Clippers,1,8,9,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260204,LAC,CLE
+Shot Chart Detail,0022500732,120,1628381,John Collins,1610612746,LA Clippers,1,2,51,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,7,43,1,0,20260204,LAC,CLE
+Shot Chart Detail,0022500732,289,1628381,John Collins,1610612746,LA Clippers,2,1,58,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-11,29,1,1,20260204,LAC,CLE
+Shot Chart Detail,0022500732,293,1628381,John Collins,1610612746,LA Clippers,2,1,26,Made Shot,Cutting Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,20,35,1,1,20260204,LAC,CLE
+Shot Chart Detail,0022500732,342,1628381,John Collins,1610612746,LA Clippers,3,9,36,Made Shot,Driving Finger Roll Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,15,8,1,1,20260204,LAC,CLE
+Shot Chart Detail,0022500732,378,1628381,John Collins,1610612746,LA Clippers,3,6,56,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,1,27,1,1,20260204,LAC,CLE
+Shot Chart Detail,0022500732,441,1628381,John Collins,1610612746,LA Clippers,3,2,53,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-5,26,1,0,20260204,LAC,CLE
+Shot Chart Detail,0022500732,463,1628381,John Collins,1610612746,LA Clippers,3,1,18,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-38,113,1,1,20260204,LAC,CLE
+Shot Chart Detail,0022500746,25,1628381,John Collins,1610612746,LA Clippers,1,10,4,Missed Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,10,48,90,1,0,20260206,SAC,LAC
+Shot Chart Detail,0022500746,40,1628381,John Collins,1610612746,LA Clippers,1,9,17,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260206,SAC,LAC
+Shot Chart Detail,0022500746,100,1628381,John Collins,1610612746,LA Clippers,1,4,38,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,78,16,1,0,20260206,SAC,LAC
+Shot Chart Detail,0022500746,187,1628381,John Collins,1610612746,LA Clippers,2,10,25,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-36,10,1,0,20260206,SAC,LAC
+Shot Chart Detail,0022500746,265,1628381,John Collins,1610612746,LA Clippers,2,4,23,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,26,66,1,1,20260206,SAC,LAC
+Shot Chart Detail,0022500746,289,1628381,John Collins,1610612746,LA Clippers,2,2,52,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-107,31,1,1,20260206,SAC,LAC
+Shot Chart Detail,0022500746,318,1628381,John Collins,1610612746,LA Clippers,2,1,28,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-121,6,1,1,20260206,SAC,LAC
+Shot Chart Detail,0022500746,379,1628381,John Collins,1610612746,LA Clippers,3,9,34,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,4,39,1,1,20260206,SAC,LAC
+Shot Chart Detail,0022500746,407,1628381,John Collins,1610612746,LA Clippers,3,7,10,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-27,32,1,1,20260206,SAC,LAC
+Shot Chart Detail,0022500746,478,1628381,John Collins,1610612746,LA Clippers,3,1,29,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-103,20,1,1,20260206,SAC,LAC
+Shot Chart Detail,0022500746,592,1628381,John Collins,1610612746,LA Clippers,4,4,28,Missed Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-38,43,1,0,20260206,SAC,LAC
+Shot Chart Detail,0022500746,635,1628381,John Collins,1610612746,LA Clippers,4,2,5,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-218,160,1,1,20260206,SAC,LAC
+Shot Chart Detail,0022500760,20,1628381,John Collins,1610612746,LA Clippers,1,10,39,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,4,50,1,1,20260208,MIN,LAC
+Shot Chart Detail,0022500760,23,1628381,John Collins,1610612746,LA Clippers,1,10,14,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-228,11,1,1,20260208,MIN,LAC
+Shot Chart Detail,0022500760,80,1628381,John Collins,1610612746,LA Clippers,1,4,43,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,6,73,1,0,20260208,MIN,LAC
+Shot Chart Detail,0022500760,220,1628381,John Collins,1610612746,LA Clippers,2,7,16,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,8,1,1,20260208,MIN,LAC
+Shot Chart Detail,0022500760,252,1628381,John Collins,1610612746,LA Clippers,2,5,12,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,17,127,117,1,0,20260208,MIN,LAC
+Shot Chart Detail,0022500760,271,1628381,John Collins,1610612746,LA Clippers,2,3,1,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,17,19,1,1,20260208,MIN,LAC
+Shot Chart Detail,0022500760,324,1628381,John Collins,1610612746,LA Clippers,3,11,26,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-110,18,1,1,20260208,MIN,LAC
+Shot Chart Detail,0022500760,409,1628381,John Collins,1610612746,LA Clippers,3,2,49,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,13,1,1,20260208,MIN,LAC
+Shot Chart Detail,0022500760,425,1628381,John Collins,1610612746,LA Clippers,3,1,34,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-5,17,1,0,20260208,MIN,LAC
+Shot Chart Detail,0022500772,18,1628381,John Collins,1610612746,LA Clippers,1,9,57,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,0,54,1,1,20260210,HOU,LAC
+Shot Chart Detail,0022500772,25,1628381,John Collins,1610612746,LA Clippers,1,9,20,Made Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,70,42,1,1,20260210,HOU,LAC
+Shot Chart Detail,0022500772,30,1628381,John Collins,1610612746,LA Clippers,1,8,52,Missed Shot,Running Pull-Up Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,27,-118,247,1,0,20260210,HOU,LAC
+Shot Chart Detail,0022500772,44,1628381,John Collins,1610612746,LA Clippers,1,7,32,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,11,87,70,1,0,20260210,HOU,LAC
+Shot Chart Detail,0022500772,59,1628381,John Collins,1610612746,LA Clippers,1,6,28,Missed Shot,Driving Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,49,4,1,0,20260210,HOU,LAC
+Shot Chart Detail,0022500772,66,1628381,John Collins,1610612746,LA Clippers,1,6,5,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260210,HOU,LAC
+Shot Chart Detail,0022500772,111,1628381,John Collins,1610612746,LA Clippers,1,4,16,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,66,28,1,1,20260210,HOU,LAC
+Shot Chart Detail,0022500772,273,1628381,John Collins,1610612746,LA Clippers,2,5,4,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,23,32,1,1,20260210,HOU,LAC
+Shot Chart Detail,0022500772,294,1628381,John Collins,1610612746,LA Clippers,2,3,3,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-120,110,1,0,20260210,HOU,LAC
+Shot Chart Detail,0022500772,298,1628381,John Collins,1610612746,LA Clippers,2,2,18,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,4,17,1,1,20260210,HOU,LAC
+Shot Chart Detail,0022500772,352,1628381,John Collins,1610612746,LA Clippers,3,11,36,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,-78,-12,1,1,20260210,HOU,LAC
+Shot Chart Detail,0022500772,384,1628381,John Collins,1610612746,LA Clippers,3,8,5,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,18,-119,146,1,0,20260210,HOU,LAC
+Shot Chart Detail,0022500772,389,1628381,John Collins,1610612746,LA Clippers,3,7,28,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,230,29,1,0,20260210,HOU,LAC
+Shot Chart Detail,0022500772,461,1628381,John Collins,1610612746,LA Clippers,3,2,31,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-1,11,1,1,20260210,HOU,LAC
+Shot Chart Detail,0022500782,14,1628381,John Collins,1610612746,LA Clippers,1,10,31,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-62,27,1,1,20260211,HOU,LAC
+Shot Chart Detail,0022500782,68,1628381,John Collins,1610612746,LA Clippers,1,5,31,Made Shot,Running Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,16,27,1,1,20260211,HOU,LAC
+Shot Chart Detail,0022500782,75,1628381,John Collins,1610612746,LA Clippers,1,4,11,Missed Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,40,57,1,0,20260211,HOU,LAC
+Shot Chart Detail,0022500782,90,1628381,John Collins,1610612746,LA Clippers,1,3,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,195,180,1,0,20260211,HOU,LAC
+Shot Chart Detail,0022500782,223,1628381,John Collins,1610612746,LA Clippers,2,4,38,Missed Shot,Turnaround Bank Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,65,32,1,0,20260211,HOU,LAC
+Shot Chart Detail,0022500782,226,1628381,John Collins,1610612746,LA Clippers,2,4,2,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,55,18,1,0,20260211,HOU,LAC
+Shot Chart Detail,0022500782,259,1628381,John Collins,1610612746,LA Clippers,2,1,54,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,2,23,1,1,20260211,HOU,LAC
+Shot Chart Detail,0022500782,410,1628381,John Collins,1610612746,LA Clippers,3,2,53,Made Shot,Cutting Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-44,43,1,1,20260211,HOU,LAC
+Shot Chart Detail,0022500782,422,1628381,John Collins,1610612746,LA Clippers,3,2,5,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,118,117,1,1,20260211,HOU,LAC
+Shot Chart Detail,0022500782,615,1628381,John Collins,1610612746,LA Clippers,4,1,39,Made Shot,Running Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-12,50,1,1,20260211,HOU,LAC
+Shot Chart Detail,0022500782,626,1628381,John Collins,1610612746,LA Clippers,4,1,1,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,-81,256,1,0,20260211,HOU,LAC
+Shot Chart Detail,0022500801,13,1628381,John Collins,1610612746,LA Clippers,1,11,4,Missed Shot,Driving Floating Bank Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,51,32,1,0,20260219,LAC,DEN
+Shot Chart Detail,0022500801,19,1628381,John Collins,1610612746,LA Clippers,1,10,5,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,9,4,1,1,20260219,LAC,DEN
+Shot Chart Detail,0022500801,60,1628381,John Collins,1610612746,LA Clippers,1,6,3,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-100,43,1,1,20260219,LAC,DEN
+Shot Chart Detail,0022500801,93,1628381,John Collins,1610612746,LA Clippers,1,3,56,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,228,67,1,1,20260219,LAC,DEN
+Shot Chart Detail,0022500801,97,1628381,John Collins,1610612746,LA Clippers,1,3,33,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-170,190,1,0,20260219,LAC,DEN
+Shot Chart Detail,0022500801,260,1628381,John Collins,1610612746,LA Clippers,2,4,3,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-237,8,1,0,20260219,LAC,DEN
+Shot Chart Detail,0022500801,275,1628381,John Collins,1610612746,LA Clippers,2,3,5,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260219,LAC,DEN
+Shot Chart Detail,0022500801,303,1628381,John Collins,1610612746,LA Clippers,2,1,1,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-110,40,1,1,20260219,LAC,DEN
+Shot Chart Detail,0022500801,548,1628381,John Collins,1610612746,LA Clippers,4,8,18,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,25,1,0,20260219,LAC,DEN
+Shot Chart Detail,0022500801,653,1628381,John Collins,1610612746,LA Clippers,4,2,2,Missed Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,26,20,1,0,20260219,LAC,DEN
+Shot Chart Detail,0022500809,31,1628381,John Collins,1610612746,LA Clippers,1,8,57,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,12,8,1,1,20260220,LAL,LAC
+Shot Chart Detail,0022500809,42,1628381,John Collins,1610612746,LA Clippers,1,7,6,Made Shot,Turnaround Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-114,24,1,1,20260220,LAL,LAC
+Shot Chart Detail,0022500809,46,1628381,John Collins,1610612746,LA Clippers,1,6,53,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-5,31,1,1,20260220,LAL,LAC
+Shot Chart Detail,0022500809,49,1628381,John Collins,1610612746,LA Clippers,1,6,28,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,58,1,0,20260220,LAL,LAC
+Shot Chart Detail,0022500809,64,1628381,John Collins,1610612746,LA Clippers,1,5,4,Missed Shot,Jump Bank Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,4,35,1,0,20260220,LAL,LAC
+Shot Chart Detail,0022500809,93,1628381,John Collins,1610612746,LA Clippers,1,2,56,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,4,24,1,1,20260220,LAL,LAC
+Shot Chart Detail,0022500809,229,1628381,John Collins,1610612746,LA Clippers,2,6,5,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-228,32,1,1,20260220,LAL,LAC
+Shot Chart Detail,0022500809,246,1628381,John Collins,1610612746,LA Clippers,2,4,40,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,0,34,1,0,20260220,LAL,LAC
+Shot Chart Detail,0022500877,9,1628381,John Collins,1610612746,LA Clippers,1,11,39,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260301,LAC,NOP
+Shot Chart Detail,0022500877,20,1628381,John Collins,1610612746,LA Clippers,1,10,44,Made Shot,Running Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,2,16,1,1,20260301,LAC,NOP
+Shot Chart Detail,0022500877,37,1628381,John Collins,1610612746,LA Clippers,1,9,16,Missed Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,17,1,0,20260301,LAC,NOP
+Shot Chart Detail,0022500877,48,1628381,John Collins,1610612746,LA Clippers,1,8,25,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260301,LAC,NOP
+Shot Chart Detail,0022500877,228,1628381,John Collins,1610612746,LA Clippers,2,8,49,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-229,31,1,0,20260301,LAC,NOP
+Shot Chart Detail,0022500877,259,1628381,John Collins,1610612746,LA Clippers,2,6,58,Missed Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-21,16,1,0,20260301,LAC,NOP
+Shot Chart Detail,0022500877,274,1628381,John Collins,1610612746,LA Clippers,2,5,58,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-154,211,1,1,20260301,LAC,NOP
+Shot Chart Detail,0022500877,314,1628381,John Collins,1610612746,LA Clippers,2,2,37,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-230,16,1,0,20260301,LAC,NOP
+Shot Chart Detail,0022500877,321,1628381,John Collins,1610612746,LA Clippers,2,1,46,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,22,13,1,0,20260301,LAC,NOP
+Shot Chart Detail,0022500877,323,1628381,John Collins,1610612746,LA Clippers,2,1,44,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20260301,LAC,NOP
+Shot Chart Detail,0022500877,386,1628381,John Collins,1610612746,LA Clippers,3,9,38,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,18,9,1,1,20260301,LAC,NOP
+Shot Chart Detail,0022500877,401,1628381,John Collins,1610612746,LA Clippers,3,8,44,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,121,68,1,0,20260301,LAC,NOP
+Shot Chart Detail,0022500877,416,1628381,John Collins,1610612746,LA Clippers,3,7,32,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,229,24,1,0,20260301,LAC,NOP
+Shot Chart Detail,0022500877,605,1628381,John Collins,1610612746,LA Clippers,4,6,28,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,12,-124,32,1,0,20260301,LAC,NOP
+Shot Chart Detail,0022500975,155,1628381,John Collins,1610612746,LA Clippers,1,0,38,Made Shot,Running Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,23,-232,32,1,1,20260314,LAC,SAC
+Shot Chart Detail,0022500975,173,1628381,John Collins,1610612746,LA Clippers,2,10,52,Missed Shot,Running Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-212,155,1,0,20260314,LAC,SAC
+Shot Chart Detail,0022500975,390,1628381,John Collins,1610612746,LA Clippers,3,6,29,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,3,1,1,20260314,LAC,SAC
+Shot Chart Detail,0022500975,417,1628381,John Collins,1610612746,LA Clippers,3,4,41,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-223,-10,1,0,20260314,LAC,SAC
+Shot Chart Detail,0022500975,510,1628381,John Collins,1610612746,LA Clippers,4,10,17,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20260314,LAC,SAC
+Shot Chart Detail,0022500990,76,1628381,John Collins,1610612746,LA Clippers,1,6,47,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,16,-145,73,1,0,20260316,LAC,SAS
+Shot Chart Detail,0022500990,83,1628381,John Collins,1610612746,LA Clippers,1,6,12,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-9,42,1,0,20260316,LAC,SAS
+Shot Chart Detail,0022500990,247,1628381,John Collins,1610612746,LA Clippers,2,7,50,Made Shot,Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,-65,128,1,1,20260316,LAC,SAS
+Shot Chart Detail,0022500990,296,1628381,John Collins,1610612746,LA Clippers,2,4,54,Made Shot,Turnaround Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-2,65,1,1,20260316,LAC,SAS
+Shot Chart Detail,0022500990,388,1628381,John Collins,1610612746,LA Clippers,3,10,13,Missed Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,49,41,1,0,20260316,LAC,SAS
+Shot Chart Detail,0022500990,404,1628381,John Collins,1610612746,LA Clippers,3,9,6,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260316,LAC,SAS
+Shot Chart Detail,0022500990,614,1628381,John Collins,1610612746,LA Clippers,4,7,2,Made Shot,Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,8,1,1,20260316,LAC,SAS
+Shot Chart Detail,0022500990,670,1628381,John Collins,1610612746,LA Clippers,4,2,26,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,249,4,1,0,20260316,LAC,SAS
+Shot Chart Detail,0022501005,9,1628381,John Collins,1610612746,LA Clippers,1,11,22,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,7,1,1,20260318,NOP,LAC
+Shot Chart Detail,0022501005,39,1628381,John Collins,1610612746,LA Clippers,1,8,28,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,17,7,1,1,20260318,NOP,LAC
+Shot Chart Detail,0022501005,42,1628381,John Collins,1610612746,LA Clippers,1,8,2,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,5,21,1,1,20260318,NOP,LAC
+Shot Chart Detail,0022501005,64,1628381,John Collins,1610612746,LA Clippers,1,6,48,Missed Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,29,5,1,0,20260318,NOP,LAC
+Shot Chart Detail,0022501005,67,1628381,John Collins,1610612746,LA Clippers,1,6,44,Missed Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,29,6,1,0,20260318,NOP,LAC
+Shot Chart Detail,0022501005,313,1628381,John Collins,1610612746,LA Clippers,2,1,42,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,10,1,0,20260318,NOP,LAC
+Shot Chart Detail,0022501005,356,1628381,John Collins,1610612746,LA Clippers,3,9,30,Made Shot,Running Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,6,1,1,20260318,NOP,LAC
+Shot Chart Detail,0022501005,380,1628381,John Collins,1610612746,LA Clippers,3,7,51,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260318,NOP,LAC
+Shot Chart Detail,0022501005,502,1628381,John Collins,1610612746,LA Clippers,4,10,53,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-131,208,1,0,20260318,NOP,LAC
+Shot Chart Detail,0022501005,527,1628381,John Collins,1610612746,LA Clippers,4,8,9,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-27,9,1,1,20260318,NOP,LAC
+Shot Chart Detail,0022501005,551,1628381,John Collins,1610612746,LA Clippers,4,6,34,Missed Shot,Running Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,32,1,0,20260318,NOP,LAC
+Shot Chart Detail,0022501012,10,1628381,John Collins,1610612746,LA Clippers,1,11,24,Made Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,14,67,130,1,1,20260319,NOP,LAC
+Shot Chart Detail,0022501012,42,1628381,John Collins,1610612746,LA Clippers,1,8,7,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,221,95,1,1,20260319,NOP,LAC
+Shot Chart Detail,0022501012,87,1628381,John Collins,1610612746,LA Clippers,1,4,10,Missed Shot,Pullup Jump shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,24,129,214,1,0,20260319,NOP,LAC
+Shot Chart Detail,0022501012,225,1628381,John Collins,1610612746,LA Clippers,2,6,2,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,10,1,0,20260319,NOP,LAC
+Shot Chart Detail,0022501012,240,1628381,John Collins,1610612746,LA Clippers,2,5,7,Missed Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-13,60,1,0,20260319,NOP,LAC
+Shot Chart Detail,0022501012,253,1628381,John Collins,1610612746,LA Clippers,2,4,7,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,25,49,247,1,0,20260319,NOP,LAC
+Shot Chart Detail,0022501012,289,1628381,John Collins,1610612746,LA Clippers,2,2,13,Made Shot,Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,13,1,1,20260319,NOP,LAC
+Shot Chart Detail,0022501012,293,1628381,John Collins,1610612746,LA Clippers,2,1,48,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-140,228,1,1,20260319,NOP,LAC
+Shot Chart Detail,0022501012,302,1628381,John Collins,1610612746,LA Clippers,2,0,52,Made Shot,Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-31,5,1,1,20260319,NOP,LAC
+Shot Chart Detail,0022501012,340,1628381,John Collins,1610612746,LA Clippers,3,9,51,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,229,10,1,0,20260319,NOP,LAC
+Shot Chart Detail,0022501012,389,1628381,John Collins,1610612746,LA Clippers,3,5,43,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-165,183,1,1,20260319,NOP,LAC
+Shot Chart Detail,0022501012,520,1628381,John Collins,1610612746,LA Clippers,4,8,53,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-113,221,1,0,20260319,NOP,LAC
+Shot Chart Detail,0022501012,561,1628381,John Collins,1610612746,LA Clippers,4,6,9,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,232,16,1,0,20260319,NOP,LAC
+Shot Chart Detail,0022501012,569,1628381,John Collins,1610612746,LA Clippers,4,5,53,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-7,52,1,1,20260319,NOP,LAC
+Shot Chart Detail,0022501029,16,1628381,John Collins,1610612746,LA Clippers,1,10,37,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,228,33,1,0,20260321,DAL,LAC
+Shot Chart Detail,0022501029,51,1628381,John Collins,1610612746,LA Clippers,1,7,18,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,10,-94,49,1,1,20260321,DAL,LAC
+Shot Chart Detail,0022501029,59,1628381,John Collins,1610612746,LA Clippers,1,6,11,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,148,202,1,0,20260321,DAL,LAC
+Shot Chart Detail,0022501029,235,1628381,John Collins,1610612746,LA Clippers,2,6,35,Made Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,17,1,1,20260321,DAL,LAC
+Shot Chart Detail,0022501029,281,1628381,John Collins,1610612746,LA Clippers,2,2,59,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,176,194,1,0,20260321,DAL,LAC
+Shot Chart Detail,0022501029,381,1628381,John Collins,1610612746,LA Clippers,3,8,55,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,25,25,1,1,20260321,DAL,LAC
+Shot Chart Detail,0022501029,638,1628381,John Collins,1610612746,LA Clippers,4,2,45,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,169,193,1,0,20260321,DAL,LAC
+Shot Chart Detail,0022501062,18,1628381,John Collins,1610612746,LA Clippers,1,10,43,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20260325,LAC,TOR
+Shot Chart Detail,0022501062,78,1628381,John Collins,1610612746,LA Clippers,1,5,0,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,25,250,-4,1,0,20260325,LAC,TOR
+Shot Chart Detail,0022501066,15,1628381,John Collins,1610612746,LA Clippers,1,10,57,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,17,-162,53,1,1,20260327,IND,LAC
+Shot Chart Detail,0022501066,51,1628381,John Collins,1610612746,LA Clippers,1,7,56,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,17,-135,115,1,0,20260327,IND,LAC
+Shot Chart Detail,0022501066,316,1628381,John Collins,1610612746,LA Clippers,2,2,3,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,50,42,1,0,20260327,IND,LAC
+Shot Chart Detail,0022501066,396,1628381,John Collins,1610612746,LA Clippers,3,8,51,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,29,262,1,1,20260327,IND,LAC
+Shot Chart Detail,0022501066,438,1628381,John Collins,1610612746,LA Clippers,3,5,14,Missed Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,16,71,1,0,20260327,IND,LAC
+Shot Chart Detail,0022501066,444,1628381,John Collins,1610612746,LA Clippers,3,4,22,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,0,20260327,IND,LAC
+Shot Chart Detail,0022501082,20,1628381,John Collins,1610612746,LA Clippers,1,11,4,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-119,101,1,1,20260329,MIL,LAC
+Shot Chart Detail,0022501082,23,1628381,John Collins,1610612746,LA Clippers,1,10,28,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,26,29,267,1,0,20260329,MIL,LAC
+Shot Chart Detail,0022501082,33,1628381,John Collins,1610612746,LA Clippers,1,9,6,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-11,17,1,1,20260329,MIL,LAC
+Shot Chart Detail,0022501082,147,1628381,John Collins,1610612746,LA Clippers,2,11,43,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-140,61,1,1,20260329,MIL,LAC
+Shot Chart Detail,0022501082,341,1628381,John Collins,1610612746,LA Clippers,3,9,11,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,20,-203,25,1,1,20260329,MIL,LAC
+Shot Chart Detail,0022501082,351,1628381,John Collins,1610612746,LA Clippers,3,8,19,Made Shot,Driving Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,0,18,1,1,20260329,MIL,LAC
+Shot Chart Detail,0022501082,488,1628381,John Collins,1610612746,LA Clippers,4,11,28,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-67,8,1,1,20260329,MIL,LAC
+Shot Chart Detail,0022501082,491,1628381,John Collins,1610612746,LA Clippers,4,11,1,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,225,-16,1,0,20260329,MIL,LAC
+Shot Chart Detail,0022501082,520,1628381,John Collins,1610612746,LA Clippers,4,8,33,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,15,-156,-4,1,0,20260329,MIL,LAC
+Shot Chart Detail,0022501082,550,1628381,John Collins,1610612746,LA Clippers,4,6,47,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,13,-130,2,1,1,20260329,MIL,LAC
+Shot Chart Detail,0022501082,572,1628381,John Collins,1610612746,LA Clippers,4,5,1,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,-6,113,1,0,20260329,MIL,LAC
+Shot Chart Detail,0022501082,577,1628381,John Collins,1610612746,LA Clippers,4,4,28,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,-9,46,1,1,20260329,MIL,LAC
+Shot Chart Detail,0022501082,600,1628381,John Collins,1610612746,LA Clippers,4,1,49,Made Shot,Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-4,15,1,1,20260329,MIL,LAC
+Shot Chart Detail,0022501104,40,1628381,John Collins,1610612746,LA Clippers,1,8,15,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,5,17,1,1,20260331,LAC,POR
+Shot Chart Detail,0022501104,44,1628381,John Collins,1610612746,LA Clippers,1,7,34,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,174,186,1,1,20260331,LAC,POR
+Shot Chart Detail,0022501104,126,1628381,John Collins,1610612746,LA Clippers,1,2,26,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,6,18,1,1,20260331,LAC,POR
+Shot Chart Detail,0022501104,134,1628381,John Collins,1610612746,LA Clippers,1,1,40,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,27,175,206,1,1,20260331,LAC,POR
+Shot Chart Detail,0022501104,358,1628381,John Collins,1610612746,LA Clippers,3,10,7,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260331,LAC,POR
+Shot Chart Detail,0022501104,504,1628381,John Collins,1610612746,LA Clippers,4,11,38,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,16,11,1,0,20260331,LAC,POR
+Shot Chart Detail,0022501104,543,1628381,John Collins,1610612746,LA Clippers,4,7,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,26,158,216,1,1,20260331,LAC,POR
+Shot Chart Detail,0022501104,594,1628381,John Collins,1610612746,LA Clippers,4,2,28,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260331,LAC,POR
+Shot Chart Detail,0022501119,25,1628381,John Collins,1610612746,LA Clippers,1,9,44,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,51,4,1,1,20260402,LAC,SAS
+Shot Chart Detail,0022501119,87,1628381,John Collins,1610612746,LA Clippers,1,4,2,Made Shot,Fadeaway Jump Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,10,59,86,1,1,20260402,LAC,SAS
+Shot Chart Detail,0022501119,299,1628381,John Collins,1610612746,LA Clippers,2,1,14,Made Shot,Tip Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260402,LAC,SAS
+Shot Chart Detail,0022501119,310,1628381,John Collins,1610612746,LA Clippers,2,0,32,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,1,1,1,20260402,LAC,SAS
+Shot Chart Detail,0022501119,335,1628381,John Collins,1610612746,LA Clippers,3,11,25,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side(R),16-24 ft.,19,190,10,1,0,20260402,LAC,SAS
+Shot Chart Detail,0022501119,367,1628381,John Collins,1610612746,LA Clippers,3,8,27,Made Shot,Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,7,47,1,1,20260402,LAC,SAS
+Shot Chart Detail,0022501119,377,1628381,John Collins,1610612746,LA Clippers,3,7,5,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,14,82,124,1,1,20260402,LAC,SAS
+Shot Chart Detail,0022501119,439,1628381,John Collins,1610612746,LA Clippers,3,3,32,Missed Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,48,35,1,0,20260402,LAC,SAS
+Shot Chart Detail,0022501141,89,1628381,John Collins,1610612746,LA Clippers,1,4,31,Made Shot,Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,45,47,1,1,20260405,SAC,LAC
+Shot Chart Detail,0022501141,105,1628381,John Collins,1610612746,LA Clippers,1,3,30,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-181,194,1,1,20260405,SAC,LAC
+Shot Chart Detail,0022501141,158,1628381,John Collins,1610612746,LA Clippers,2,11,8,Made Shot,Turnaround Fadeaway shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,8,-87,5,1,1,20260405,SAC,LAC
+Shot Chart Detail,0022501141,175,1628381,John Collins,1610612746,LA Clippers,2,9,53,Made Shot,Running Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,16,57,1,1,20260405,SAC,LAC
+Shot Chart Detail,0022501141,183,1628381,John Collins,1610612746,LA Clippers,2,9,28,Missed Shot,Running Alley Oop Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-47,24,1,0,20260405,SAC,LAC
+Shot Chart Detail,0022501141,226,1628381,John Collins,1610612746,LA Clippers,2,9,23,Missed Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,20,35,1,0,20260405,SAC,LAC
+Shot Chart Detail,0022501141,194,1628381,John Collins,1610612746,LA Clippers,2,8,41,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,16,134,98,1,1,20260405,SAC,LAC
+Shot Chart Detail,0022501141,198,1628381,John Collins,1610612746,LA Clippers,2,8,13,Missed Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Right Side(R),8-16 ft.,13,131,4,1,0,20260405,SAC,LAC
+Shot Chart Detail,0022501141,396,1628381,John Collins,1610612746,LA Clippers,3,5,52,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,11,31,1,1,20260405,SAC,LAC
+Shot Chart Detail,0022501141,399,1628381,John Collins,1610612746,LA Clippers,3,5,24,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-119,233,1,1,20260405,SAC,LAC
+Shot Chart Detail,0022501141,422,1628381,John Collins,1610612746,LA Clippers,3,3,59,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,25,-135,220,1,1,20260405,SAC,LAC
+Shot Chart Detail,0022501141,476,1628381,John Collins,1610612746,LA Clippers,3,0,8,Missed Shot,Dunk Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,47,37,1,0,20260405,SAC,LAC
+Shot Chart Detail,0022501141,492,1628381,John Collins,1610612746,LA Clippers,4,11,23,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,23,71,1,0,20260405,SAC,LAC
+Shot Chart Detail,0022501141,504,1628381,John Collins,1610612746,LA Clippers,4,10,21,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-138,223,1,1,20260405,SAC,LAC
+Shot Chart Detail,0022501141,518,1628381,John Collins,1610612746,LA Clippers,4,9,22,Missed Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,22,7,1,0,20260405,SAC,LAC
+Shot Chart Detail,0022501141,537,1628381,John Collins,1610612746,LA Clippers,4,8,35,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,208,148,1,0,20260405,SAC,LAC
+Shot Chart Detail,0022501141,562,1628381,John Collins,1610612746,LA Clippers,4,6,49,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,238,42,1,0,20260405,SAC,LAC
+Shot Chart Detail,0022501141,580,1628381,John Collins,1610612746,LA Clippers,4,5,9,Missed Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-17,63,1,0,20260405,SAC,LAC
+Shot Chart Detail,0022501141,636,1628381,John Collins,1610612746,LA Clippers,4,5,5,Missed Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,1,20,1,0,20260405,SAC,LAC
+Shot Chart Detail,0022501141,583,1628381,John Collins,1610612746,LA Clippers,4,5,5,Missed Shot,Tip Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,1,57,1,0,20260405,SAC,LAC
+Shot Chart Detail,0022501156,154,1628381,John Collins,1610612746,LA Clippers,1,0,15,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-164,203,1,0,20260407,LAC,DAL
+Shot Chart Detail,0022501156,181,1628381,John Collins,1610612746,LA Clippers,2,10,59,Missed Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),16-24 ft.,18,-153,102,1,0,20260407,LAC,DAL
+Shot Chart Detail,0022501156,196,1628381,John Collins,1610612746,LA Clippers,2,9,50,Made Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,26,-91,244,1,1,20260407,LAC,DAL
+Shot Chart Detail,0022501156,232,1628381,John Collins,1610612746,LA Clippers,2,7,35,Made Shot,Running Reverse Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,7,6,1,1,20260407,LAC,DAL
+Shot Chart Detail,0022501156,460,1628381,John Collins,1610612746,LA Clippers,3,4,32,Missed Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,11,8,1,0,20260407,LAC,DAL
+Shot Chart Detail,0022501156,479,1628381,John Collins,1610612746,LA Clippers,3,3,32,Made Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-6,15,1,1,20260407,LAC,DAL
+Shot Chart Detail,0022501156,493,1628381,John Collins,1610612746,LA Clippers,3,2,58,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Left Side Center(LC),24+ ft.,24,-108,220,1,0,20260407,LAC,DAL
+Shot Chart Detail,0022501156,556,1628381,John Collins,1610612746,LA Clippers,4,10,0,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,10,1,0,20260407,LAC,DAL
+Shot Chart Detail,0022501156,568,1628381,John Collins,1610612746,LA Clippers,4,8,57,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260407,LAC,DAL
+Shot Chart Detail,0022501156,642,1628381,John Collins,1610612746,LA Clippers,4,2,57,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,24,-38,247,1,0,20260407,LAC,DAL
+Shot Chart Detail,0022501156,646,1628381,John Collins,1610612746,LA Clippers,4,2,29,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,-12,8,1,1,20260407,LAC,DAL
+Shot Chart Detail,0022501163,9,1628381,John Collins,1610612746,LA Clippers,1,11,29,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,153,202,1,0,20260408,LAC,OKC
+Shot Chart Detail,0022501163,46,1628381,John Collins,1610612746,LA Clippers,1,7,52,Made Shot,Putback Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260408,LAC,OKC
+Shot Chart Detail,0022501163,58,1628381,John Collins,1610612746,LA Clippers,1,6,54,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,-26,58,1,1,20260408,LAC,OKC
+Shot Chart Detail,0022501163,112,1628381,John Collins,1610612746,LA Clippers,1,3,10,Made Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-232,67,1,1,20260408,LAC,OKC
+Shot Chart Detail,0022501163,125,1628381,John Collins,1610612746,LA Clippers,1,1,59,Missed Shot,Pullup Jump shot,2PT Field Goal,In The Paint (Non-RA),Center(C),8-16 ft.,11,43,109,1,0,20260408,LAC,OKC
+Shot Chart Detail,0022501163,262,1628381,John Collins,1610612746,LA Clippers,2,5,13,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,24,-234,67,1,0,20260408,LAC,OKC
+Shot Chart Detail,0022501163,293,1628381,John Collins,1610612746,LA Clippers,2,3,9,Missed Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,6,58,1,0,20260408,LAC,OKC
+Shot Chart Detail,0022501163,401,1628381,John Collins,1610612746,LA Clippers,3,8,29,Missed Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-18,32,1,0,20260408,LAC,OKC
+Shot Chart Detail,0022501163,405,1628381,John Collins,1610612746,LA Clippers,3,8,25,Made Shot,Driving Hook Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,11,51,1,1,20260408,LAC,OKC
+Shot Chart Detail,0022501163,454,1628381,John Collins,1610612746,LA Clippers,3,4,2,Missed Shot,Turnaround Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,6,40,53,1,0,20260408,LAC,OKC
+Shot Chart Detail,0022501163,577,1628381,John Collins,1610612746,LA Clippers,4,7,47,Made Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,69,19,1,1,20260408,LAC,OKC
+Shot Chart Detail,0022501183,151,1628381,John Collins,1610612746,LA Clippers,1,0,49,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Center(C),24+ ft.,30,31,301,1,0,20260410,POR,LAC
+Shot Chart Detail,0022501183,452,1628381,John Collins,1610612746,LA Clippers,3,0,56,Missed Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-28,13,1,0,20260410,POR,LAC
+Shot Chart Detail,0022501183,510,1628381,John Collins,1610612746,LA Clippers,4,9,40,Missed Shot,Cutting Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,21,27,1,0,20260410,POR,LAC
+Shot Chart Detail,0022501199,21,1628381,John Collins,1610612746,LA Clippers,1,10,13,Made Shot,Driving Layup Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,4,40,-5,1,1,20260412,LAC,GSW
+Shot Chart Detail,0022501199,42,1628381,John Collins,1610612746,LA Clippers,1,8,0,Made Shot,Jump Shot,2PT Field Goal,Mid-Range,Left Side(L),8-16 ft.,11,-100,51,1,1,20260412,LAC,GSW
+Shot Chart Detail,0022501199,55,1628381,John Collins,1610612746,LA Clippers,1,6,42,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-5,8,1,1,20260412,LAC,GSW
+Shot Chart Detail,0022501199,107,1628381,John Collins,1610612746,LA Clippers,1,4,15,Made Shot,Tip Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,0,0,1,1,20260412,LAC,GSW
+Shot Chart Detail,0022501199,110,1628381,John Collins,1610612746,LA Clippers,1,3,43,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,3,1,1,20260412,LAC,GSW
+Shot Chart Detail,0022501199,140,1628381,John Collins,1610612746,LA Clippers,1,1,8,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,239,22,1,0,20260412,LAC,GSW
+Shot Chart Detail,0022501199,265,1628381,John Collins,1610612746,LA Clippers,2,4,40,Missed Shot,Step Back Jump shot,2PT Field Goal,Mid-Range,Right Side Center(RC),16-24 ft.,19,145,129,1,0,20260412,LAC,GSW
+Shot Chart Detail,0022501199,296,1628381,John Collins,1610612746,LA Clippers,2,2,38,Made Shot,Running Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,5,3,1,1,20260412,LAC,GSW
+Shot Chart Detail,0022501199,357,1628381,John Collins,1610612746,LA Clippers,3,11,4,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,2,6,1,1,20260412,LAC,GSW
+Shot Chart Detail,0022501199,371,1628381,John Collins,1610612746,LA Clippers,3,9,47,Missed Shot,Running Layup Shot,2PT Field Goal,In The Paint (Non-RA),Right Side(R),8-16 ft.,8,55,64,1,0,20260412,LAC,GSW
+Shot Chart Detail,0022501199,382,1628381,John Collins,1610612746,LA Clippers,3,8,51,Missed Shot,Jump Shot,3PT Field Goal,Above the Break 3,Right Side Center(RC),24+ ft.,25,120,225,1,0,20260412,LAC,GSW
+Shot Chart Detail,0022501199,411,1628381,John Collins,1610612746,LA Clippers,3,6,17,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,-6,-1,1,1,20260412,LAC,GSW
+Shot Chart Detail,0022501205,7,1628381,John Collins,1610612746,LA Clippers,1,11,40,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,22,228,17,1,0,20251211,HOU,LAC
+Shot Chart Detail,0022501205,42,1628381,John Collins,1610612746,LA Clippers,1,8,28,Missed Shot,Jump Shot,3PT Field Goal,Left Corner 3,Left Side(L),24+ ft.,22,-224,11,1,0,20251211,HOU,LAC
+Shot Chart Detail,0022501205,91,1628381,John Collins,1610612746,LA Clippers,1,4,41,Missed Shot,Pullup Jump shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,229,22,1,0,20251211,HOU,LAC
+Shot Chart Detail,0022501205,339,1628381,John Collins,1610612746,LA Clippers,3,10,44,Made Shot,Running Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,4,1,1,20251211,HOU,LAC
+Shot Chart Detail,0022501205,357,1628381,John Collins,1610612746,LA Clippers,3,9,21,Made Shot,Running Alley Oop Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,1,9,11,1,1,20251211,HOU,LAC
+Shot Chart Detail,0022501205,366,1628381,John Collins,1610612746,LA Clippers,3,8,15,Missed Shot,Running Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-26,20,1,0,20251211,HOU,LAC
+Shot Chart Detail,0022501205,376,1628381,John Collins,1610612746,LA Clippers,3,7,44,Made Shot,Pullup Jump shot,2PT Field Goal,Mid-Range,Left Side Center(LC),16-24 ft.,16,-92,136,1,1,20251211,HOU,LAC
+Shot Chart Detail,0022501226,11,1628381,John Collins,1610612746,LA Clippers,1,11,27,Made Shot,Running Jump Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,26,23,1,1,20251215,LAC,MEM
+Shot Chart Detail,0022501226,25,1628381,John Collins,1610612746,LA Clippers,1,10,32,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,24,233,74,1,0,20251215,LAC,MEM
+Shot Chart Detail,0022501226,72,1628381,John Collins,1610612746,LA Clippers,1,6,18,Made Shot,Cutting Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,2,-5,21,1,1,20251215,LAC,MEM
+Shot Chart Detail,0022501226,90,1628381,John Collins,1610612746,LA Clippers,1,4,39,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,-21,25,1,1,20251215,LAC,MEM
+Shot Chart Detail,0022501226,247,1628381,John Collins,1610612746,LA Clippers,2,5,7,Missed Shot,Turnaround Fadeaway shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,7,32,73,1,0,20251215,LAC,MEM
+Shot Chart Detail,0022501226,281,1628381,John Collins,1610612746,LA Clippers,2,1,55,Missed Shot,Jump Shot,3PT Field Goal,Right Corner 3,Right Side(R),24+ ft.,23,237,11,1,0,20251215,LAC,MEM
+Shot Chart Detail,0022501226,293,1628381,John Collins,1610612746,LA Clippers,2,1,2,Made Shot,Driving Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,17,26,1,1,20251215,LAC,MEM
+Shot Chart Detail,0022501226,375,1628381,John Collins,1610612746,LA Clippers,3,7,11,Missed Shot,Running Reverse Layup Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,3,20,31,1,0,20251215,LAC,MEM
+Shot Chart Detail,0022501226,574,1628381,John Collins,1610612746,LA Clippers,4,4,27,Made Shot,Driving Dunk Shot,2PT Field Goal,Restricted Area,Center(C),Less Than 8 ft.,0,1,-6,1,1,20251215,LAC,MEM
+Shot Chart Detail,0022501226,578,1628381,John Collins,1610612746,LA Clippers,4,3,51,Missed Shot,Driving Floating Jump Shot,2PT Field Goal,In The Paint (Non-RA),Center(C),Less Than 8 ft.,5,-49,21,1,0,20251215,LAC,MEM
