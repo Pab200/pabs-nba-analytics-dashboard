@@ -28,6 +28,7 @@ The project supports **modern NBA Stats API seasons** and **older Basketball Ref
 ## 🏗️ Architecture
 
 ### Project Structure
+
 ```text
 pabs-nba-analytics-dashboard/
 │
@@ -62,7 +63,7 @@ pabs-nba-analytics-dashboard/
 │       ├── court.py               # NEW: NBA court rendering
 │       ├── plotting.py            # NEW: scatter (make/miss)
 │       ├── heatmap.py             # NEW: contour heatmap
-│       ├── hexbin.py              # NEW: hexbin density
+│       └── hexbin.py              # NEW: hexbin density
 │
 ├── src/data_pipeline/
 │   ├── __init__.py
@@ -89,6 +90,7 @@ pabs-nba-analytics-dashboard/
 ├── requirements.txt               # Project dependencies
 └── README.md
 ```
+
 ---
 
 ## ✨ Features
