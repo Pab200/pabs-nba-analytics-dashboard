@@ -189,6 +189,7 @@ Each CSV contains:
 
 The `data/` directory contains all raw and processed data used to build the `nba.db` SQLite database.
 
+```text
 data/
 │
 ├── raw/               # Raw CSVs (never edited)
@@ -209,6 +210,7 @@ data/
     │   ├── regular/
     │   └── playoffs/
     └── ...
+```
 
 ### Raw Data (`data/raw/`)
 This folder contains **all original CSVs**, including:
