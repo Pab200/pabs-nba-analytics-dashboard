@@ -28,6 +28,7 @@ The project supports **modern NBA Stats API seasons** and **older Basketball Ref
 ## 🏗️ Architecture
 
 ### Project Structure
+```text
 pabs-nba-analytics-dashboard/
 │
 ├── app.py                         # Streamlit entry point (root-level)
@@ -87,7 +88,7 @@ pabs-nba-analytics-dashboard/
 │
 ├── requirements.txt               # Project dependencies
 └── README.md
-
+```
 ---
 
 ## ✨ Features
