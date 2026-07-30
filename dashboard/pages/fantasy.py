@@ -452,7 +452,7 @@ def render_waiver(selected_season):
 
 
 # ------------------------------------------------------------
-# ⭐ DRAFT BOARD TAB
+# ⭐ DRAFT BOARD TAB (FINAL ENHANCED VERSION)
 # ------------------------------------------------------------
 def render_draft(selected_season):
 
@@ -462,6 +462,16 @@ def render_draft(selected_season):
     if df_logs is None:
         st.error("Game logs not downloaded for this season.")
         return
+
+    # Optional: Position filter (only if POSITION column exists)
+    if "POSITION" in df_logs.columns:
+        pos = st.multiselect(
+            "Filter by Position",
+            sorted(df_logs["POSITION"].unique()),
+            default=None
+        )
+        if pos:
+            df_logs = df_logs[df_logs["POSITION"].isin(pos)]
 
     st.subheader("⚙️ Custom Scoring")
 
@@ -474,7 +484,7 @@ def render_draft(selected_season):
             key=f"draft_fantasy_weight_{stat}"
         )
 
-    # Calculate FANTASY_PTS on full DataFrame before calling draft analysis
+    # Calculate fantasy points once
     df_logs["FANTASY_PTS"] = _compute_fantasy_points(df_logs, scoring)
 
     draft_rows = []
@@ -510,15 +520,47 @@ def render_draft(selected_season):
 
     st.subheader("🏆 Draft Board (Tier System)")
 
+    # Tier summary
+    tier_counts = df_draft["TIER"].value_counts().to_dict()
+    st.markdown(f"""
+### Tier Summary  
+- 🟡 **S Tier:** {tier_counts.get('S', 0)}  
+- 🔵 **A Tier:** {tier_counts.get('A', 0)}  
+- 🟢 **B Tier:** {tier_counts.get('B', 0)}  
+- 🟠 **C Tier:** {tier_counts.get('C', 0)}  
+- 🔴 **D Tier:** {tier_counts.get('D', 0)}
+""")
+
     top_n = st.slider("Show Top N Draft Candidates", 10, 100, 25, key="draft_top_n_slider")
 
     df_top = df_draft.head(top_n)
 
+    # Role icons
+    role_icons = {
+        "Full-Time Starter": "⭐",
+        "Strong Rotation": "🔵",
+        "Bench Contributor": "🟢",
+        "Fringe Rotation": "⚪",
+    }
+    df_top["ROLE_ICON"] = df_top["ROLE"].map(role_icons)
+
+    # Team colors
     prim = [get_primary(_get_team_abbr(row)) for _, row in df_top.iterrows()]
     sec = [get_secondary(_get_team_abbr(row)) for _, row in df_top.iterrows()]
 
+    # Tier colors for chart
+    tier_colors = {
+        "S": "#FFD700",
+        "A": "#1E90FF",
+        "B": "#32CD32",
+        "C": "#FFA500",
+        "D": "#FF4500",
+    }
+    bar_colors = [tier_colors[t] for t in df_top["TIER"]]
+
+    # Chart
     fig, ax = plt.subplots(figsize=(14, 6))
-    ax.bar(df_top["PLAYER_NAME"], df_top["DRAFT_SCORE"], color=prim, edgecolor=sec, linewidth=3)
+    ax.bar(df_top["PLAYER_NAME"], df_top["DRAFT_SCORE"], color=bar_colors, edgecolor=sec, linewidth=3)
     ax.set_xticks(range(len(df_top)))
     ax.set_xticklabels(df_top["PLAYER_NAME"], rotation=45, ha='right')
     ax.set_title("Draft Score Rankings")
@@ -526,6 +568,47 @@ def render_draft(selected_season):
     plt.tight_layout()
     st.pyplot(fig)
 
+    # Table with tier + risk borders
     st.subheader("Draft Board Table")
-    styled = df_top.style.apply(_style_team_rows, axis=1)
+
+    def _style_draft_rows(row):
+        tier = row["TIER"]
+        risk = row["RISK"]
+        team = _get_team_abbr(row)
+
+        # Team colors
+        p_color = get_primary(team)
+        s_color = get_secondary(team)
+
+        # Tier colors
+        tier_colors = {
+            "S": "#FFD700",
+            "A": "#1E90FF",
+            "B": "#32CD32",
+            "C": "#FFA500",
+            "D": "#FF4500",
+        }
+        t_color = tier_colors.get(tier, "#FFFFFF")
+
+        # Risk colors
+        risk_colors = {
+            "Low": "#4CAF50",
+            "Medium": "#FFC107",
+            "High": "#F44336",
+        }
+        r_color = risk_colors.get(risk, "#FFFFFF")
+
+        return [
+            f"background-color: {s_color}30; color: {p_color}; "
+            f"border-left: 6px solid {t_color}; border-right: 6px solid {r_color};"
+            for _ in row
+        ]
+
+    # Display table with role icons included
+    df_display = df_top[[
+        "PLAYER_NAME", "TEAM_ABBREVIATION", "ROLE_ICON", "TIER",
+        "DRAFT_SCORE", "RISK", "FANTASY_PPG", "BOOM_RATE", "BUST_RATE", "RELIABILITY"
+    ]]
+
+    styled = df_display.style.apply(_style_draft_rows, axis=1)
     st.dataframe(styled, use_container_width=True)
