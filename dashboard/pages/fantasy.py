@@ -531,9 +531,19 @@ def render_draft(selected_season):
 - 🔴 **D Tier:** {tier_counts.get('D', 0)}
 """)
 
-    top_n = st.slider("Show Top N Draft Candidates", 10, 100, 25, key="draft_top_n_slider")
+    # Range slider: lets you browse ANY part of the draft board
+    start, end = st.slider(
+        "Select Draft Board Range (by rank)",
+        min_value=1,
+        max_value=len(df_draft),
+        value=(1, 25),
+        step=1,
+        key="draft_range_slider"
+    )
 
-    df_top = df_draft.head(top_n)
+    # Slice the sorted draft board
+    df_top = df_draft.iloc[start-1:end]
+
 
     # Role icons
     role_icons = {
