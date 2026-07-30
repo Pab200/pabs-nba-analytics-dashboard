@@ -20,6 +20,8 @@ This dashboard allows you to explore NBA data across multiple seasons with:
 - Cross‑season support
 - Automatic team color styling
 - Reproducible SQLite database pipeline
+- Full Fantasy Analytics Center (Leaderboard, Consistency, Boom/Bust, Sleepers, Waiver Wire, Draft Board)
+- Shot Chart Visualizations
 
 The project supports **modern NBA Stats API seasons** and **older Basketball Reference seasons**, normalized into a unified schema.
 
@@ -47,7 +49,8 @@ pabs-nba-analytics-dashboard/
 │       ├── team_analysis.py
 │       ├── compare_players.py
 │       ├── team_comparison.py
-│       ├── shot_charts.py         # NEW: Player shot charts
+│       ├── shot_charts.py         
+│       ├── fantasy.py             # NEW: Full Fantasy Analytics Center
 │       └── about.py
 │
 ├── src/
@@ -57,6 +60,13 @@ pabs-nba-analytics-dashboard/
 │   ├── colors.py                  # Team color system
 │   ├── utils.py                   # Season helpers + misc utilities
 │   ├── team_stats.py              # ORtg, DRtg, Pace, possession logic
+│   ├── fantasy/                # NEW: Fantasy analytics engine
+│   │   ├── scoring.py
+│   │   ├── consistency.py
+│   │   ├── boom_bust.py
+│   │   ├── sleepers.py
+│   │   ├── waiver.py
+│   │   └── draft.py
 │   └── shot_charts/               # NEW: Shot chart engine
 │       ├── __init__.py
 │       ├── fetch_data.py          # NEW: Local shot-data loader
@@ -148,6 +158,51 @@ pabs-nba-analytics-dashboard/
     - Seasons 2010-11 → 2025-26
 
 - **About Page**
+
+---
+
+### ⭐ NEW: Fantasy Analytics Center
+
+- **Fantasy Leaderboard**  
+  - Fantasy PPG  
+  - Total Fantasy Points  
+  - Custom scoring  
+  - Team‑colored charts & tables
+
+- **Consistency Analyzer**  
+  - CV, Std Dev, Fantasy Stability  
+  - Per‑game fantasy chart  
+  - Consistency classification
+
+- **Boom/Bust Analyzer**  
+  - Boom %, Bust %, Neutral %  
+  - Minutes reliability  
+  - Boom/Bust bar chart  
+  - Game log breakdown
+
+- **Sleepers Engine**  
+  - Sleeper Score  
+  - Breakout Probability  
+  - Trend Score  
+  - Boom/Bust integration  
+  - Team‑colored sleeper leaderboard
+
+- **Waiver Wire Engine**  
+  - Availability Score  
+  - Opportunity Score  
+  - Waiver Score  
+  - Team‑colored waiver leaderboard  
+  - Fantasy‑friendly availability model
+
+- **Draft Board (Tier System)**  
+  - Draft Score  
+  - Tier (S/A/B/C/D)  
+  - Risk Rating  
+  - Role Projection  
+  - Tier‑colored charts  
+  - Tier + Risk dual‑border tables  
+  - Position filters  
+  - Role icons  
 
 ---
 
@@ -303,11 +358,14 @@ This converts BR data into the NBA Stats API schema.
 ## 🛣️ Roadmap
 - Add player images  
 - Add team logos  
-- Add shot charts  
-- Add predictive analytics  
+- Add predictive analytics (fantasy + real NBA)  
 - Add opponent filters  
 - Add month-by-month splits  
 - Add playoff mode  
+- Add fantasy draft cheat sheet export  
+- Add positional draft tiers (PG/SG/SF/PF/C)  
+- Add ADP integration (ESPN/Yahoo/Fantrax)  
+- Add fantasy projections (ROS, weekly, matchup-based)  
 
 ---
 
