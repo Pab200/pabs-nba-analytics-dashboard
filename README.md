@@ -96,9 +96,9 @@ pabs-nba-analytics-dashboard/
 │   │   │   └── playoffs/
 │   │   └── ...
 │   └── player_game_logs/         # NEW: logs of all players and their game stats (2010-11 → 2025-26)
-        ├── 2010-11/
-        ├── 2011-12/
-        ├── ...
+│       ├── 2010-11/
+│       ├── 2011-12/
+│       └── ...
 │
 ├── notebooks/                     # Jupyter notebooks for exploration
 ├── reports/                       # Generated charts + summaries
@@ -264,13 +264,17 @@ data/
 │
 ├── processed/         # Cleaned, normalized, or transformed data
 │
-└── shots/             # NEW: Full shot-chart dataset
+├── shots/             # NEW: Full shot-chart dataset
+│   ├── 2010-11/
+│   │   ├── regular/
+│   │   └── playoffs/
+│   ├── 2011-12/
+│   │   ├── regular/
+│   │   └── playoffs/
+│   └── ...
+└── player_game_logs/
     ├── 2010-11/
-    │   ├── regular/
-    │   └── playoffs/
     ├── 2011-12/
-    │   ├── regular/
-    │   └── playoffs/
     └── ...
 ```
 
