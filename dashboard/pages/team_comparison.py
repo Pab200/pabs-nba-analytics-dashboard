@@ -109,7 +109,10 @@ def render(selected_season, seasons):
         primary = get_primary(team)
         secondary = get_secondary(team)
 
-        styled = color_team_table(df, primary, secondary)
+        # Replace NaN with None so JSON serialization won't crash
+        clean_df = df.replace({np.nan: None})
+
+        styled = color_team_table(clean_df, primary, secondary)
         st.dataframe(styled, use_container_width=True)
 
     # ------------------------------------------------------------
@@ -132,10 +135,19 @@ def render(selected_season, seasons):
         for df in team_dfs:
             team_name = df["TEAM_ABBREVIATION"].iloc[0]
             val = df[col].iloc[0] if col in df.columns else None
-            row[team_name] = round(val, 2) if pd.notna(val) else None
+            
+            # Explicitly check pd.notna(val) and avoid returning float NaN
+            if val is not None and pd.notna(val):
+                row[team_name] = round(float(val), 2)
+            else:
+                row[team_name] = None
+                
         data.append(row)
 
     df_compare = pd.DataFrame(data)
+    
+    # Final check: Convert any remaining NaN to None for safety
+    df_compare = df_compare.replace({np.nan: None})
     st.dataframe(df_compare, use_container_width=True)
 
     # ------------------------------------------------------------
@@ -154,7 +166,8 @@ def render(selected_season, seasons):
 
     fig, ax = plt.subplots(figsize=(14, 6))
     for i, df in enumerate(team_dfs):
-        vals = [df[label].iloc[0] for label in core_labels]
+        # Convert NaN values to 0 for plotting so Matplotlib doesn't break
+        vals = [df[label].iloc[0] if (label in df.columns and pd.notna(df[label].iloc[0])) else 0 for label in core_labels]
         ax.bar(
             x + (i - len(team_dfs) / 2) * width,
             vals,
@@ -178,7 +191,7 @@ def render(selected_season, seasons):
 
     fig, ax = plt.subplots(figsize=(14, 6))
     for i, df in enumerate(team_dfs):
-        vals = [df[label].iloc[0] for label in count_labels]
+        vals = [df[label].iloc[0] if (label in df.columns and pd.notna(df[label].iloc[0])) else 0 for label in count_labels]
         ax.bar(
             x + (i - len(team_dfs) / 2) * width,
             vals,

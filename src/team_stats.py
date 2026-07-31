@@ -1,10 +1,8 @@
 """
 Team season statistics module.
 
-Handles:
-- Modern seasons (2010–present) with opponent data
-- Mid-era seasons (1996–2009) with partial data
-- Older seasons (pre-1996) with limited data
+Calculates team-level total and per-game stats by weighting player per-game averages 
+by their games played (`GP`) across the roster.
 """
 
 import numpy as np
@@ -13,9 +11,6 @@ from src.db import run_query
 from src.utils import is_modern_season, is_accurate_data_season
 
 
-# ------------------------------------------------------------
-# Helper: Possession formulas
-# ------------------------------------------------------------
 def estimate_possessions(fga, fta, oreb, tov):
     """
     Standard NBA possession formula.
@@ -23,103 +18,31 @@ def estimate_possessions(fga, fta, oreb, tov):
     return fga + 0.44 * fta - oreb + tov
 
 
-# ------------------------------------------------------------
-# Main function: Team Season Stats
-# ------------------------------------------------------------
 def get_team_season_stats(team: str, season: str) -> pd.DataFrame:
     """
-    Returns team-level season statistics including:
-    - Offensive Rating
-    - Defensive Rating
-    - Pace
-    - Estimated Possessions
-
-    Automatically chooses the correct data source depending on season.
+    Returns team-level season statistics. 
+    Computes true SEASON TOTALS and then derives Per-Game Averages.
     """
-
-    # ------------------------------------------------------------
-    # CASE 1 — Modern seasons (2010–present)
-    # Full opponent data available
-    # ------------------------------------------------------------
-    if is_accurate_data_season(season):
-        df = run_query(
-            """
-            SELECT 
-                t1.TEAM_ABBREVIATION,
-                SUM(t1.PTS) AS TEAM_PTS,
-                SUM(t1.FGM) AS TEAM_FGM,
-                SUM(t1.FGA) AS TEAM_FGA,
-                SUM(t1.FTM) AS TEAM_FTM,
-                SUM(t1.FTA) AS TEAM_FTA,
-                SUM(t1.OREB) AS TEAM_OREB,
-                SUM(t1.DREB) AS TEAM_DREB,
-                SUM(t1.REB) AS TEAM_REB,
-                SUM(t1.AST) AS TEAM_AST,
-                SUM(t1.TOV) AS TEAM_TOV,
-                SUM(t1.FG3A) AS TEAM_FG3A,
-                SUM(t1.PLUS_MINUS) AS TEAM_PLUS_MINUS,
-                SUM(t1.MIN) AS TEAM_MIN,
-
-                -- Opponent stats
-                SUM(t2.PTS) AS OPP_PTS,
-                SUM(t2.FGA) AS OPP_FGA,
-                SUM(t2.FTA) AS OPP_FTA,
-                SUM(t2.OREB) AS OPP_OREB,
-                SUM(t2.TOV) AS OPP_TOV
-
-            FROM team_game_stats t1
-            JOIN team_game_stats t2
-                ON t1.GAME_ID = t2.GAME_ID
-                AND t1.TEAM_ID != t2.TEAM_ID
-
-            WHERE t1.TEAM_ABBREVIATION = ?
-            AND t1.SEASON = ?
-
-            GROUP BY t1.TEAM_ABBREVIATION
-            """,
-            (team, season)
-        )
-
-        if df.empty:
-            return df
-
-        # Possessions (modern formula)
-        tm_poss = estimate_possessions(
-            df["TEAM_FGA"], df["TEAM_FTA"], df["TEAM_OREB"], df["TEAM_TOV"]
-        )
-        opp_poss = estimate_possessions(
-            df["OPP_FGA"], df["OPP_FTA"], df["OPP_OREB"], df["OPP_TOV"]
-        )
-
-        df["TEAM_POSS"] = 0.5 * (tm_poss + opp_poss)
-
-        df["OFF_RATING"] = 100 * df["TEAM_PTS"] / df["TEAM_POSS"]
-        df["DEF_RATING"] = 100 * df["OPP_PTS"] / df["TEAM_POSS"]
-        df["PACE"] = 48 * (df["TEAM_POSS"] / (df["TEAM_MIN"] / 5))
-
-        return df
-
-    # ------------------------------------------------------------
-    # CASE 2 — Mid-era seasons (1996–2009)
-    # No opponent data, but PLUS_MINUS exists
-    # ------------------------------------------------------------
-    df = run_query(
+    
+    # Query all player rows for this team and season
+    df_players = run_query(
         """
         SELECT 
             TEAM_ABBREVIATION,
-            SUM(PTS) AS TEAM_PTS,
-            SUM(FGM) AS TEAM_FGM,
-            SUM(FGA) AS TEAM_FGA,
-            SUM(FTM) AS TEAM_FTM,
-            SUM(FTA) AS TEAM_FTA,
-            SUM(OREB) AS TEAM_OREB,
-            SUM(DREB) AS TEAM_DREB,
-            SUM(REB) AS TEAM_REB,
-            SUM(AST) AS TEAM_AST,
-            SUM(TOV) AS TEAM_TOV,
-            SUM(FG3A) AS TEAM_FG3A,
-            SUM(PLUS_MINUS) AS TEAM_PLUS_MINUS,
-            SUM(MIN) AS TEAM_MIN
+            GP,
+            PTS,
+            FGM,
+            FGA,
+            FTM,
+            FTA,
+            OREB,
+            DREB,
+            REB,
+            AST,
+            TOV,
+            FG3A,
+            PLUS_MINUS,
+            MIN
         FROM season_stats
         WHERE TEAM_ABBREVIATION = ?
         AND SEASON = ?
@@ -127,23 +50,53 @@ def get_team_season_stats(team: str, season: str) -> pd.DataFrame:
         (team, season)
     )
 
-    if df.empty:
-        return df
+    if df_players.empty or df_players["TEAM_ABBREVIATION"].dropna().empty:
+        return pd.DataFrame()
 
-    # Possessions (fallback formula)
-    df["TEAM_POSS"] = estimate_possessions(
-        df["TEAM_FGA"], df["TEAM_FTA"], df["TEAM_OREB"], df["TEAM_TOV"]
-    )
+    # Determine the team's total games played (max GP on the roster)
+    team_games = df_players["GP"].max()
+    if not team_games or team_games <= 0:
+        return pd.DataFrame()
 
-    df["OFF_RATING"] = 100 * df["TEAM_PTS"] / df["TEAM_POSS"]
+    metrics = ["PTS", "FGM", "FGA", "FTM", "FTA", "OREB", "DREB", "REB", "AST", "TOV", "FG3A", "PLUS_MINUS", "MIN"]
+    
+    team_data = {"TEAM_ABBREVIATION": [team], "GAMES_PLAYED": [team_games]}
+    
+    for col in metrics:
+        if col in df_players.columns:
+            # CORRECT MATH: (Player Stat Per Game * Player Games Played) summed for the whole team
+            # This yields the TRUE TOTAL for the team across the entire season.
+            total_season_stat = (df_players[col] * df_players["GP"]).sum()
+            team_data[f"TEAM_{col}"] = [total_season_stat]
+        else:
+            team_data[f"TEAM_{col}"] = [None]
 
-    # Defensive Rating (estimated)
-    if is_modern_season(season):
-        df["TEAM_PTS_ALLOWED"] = df["TEAM_PTS"] - df["TEAM_PLUS_MINUS"]
-        df["DEF_RATING"] = 100 * df["TEAM_PTS_ALLOWED"] / df["TEAM_POSS"]
+    df = pd.DataFrame(team_data)
+
+    # To calculate ratings and pace cleanly, we convert the season totals 
+    # to per-game team averages for the possession formulas:
+    gp = df["GAMES_PLAYED"].iloc[0]
+    team_pts_pg = df["TEAM_PTS"].iloc[0] / gp
+    team_fga_pg = df["TEAM_FGA"].iloc[0] / gp
+    team_fta_pg = df["TEAM_FTA"].iloc[0] / gp
+    team_oreb_pg = df["TEAM_OREB"].iloc[0] / gp
+    team_tov_pg = df["TEAM_TOV"].iloc[0] / gp
+    team_min_pg = df["TEAM_MIN"].iloc[0] / gp
+
+    # Possessions (per game basis)
+    tm_poss = estimate_possessions(team_fga_pg, team_fta_pg, team_oreb_pg, team_tov_pg)
+    df["TEAM_POSS"] = tm_poss
+
+    df["OFF_RATING"] = np.where(tm_poss > 0, 100 * team_pts_pg / tm_poss, None)
+
+    # Defensive Rating (estimated using PLUS_MINUS totals if available)
+    if is_modern_season(season) and df["TEAM_PLUS_MINUS"].iloc[0] is not None:
+        team_pts_allowed_pg = team_pts_pg - (df["TEAM_PLUS_MINUS"].iloc[0] / gp)
+        df["DEF_RATING"] = np.where(tm_poss > 0, 100 * team_pts_allowed_pg / tm_poss, None)
     else:
-        df["DEF_RATING"] = np.nan
+        df["DEF_RATING"] = None
 
-    df["PACE"] = 48 * (df["TEAM_POSS"] / (df["TEAM_MIN"] / 5))
+    df["PACE"] = np.where(team_min_pg > 0, 48 * (tm_poss / (team_min_pg / 5)), None)
 
-    return df
+    # JSON safety cleanup
+    return df.replace([np.inf, -np.inf], np.nan).replace({np.nan: None})
