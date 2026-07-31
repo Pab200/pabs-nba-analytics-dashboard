@@ -23,7 +23,6 @@
   <a href="#overview">📌 Overview</a> •
   <a href="#tech-stack">🛠️ Tech Stack</a> •
   <a href="#screenshots">📸 Screenshots</a> •
-  <a href="#features">⭐ Features</a> •
   <a href="#what-i-learned">📚 What I Learned</a> •
   <a href="#project-architecture">🏗️ Architecture</a> •
   <a href="#data-pipeline">🔄 Data Pipeline</a> •
@@ -75,6 +74,8 @@ The project follows a modular architecture that separates data collection, datab
 
 As the project continues to evolve, new capabilities—including machine learning player projections, expanded historical datasets, and additional analytics tools—are being actively developed.
 
+<a id="tech-stack"></a>
+
 ## 🛠️ Tech Stack
 
 ### Programming Languages
@@ -124,6 +125,8 @@ As the project continues to evolve, new capabilities—including machine learnin
 
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-In_Progress-blueviolet?style=for-the-badge)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Currently_Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+<a id="screenshots"></a>
 
 ## 📸 Screenshots
 
@@ -200,6 +203,8 @@ Browse league leaders across dozens of statistical categories with sortable tabl
 
 The dashboard automatically retrieves NBA statistics, processes the data, stores it in a SQLite database, and presents the results through an interactive Streamlit interface.
 
+<a id="what-i-learned"></a>
+
 ## 📚 What I Learned
 
 Building this project has been one of the most valuable learning experiences of my undergraduate career. Rather than focusing on a single concept, it challenged me to design and develop a complete analytics application from data collection to visualization.
@@ -250,6 +255,8 @@ One of the biggest lessons from this project has been realizing that software de
 The dashboard continues to evolve as I learn new technologies and techniques. My current focus is expanding the project with machine learning models for player performance projections, allowing me to apply predictive analytics to the foundation I've already built.
 
 This project has reinforced not only my technical skills, but also my ability to break large goals into manageable milestones and continuously improve a real-world software application over time.
+
+<a id="architecture"></a>
 
 ## 🏗️ Project Architecture
 
@@ -344,6 +351,8 @@ The goals were to:
 - Create a codebase that remains maintainable as the project continues to grow.
 
 As the dashboard has expanded, this architecture has made it possible to introduce entirely new modules—such as Fantasy Analytics and Shot Charts—without requiring major changes to the existing application.
+
+<a id="data-pipeline"></a>
 
 ## 🔄 Data Pipeline
 
@@ -470,6 +479,8 @@ Planned enhancements include:
 - Additional historical datasets
 - Expanded fantasy basketball models
 - Performance optimization for larger datasets
+
+<a id="installation"></a>
 
 # 🚀 Installation
 
@@ -675,6 +686,8 @@ The long-term goal is to transform this project from an NBA statistics dashboard
 - Historical NBA data exploration
 
 Ultimately, I hope to continue expanding the project as I learn new technologies throughout my Data Science and Computer Science degree.
+
+<a id="overview"></a>
 
 # 👨‍💻 Author
 
