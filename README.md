@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/readme/overview.png" alt="NBA Analytics Dashboard" width="100%">
+  <img src="images/readme/dashboard-overview.png" alt="NBA Analytics Dashboard" width="100%">
 </p>
 
 <h1 align="center">🏀 NBA Analytics Dashboard</h1>
