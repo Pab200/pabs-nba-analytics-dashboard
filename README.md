@@ -67,6 +67,7 @@ pabs-nba-analytics-dashboard/
 │   │   ├── sleepers.py
 │   │   ├── waiver.py
 │   │   └── draft.py
+│   │   └── fetch_game_logs.py
 │   └── shot_charts/               # NEW: Shot chart engine
 │       ├── __init__.py
 │       ├── fetch_data.py          # NEW: Local shot-data loader
@@ -74,6 +75,8 @@ pabs-nba-analytics-dashboard/
 │       ├── plotting.py            # NEW: scatter (make/miss)
 │       ├── heatmap.py             # NEW: contour heatmap
 │       └── hexbin.py              # NEW: hexbin density
+│       └── filters.py
+│       └── process.py
 │
 ├── src/data_pipeline/
 │   ├── __init__.py
@@ -84,14 +87,18 @@ pabs-nba-analytics-dashboard/
 ├── data/
 │   ├── raw/                       # Raw CSVs (nba_api + BR)
 │   ├── processed/                 # Cleaned tables (optional)
-│   └── shots/                     # NEW: Full shot-chart dataset (2010–11 → 2025–26)
-│       ├── 2010-11/
-│       │   ├── regular/
-│       │   └── playoffs/
-│       ├── 2011-12/
-│       │   ├── regular/
-│       │   └── playoffs/
-│       └── ...
+│   ├── shots/                     # NEW: Full shot-chart dataset (2010–11 → 2025–26)
+│   │   ├── 2010-11/
+│   │   │   ├── regular/
+│   │   │   └── playoffs/
+│   │   ├── 2011-12/
+│   │   │   ├── regular/
+│   │   │   └── playoffs/
+│   │   └── ...
+│   └── player_game_logs/         # NEW: logs of all players and their game stats (2010-11 → 2025-26)
+        ├── 2010-11/
+        ├── 2011-12/
+        ├── ...
 │
 ├── notebooks/                     # Jupyter notebooks for exploration
 ├── reports/                       # Generated charts + summaries
