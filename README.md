@@ -20,14 +20,21 @@
 </p>
 
 <p align="center">
-  <a href="#features">Features</a> •
-  <a href="#screenshots">Screenshots</a> •
-  <a href="#architecture">Architecture</a> •
-  <a href="#installation">Installation</a> •
-  <a href="#roadmap">Roadmap</a>
+  <a href="#overview">📌 Overview</a> •
+  <a href="#tech-stack">🛠️ Tech Stack</a> •
+  <a href="#screenshots">📸 Screenshots</a> •
+  <a href="#features">⭐ Features</a> •
+  <a href="#what-i-learned">📚 What I Learned</a> •
+  <a href="#project-architecture">🏗️ Architecture</a> •
+  <a href="#data-pipeline">🔄 Data Pipeline</a> •
+  <a href="#installation">🚀 Installation</a> •
+  <a href="#roadmap">🗺️ Roadmap</a> •
+  <a href="#author">👨‍💻 Author</a>
 </p>
 
 ---
+
+<a id="overview"></a>
 
 ## 📌 Overview
 
