@@ -495,11 +495,11 @@ cd pabs-nba-analytics-dashboard
 
 ---
 
-## 2️⃣ Create a Virtual Environment
+## 2️⃣ Create and Activate a Virtual Environment
 
-### Windows
+### Windows (PowerShell)
 
-```bash
+```powershell
 python -m venv .venv
 .venv\Scripts\activate
 ```
@@ -516,6 +516,7 @@ source .venv/bin/activate
 ## 3️⃣ Install Dependencies
 
 ```bash
+python -m pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
@@ -528,6 +529,42 @@ streamlit run app.py
 ```
 
 Once launched, Streamlit will automatically open the dashboard in your default web browser.
+
+---
+
+## Troubleshooting
+
+### Python not found
+
+Verify Python is installed:
+
+```bash
+python --version
+```
+
+If Python is not installed,, download it from:
+
+https://www.python.org/downloads/
+
+### PowerShell execution policy error
+
+If you see an error when activating the virtual environment:
+
+```text
+running scripts is disabled on this system
+```
+
+Run:
+
+```powershell
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+```
+
+Then try activating the environment again:
+
+```powershell
+.venv\Scripts\Activate.ps1
+```
 
 ---
 
